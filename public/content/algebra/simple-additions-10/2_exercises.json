@@ -8,9 +8,13 @@
       "items": [
         {
           "id": "1",
-          "type": "addition",
-          "x": 0,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 0,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "2",
@@ -36,9 +40,13 @@
       "items": [
         {
           "id": "5",
-          "type": "addition",
-          "x": 7,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 7,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "6",
@@ -64,9 +72,13 @@
       "items": [
         {
           "id": "9",
-          "type": "addition",
-          "x": 5,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 5,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "10",
@@ -92,9 +104,13 @@
       "items": [
         {
           "id": "13",
-          "type": "addition",
-          "x": 2,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 2,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "14",
@@ -120,9 +136,13 @@
       "items": [
         {
           "id": "17",
-          "type": "addition",
-          "x": 6,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 6,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "18",
@@ -148,9 +168,13 @@
       "items": [
         {
           "id": "21",
-          "type": "addition",
-          "x": 10,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 10,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "22",
@@ -176,9 +200,13 @@
       "items": [
         {
           "id": "25",
-          "type": "addition",
-          "x": 3,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 3,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "26",
@@ -204,9 +232,13 @@
       "items": [
         {
           "id": "29",
-          "type": "addition",
-          "x": 1,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 1,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "30",
@@ -232,9 +264,13 @@
       "items": [
         {
           "id": "33",
-          "type": "addition",
-          "x": 8,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 8,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "34",
@@ -260,9 +296,13 @@
       "items": [
         {
           "id": "37",
-          "type": "addition",
-          "x": 9,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 9,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "38",
@@ -288,9 +328,13 @@
       "items": [
         {
           "id": "41",
-          "type": "addition",
-          "x": 4,
-          "y": 2
+          "type": "missingNumbers",
+          "start": 4,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "42",
