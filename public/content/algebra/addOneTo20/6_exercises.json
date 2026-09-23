@@ -1,0 +1,92 @@
+{
+  "id": "addOneTo20-practice6",
+  "title": "Add One to 20 \u2014 Practice 6",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "addition",
+          "x": 14,
+          "y": 1,
+          "result": 15
+        },
+        {
+          "id": "2",
+          "type": "addition",
+          "x": 15,
+          "y": 1,
+          "result": 16
+        },
+        {
+          "id": "3",
+          "type": "missingNumbers",
+          "start": 14,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "type": "addition",
+          "x": 15,
+          "y": 1,
+          "result": 16
+        },
+        {
+          "id": "5",
+          "type": "addition",
+          "x": 16,
+          "y": 1,
+          "result": 17
+        },
+        {
+          "id": "6",
+          "type": "missingNumbers",
+          "start": 15,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "7",
+          "type": "addition",
+          "x": 16,
+          "y": 1,
+          "result": 17
+        },
+        {
+          "id": "8",
+          "type": "addition",
+          "x": 17,
+          "y": 1,
+          "result": 18
+        },
+        {
+          "id": "9",
+          "type": "missingNumbers",
+          "start": 16,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

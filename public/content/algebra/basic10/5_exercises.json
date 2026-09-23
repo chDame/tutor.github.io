@@ -1,0 +1,128 @@
+{
+  "id": "basic10-practice5",
+  "title": "Numbers from 1 to 10 \u2014 Practice 5",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "discoverNumber",
+          "from": 1,
+          "to": 9,
+          "displayElements": true,
+          "countingElement": "\ud83d\ude95"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "2",
+          "type": "counting",
+          "countingElement": "\ud83c\udf38",
+          "result": 3
+        },
+        {
+          "id": "3",
+          "type": "counting",
+          "countingElement": "\ud83c\udf39",
+          "result": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "type": "counting",
+          "countingElement": "\ud83c\udf4e",
+          "result": 5
+        },
+        {
+          "id": "5",
+          "type": "counting",
+          "countingElement": "\ud83c\udf81",
+          "result": 6
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6",
+          "type": "counting",
+          "countingElement": "\ud83c\udf44",
+          "result": 7
+        },
+        {
+          "id": "7",
+          "type": "counting",
+          "countingElement": "\ud83c\udf32",
+          "result": 8
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "8",
+          "type": "counting",
+          "countingElement": "\ud83c\udf3b",
+          "result": 9
+        },
+        {
+          "id": "9",
+          "type": "counting",
+          "countingElement": "\ud83c\udf3d",
+          "result": 9
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "10",
+          "type": "discoverNumber",
+          "from": 1,
+          "to": 9,
+          "displayElements": true,
+          "countingElement": "\ud83c\udf32"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "11",
+          "type": "counting",
+          "countingElement": "\ud83c\udf55",
+          "result": 7
+        },
+        {
+          "id": "12",
+          "type": "counting",
+          "countingElement": "\ud83c\udf57",
+          "result": 8
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "13",
+          "type": "counting",
+          "countingElement": "\ud83c\udf55",
+          "result": 9
+        },
+        {
+          "id": "14",
+          "type": "counting",
+          "countingElement": "\ud83c\udf57",
+          "result": 5
+        }
+      ]
+    }
+  ]
+}

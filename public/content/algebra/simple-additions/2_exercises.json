@@ -1,34 +1,34 @@
 {
-  "id": "82dd53e3-7f39-463c-a359-514cdf12b475",
-  "title": "Simple Additions — Practice 2",
+  "id": "simple-additions-practice2",
+  "title": "Simple Additions \u2014 Practice 2",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "id": "9c2fcac6-4e45-4c0c-8670-44749ec23d10",
+          "id": "1",
           "type": "addition",
           "x": 11,
           "y": 19,
           "result": 30
         },
         {
-          "id": "fc160e4c-08d4-4c10-9b56-6ab09ee2122d",
+          "id": "2",
           "type": "addition",
           "x": 14,
           "y": 17,
           "result": 31
         },
         {
-          "id": "bcd7df85-6d43-40ac-ac71-9c192cf06137",
+          "id": "3",
           "type": "addition",
           "x": 10,
           "y": 9,
           "result": 19
         },
         {
-          "id": "4d91dedb-0406-4318-9c47-ff479e14772e",
+          "id": "4",
           "type": "addition",
           "x": 5,
           "y": 2,
@@ -39,28 +39,28 @@
     {
       "items": [
         {
-          "id": "4ccca275-21b6-4e8d-8105-6ae07e865e03",
+          "id": "5",
           "type": "addition",
           "x": 1,
           "y": 20,
           "result": 21
         },
         {
-          "id": "ddcef929-2010-424c-b950-8485c75400ca",
+          "id": "6",
           "type": "addition",
           "x": 19,
           "y": 3,
           "result": 22
         },
         {
-          "id": "8ecec3f6-1b4a-4b72-aa05-d6fbaebc6111",
+          "id": "7",
           "type": "addition",
           "x": 8,
           "y": 8,
           "result": 16
         },
         {
-          "id": "d55b5b68-6bca-47c8-9244-3c9ac3805cf4",
+          "id": "8",
           "type": "addition",
           "x": 9,
           "y": 19,
@@ -71,28 +71,28 @@
     {
       "items": [
         {
-          "id": "dc9a795a-bf38-4c79-9816-f2043be21847",
+          "id": "9",
           "type": "addition",
           "x": 6,
           "y": 17,
           "result": 23
         },
         {
-          "id": "49a8ebfe-8c1a-4836-84b9-194cf7a1c10c",
+          "id": "10",
           "type": "addition",
           "x": 19,
           "y": 4,
           "result": 23
         },
         {
-          "id": "14cc4a9f-248a-466f-980a-95f881e75902",
+          "id": "11",
           "type": "addition",
           "x": 8,
           "y": 14,
           "result": 22
         },
         {
-          "id": "67a19ae4-9072-4338-8235-cef7f00bffd6",
+          "id": "12",
           "type": "addition",
           "x": 11,
           "y": 10,
@@ -103,28 +103,28 @@
     {
       "items": [
         {
-          "id": "9c906de6-2829-48c0-a820-9e5dcf3eed97",
+          "id": "13",
           "type": "addition",
           "x": 6,
           "y": 7,
           "result": 13
         },
         {
-          "id": "48cf2e26-03ed-4c7e-a7ff-d0d737eed11a",
+          "id": "14",
           "type": "addition",
           "x": 8,
           "y": 11,
           "result": 19
         },
         {
-          "id": "391066df-c5ff-4ee1-8c0e-6e9bd813a050",
+          "id": "15",
           "type": "addition",
           "x": 1,
           "y": 11,
           "result": 12
         },
         {
-          "id": "5a9b7989-fbce-4d10-8061-c7d17424581e",
+          "id": "16",
           "type": "addition",
           "x": 1,
           "y": 2,
@@ -135,14 +135,14 @@
     {
       "items": [
         {
-          "id": "a4052d17-792f-4713-b495-a6212ed8be49",
+          "id": "17",
           "type": "addition",
           "x": 5,
           "y": 3,
           "result": 8
         },
         {
-          "id": "bbe4fd61-1126-4f15-9c9c-c24613d600b3",
+          "id": "18",
           "type": "problem",
           "question": "Paul had 22 coins. Josh gave Paul 9 more coins. How many coins does Paul have now?",
           "result": 31

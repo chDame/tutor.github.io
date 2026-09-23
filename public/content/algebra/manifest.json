@@ -2,13 +2,13 @@
   "topic": "algebra",
   "levels": [
     {
-      "slug": "basic",
+      "slug": "basic5",
       "title": "Discover numbers from 1 to 5",
       "exercises": [
         {
-          "file": "basic/1_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 1",
+          "file": "basic5/1_exercises.json",
+          "id": "basic5-practice1",
+          "title": "Numbers from 1 to 5 — Practice 1",
           "evaluation": false,
           "difficulty": 0,
           "character": {
@@ -17,73 +17,73 @@
           }
         },
         {
-          "file": "basic/2_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 2",
+          "file": "basic5/2_exercises.json",
+          "id": "basic5-practice2",
+          "title": "Numbers from 1 to 5 — Practice 2",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic/3_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 3",
+          "file": "basic5/3_exercises.json",
+          "id": "basic5-practice3",
+          "title": "Numbers from 1 to 5 — Practice 3",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic/4_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 4",
+          "file": "basic5/4_exercises.json",
+          "id": "basic5-practice4",
+          "title": "Numbers from 1 to 5 — Practice 4",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic/5_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 5",
+          "file": "basic5/5_exercises.json",
+          "id": "basic5-practice5",
+          "title": "Numbers from 1 to 5 — Practice 5",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic/6_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 6",
+          "file": "basic5/6_exercises.json",
+          "id": "basic5-practice6",
+          "title": "Numbers from 1 to 5 — Practice 6",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic/7_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 7",
+          "file": "basic5/7_exercises.json",
+          "id": "basic5-practice7",
+          "title": "Numbers from 1 to 5 — Practice 7",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic/8_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 8",
+          "file": "basic5/8_exercises.json",
+          "id": "basic5-practice8",
+          "title": "Numbers from 1 to 5 — Practice 8",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic/9_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 9",
+          "file": "basic5/9_exercises.json",
+          "id": "basic5-practice9",
+          "title": "Numbers from 1 to 5 — Practice 9",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic/10_exercises.json",
-          "id": "7f93920a-f8d4-4a99-8953-37585a019588",
-          "title": "Numbers from 1 to 5 — Checkpoint",
+          "file": "basic5/10_exercises.json",
+          "id": "basic5-evaluation",
+          "title": "Numbers from 1 to 5 — Evaluation",
           "evaluation": true,
           "difficulty": 1,
           "character": null
@@ -91,85 +91,85 @@
       ]
     },
     {
-      "slug": "basic2",
+      "slug": "basic10",
       "title": "Let's go to 10",
       "exercises": [
         {
-          "file": "basic2/1_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 11",
+          "file": "basic10/1_exercises.json",
+          "id": "basic10-practice1",
+          "title": "Numbers from 1 to 10 — Practice 1",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic2/2_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 12",
+          "file": "basic10/2_exercises.json",
+          "id": "basic10-practice2",
+          "title": "Numbers from 1 to 10 — Practice 2",
           "evaluation": false,
           "difficulty": 1,
           "character": null
         },
         {
-          "file": "basic2/3_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 13",
+          "file": "basic10/3_exercises.json",
+          "id": "basic10-practice3",
+          "title": "Numbers from 1 to 10 — Practice 3",
           "evaluation": false,
           "difficulty": 1,
           "character": null
         },
         {
-          "file": "basic2/4_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 14",
+          "file": "basic10/4_exercises.json",
+          "id": "basic10-practice4",
+          "title": "Numbers from 1 to 10 — Practice 4",
           "evaluation": false,
           "difficulty": 2,
           "character": null
         },
         {
-          "file": "basic2/5_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 15",
+          "file": "basic10/5_exercises.json",
+          "id": "basic10-practice5",
+          "title": "Numbers from 1 to 10 — Practice 5",
           "evaluation": false,
           "difficulty": 2,
           "character": null
         },
         {
-          "file": "basic2/6_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 6",
+          "file": "basic10/6_exercises.json",
+          "id": "basic10-practice6",
+          "title": "Numbers from 1 to 10 — Practice 6",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic2/7_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 7",
+          "file": "basic10/7_exercises.json",
+          "id": "basic10-practice7",
+          "title": "Numbers from 1 to 10 — Practice 7",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic2/8_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 8",
+          "file": "basic10/8_exercises.json",
+          "id": "basic10-practice8",
+          "title": "Numbers from 1 to 10 — Practice 8",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic2/9_exercises.json",
-          "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
-          "title": "Basic Numbers — Practice 9",
+          "file": "basic10/9_exercises.json",
+          "id": "basic10-practice9",
+          "title": "Numbers from 1 to 10 — Practice 9",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "basic2/10_exercises.json",
-          "id": "7f93920a-f8d4-4a99-8953-37585a019588",
-          "title": "Numbers from 1 to 5 — Checkpoint",
+          "file": "basic10/10_exercises.json",
+          "id": "basic10-evaluation",
+          "title": "Numbers from 1 to 10 — Evaluation",
           "evaluation": true,
           "difficulty": 1,
           "character": null
@@ -177,13 +177,99 @@
       ]
     },
     {
-      "slug": "addOne",
-      "title": "Add One",
+      "slug": "basic20",
+      "title": "Let's go to 20",
       "exercises": [
         {
-          "file": "addOne/1_exercises.json",
-          "id": "295dddef-dc07-4d99-85e5-2ca7ae31db08",
-          "title": "Add One — Practice 1",
+          "file": "basic20/1_exercises.json",
+          "id": "basic20-practice1",
+          "title": "Numbers from 11 to 20 — Practice 1",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic20/2_exercises.json",
+          "id": "basic20-practice2",
+          "title": "Numbers from 11 to 20 — Practice 2",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "basic20/3_exercises.json",
+          "id": "basic20-practice3",
+          "title": "Numbers from 11 to 20 — Practice 3",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "basic20/4_exercises.json",
+          "id": "basic20-practice4",
+          "title": "Numbers from 11 to 20 — Practice 4",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "basic20/5_exercises.json",
+          "id": "basic20-practice5",
+          "title": "Numbers from 11 to 20 — Practice 5",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "basic20/6_exercises.json",
+          "id": "basic20-practice6",
+          "title": "Numbers from 11 to 20 — Practice 6",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic20/7_exercises.json",
+          "id": "basic20-practice7",
+          "title": "Numbers from 11 to 20 — Practice 7",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic20/8_exercises.json",
+          "id": "basic20-practice8",
+          "title": "Numbers from 11 to 20 — Practice 8",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic20/9_exercises.json",
+          "id": "basic20-practice9",
+          "title": "Numbers from 11 to 20 — Practice 9",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic20/10_exercises.json",
+          "id": "basic20-evaluation",
+          "title": "Numbers from 11 to 20 — Evaluation",
+          "evaluation": true,
+          "difficulty": 1,
+          "character": null
+        }
+      ]
+    },
+    {
+      "slug": "addOneTo10",
+      "title": "Add One to 10",
+      "exercises": [
+        {
+          "file": "addOneTo10/1_exercises.json",
+          "id": "addOneTo10-practice1",
+          "title": "Add One to 10 — Practice 1",
           "evaluation": false,
           "difficulty": 0,
           "character": {
@@ -192,25 +278,162 @@
           }
         },
         {
-          "file": "addOne/2_exercises.json",
-          "id": "e1380ab0-4893-4acb-a5ca-57ad724971e1",
-          "title": "Add One — Practice 2",
+          "file": "addOneTo10/2_exercises.json",
+          "id": "addOneTo10-practice2",
+          "title": "Add One to 10 — Practice 2",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "addOne/3_exercises.json",
-          "id": "3a61b0dc-1bd6-461f-a017-8dab84517b4f",
-          "title": "Add One — Practice 3",
+          "file": "addOneTo10/3_exercises.json",
+          "id": "addOneTo10-practice3",
+          "title": "Add One to 10 — Practice 3",
           "evaluation": false,
           "difficulty": 0,
           "character": null
         },
         {
-          "file": "addOne/4_exercises.json",
-          "id": "859a82c6-3400-4452-bdc4-3b43005d0e5a",
-          "title": "Add One — Checkpoint",
+          "file": "addOneTo10/4_exercises.json",
+          "id": "addOneTo10-practice4",
+          "title": "Add One to 10 — Practice 4",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "addOneTo10/5_exercises.json",
+          "id": "addOneTo10-practice5",
+          "title": "Add One to 10 — Practice 5",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "addOneTo10/6_exercises.json",
+          "id": "addOneTo10-practice6",
+          "title": "Add One to 10 — Practice 6",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "addOneTo10/7_exercises.json",
+          "id": "addOneTo10-practice7",
+          "title": "Add One to 10 — Practice 7",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo10/8_exercises.json",
+          "id": "addOneTo10-practice8",
+          "title": "Add One to 10 — Practice 8",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo10/9_exercises.json",
+          "id": "addOneTo10-practice9",
+          "title": "Add One to 10 — Practice 9",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo10/10_exercises.json",
+          "id": "addOneTo10-evaluation",
+          "title": "Add One to 10 — Evaluation",
+          "evaluation": true,
+          "difficulty": 1,
+          "character": null
+        }
+      ]
+    },
+    {
+      "slug": "addOneTo20",
+      "title": "Add One to 20",
+      "exercises": [
+        {
+          "file": "addOneTo20/1_exercises.json",
+          "id": "addOneTo20-practice1",
+          "title": "Add One to 20 — Practice 1",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": {
+            "image": "characters/girlCreatingANumbersTower.png",
+            "position": "right"
+          }
+        },
+        {
+          "file": "addOneTo20/2_exercises.json",
+          "id": "addOneTo20-practice2",
+          "title": "Add One to 20 — Practice 2",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "addOneTo20/3_exercises.json",
+          "id": "addOneTo20-practice3",
+          "title": "Add One to 20 — Practice 3",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "addOneTo20/4_exercises.json",
+          "id": "addOneTo20-practice4",
+          "title": "Add One to 20 — Practice 4",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "addOneTo20/5_exercises.json",
+          "id": "addOneTo20-practice5",
+          "title": "Add One to 20 — Practice 5",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "addOneTo20/6_exercises.json",
+          "id": "addOneTo20-practice6",
+          "title": "Add One to 20 — Practice 6",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "addOneTo20/7_exercises.json",
+          "id": "addOneTo20-practice7",
+          "title": "Add One to 20 — Practice 7",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo20/8_exercises.json",
+          "id": "addOneTo20-practice8",
+          "title": "Add One to 20 — Practice 8",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo20/9_exercises.json",
+          "id": "addOneTo20-practice9",
+          "title": "Add One to 20 — Practice 9",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo20/10_exercises.json",
+          "id": "addOneTo20-evaluation",
+          "title": "Add One to 20 — Evaluation",
           "evaluation": true,
           "difficulty": 1,
           "character": null
@@ -223,7 +446,7 @@
       "exercises": [
         {
           "file": "simple-additions/1_exercises.json",
-          "id": "337b1110-7c60-4b64-8e9e-19e08b69a9f7",
+          "id": "simple-additions-practice1",
           "title": "Simple Additions — Practice 1",
           "evaluation": false,
           "difficulty": 1,
@@ -231,7 +454,7 @@
         },
         {
           "file": "simple-additions/2_exercises.json",
-          "id": "82dd53e3-7f39-463c-a359-514cdf12b475",
+          "id": "simple-additions-practice2",
           "title": "Simple Additions — Practice 2",
           "evaluation": false,
           "difficulty": 1,
@@ -239,7 +462,7 @@
         },
         {
           "file": "simple-additions/3_exercises.json",
-          "id": "7238d80c-3d6f-4896-b094-7f82b1a5d729",
+          "id": "simple-additions-practice3",
           "title": "Simple Additions — Practice 3",
           "evaluation": false,
           "difficulty": 1,
@@ -247,7 +470,7 @@
         },
         {
           "file": "simple-additions/4_exercises.json",
-          "id": "0e84a1e1-031c-496c-b9cc-9de4fe679d2b",
+          "id": "simple-additions-evaluation",
           "title": "Simple Additions — Checkpoint",
           "evaluation": true,
           "difficulty": 2,
@@ -261,7 +484,7 @@
       "exercises": [
         {
           "file": "simple-subtractions/1_exercises.json",
-          "id": "901c3cd3-4982-4cf5-8e6b-09ca2247b1b0",
+          "id": "simple-subtractions-practice1",
           "title": "Simple Subtractions — Practice 1",
           "evaluation": false,
           "difficulty": 1,
@@ -269,7 +492,7 @@
         },
         {
           "file": "simple-subtractions/2_exercises.json",
-          "id": "65f3469c-8686-4b0d-ad84-1cbff5308e67",
+          "id": "simple-subtractions-practice2",
           "title": "Simple Subtractions — Practice 2",
           "evaluation": false,
           "difficulty": 1,
@@ -277,7 +500,7 @@
         },
         {
           "file": "simple-subtractions/3_exercises.json",
-          "id": "af2ac53d-c75d-423e-9b9c-4e04de0a50b9",
+          "id": "simple-subtractions-practice3",
           "title": "Simple Subtractions — Practice 3",
           "evaluation": false,
           "difficulty": 1,
@@ -285,7 +508,7 @@
         },
         {
           "file": "simple-subtractions/4_exercises.json",
-          "id": "e32d217e-15b1-4031-9b99-a2b720368271",
+          "id": "simple-subtractions-evaluation",
           "title": "Simple Subtractions — Checkpoint",
           "evaluation": true,
           "difficulty": 2,
@@ -299,7 +522,7 @@
       "exercises": [
         {
           "file": "simple-multiplications/1_exercises.json",
-          "id": "ba44d8ca-3aec-48ca-b63a-e3d3f3bbc144",
+          "id": "simple-multiplications-practice1",
           "title": "Simple Multiplications — Practice 1",
           "evaluation": false,
           "difficulty": 2,
@@ -307,7 +530,7 @@
         },
         {
           "file": "simple-multiplications/2_exercises.json",
-          "id": "fac3440c-6d2c-41da-85b3-360903b6f8d4",
+          "id": "simple-multiplications-practice2",
           "title": "Simple Multiplications — Practice 2",
           "evaluation": false,
           "difficulty": 2,
@@ -315,7 +538,7 @@
         },
         {
           "file": "simple-multiplications/3_exercises.json",
-          "id": "fa1e3174-8897-4a28-9a6f-f79cbb84a6ee",
+          "id": "simple-multiplications-practice3",
           "title": "Simple Multiplications — Practice 3",
           "evaluation": false,
           "difficulty": 2,
@@ -323,7 +546,7 @@
         },
         {
           "file": "simple-multiplications/4_exercises.json",
-          "id": "8456232f-7eac-41ad-9e93-9f816e4ebd40",
+          "id": "simple-multiplications-evaluation",
           "title": "Simple Multiplications — Checkpoint",
           "evaluation": true,
           "difficulty": 3,
@@ -337,7 +560,7 @@
       "exercises": [
         {
           "file": "simple-divisions/1_exercises.json",
-          "id": "54124b18-3c92-4063-83b1-a29b295f8ffe",
+          "id": "simple-divisions-practice1",
           "title": "Simple Divisions — Practice 1",
           "evaluation": false,
           "difficulty": 2,
@@ -345,7 +568,7 @@
         },
         {
           "file": "simple-divisions/2_exercises.json",
-          "id": "3ac70ab9-bb68-4630-82fd-140854ef455b",
+          "id": "simple-divisions-practice2",
           "title": "Simple Divisions — Practice 2",
           "evaluation": false,
           "difficulty": 2,
@@ -353,7 +576,7 @@
         },
         {
           "file": "simple-divisions/3_exercises.json",
-          "id": "4609effc-5e90-401a-9ec9-18a41385a347",
+          "id": "simple-divisions-practice3",
           "title": "Simple Divisions — Practice 3",
           "evaluation": false,
           "difficulty": 2,
@@ -361,7 +584,7 @@
         },
         {
           "file": "simple-divisions/4_exercises.json",
-          "id": "2331fe39-3c68-47a1-a5df-65d30d216699",
+          "id": "simple-divisions-evaluation",
           "title": "Simple Divisions — Checkpoint",
           "evaluation": true,
           "difficulty": 3,
@@ -375,7 +598,7 @@
       "exercises": [
         {
           "file": "column-additions/1_exercises.json",
-          "id": "b5ef293f-c22d-4596-b365-4d9ca5ca5c30",
+          "id": "column-additions-practice1",
           "title": "Column Additions — Practice 1",
           "evaluation": false,
           "difficulty": 2,
@@ -383,7 +606,7 @@
         },
         {
           "file": "column-additions/2_exercises.json",
-          "id": "a28a1e84-8997-4bc3-90e3-a94669fc0401",
+          "id": "column-additions-practice2",
           "title": "Column Additions — Practice 2",
           "evaluation": false,
           "difficulty": 2,
@@ -391,7 +614,7 @@
         },
         {
           "file": "column-additions/3_exercises.json",
-          "id": "3c729921-6cee-4d75-91e4-eac22cd0adfa",
+          "id": "column-additions-practice3",
           "title": "Column Additions — Practice 3",
           "evaluation": false,
           "difficulty": 2,
@@ -399,7 +622,7 @@
         },
         {
           "file": "column-additions/4_exercises.json",
-          "id": "d4260465-07ad-427d-9bcb-3018e4896a72",
+          "id": "column-additions-evaluation",
           "title": "Column Additions — Checkpoint",
           "evaluation": true,
           "difficulty": 3,
@@ -413,7 +636,7 @@
       "exercises": [
         {
           "file": "column-subtractions/1_exercises.json",
-          "id": "1100b660-00b5-4c9b-80ce-b2d1cf13a432",
+          "id": "column-subtractions-practice1",
           "title": "Column Subtractions — Practice 1",
           "evaluation": false,
           "difficulty": 3,
@@ -421,7 +644,7 @@
         },
         {
           "file": "column-subtractions/2_exercises.json",
-          "id": "b0f9f047-6210-4c17-b30b-c09b1086e8c0",
+          "id": "column-subtractions-practice2",
           "title": "Column Subtractions — Practice 2",
           "evaluation": false,
           "difficulty": 3,
@@ -429,7 +652,7 @@
         },
         {
           "file": "column-subtractions/3_exercises.json",
-          "id": "30f5d5ea-571f-466c-87e4-77f10b2a0741",
+          "id": "column-subtractions-practice3",
           "title": "Column Subtractions — Practice 3",
           "evaluation": false,
           "difficulty": 3,
@@ -437,7 +660,7 @@
         },
         {
           "file": "column-subtractions/4_exercises.json",
-          "id": "c0344d7f-e195-484c-96e0-1d3e2c7db02c",
+          "id": "column-subtractions-evaluation",
           "title": "Column Subtractions — Checkpoint",
           "evaluation": true,
           "difficulty": 4,
@@ -451,7 +674,7 @@
       "exercises": [
         {
           "file": "column-multiplications/1_exercises.json",
-          "id": "a3285457-1e23-42b5-a835-f1886b406231",
+          "id": "column-multiplications-practice1",
           "title": "Column Multiplications — Practice 1",
           "evaluation": false,
           "difficulty": 3,
@@ -459,7 +682,7 @@
         },
         {
           "file": "column-multiplications/2_exercises.json",
-          "id": "8e0ec99a-6bf3-413f-98a0-d7aff7dc256c",
+          "id": "column-multiplications-practice2",
           "title": "Column Multiplications — Practice 2",
           "evaluation": false,
           "difficulty": 3,
@@ -467,7 +690,7 @@
         },
         {
           "file": "column-multiplications/3_exercises.json",
-          "id": "6807dfc9-779a-46ca-8328-5d4fcf9176b9",
+          "id": "column-multiplications-practice3",
           "title": "Column Multiplications — Practice 3",
           "evaluation": false,
           "difficulty": 3,
@@ -475,7 +698,7 @@
         },
         {
           "file": "column-multiplications/4_exercises.json",
-          "id": "189ec24a-404a-483e-9feb-24410da61ba8",
+          "id": "column-multiplications-evaluation",
           "title": "Column Multiplications — Checkpoint",
           "evaluation": true,
           "difficulty": 4,
@@ -489,7 +712,7 @@
       "exercises": [
         {
           "file": "euclidian-divisions/1_exercises.json",
-          "id": "6daa7dde-eeb1-4274-b7bb-aa7339ead8ae",
+          "id": "euclidian-divisions-practice1",
           "title": "Euclidian Divisions — Practice 1",
           "evaluation": false,
           "difficulty": 3,
@@ -497,7 +720,7 @@
         },
         {
           "file": "euclidian-divisions/2_exercises.json",
-          "id": "de6a0940-3bcf-44bd-90f0-717d98a310de",
+          "id": "euclidian-divisions-practice2",
           "title": "Euclidian Divisions — Practice 2",
           "evaluation": false,
           "difficulty": 3,
@@ -505,7 +728,7 @@
         },
         {
           "file": "euclidian-divisions/3_exercises.json",
-          "id": "367cb132-32bd-451d-bec1-c1b491ff0f7a",
+          "id": "euclidian-divisions-practice3",
           "title": "Euclidian Divisions — Practice 3",
           "evaluation": false,
           "difficulty": 3,
@@ -513,7 +736,7 @@
         },
         {
           "file": "euclidian-divisions/4_exercises.json",
-          "id": "76e89da0-885b-4bf7-97ec-976854d53717",
+          "id": "euclidian-divisions-evaluation",
           "title": "Euclidian Divisions — Checkpoint",
           "evaluation": true,
           "difficulty": 4,
@@ -527,7 +750,7 @@
       "exercises": [
         {
           "file": "relative-numbers/1_exercises.json",
-          "id": "323d35ce-f5c6-4675-9762-aedd20b24b31",
+          "id": "relative-numbers-practice1",
           "title": "Relative Numbers — Practice 1",
           "evaluation": false,
           "difficulty": 4,
@@ -535,7 +758,7 @@
         },
         {
           "file": "relative-numbers/2_exercises.json",
-          "id": "23f39a35-4292-4ba0-adb2-8cb77c7fab4b",
+          "id": "relative-numbers-practice2",
           "title": "Relative Numbers — Practice 2",
           "evaluation": false,
           "difficulty": 4,
@@ -543,7 +766,7 @@
         },
         {
           "file": "relative-numbers/3_exercises.json",
-          "id": "05f331a7-cb75-44f5-b778-639964a29b0d",
+          "id": "relative-numbers-practice3",
           "title": "Relative Numbers — Practice 3",
           "evaluation": false,
           "difficulty": 4,
@@ -551,7 +774,7 @@
         },
         {
           "file": "relative-numbers/4_exercises.json",
-          "id": "7b1730bc-2b73-4768-98fc-7b3d80cc679e",
+          "id": "relative-numbers-evaluation",
           "title": "Relative Numbers — Checkpoint",
           "evaluation": true,
           "difficulty": 5,
@@ -565,7 +788,7 @@
       "exercises": [
         {
           "file": "decimal-numbers/1_exercises.json",
-          "id": "1af016b2-ddcf-49e2-87b8-650b03d07d1b",
+          "id": "decimal-numbers-practice1",
           "title": "Decimal Numbers — Practice 1",
           "evaluation": false,
           "difficulty": 4,
@@ -573,7 +796,7 @@
         },
         {
           "file": "decimal-numbers/2_exercises.json",
-          "id": "019a3fb3-33ce-433e-86b5-e163558ad7f5",
+          "id": "decimal-numbers-practice2",
           "title": "Decimal Numbers — Practice 2",
           "evaluation": false,
           "difficulty": 4,
@@ -581,7 +804,7 @@
         },
         {
           "file": "decimal-numbers/3_exercises.json",
-          "id": "2a762fcd-a97a-4d83-8673-ce0a68eeb833",
+          "id": "decimal-numbers-practice3",
           "title": "Decimal Numbers — Practice 3",
           "evaluation": false,
           "difficulty": 4,
@@ -589,7 +812,7 @@
         },
         {
           "file": "decimal-numbers/4_exercises.json",
-          "id": "14d9aaa1-286e-446b-9794-02adc5e52994",
+          "id": "decimal-numbers-evaluation",
           "title": "Decimal Numbers — Checkpoint",
           "evaluation": true,
           "difficulty": 5,
@@ -603,7 +826,7 @@
       "exercises": [
         {
           "file": "fractions/1_exercises.json",
-          "id": "2794c992-dfcd-450f-825a-ec8eed9a2291",
+          "id": "fractions-practice1",
           "title": "Fractions — Practice 1",
           "evaluation": false,
           "difficulty": 5,
@@ -611,7 +834,7 @@
         },
         {
           "file": "fractions/2_exercises.json",
-          "id": "ca56ad10-6636-46a0-b57f-da8bfc84767f",
+          "id": "fractions-practice2",
           "title": "Fractions — Practice 2",
           "evaluation": false,
           "difficulty": 5,
@@ -619,7 +842,7 @@
         },
         {
           "file": "fractions/3_exercises.json",
-          "id": "8805c2d0-d554-46e2-a913-d621b0fb18a2",
+          "id": "fractions-practice3",
           "title": "Fractions — Practice 3",
           "evaluation": false,
           "difficulty": 5,
@@ -627,7 +850,7 @@
         },
         {
           "file": "fractions/4_exercises.json",
-          "id": "e3a0bb69-738f-49ea-9cef-7e9035d614bb",
+          "id": "fractions-evaluation",
           "title": "Fractions — Checkpoint",
           "evaluation": true,
           "difficulty": 5,
@@ -641,7 +864,7 @@
       "exercises": [
         {
           "file": "equations/1_exercises.json",
-          "id": "e6bd6591-bc19-4b6b-9910-89f29d08719d",
+          "id": "equations-practice1",
           "title": "Equations — Practice 1",
           "evaluation": false,
           "difficulty": 5,
@@ -649,7 +872,7 @@
         },
         {
           "file": "equations/2_exercises.json",
-          "id": "3658127a-8e55-4b44-a067-16dd1846220d",
+          "id": "equations-practice2",
           "title": "Equations — Practice 2",
           "evaluation": false,
           "difficulty": 5,
@@ -657,7 +880,7 @@
         },
         {
           "file": "equations/3_exercises.json",
-          "id": "e39e5b6e-f9af-4380-aad6-a1579cf52588",
+          "id": "equations-practice3",
           "title": "Equations — Practice 3",
           "evaluation": false,
           "difficulty": 5,
@@ -665,7 +888,7 @@
         },
         {
           "file": "equations/4_exercises.json",
-          "id": "11b4ee79-1fef-47b7-854f-eb120499ee99",
+          "id": "equations-evaluation",
           "title": "Equations — Checkpoint",
           "evaluation": true,
           "difficulty": 5,

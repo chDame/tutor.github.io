@@ -1,13 +1,13 @@
 {
-  "id": "b0f9f047-6210-4c17-b30b-c09b1086e8c0",
-  "title": "Column Subtractions — Practice 2",
+  "id": "column-subtractions-practice2",
+  "title": "Column Subtractions \u2014 Practice 2",
   "evaluation": false,
   "difficulty": 3,
   "pages": [
     {
       "items": [
         {
-          "id": "3d208b02-3585-44f7-93a6-06d5349c4f3d",
+          "id": "1",
           "type": "columnSubtraction",
           "operands": [
             889,
@@ -16,7 +16,7 @@
           "result": 113
         },
         {
-          "id": "1659b1de-6bbc-4f28-a864-9facc20baa44",
+          "id": "2",
           "type": "columnSubtraction",
           "operands": [
             543,
@@ -25,7 +25,7 @@
           "result": 437
         },
         {
-          "id": "d3b77612-c0b4-43bb-85b8-318195e1d2e8",
+          "id": "3",
           "type": "columnSubtraction",
           "operands": [
             326,
@@ -34,7 +34,7 @@
           "result": 179
         },
         {
-          "id": "d21fb20e-a962-4c56-bdf5-205340122147",
+          "id": "4",
           "type": "columnSubtraction",
           "operands": [
             895,
@@ -47,7 +47,7 @@
     {
       "items": [
         {
-          "id": "33745ffd-dfde-4043-aace-22fbd9452df8",
+          "id": "5",
           "type": "columnSubtraction",
           "operands": [
             938,
@@ -56,7 +56,7 @@
           "result": 586
         },
         {
-          "id": "00602820-b4fd-4c88-8c71-dd36e23a8435",
+          "id": "6",
           "type": "columnSubtraction",
           "operands": [
             860,
@@ -65,7 +65,7 @@
           "result": 483
         },
         {
-          "id": "0365c0bd-b4bc-4497-8954-613ebd9e92db",
+          "id": "7",
           "type": "columnSubtraction",
           "operands": [
             893,
@@ -74,7 +74,7 @@
           "result": 237
         },
         {
-          "id": "ee1e8482-b52f-4879-b661-57cdeb3db161",
+          "id": "8",
           "type": "columnSubtraction",
           "operands": [
             834,
@@ -87,7 +87,7 @@
     {
       "items": [
         {
-          "id": "dbec7072-922b-42e7-9f10-e13dd866c12c",
+          "id": "9",
           "type": "columnSubtraction",
           "operands": [
             732,
@@ -96,7 +96,7 @@
           "result": 371
         },
         {
-          "id": "9cac1b80-b9d9-4215-846d-45c1212907e7",
+          "id": "10",
           "type": "columnSubtraction",
           "operands": [
             679,
@@ -105,7 +105,7 @@
           "result": 533
         },
         {
-          "id": "bdcc664b-db77-42df-b084-feb177d75542",
+          "id": "11",
           "type": "columnSubtraction",
           "operands": [
             449,
@@ -114,7 +114,7 @@
           "result": 29
         },
         {
-          "id": "b56cf921-b7fa-4f5d-8eb0-23a4e3f67ddd",
+          "id": "12",
           "type": "columnSubtraction",
           "operands": [
             204,
@@ -127,7 +127,7 @@
     {
       "items": [
         {
-          "id": "e4ea24f0-a9ab-4fbe-94c1-e4e111bbf030",
+          "id": "13",
           "type": "columnSubtraction",
           "operands": [
             493,
@@ -136,7 +136,7 @@
           "result": 336
         },
         {
-          "id": "bc654507-56b0-4c7f-9abf-8dded628e1b6",
+          "id": "14",
           "type": "columnSubtraction",
           "operands": [
             676,
@@ -145,7 +145,7 @@
           "result": 80
         },
         {
-          "id": "703ac69d-c308-4662-b484-fc15f95945ce",
+          "id": "15",
           "type": "columnSubtraction",
           "operands": [
             583,
@@ -154,7 +154,7 @@
           "result": 468
         },
         {
-          "id": "dfeb21c6-1adf-4d0a-b152-66b04bc4b745",
+          "id": "16",
           "type": "columnSubtraction",
           "operands": [
             943,
@@ -167,7 +167,7 @@
     {
       "items": [
         {
-          "id": "d87167d9-a4cd-4b6a-bbb1-3783c91c1bfb",
+          "id": "17",
           "type": "columnSubtraction",
           "operands": [
             947,
@@ -176,7 +176,7 @@
           "result": 20
         },
         {
-          "id": "294fff27-e28d-4fef-b400-dcf0c1610bc7",
+          "id": "18",
           "type": "problem",
           "question": "Sophie was having 36 coins but gave 3 to Ana and 11 to Maria. How many coins does Sophie still have?",
           "result": 22

@@ -1,13 +1,13 @@
 {
-  "id": "8805c2d0-d554-46e2-a913-d621b0fb18a2",
-  "title": "Fractions — Practice 3",
+  "id": "fractions-practice3",
+  "title": "Fractions \u2014 Practice 3",
   "evaluation": false,
   "difficulty": 5,
   "pages": [
     {
       "items": [
         {
-          "id": "641ace2f-9872-44f4-a229-ec7c2ce1673b",
+          "id": "1",
           "type": "fractionAddition",
           "x": {
             "num": 2,
@@ -23,7 +23,7 @@
           }
         },
         {
-          "id": "5f86a14f-7838-443b-939c-252e3eff3513",
+          "id": "2",
           "type": "fractionAddition",
           "x": {
             "num": 2,
@@ -39,7 +39,7 @@
           }
         },
         {
-          "id": "879e0cc6-7418-4aa0-a7a3-d27fb6c6d789",
+          "id": "3",
           "type": "fractionSubtraction",
           "x": {
             "num": 9,
@@ -55,7 +55,7 @@
           }
         },
         {
-          "id": "e9d78d5f-c459-48d2-88aa-29017e3fb862",
+          "id": "4",
           "type": "fractionSubtraction",
           "x": {
             "num": 1,
@@ -75,7 +75,7 @@
     {
       "items": [
         {
-          "id": "ec1302a6-8fba-4143-97b3-a6ec234798f1",
+          "id": "5",
           "type": "fractionSubtraction",
           "x": {
             "num": 6,
@@ -91,7 +91,7 @@
           }
         },
         {
-          "id": "a9d7c151-8a86-4bd4-a8de-b653ebffc76f",
+          "id": "6",
           "type": "fractionSubtraction",
           "x": {
             "num": 4,
@@ -107,7 +107,7 @@
           }
         },
         {
-          "id": "db0350d6-2f81-4297-9de1-350d531972de",
+          "id": "7",
           "type": "fractionSubtraction",
           "x": {
             "num": 5,
@@ -123,7 +123,7 @@
           }
         },
         {
-          "id": "733cc813-597f-48b6-a360-1750812c8413",
+          "id": "8",
           "type": "fractionAddition",
           "x": {
             "num": 5,
@@ -143,7 +143,7 @@
     {
       "items": [
         {
-          "id": "3c6856d2-631a-4ebd-af5a-7aeb351d1201",
+          "id": "9",
           "type": "fractionAddition",
           "x": {
             "num": 4,
@@ -159,7 +159,7 @@
           }
         },
         {
-          "id": "aaa01cbd-1907-47ca-8df3-dd215985afcf",
+          "id": "10",
           "type": "fractionSubtraction",
           "x": {
             "num": 3,
@@ -175,7 +175,7 @@
           }
         },
         {
-          "id": "9ba717f4-57c2-4852-86c5-ec2fa2c9465a",
+          "id": "11",
           "type": "fractionAddition",
           "x": {
             "num": 2,
@@ -191,7 +191,7 @@
           }
         },
         {
-          "id": "a5dd1f5b-0a83-4d5e-a123-23fa525c8ba2",
+          "id": "12",
           "type": "fractionSubtraction",
           "x": {
             "num": 6,
@@ -211,7 +211,7 @@
     {
       "items": [
         {
-          "id": "a2fd63f2-7b5b-4786-9576-55daea7f6ab1",
+          "id": "13",
           "type": "fractionAddition",
           "x": {
             "num": 4,
@@ -227,7 +227,7 @@
           }
         },
         {
-          "id": "4fb09df1-22b3-4774-a1e4-0efc7bbebaa7",
+          "id": "14",
           "type": "fractionAddition",
           "x": {
             "num": 1,
@@ -243,7 +243,7 @@
           }
         },
         {
-          "id": "8b4bb1d5-2211-41d8-8fd4-23f4760a86b9",
+          "id": "15",
           "type": "fractionSubtraction",
           "x": {
             "num": 7,
@@ -259,7 +259,7 @@
           }
         },
         {
-          "id": "2bebd79f-32a1-4158-921e-bf1bae2513d6",
+          "id": "16",
           "type": "fractionSubtraction",
           "x": {
             "num": 5,
@@ -279,7 +279,7 @@
     {
       "items": [
         {
-          "id": "a4d8ea60-b349-4279-8cfc-deb8a2c9ac49",
+          "id": "17",
           "type": "fractionAddition",
           "x": {
             "num": 3,
@@ -295,7 +295,7 @@
           }
         },
         {
-          "id": "94389b58-b2e0-4287-aa5e-263a8d23fa5c",
+          "id": "18",
           "type": "problem",
           "question": "A pizza is cut into 9 equal slices. Paul eats 2 slices and Ana eats 1 slices. How many slices are left?",
           "result": 6

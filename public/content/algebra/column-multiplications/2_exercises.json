@@ -1,13 +1,13 @@
 {
-  "id": "8e0ec99a-6bf3-413f-98a0-d7aff7dc256c",
-  "title": "Column Multiplications — Practice 2",
+  "id": "column-multiplications-practice2",
+  "title": "Column Multiplications \u2014 Practice 2",
   "evaluation": false,
   "difficulty": 3,
   "pages": [
     {
       "items": [
         {
-          "id": "73d3a965-6e5c-420b-8220-5b588e93eac9",
+          "id": "1",
           "type": "columnMultiplication",
           "operands": [
             64,
@@ -16,7 +16,7 @@
           "result": 512
         },
         {
-          "id": "507bd67a-571b-4c04-861e-832678648dd7",
+          "id": "2",
           "type": "columnMultiplication",
           "operands": [
             20,
@@ -25,7 +25,7 @@
           "result": 80
         },
         {
-          "id": "156d5749-e03d-446b-b92a-8ca77b2c5abd",
+          "id": "3",
           "type": "columnMultiplication",
           "operands": [
             22,
@@ -34,7 +34,7 @@
           "result": 176
         },
         {
-          "id": "b59a383b-2cdb-4ce4-ad63-1f2d43c889c2",
+          "id": "4",
           "type": "columnMultiplication",
           "operands": [
             50,
@@ -47,7 +47,7 @@
     {
       "items": [
         {
-          "id": "3b8e8116-36a6-42bd-9935-9b7723e0dd15",
+          "id": "5",
           "type": "columnMultiplication",
           "operands": [
             28,
@@ -56,7 +56,7 @@
           "result": 112
         },
         {
-          "id": "ca29c373-7127-48a4-9766-c40193d686a1",
+          "id": "6",
           "type": "columnMultiplication",
           "operands": [
             98,
@@ -65,7 +65,7 @@
           "result": 392
         },
         {
-          "id": "ecd4ea29-a6f6-4395-bd3a-7fa9ce694644",
+          "id": "7",
           "type": "columnMultiplication",
           "operands": [
             11,
@@ -74,7 +74,7 @@
           "result": 33
         },
         {
-          "id": "9cb28675-1edc-484f-9a80-88174278c910",
+          "id": "8",
           "type": "columnMultiplication",
           "operands": [
             11,
@@ -87,7 +87,7 @@
     {
       "items": [
         {
-          "id": "d152afda-d21c-43c5-bed3-d522f5e181f5",
+          "id": "9",
           "type": "columnMultiplication",
           "operands": [
             93,
@@ -96,7 +96,7 @@
           "result": 465
         },
         {
-          "id": "27074a83-cbaf-4112-974b-3a5301012fe5",
+          "id": "10",
           "type": "columnMultiplication",
           "operands": [
             31,
@@ -105,7 +105,7 @@
           "result": 93
         },
         {
-          "id": "b160ef8e-f10b-4f6c-beca-6dd47e8b3fdd",
+          "id": "11",
           "type": "columnMultiplication",
           "operands": [
             30,
@@ -114,7 +114,7 @@
           "result": 60
         },
         {
-          "id": "9d2900a1-212b-4f1f-824d-29e2a34fd40e",
+          "id": "12",
           "type": "columnMultiplication",
           "operands": [
             93,
@@ -127,7 +127,7 @@
     {
       "items": [
         {
-          "id": "d9128b08-6d66-4850-b155-4a5ed759b05c",
+          "id": "13",
           "type": "columnMultiplication",
           "operands": [
             54,
@@ -136,7 +136,7 @@
           "result": 324
         },
         {
-          "id": "52a8245f-47a6-417d-b2f2-1040c8a48afb",
+          "id": "14",
           "type": "columnMultiplication",
           "operands": [
             32,
@@ -145,7 +145,7 @@
           "result": 160
         },
         {
-          "id": "7b9c65e9-f9e6-4990-b8d8-498f90e3b317",
+          "id": "15",
           "type": "columnMultiplication",
           "operands": [
             42,
@@ -154,7 +154,7 @@
           "result": 294
         },
         {
-          "id": "8ed29657-7d82-4d1e-8802-0e1c99c288f3",
+          "id": "16",
           "type": "columnMultiplication",
           "operands": [
             97,
@@ -167,7 +167,7 @@
     {
       "items": [
         {
-          "id": "7cab092e-b005-4b21-ba94-f562dce1ded4",
+          "id": "17",
           "type": "columnMultiplication",
           "operands": [
             44,
@@ -176,7 +176,7 @@
           "result": 396
         },
         {
-          "id": "1bb01a01-4c69-4e16-ad9d-0aa27eab5a2d",
+          "id": "18",
           "type": "problem",
           "question": "Liam has 7 boxes with 10 stickers in each box. How many stickers does Liam have in total?",
           "result": 70

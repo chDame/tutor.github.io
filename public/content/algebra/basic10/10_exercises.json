@@ -1,0 +1,88 @@
+{
+  "id": "basic10-evaluation",
+  "title": "Numbers from 1 to 10 \u2014 Evaluation",
+  "evaluation": true,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "counting",
+          "countingElement": "\ud83c\udf4e",
+          "result": 5
+        },
+        {
+          "id": "2",
+          "type": "counting",
+          "countingElement": "\ud83c\udf81",
+          "result": 10
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "3",
+          "type": "counting",
+          "countingElement": "\ud83c\udf38",
+          "result": 9
+        },
+        {
+          "id": "4",
+          "type": "counting",
+          "countingElement": "\ud83c\udf39",
+          "result": 8
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "5",
+          "type": "counting",
+          "countingElement": "\ud83c\udf44",
+          "result": 6
+        },
+        {
+          "id": "6",
+          "type": "counting",
+          "countingElement": "\ud83c\udf32",
+          "result": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "7",
+          "type": "counting",
+          "countingElement": "\ud83c\udf3b",
+          "result": 4
+        },
+        {
+          "id": "8",
+          "type": "counting",
+          "countingElement": "\ud83c\udf3d",
+          "result": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9",
+          "type": "counting",
+          "countingElement": "\ud83c\udf4d",
+          "result": 2
+        },
+        {
+          "id": "10",
+          "type": "counting",
+          "countingElement": "\ud83c\udf53",
+          "result": 1
+        }
+      ]
+    }
+  ]
+}
