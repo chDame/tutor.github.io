@@ -16,7 +16,7 @@
           "id": "2",
           "type": "counting",
           "countingElement": "\ud83c\udf53",
-          "result": 4
+          "result": 2
         }
       ]
     },
@@ -32,7 +32,7 @@
           "id": "4",
           "type": "counting",
           "countingElement": "\ud83c\udf39",
-          "result": 3
+          "result": 1
         }
       ]
     },
@@ -48,7 +48,7 @@
           "id": "6",
           "type": "counting",
           "countingElement": "\ud83c\udf81",
-          "result": 2
+          "result": 5
         }
       ]
     },
@@ -64,7 +64,7 @@
           "id": "8",
           "type": "counting",
           "countingElement": "\ud83c\udf32",
-          "result": 1
+          "result": 4
         }
       ]
     },
@@ -74,13 +74,13 @@
           "id": "9",
           "type": "counting",
           "countingElement": "\ud83c\udf3b",
-          "result": 5
+          "result": 1
         },
         {
           "id": "10",
           "type": "counting",
           "countingElement": "\ud83c\udf3d",
-          "result": 2
+          "result": 3
         }
       ]
     },
@@ -90,13 +90,13 @@
           "id": "11",
           "type": "counting",
           "countingElement": "\ud83c\udfce",
-          "result": 4
+          "result": 5
         },
         {
           "id": "12",
           "type": "counting",
           "countingElement": "\ud83d\ude95",
-          "result": 3
+          "result": 4
         }
       ]
     },
@@ -106,7 +106,7 @@
           "id": "13",
           "type": "counting",
           "countingElement": "\ud83c\udf55",
-          "result": 3
+          "result": 2
         },
         {
           "id": "14",
