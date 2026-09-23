@@ -78,8 +78,8 @@
         },
         {
           "id": "10",
-          "type": "counting",
-          "countingElement": "\ud83c\udf53",
+          "type": "problem",
+          "question": "If Kevin has 4 marbles and gains another one, how many will he have in total?",
           "result": 5
         }
       ]

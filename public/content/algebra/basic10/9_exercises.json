@@ -110,8 +110,8 @@
         },
         {
           "id": "14",
-          "type": "counting",
-          "countingElement": "\ud83c\udf57",
+          "type": "problem",
+          "question": "If Mylan had 9 pairs of socks and buys 1 new pair, how many pairs of socks will he have in total?",
           "result": 10
         }
       ]

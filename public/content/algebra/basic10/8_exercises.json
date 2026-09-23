@@ -26,9 +26,9 @@
         },
         {
           "id": "3",
-          "type": "counting",
-          "countingElement": "\ud83c\udf39",
-          "result": 6
+          "type": "problem",
+          "question": "If Tony has had 2 pieces of pizza and eats a new one, how many pieces of pizza will he have in total?",
+          "result": 3
         }
       ]
     },
@@ -90,9 +90,9 @@
         },
         {
           "id": "11",
-          "type": "counting",
-          "countingElement": "\ud83d\ude95",
-          "result": 5
+          "type": "problem",
+          "question": "If Tony has had 5 pieces of pizza and eats a new one, how many pieces of pizza will he have in total?",
+          "result": 6
         }
       ]
     },

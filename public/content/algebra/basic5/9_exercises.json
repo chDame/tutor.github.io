@@ -72,9 +72,9 @@
       "items": [
         {
           "id": "9",
-          "type": "counting",
-          "countingElement": "\ud83c\udf3b",
-          "result": 1
+          "type": "problem",
+          "question": "If Dora is 4 years old today, how old will she be at her next birthday?",
+          "result": 5
         },
         {
           "id": "10",

@@ -83,6 +83,16 @@
           "result": 1
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "id": "11",
+          "type": "problem",
+          "question": "If Elvis had 9 guitars and buys 1 new one, how many guitars will he have in total?",
+          "result": 10
+        }
+      ]
     }
   ]
 }

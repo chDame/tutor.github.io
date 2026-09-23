@@ -87,6 +87,16 @@
           ]
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "id": "10",
+          "type": "problem",
+          "question": "If Ana has 4 dolls and her mum gives her another one, how many will she have in total?",
+          "result": 5
+        }
+      ]
     }
   ]
 }

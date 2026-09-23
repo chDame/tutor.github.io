@@ -86,8 +86,8 @@
         },
         {
           "id": "10",
-          "type": "counting",
-          "countingElement": "\ud83d\ude95",
+          "type": "problem",
+          "question": "If Enzo has 8 toys and his dad offers him 1 more, how many toys will he have in total?",
           "result": 9
         }
       ]

@@ -72,9 +72,9 @@
       "items": [
         {
           "id": "9",
-          "type": "counting",
-          "countingElement": "\ud83c\udf3b",
-          "result": 3
+          "type": "problem",
+          "question": "If Alfred has 9 balls and buys a new one, how many balls will he have in total?",
+          "result": 10
         },
         {
           "id": "10",

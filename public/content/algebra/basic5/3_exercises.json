@@ -68,24 +68,28 @@
       "items": [
         {
           "id": "8",
-          "type": "discoverNumber",
-          "from": 1,
-          "to": 5,
-          "displayElements": true,
-          "countingElement": "\ud83c\udf53"
+          "type": "counting",
+          "countingElement": "\ud83c\ude95",
+          "result": 4
+        },
+        {
+          "id": "9",
+          "type": "problem",
+          "question": "If John is 2 years old today, how old will he be at his next birthday?",
+          "result": 3
         }
       ]
     },
     {
       "items": [
         {
-          "id": "9",
+          "id": "10",
           "type": "counting",
           "countingElement": "\ud83c\udfce",
           "result": 2
         },
         {
-          "id": "10",
+          "id": "11",
           "type": "counting",
           "countingElement": "\ud83d\ude95",
           "result": 3
@@ -95,13 +99,13 @@
     {
       "items": [
         {
-          "id": "11",
+          "id": "12",
           "type": "counting",
           "countingElement": "\ud83c\udf55",
           "result": 4
         },
         {
-          "id": "12",
+          "id": "13",
           "type": "counting",
           "countingElement": "\ud83c\udf57",
           "result": 5

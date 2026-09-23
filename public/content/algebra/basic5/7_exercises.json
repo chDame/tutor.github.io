@@ -72,8 +72,8 @@
       "items": [
         {
           "id": "9",
-          "type": "counting",
-          "countingElement": "\ud83c\udf3b",
+          "type": "problem",
+          "question": "If Ana has 4 dolls and her mum gives her another one, how many will she have in total?",
           "result": 5
         },
         {

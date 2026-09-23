@@ -87,6 +87,16 @@
           ]
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "id": "10",
+          "type": "problem",
+          "question": "If Paul has 3 marbles today, how many will he have after getting 1 more?",
+          "result": 4
+        }
+      ]
     }
   ]
 }

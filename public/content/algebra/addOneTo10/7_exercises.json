@@ -87,6 +87,16 @@
           ]
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "id": "10",
+          "type": "problem",
+          "question": "If Tony has had 5 pieces of pizza and eats a new one, how many pieces of pizza will he have in total?",
+          "result": 6
+        }
+      ]
     }
   ]
 }

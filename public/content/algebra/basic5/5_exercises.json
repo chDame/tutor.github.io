@@ -74,9 +74,9 @@
         },
         {
           "id": "9",
-          "type": "counting",
-          "countingElement": "\ud83c\udf3d",
-          "result": 2
+          "type": "problem",
+          "question": "If Paul has 3 marbles and gains another one, how many will he have in total?",
+          "result": 4
         }
       ]
     },

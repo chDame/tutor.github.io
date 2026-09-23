@@ -87,6 +87,16 @@
           ]
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "id": "10",
+          "type": "problem",
+          "question": "If Alfred has 8 balls and buys a new one, how many balls will he have in total?",
+          "result": 9
+        }
+      ]
     }
   ]
 }

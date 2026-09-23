@@ -9,9 +9,9 @@
         {
           "id": "1",
           "type": "discoverNumber",
-          "from": 11,
-          "to": 18,
-          "displayElements": true,
+          "from": 1,
+          "to": 20,
+          "displayElements": false,
           "countingElement": "\ud83c\udf4e"
         }
       ]

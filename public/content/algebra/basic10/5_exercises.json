@@ -74,9 +74,9 @@
         },
         {
           "id": "9",
-          "type": "counting",
-          "countingElement": "\ud83c\udf3d",
-          "result": 9
+          "type": "problem",
+          "question": "If Dylan is 7 years old today, how old will he be at his next birthday?",
+          "result": 8
         }
       ]
     },

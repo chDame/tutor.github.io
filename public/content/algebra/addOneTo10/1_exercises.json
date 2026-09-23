@@ -87,6 +87,16 @@
           ]
         }
       ]
+    },
+    {
+      "items": [
+        {
+          "id": "10",
+          "type": "problem",
+          "question": "If John is 2 years old today, how old will he be at his next birthday?",
+          "result": 3
+        }
+      ]
     }
   ],
   "character": {

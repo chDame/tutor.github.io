@@ -24,10 +24,10 @@ export default function DiscoverNumberItem({ item }: ItemProps<DiscoverNumber>) 
   return (
     <div className="item-box discover-number">
       <div className="item-question">
-        Read the number and count the number of {item.countingElement}s:<br />
+        Read the numbers {item.displayElements && `and count the number of ${item.countingElement}s`}:<br />
       </div>
       {rows.map((row, i) => (
-        <div className={`number-row ${item.displayElements ? 'with-display-elements' : ''}`} key={i}>
+        <div className={`number-row ${item.displayElements ? 'with-display-elements' : 'no-display-elements'}`} key={i}>
           {row.map((n) => (
             <div className="number-cell" key={n}>
               <span className="discover-number">{n}</span>

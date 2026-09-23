@@ -382,7 +382,6 @@
 }
 .number-cell {
   flex: 1;
-  min-width: 120px;
   max-width: 120px;
   width: 120px;
   min-height: 40px;
@@ -396,6 +395,10 @@
   font-size: 18px;
   padding: 4px;
   text-align: center;
+}
+.no-display-elements .number-cell {
+  width: 60px;
+  max-width: 60px;
 }
 .number-row.with-display-elements .number-cell {
   flex: 1 0 16px;
