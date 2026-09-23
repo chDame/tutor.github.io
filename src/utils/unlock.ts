@@ -51,7 +51,10 @@ export function computeExerciseStates(flat: FlatExercise[], scores: Record<strin
     }
   }
 
-  const nextValidationIndex = flat.findIndex((ex, i) => i >= reached && ex.evaluation && scores[ex.id] >3 )
+  // "Not yet passed" (score < 4), not "not yet scored" — a failed attempt must
+  // keep this same checkpoint as the retry target, not hand the shortcut to
+  // the next level's checkpoint.
+  const nextValidationIndex = flat.findIndex((ex, i) => i >= reached && ex.evaluation && (scores[ex.id] ?? 0) < 4)
 
   return flat.map((ex, i) => {
     const score = scores[ex.id] ?? null

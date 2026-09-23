@@ -1,9 +1,9 @@
 # Tutor
 
-A mobile-friendly progression-path tutor app (React + TypeScript + Vite), deployed as a static site on GitHub Pages.
+A mobile-friendly progression-path tutor app (React + TypeScript + Vite), deployed as a static site on GitHub Pages: https://chdame.github.io/tutor.github.io
 
 - Accounts (username + birth year) are stored in `localStorage` — no backend.
-- Topics: French and English are placeholders; **Algebra** is fully implemented.
+- Topics: French and English are placeholders; **Algebra** is being implemented.
 - Each topic is a Candy-Crush-style progression path of exercises, grouped by level.
 - Exercise content lives in `public/content/<topic>/<level>/<n>_exercises.json`, indexed by `public/content/<topic>/manifest.json`.
 - Scores (0-5) are stored per exercise UUID in `localStorage`.
