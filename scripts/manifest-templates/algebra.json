@@ -3,23 +3,23 @@
   "levels": [
     {
       "slug": "basic5",
-      "title": "Discover numbers from 1 to 5"
+      "title": "Numbers from 1 to 5"
     },
     {
       "slug": "basic10",
-      "title": "Let's go to 10"
+      "title": "Numbers from 1 to 10"
     },
     {
       "slug": "basic20",
-      "title": "Let's go to 20"
+      "title": "Numbers from 11 to 20"
     },
     {
       "slug": "addOneTo10",
-      "title": "Add One to 10"
+      "title": "Add One within 10"
     },
     {
       "slug": "addOneTo20",
-      "title": "Add One to 20"
+      "title": "Add One within 20"
     },
     {
       "slug": "simple-additions",

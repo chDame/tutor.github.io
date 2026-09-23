@@ -297,7 +297,7 @@
         {
           "id": "18",
           "type": "problem",
-          "question": "A pizza is cut into 9 equal slices. Paul eats 2 slices and Ana eats 1 slices. How many slices are left?",
+          "question": "A pizza is cut into 9 equal slices. Paul eats 2 slices and Ana eats 1 slice. How many slices are left?",
           "result": 6
         }
       ]
