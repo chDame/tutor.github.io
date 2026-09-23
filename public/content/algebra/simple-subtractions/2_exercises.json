@@ -1,0 +1,153 @@
+{
+  "id": "65f3469c-8686-4b0d-ad84-1cbff5308e67",
+  "title": "Simple Subtractions — Practice 2",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "f22fbff4-076e-46da-a68d-9d5419ccc85d",
+          "type": "subtraction",
+          "x": 19,
+          "y": 8,
+          "result": 11
+        },
+        {
+          "id": "4e65307f-a76c-4457-928c-f2a2f665bd32",
+          "type": "subtraction",
+          "x": 20,
+          "y": 7,
+          "result": 13
+        },
+        {
+          "id": "4c78b2a8-ca5e-4eb8-a834-3031309ca0e9",
+          "type": "subtraction",
+          "x": 14,
+          "y": 6,
+          "result": 8
+        },
+        {
+          "id": "a60e6e94-66d3-4558-a90c-45a39cca7f85",
+          "type": "subtraction",
+          "x": 24,
+          "y": 1,
+          "result": 23
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "70af9c68-4006-4b48-94f6-dea87846c332",
+          "type": "subtraction",
+          "x": 29,
+          "y": 25,
+          "result": 4
+        },
+        {
+          "id": "465e2637-ceaa-43b3-b09f-51b1e8e9bc0d",
+          "type": "subtraction",
+          "x": 17,
+          "y": 2,
+          "result": 15
+        },
+        {
+          "id": "ea179801-50a5-456a-81a8-ea8fd68f7d51",
+          "type": "subtraction",
+          "x": 25,
+          "y": 1,
+          "result": 24
+        },
+        {
+          "id": "88d35207-4cd6-4514-9150-09bf7bfb9179",
+          "type": "subtraction",
+          "x": 13,
+          "y": 5,
+          "result": 8
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "70f7e7b9-ee90-4c29-833b-4f81c3980830",
+          "type": "subtraction",
+          "x": 18,
+          "y": 16,
+          "result": 2
+        },
+        {
+          "id": "43c1e97c-1463-45fc-8f4b-16326bb13a84",
+          "type": "subtraction",
+          "x": 11,
+          "y": 7,
+          "result": 4
+        },
+        {
+          "id": "cb4b3c43-1c44-4d66-8e95-bf9dd84cf1ba",
+          "type": "subtraction",
+          "x": 15,
+          "y": 11,
+          "result": 4
+        },
+        {
+          "id": "4414bced-e904-4beb-9527-41cdeee69950",
+          "type": "subtraction",
+          "x": 18,
+          "y": 17,
+          "result": 1
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "124f2d46-1711-4803-bceb-f0cc3d64802a",
+          "type": "subtraction",
+          "x": 23,
+          "y": 21,
+          "result": 2
+        },
+        {
+          "id": "12ddca5c-013a-4063-9108-ce6121cea41a",
+          "type": "subtraction",
+          "x": 15,
+          "y": 4,
+          "result": 11
+        },
+        {
+          "id": "bba9a5d2-4200-4f70-9959-d6c1e4b336ac",
+          "type": "subtraction",
+          "x": 11,
+          "y": 7,
+          "result": 4
+        },
+        {
+          "id": "da0de65d-8410-4b57-bf0c-bd482d810fef",
+          "type": "subtraction",
+          "x": 14,
+          "y": 3,
+          "result": 11
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "158691b9-a350-4ba5-8139-716275d809ad",
+          "type": "subtraction",
+          "x": 22,
+          "y": 7,
+          "result": 15
+        },
+        {
+          "id": "1007e2db-1c51-4701-b235-b48c86be5883",
+          "type": "problem",
+          "question": "Paul was having 44 coins but gave 10 to Emma and 5 to Liam. How many coins does Paul still have?",
+          "result": 29
+        }
+      ]
+    }
+  ]
+}

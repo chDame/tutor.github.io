@@ -1,0 +1,153 @@
+{
+  "id": "8456232f-7eac-41ad-9e93-9f816e4ebd40",
+  "title": "Simple Multiplications — Checkpoint",
+  "evaluation": true,
+  "difficulty": 3,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "7b932c9a-8157-4581-8755-9d52ef7ba901",
+          "type": "multiplication",
+          "x": 8,
+          "y": 4,
+          "result": 32
+        },
+        {
+          "id": "5c7731a1-06e9-444a-9dae-9989676a6ea4",
+          "type": "multiplication",
+          "x": 6,
+          "y": 3,
+          "result": 18
+        },
+        {
+          "id": "826b94e7-0468-438c-b790-8b5e5e2639e1",
+          "type": "multiplication",
+          "x": 5,
+          "y": 2,
+          "result": 10
+        },
+        {
+          "id": "80aab020-ed78-4a71-be0b-64b898c6c45f",
+          "type": "multiplication",
+          "x": 8,
+          "y": 9,
+          "result": 72
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9e0cdc92-9e55-4220-82af-f92157dfa96a",
+          "type": "multiplication",
+          "x": 5,
+          "y": 10,
+          "result": 50
+        },
+        {
+          "id": "7e5d1c6c-c5a2-4045-8bbe-9e88a9042988",
+          "type": "multiplication",
+          "x": 3,
+          "y": 2,
+          "result": 6
+        },
+        {
+          "id": "a2824ae0-bed9-4c9a-870b-6ec4006e7caa",
+          "type": "multiplication",
+          "x": 3,
+          "y": 6,
+          "result": 18
+        },
+        {
+          "id": "e599c3e6-f82e-470a-afc6-f8735e26aeef",
+          "type": "multiplication",
+          "x": 3,
+          "y": 3,
+          "result": 9
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "2c0d81f1-0cb6-402c-9ac5-4120558a76aa",
+          "type": "multiplication",
+          "x": 10,
+          "y": 4,
+          "result": 40
+        },
+        {
+          "id": "19d3e323-4a63-40aa-835a-cfb7e6c83360",
+          "type": "multiplication",
+          "x": 2,
+          "y": 4,
+          "result": 8
+        },
+        {
+          "id": "407b00e4-815f-48db-b56e-c53bb6429201",
+          "type": "multiplication",
+          "x": 2,
+          "y": 4,
+          "result": 8
+        },
+        {
+          "id": "78b4e999-094a-4584-a7d4-ba1d9f4ad5ac",
+          "type": "multiplication",
+          "x": 4,
+          "y": 10,
+          "result": 40
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "a5210530-6ca8-45a6-ab6a-35d476376fa4",
+          "type": "multiplication",
+          "x": 10,
+          "y": 9,
+          "result": 90
+        },
+        {
+          "id": "be146add-35f7-43f3-8a38-dc19b31868a3",
+          "type": "multiplication",
+          "x": 10,
+          "y": 4,
+          "result": 40
+        },
+        {
+          "id": "a1a87a24-6622-4495-8919-efe0d18d6231",
+          "type": "multiplication",
+          "x": 2,
+          "y": 5,
+          "result": 10
+        },
+        {
+          "id": "358c61ca-3b98-4320-a3e4-93c8246841ea",
+          "type": "multiplication",
+          "x": 3,
+          "y": 3,
+          "result": 9
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "8daab782-fd0b-491a-ae10-6b0dc0ec37fa",
+          "type": "multiplication",
+          "x": 6,
+          "y": 2,
+          "result": 12
+        },
+        {
+          "id": "ad949e2f-bac2-4b89-a720-61178a23ba0a",
+          "type": "problem",
+          "question": "Ana has 8 boxes with 6 pens in each box. How many pens does Ana have in total?",
+          "result": 48
+        }
+      ]
+    }
+  ]
+}

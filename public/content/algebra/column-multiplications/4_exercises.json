@@ -1,0 +1,187 @@
+{
+  "id": "189ec24a-404a-483e-9feb-24410da61ba8",
+  "title": "Column Multiplications — Checkpoint",
+  "evaluation": true,
+  "difficulty": 4,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "cee048ad-5f08-490a-a568-2b63629091fc",
+          "type": "columnMultiplication",
+          "operands": [
+            96,
+            9
+          ],
+          "result": 864
+        },
+        {
+          "id": "b45c6b3f-4c5f-42ac-8d27-cb827397a849",
+          "type": "columnMultiplication",
+          "operands": [
+            32,
+            3
+          ],
+          "result": 96
+        },
+        {
+          "id": "6bc75b65-888d-4171-8728-575a385135b8",
+          "type": "columnMultiplication",
+          "operands": [
+            83,
+            8
+          ],
+          "result": 664
+        },
+        {
+          "id": "4990c8f8-e7cf-4ce2-a15f-4e87029662df",
+          "type": "columnMultiplication",
+          "operands": [
+            62,
+            9
+          ],
+          "result": 558
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "73cb58ea-dd81-429e-b355-d43b03d6a299",
+          "type": "columnMultiplication",
+          "operands": [
+            78,
+            3
+          ],
+          "result": 234
+        },
+        {
+          "id": "d5e59201-fab3-4148-a8be-eb6f6c71e723",
+          "type": "columnMultiplication",
+          "operands": [
+            56,
+            4
+          ],
+          "result": 224
+        },
+        {
+          "id": "5d58d2b6-a102-46fd-98bc-bd4e6f218efb",
+          "type": "columnMultiplication",
+          "operands": [
+            18,
+            9
+          ],
+          "result": 162
+        },
+        {
+          "id": "4fbb089e-2144-4bee-8146-cd7d8932fd19",
+          "type": "columnMultiplication",
+          "operands": [
+            16,
+            9
+          ],
+          "result": 144
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "55b220d2-9e83-4d46-b4eb-4638521f8833",
+          "type": "columnMultiplication",
+          "operands": [
+            94,
+            9
+          ],
+          "result": 846
+        },
+        {
+          "id": "239b97b3-baa0-4e2a-a108-1746bc2f95aa",
+          "type": "columnMultiplication",
+          "operands": [
+            36,
+            9
+          ],
+          "result": 324
+        },
+        {
+          "id": "a06ee313-8b8c-4bc4-a7e1-f4806e9a43a2",
+          "type": "columnMultiplication",
+          "operands": [
+            99,
+            3
+          ],
+          "result": 297
+        },
+        {
+          "id": "f5043b55-1681-4e1b-993f-5893a9ce7745",
+          "type": "columnMultiplication",
+          "operands": [
+            38,
+            3
+          ],
+          "result": 114
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "5c1c6940-88b4-4f43-9c03-c13c0f0341b9",
+          "type": "columnMultiplication",
+          "operands": [
+            32,
+            8
+          ],
+          "result": 256
+        },
+        {
+          "id": "4f8d3dcd-6272-43a8-b229-f41edec589c1",
+          "type": "columnMultiplication",
+          "operands": [
+            30,
+            2
+          ],
+          "result": 60
+        },
+        {
+          "id": "36958ce7-de47-4b17-8e52-c99d2dec32a6",
+          "type": "columnMultiplication",
+          "operands": [
+            57,
+            2
+          ],
+          "result": 114
+        },
+        {
+          "id": "2a18cbec-d795-4ccd-8314-fe7a6d72d600",
+          "type": "columnMultiplication",
+          "operands": [
+            20,
+            7
+          ],
+          "result": 140
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9e160c16-017e-42b9-9227-d7766b19ffd4",
+          "type": "columnMultiplication",
+          "operands": [
+            33,
+            3
+          ],
+          "result": 99
+        },
+        {
+          "id": "c01205ee-544c-406b-89c9-9126e385366c",
+          "type": "problem",
+          "question": "Maria has 9 boxes with 4 apples in each box. How many apples does Maria have in total?",
+          "result": 36
+        }
+      ]
+    }
+  ]
+}

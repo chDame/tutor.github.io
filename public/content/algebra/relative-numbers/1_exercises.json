@@ -1,0 +1,153 @@
+{
+  "id": "323d35ce-f5c6-4675-9762-aedd20b24b31",
+  "title": "Relative Numbers — Practice 1",
+  "evaluation": false,
+  "difficulty": 4,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "015cdbc5-af2a-4a25-ae08-e151d090dcd0",
+          "type": "relativeSubtraction",
+          "x": 3,
+          "y": 6,
+          "result": -3
+        },
+        {
+          "id": "6b6ac4b0-4301-433d-aaae-2c050c9c55d0",
+          "type": "relativeSubtraction",
+          "x": 14,
+          "y": -4,
+          "result": 18
+        },
+        {
+          "id": "76d42ad2-af2e-4427-ac49-d88fdeb443cf",
+          "type": "relativeSubtraction",
+          "x": -2,
+          "y": -18,
+          "result": 16
+        },
+        {
+          "id": "d41ddf8d-73f3-4e0a-ac0a-9d6fd8852254",
+          "type": "relativeSubtraction",
+          "x": 14,
+          "y": -7,
+          "result": 21
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "3f6ab291-6372-4ee2-b806-3a0800f1e786",
+          "type": "relativeAddition",
+          "x": 19,
+          "y": -4,
+          "result": 15
+        },
+        {
+          "id": "af44ec41-f700-4314-9102-633ea2114f65",
+          "type": "relativeAddition",
+          "x": -10,
+          "y": 9,
+          "result": -1
+        },
+        {
+          "id": "de9d4f5d-0d0a-43c8-b7e1-91b8849cb1e3",
+          "type": "relativeSubtraction",
+          "x": -8,
+          "y": -10,
+          "result": 2
+        },
+        {
+          "id": "e64da659-d8fe-4d71-9957-4924be0b3164",
+          "type": "relativeSubtraction",
+          "x": -12,
+          "y": -5,
+          "result": -7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "c0975999-3722-4cbc-b7d0-96a6c726e7b8",
+          "type": "relativeAddition",
+          "x": -1,
+          "y": -8,
+          "result": -9
+        },
+        {
+          "id": "9ed91281-b731-4ee5-9edf-5ec67dbb2dd9",
+          "type": "relativeAddition",
+          "x": 14,
+          "y": -13,
+          "result": 1
+        },
+        {
+          "id": "a8be5b9f-643f-4809-a945-ead2fbf9edf0",
+          "type": "relativeAddition",
+          "x": 7,
+          "y": -1,
+          "result": 6
+        },
+        {
+          "id": "a0477a0d-7495-44cd-ab66-c6dc4f3963d8",
+          "type": "relativeAddition",
+          "x": 11,
+          "y": -12,
+          "result": -1
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "b2e80b50-12a7-491d-8076-7c98b8c632c9",
+          "type": "relativeSubtraction",
+          "x": -2,
+          "y": 2,
+          "result": -4
+        },
+        {
+          "id": "5bcaa5a1-2103-4d7f-901e-efe9247a8390",
+          "type": "relativeAddition",
+          "x": -13,
+          "y": 9,
+          "result": -4
+        },
+        {
+          "id": "b3eb69b3-1da2-4331-aa1f-4256ba1cf9bf",
+          "type": "relativeSubtraction",
+          "x": -10,
+          "y": 15,
+          "result": -25
+        },
+        {
+          "id": "5b15eb11-4503-425e-a3df-1a4f52752e6d",
+          "type": "relativeSubtraction",
+          "x": -11,
+          "y": -19,
+          "result": 8
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "d1cf772f-739d-49be-87c1-2c671b439acc",
+          "type": "relativeAddition",
+          "x": -20,
+          "y": -1,
+          "result": -21
+        },
+        {
+          "id": "289d6a2b-b249-4c80-8878-bf6484d392e4",
+          "type": "problem",
+          "question": "The temperature was -6°C in the morning. It rose by 9 degrees. What is the temperature now?",
+          "result": 3
+        }
+      ]
+    }
+  ]
+}

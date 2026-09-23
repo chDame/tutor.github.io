@@ -1,0 +1,128 @@
+{
+  "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
+  "title": "Basic Numbers — Practice 14",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "6c637008-2301-4a4d-8392-58044ec4bb87",
+          "type": "discoverNumber",
+          "from": 1,
+          "to": 8,
+          "displayElements": true,
+          "countingElement": "🍎"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6c637008-2301-4a4d-8392-58044ec4bb87",
+          "type": "counting",
+          "countingElement": "🌸",
+          "result": 7
+        },
+        {
+          "id": "3dd6cf1d-a897-4933-8774-753105610b1c",
+          "type": "counting",
+          "countingElement": "🌹",
+          "result": 8
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6c637008-2301-4a4d-8392-58044ec4bb87",
+          "type": "counting",
+          "countingElement": "🍄",
+          "result": 4
+        },
+        {
+          "id": "3dd6cf1d-a897-4933-8774-753105610b1c",
+          "type": "counting",
+          "countingElement": "🌲",
+          "result": 5
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6c637008-2301-4a4d-8392-58044ec4bb87",
+          "type": "counting",
+          "countingElement": "🌻",
+          "result": 3
+        },
+        {
+          "id": "3dd6cf1d-a897-4933-8774-753105610b1c",
+          "type": "counting",
+          "countingElement": "🌽",
+          "result": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6c637008-2301-4a4d-8392-58044ec4bb87",
+          "type": "counting",
+          "countingElement": "🍍",
+          "result": 1
+        },
+        {
+          "id": "3dd6cf1d-a897-4933-8774-753105610b1c",
+          "type": "counting",
+          "countingElement": "🍓",
+          "result": 2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6c637008-2301-4a4d-8392-58044ec4bb87",
+          "type": "counting",
+          "countingElement": "🏎",
+          "result": 3
+        },
+        {
+          "id": "3dd6cf1d-a897-4933-8774-753105610b1c",
+          "type": "counting",
+          "countingElement": "🚕",
+          "result": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6c637008-2301-4a4d-8392-58044ec4bb87",
+          "type": "discoverNumber",
+          "from": 1,
+          "to": 8,
+          "displayElements": true,
+          "countingElement": "🚕"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6c637008-2301-4a4d-8392-58044ec4bb87",
+          "type": "counting",
+          "countingElement": "🍕",
+          "result": 7
+        },
+        {
+          "id": "3dd6cf1d-a897-4933-8774-753105610b1c",
+          "type": "counting",
+          "countingElement": "🍗",
+          "result": 8
+        }
+      ]
+    }
+  ]
+}

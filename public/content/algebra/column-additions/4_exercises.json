@@ -1,0 +1,187 @@
+{
+  "id": "d4260465-07ad-427d-9bcb-3018e4896a72",
+  "title": "Column Additions — Checkpoint",
+  "evaluation": true,
+  "difficulty": 3,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "e417e976-dc8a-46a6-9343-1e561003c918",
+          "type": "columnAddition",
+          "operands": [
+            485,
+            735
+          ],
+          "result": 1220
+        },
+        {
+          "id": "d4feb0f0-a4f6-4647-8104-0568b96815e1",
+          "type": "columnAddition",
+          "operands": [
+            763,
+            772
+          ],
+          "result": 1535
+        },
+        {
+          "id": "5c249a13-3ede-4f68-81d3-bde8bd98aa76",
+          "type": "columnAddition",
+          "operands": [
+            347,
+            355
+          ],
+          "result": 702
+        },
+        {
+          "id": "fff1b8d6-d2eb-4e80-a3ee-6e23d0b90925",
+          "type": "columnAddition",
+          "operands": [
+            487,
+            173
+          ],
+          "result": 660
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "b9590cf8-41ac-4981-8cca-ab3eabf7362e",
+          "type": "columnAddition",
+          "operands": [
+            968,
+            490
+          ],
+          "result": 1458
+        },
+        {
+          "id": "c3998b68-479a-4764-831d-e47c6a952b70",
+          "type": "columnAddition",
+          "operands": [
+            928,
+            854
+          ],
+          "result": 1782
+        },
+        {
+          "id": "79b976e3-040a-4b5d-b823-5190ef9a7739",
+          "type": "columnAddition",
+          "operands": [
+            899,
+            156
+          ],
+          "result": 1055
+        },
+        {
+          "id": "d6598f0a-1cbc-46bb-a136-509bba812509",
+          "type": "columnAddition",
+          "operands": [
+            393,
+            925
+          ],
+          "result": 1318
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "50036e46-d826-4010-8963-26bd86aa4ac3",
+          "type": "columnAddition",
+          "operands": [
+            888,
+            140
+          ],
+          "result": 1028
+        },
+        {
+          "id": "f17ee603-e4df-43e6-a7e9-faef5b2fc8aa",
+          "type": "columnAddition",
+          "operands": [
+            297,
+            969
+          ],
+          "result": 1266
+        },
+        {
+          "id": "1914120a-b1ed-4f1d-ae72-88e9d69357cd",
+          "type": "columnAddition",
+          "operands": [
+            257,
+            400
+          ],
+          "result": 657
+        },
+        {
+          "id": "20b0fe48-86ef-4a6f-be63-c20691448a92",
+          "type": "columnAddition",
+          "operands": [
+            349,
+            477
+          ],
+          "result": 826
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "8e0e42c8-9d1c-4312-ae1c-910ff712ca15",
+          "type": "columnAddition",
+          "operands": [
+            843,
+            323
+          ],
+          "result": 1166
+        },
+        {
+          "id": "158c2f5e-af24-43d0-bdc3-23137213791e",
+          "type": "columnAddition",
+          "operands": [
+            877,
+            352
+          ],
+          "result": 1229
+        },
+        {
+          "id": "f60b2777-490a-412e-9cfb-6aa160899dd5",
+          "type": "columnAddition",
+          "operands": [
+            782,
+            646
+          ],
+          "result": 1428
+        },
+        {
+          "id": "0e9f985e-cee4-451f-a811-50a708f768fb",
+          "type": "columnAddition",
+          "operands": [
+            222,
+            468
+          ],
+          "result": 690
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "f33c586b-15ee-43fc-8b2b-07ee1674d39f",
+          "type": "columnAddition",
+          "operands": [
+            718,
+            734
+          ],
+          "result": 1452
+        },
+        {
+          "id": "03c5648d-accd-428f-8081-04f66a102518",
+          "type": "problem",
+          "question": "Paul had 37 coins. Emma gave Paul 15 more coins. How many coins does Paul have now?",
+          "result": 52
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "47ba8773-a8a4-4e95-ba1d-b990d010f054",
+  "title": "Basic Numbers — Practice 2",
+  "evaluation": false,
+  "difficulty": 0,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "discoverNumber",
+          "from": 1,
+          "to": 4,
+          "displayElements": true,
+          "countingElement": "🎁"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "2",
+          "type": "counting",
+          "countingElement": "🌸",
+          "result": 1
+        },
+        {
+          "id": "3",
+          "type": "counting",
+          "countingElement": "🌹",
+          "result": 2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "type": "counting",
+          "countingElement": "🍄",
+          "result": 3
+        },
+        {
+          "id": "5",
+          "type": "counting",
+          "countingElement": "🌲",
+          "result": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6",
+          "type": "discoverNumber",
+          "from": 1,
+          "to": 4,
+          "displayElements": true,
+          "countingElement": "🌻"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "7",
+          "type": "counting",
+          "countingElement": "🍍",
+          "result": 4
+        },
+        {
+          "id": "8",
+          "type": "counting",
+          "countingElement": "🍓",
+          "result": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9",
+          "type": "counting",
+          "countingElement": "🏎",
+          "result": 2
+        },
+        {
+          "id": "10",
+          "type": "counting",
+          "countingElement": "🚕",
+          "result": 1
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "11",
+          "type": "counting",
+          "countingElement": "🍕",
+          "result": 4
+        },
+        {
+          "id": "12",
+          "type": "counting",
+          "countingElement": "🍗",
+          "result": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "901c3cd3-4982-4cf5-8e6b-09ca2247b1b0",
+  "title": "Simple Subtractions — Practice 1",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "6e80ba41-56ed-46c9-951a-1907d445cc32",
+          "type": "subtraction",
+          "x": 21,
+          "y": 8,
+          "result": 13
+        },
+        {
+          "id": "387308d5-1df7-4f8e-852b-6a4cac712fe5",
+          "type": "subtraction",
+          "x": 11,
+          "y": 1,
+          "result": 10
+        },
+        {
+          "id": "a01def02-4e5d-448f-93fd-bcf40244cbec",
+          "type": "subtraction",
+          "x": 10,
+          "y": 1,
+          "result": 9
+        },
+        {
+          "id": "df52a498-7178-4027-b598-dfd7243c6c30",
+          "type": "subtraction",
+          "x": 11,
+          "y": 4,
+          "result": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4cba2b65-7473-4354-8e01-5f3a912bf59e",
+          "type": "subtraction",
+          "x": 21,
+          "y": 18,
+          "result": 3
+        },
+        {
+          "id": "1efa850f-2e5d-44fa-b23d-0db81e3c2071",
+          "type": "subtraction",
+          "x": 23,
+          "y": 17,
+          "result": 6
+        },
+        {
+          "id": "168393a2-f643-4ee2-9f19-1f6eee1bb12c",
+          "type": "subtraction",
+          "x": 16,
+          "y": 3,
+          "result": 13
+        },
+        {
+          "id": "bf122279-0899-489b-9dc0-8cec8fe4d9af",
+          "type": "subtraction",
+          "x": 21,
+          "y": 8,
+          "result": 13
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "2cbebe2a-1b0b-458b-a3be-aa02604f8d3f",
+          "type": "subtraction",
+          "x": 22,
+          "y": 13,
+          "result": 9
+        },
+        {
+          "id": "fcbf8ac9-4836-4f98-abf9-60282b7b4910",
+          "type": "subtraction",
+          "x": 12,
+          "y": 8,
+          "result": 4
+        },
+        {
+          "id": "d9660ab8-6bad-4748-8bc5-abac18d71469",
+          "type": "subtraction",
+          "x": 19,
+          "y": 12,
+          "result": 7
+        },
+        {
+          "id": "3362f6c4-84de-4463-b147-266bfa3dd5fe",
+          "type": "subtraction",
+          "x": 17,
+          "y": 2,
+          "result": 15
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "69ced7e5-d836-4e9e-b27a-500e1b866d66",
+          "type": "subtraction",
+          "x": 25,
+          "y": 10,
+          "result": 15
+        },
+        {
+          "id": "e32128c9-6c42-4e2c-88f7-e2bce333b89c",
+          "type": "subtraction",
+          "x": 11,
+          "y": 4,
+          "result": 7
+        },
+        {
+          "id": "e18ccb36-ea34-4b46-9de1-25bbbc531775",
+          "type": "subtraction",
+          "x": 10,
+          "y": 1,
+          "result": 9
+        },
+        {
+          "id": "86009ad7-71d8-4fad-bde7-6f814bbc4f61",
+          "type": "subtraction",
+          "x": 16,
+          "y": 14,
+          "result": 2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "1559a2f2-93f6-4215-ae2a-825b468cb28c",
+          "type": "subtraction",
+          "x": 17,
+          "y": 12,
+          "result": 5
+        },
+        {
+          "id": "5e685679-a150-4cb0-8750-c902b8de3231",
+          "type": "problem",
+          "question": "Ana was having 20 books but gave 4 to Maria and 2 to Josh. How many books does Ana still have?",
+          "result": 14
+        }
+      ]
+    }
+  ]
+}

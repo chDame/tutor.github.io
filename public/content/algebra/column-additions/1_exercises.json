@@ -1,0 +1,187 @@
+{
+  "id": "b5ef293f-c22d-4596-b365-4d9ca5ca5c30",
+  "title": "Column Additions — Practice 1",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "bbc63f14-be3e-4765-bc70-8f170f82d0e1",
+          "type": "columnAddition",
+          "operands": [
+            638,
+            846
+          ],
+          "result": 1484
+        },
+        {
+          "id": "f6ce5648-c25b-405a-9780-393cc5ae9c0f",
+          "type": "columnAddition",
+          "operands": [
+            617,
+            769
+          ],
+          "result": 1386
+        },
+        {
+          "id": "ee8db096-03e0-4cf0-8faf-65be7e194232",
+          "type": "columnAddition",
+          "operands": [
+            346,
+            194
+          ],
+          "result": 540
+        },
+        {
+          "id": "0060f64e-5bf2-4f6c-b6d8-8aa4dc325545",
+          "type": "columnAddition",
+          "operands": [
+            484,
+            506
+          ],
+          "result": 990
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "cb4d614e-51b6-4231-bd40-11020093e136",
+          "type": "columnAddition",
+          "operands": [
+            402,
+            325
+          ],
+          "result": 727
+        },
+        {
+          "id": "95e7ada4-f3ff-44dd-bc93-76b6580a424d",
+          "type": "columnAddition",
+          "operands": [
+            323,
+            142
+          ],
+          "result": 465
+        },
+        {
+          "id": "b6c1c2e0-cef8-4918-a92f-1770507f031f",
+          "type": "columnAddition",
+          "operands": [
+            572,
+            255
+          ],
+          "result": 827
+        },
+        {
+          "id": "3372e7a1-8da8-46c0-a06b-8da4a0f66c2c",
+          "type": "columnAddition",
+          "operands": [
+            771,
+            355
+          ],
+          "result": 1126
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "5c674377-a3d3-44e4-b2ee-47b1ccf362db",
+          "type": "columnAddition",
+          "operands": [
+            315,
+            457
+          ],
+          "result": 772
+        },
+        {
+          "id": "035d8f84-2cfd-4bb4-a976-4b4a1c4aaf57",
+          "type": "columnAddition",
+          "operands": [
+            511,
+            926
+          ],
+          "result": 1437
+        },
+        {
+          "id": "19650ba9-76b8-4907-a048-a46a26a96614",
+          "type": "columnAddition",
+          "operands": [
+            897,
+            935
+          ],
+          "result": 1832
+        },
+        {
+          "id": "7f288c5d-1880-46eb-8b84-97ed1ae9b780",
+          "type": "columnAddition",
+          "operands": [
+            825,
+            924
+          ],
+          "result": 1749
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4caad11c-104b-47e6-bfe2-c749c81c4c64",
+          "type": "columnAddition",
+          "operands": [
+            147,
+            237
+          ],
+          "result": 384
+        },
+        {
+          "id": "64082d92-3faf-4dd0-ada8-bbc7c171ccea",
+          "type": "columnAddition",
+          "operands": [
+            360,
+            603
+          ],
+          "result": 963
+        },
+        {
+          "id": "0ebf88df-5a39-4d8b-9309-8739556a27c1",
+          "type": "columnAddition",
+          "operands": [
+            201,
+            282
+          ],
+          "result": 483
+        },
+        {
+          "id": "407ba28f-737a-465e-a29a-97a848872205",
+          "type": "columnAddition",
+          "operands": [
+            697,
+            181
+          ],
+          "result": 878
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "98cf6153-b5f1-498a-ab9d-5d911ba42cc5",
+          "type": "columnAddition",
+          "operands": [
+            967,
+            439
+          ],
+          "result": 1406
+        },
+        {
+          "id": "71ca1c68-f9cb-4675-8499-659b31f4e06f",
+          "type": "problem",
+          "question": "Noah had 18 apples. Josh gave Noah 19 more apples. How many apples does Noah have now?",
+          "result": 37
+        }
+      ]
+    }
+  ]
+}

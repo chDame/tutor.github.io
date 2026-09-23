@@ -1,0 +1,170 @@
+{
+  "id": "76e89da0-885b-4bf7-97ec-976854d53717",
+  "title": "Euclidian Divisions — Checkpoint",
+  "evaluation": true,
+  "difficulty": 4,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "d6f761ca-19f5-4ace-a606-e5e104ef6b3b",
+          "type": "euclidianDivision",
+          "x": 70,
+          "y": 7,
+          "quotient": 10,
+          "remainder": 0
+        },
+        {
+          "id": "e3494653-8b68-45bf-becd-69aa3abb51ec",
+          "type": "euclidianDivision",
+          "x": 40,
+          "y": 7,
+          "quotient": 5,
+          "remainder": 5
+        },
+        {
+          "id": "2d19be70-6788-4201-aabf-a49b05409d41",
+          "type": "euclidianDivision",
+          "x": 21,
+          "y": 7,
+          "quotient": 3,
+          "remainder": 0
+        },
+        {
+          "id": "278dfbec-861f-49cc-924b-383dc0a1a669",
+          "type": "euclidianDivision",
+          "x": 19,
+          "y": 8,
+          "quotient": 2,
+          "remainder": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "505c9463-f584-4f31-93d1-b4940a712959",
+          "type": "euclidianDivision",
+          "x": 12,
+          "y": 3,
+          "quotient": 4,
+          "remainder": 0
+        },
+        {
+          "id": "1bd5b9d5-696f-4fca-a4be-515c48dfa5db",
+          "type": "euclidianDivision",
+          "x": 50,
+          "y": 8,
+          "quotient": 6,
+          "remainder": 2
+        },
+        {
+          "id": "3ee958c1-8ce1-4131-9d52-f99b19527eb8",
+          "type": "euclidianDivision",
+          "x": 86,
+          "y": 9,
+          "quotient": 9,
+          "remainder": 5
+        },
+        {
+          "id": "6f4ffd82-9677-4d11-b99f-f73d59ff9b66",
+          "type": "euclidianDivision",
+          "x": 66,
+          "y": 7,
+          "quotient": 9,
+          "remainder": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "e0db1599-8fa0-4988-88aa-520a94009b4b",
+          "type": "euclidianDivision",
+          "x": 22,
+          "y": 6,
+          "quotient": 3,
+          "remainder": 4
+        },
+        {
+          "id": "f6992c17-a364-4d2a-bc82-056b614cdf53",
+          "type": "euclidianDivision",
+          "x": 24,
+          "y": 2,
+          "quotient": 12,
+          "remainder": 0
+        },
+        {
+          "id": "c0cd8f25-3f9d-4328-a9fb-bec2821401d6",
+          "type": "euclidianDivision",
+          "x": 62,
+          "y": 7,
+          "quotient": 8,
+          "remainder": 6
+        },
+        {
+          "id": "5e10f0a8-f59b-45cb-b177-0879b6ab2e03",
+          "type": "euclidianDivision",
+          "x": 21,
+          "y": 2,
+          "quotient": 10,
+          "remainder": 1
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "e90f7b17-8161-4326-a4b5-13b6118d8a19",
+          "type": "euclidianDivision",
+          "x": 110,
+          "y": 9,
+          "quotient": 12,
+          "remainder": 2
+        },
+        {
+          "id": "44bb404e-1143-42dd-9431-3c34415a37fc",
+          "type": "euclidianDivision",
+          "x": 70,
+          "y": 9,
+          "quotient": 7,
+          "remainder": 7
+        },
+        {
+          "id": "642895d1-b9bd-4614-9dc7-73746114b524",
+          "type": "euclidianDivision",
+          "x": 32,
+          "y": 4,
+          "quotient": 8,
+          "remainder": 0
+        },
+        {
+          "id": "1a4e73d2-386e-4d72-bae7-e8d5f7787fe6",
+          "type": "euclidianDivision",
+          "x": 10,
+          "y": 3,
+          "quotient": 3,
+          "remainder": 1
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "c262e2a8-9513-487e-9691-040d08aea9b8",
+          "type": "euclidianDivision",
+          "x": 40,
+          "y": 5,
+          "quotient": 8,
+          "remainder": 0
+        },
+        {
+          "id": "caa23f77-3b76-47bc-8e29-44bc6f2b11e6",
+          "type": "problem",
+          "question": "Maria has 4 apples to share equally among 2 friends. How many apples does each friend get?",
+          "result": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "367cb132-32bd-451d-bec1-c1b491ff0f7a",
+  "title": "Euclidian Divisions — Practice 3",
+  "evaluation": false,
+  "difficulty": 3,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "47249c1d-d234-4322-beb8-18a4b1ad3c41",
+          "type": "euclidianDivision",
+          "x": 21,
+          "y": 2,
+          "quotient": 10,
+          "remainder": 1
+        },
+        {
+          "id": "f0904049-f1d1-4448-8fd1-d7855da14fbc",
+          "type": "euclidianDivision",
+          "x": 23,
+          "y": 2,
+          "quotient": 11,
+          "remainder": 1
+        },
+        {
+          "id": "2e0aae6d-b59b-45d3-9a18-2ea2ff1cbac6",
+          "type": "euclidianDivision",
+          "x": 11,
+          "y": 2,
+          "quotient": 5,
+          "remainder": 1
+        },
+        {
+          "id": "d10bef34-46fc-4824-9241-8d2864ee8db2",
+          "type": "euclidianDivision",
+          "x": 94,
+          "y": 8,
+          "quotient": 11,
+          "remainder": 6
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "f7668e4a-1f5a-4fc0-ab56-160baee0610b",
+          "type": "euclidianDivision",
+          "x": 58,
+          "y": 8,
+          "quotient": 7,
+          "remainder": 2
+        },
+        {
+          "id": "2cc3ed02-efee-411f-af35-b2f7fc55f0db",
+          "type": "euclidianDivision",
+          "x": 30,
+          "y": 4,
+          "quotient": 7,
+          "remainder": 2
+        },
+        {
+          "id": "a197dd31-299a-45a2-a509-29757ad2dccb",
+          "type": "euclidianDivision",
+          "x": 7,
+          "y": 2,
+          "quotient": 3,
+          "remainder": 1
+        },
+        {
+          "id": "40e65bc0-65a6-4300-85f8-da44dd6d15cf",
+          "type": "euclidianDivision",
+          "x": 103,
+          "y": 9,
+          "quotient": 11,
+          "remainder": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9f0fd779-a84c-4cfd-b4ad-3957c990805a",
+          "type": "euclidianDivision",
+          "x": 101,
+          "y": 8,
+          "quotient": 12,
+          "remainder": 5
+        },
+        {
+          "id": "428e8391-dc0d-48dd-95b1-18454504e5c0",
+          "type": "euclidianDivision",
+          "x": 28,
+          "y": 3,
+          "quotient": 9,
+          "remainder": 1
+        },
+        {
+          "id": "392286a7-8558-45e3-bafc-1cb075cbda17",
+          "type": "euclidianDivision",
+          "x": 14,
+          "y": 2,
+          "quotient": 7,
+          "remainder": 0
+        },
+        {
+          "id": "e0956bae-8110-4577-b9b8-caaaefa0dfa0",
+          "type": "euclidianDivision",
+          "x": 59,
+          "y": 7,
+          "quotient": 8,
+          "remainder": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "3549e229-6f7d-4686-a04c-33160f0b3065",
+          "type": "euclidianDivision",
+          "x": 45,
+          "y": 9,
+          "quotient": 5,
+          "remainder": 0
+        },
+        {
+          "id": "7d0ad39d-29df-4e80-a9f6-bd3e571b3366",
+          "type": "euclidianDivision",
+          "x": 10,
+          "y": 3,
+          "quotient": 3,
+          "remainder": 1
+        },
+        {
+          "id": "2bbdaae0-da8e-43b0-9e1c-232d0e9efaed",
+          "type": "euclidianDivision",
+          "x": 64,
+          "y": 7,
+          "quotient": 9,
+          "remainder": 1
+        },
+        {
+          "id": "d044c257-cb0b-4b64-a658-2e59e662d876",
+          "type": "euclidianDivision",
+          "x": 19,
+          "y": 3,
+          "quotient": 6,
+          "remainder": 1
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6d2302e3-a016-4901-a176-2b157fae6712",
+          "type": "euclidianDivision",
+          "x": 62,
+          "y": 5,
+          "quotient": 12,
+          "remainder": 2
+        },
+        {
+          "id": "e45e020e-f176-41bb-83d4-53910293c8da",
+          "type": "problem",
+          "question": "Josh has 40 coins to share equally among 5 friends. How many coins does each friend get?",
+          "result": 8
+        }
+      ]
+    }
+  ]
+}

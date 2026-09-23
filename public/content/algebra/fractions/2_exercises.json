@@ -1,0 +1,306 @@
+{
+  "id": "ca56ad10-6636-46a0-b57f-da8bfc84767f",
+  "title": "Fractions — Practice 2",
+  "evaluation": false,
+  "difficulty": 5,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "3784e17f-b227-4966-b85b-54a51e35a8a7",
+          "type": "fractionSubtraction",
+          "x": {
+            "num": 2,
+            "den": 4
+          },
+          "y": {
+            "num": 1,
+            "den": 4
+          },
+          "result": {
+            "num": 1,
+            "den": 4
+          }
+        },
+        {
+          "id": "70caa8f6-8bb9-4cda-be75-07f968ce4c0c",
+          "type": "fractionAddition",
+          "x": {
+            "num": 2,
+            "den": 10
+          },
+          "y": {
+            "num": 3,
+            "den": 10
+          },
+          "result": {
+            "num": 1,
+            "den": 2
+          }
+        },
+        {
+          "id": "39f8b59f-8a8f-46c9-8b10-bf459f9aa10c",
+          "type": "fractionSubtraction",
+          "x": {
+            "num": 1,
+            "den": 5
+          },
+          "y": {
+            "num": 1,
+            "den": 5
+          },
+          "result": {
+            "num": 0,
+            "den": 1
+          }
+        },
+        {
+          "id": "ecdc7132-19e8-4c7e-93e7-e2714833f466",
+          "type": "fractionAddition",
+          "x": {
+            "num": 1,
+            "den": 10
+          },
+          "y": {
+            "num": 8,
+            "den": 10
+          },
+          "result": {
+            "num": 9,
+            "den": 10
+          }
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9e7a1e22-1d4d-4cf9-a83b-b9417e75bedd",
+          "type": "fractionAddition",
+          "x": {
+            "num": 2,
+            "den": 4
+          },
+          "y": {
+            "num": 1,
+            "den": 4
+          },
+          "result": {
+            "num": 3,
+            "den": 4
+          }
+        },
+        {
+          "id": "44fe9bd4-86cc-4d93-96c4-17597876e48c",
+          "type": "fractionAddition",
+          "x": {
+            "num": 5,
+            "den": 6
+          },
+          "y": {
+            "num": 5,
+            "den": 6
+          },
+          "result": {
+            "num": 5,
+            "den": 3
+          }
+        },
+        {
+          "id": "1493a205-dd75-4537-87ae-6dbdd950a359",
+          "type": "fractionSubtraction",
+          "x": {
+            "num": 4,
+            "den": 7
+          },
+          "y": {
+            "num": 2,
+            "den": 7
+          },
+          "result": {
+            "num": 2,
+            "den": 7
+          }
+        },
+        {
+          "id": "2d72aa0d-19f5-414a-bfba-4124cc2d735b",
+          "type": "fractionAddition",
+          "x": {
+            "num": 2,
+            "den": 6
+          },
+          "y": {
+            "num": 5,
+            "den": 6
+          },
+          "result": {
+            "num": 7,
+            "den": 6
+          }
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9686f764-0a6c-4cec-935f-06e71da6ef16",
+          "type": "fractionSubtraction",
+          "x": {
+            "num": 2,
+            "den": 4
+          },
+          "y": {
+            "num": 1,
+            "den": 4
+          },
+          "result": {
+            "num": 1,
+            "den": 4
+          }
+        },
+        {
+          "id": "90ec85ba-be31-41ee-abeb-482f0ddd8a9a",
+          "type": "fractionSubtraction",
+          "x": {
+            "num": 3,
+            "den": 4
+          },
+          "y": {
+            "num": 1,
+            "den": 4
+          },
+          "result": {
+            "num": 1,
+            "den": 2
+          }
+        },
+        {
+          "id": "78af5edc-f2da-48e7-bade-37377b878e64",
+          "type": "fractionSubtraction",
+          "x": {
+            "num": 6,
+            "den": 9
+          },
+          "y": {
+            "num": 1,
+            "den": 9
+          },
+          "result": {
+            "num": 5,
+            "den": 9
+          }
+        },
+        {
+          "id": "12ba7c43-5fad-4c29-84b2-b03e0d2fd33f",
+          "type": "fractionSubtraction",
+          "x": {
+            "num": 4,
+            "den": 9
+          },
+          "y": {
+            "num": 2,
+            "den": 9
+          },
+          "result": {
+            "num": 2,
+            "den": 9
+          }
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "db3f4f81-0cf5-4781-94e2-b4d6e68a9053",
+          "type": "fractionAddition",
+          "x": {
+            "num": 2,
+            "den": 4
+          },
+          "y": {
+            "num": 2,
+            "den": 4
+          },
+          "result": {
+            "num": 1,
+            "den": 1
+          }
+        },
+        {
+          "id": "ddb36f1c-c74a-44f4-9629-f8a2764161bc",
+          "type": "fractionSubtraction",
+          "x": {
+            "num": 3,
+            "den": 4
+          },
+          "y": {
+            "num": 2,
+            "den": 4
+          },
+          "result": {
+            "num": 1,
+            "den": 4
+          }
+        },
+        {
+          "id": "640cb130-c001-4c12-9a31-3d2a3f716b7c",
+          "type": "fractionAddition",
+          "x": {
+            "num": 2,
+            "den": 4
+          },
+          "y": {
+            "num": 1,
+            "den": 4
+          },
+          "result": {
+            "num": 3,
+            "den": 4
+          }
+        },
+        {
+          "id": "cb4a97ff-f78d-4500-b898-ee21ed3056b0",
+          "type": "fractionAddition",
+          "x": {
+            "num": 2,
+            "den": 7
+          },
+          "y": {
+            "num": 5,
+            "den": 7
+          },
+          "result": {
+            "num": 1,
+            "den": 1
+          }
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "be23af19-36fd-4dda-b7f7-12819c82aa8e",
+          "type": "fractionSubtraction",
+          "x": {
+            "num": 6,
+            "den": 7
+          },
+          "y": {
+            "num": 6,
+            "den": 7
+          },
+          "result": {
+            "num": 0,
+            "den": 1
+          }
+        },
+        {
+          "id": "52b38c28-595b-4cae-88bc-1c1b04f80f09",
+          "type": "problem",
+          "question": "A pizza is cut into 9 equal slices. Emma eats 2 slices and Paul eats 5 slices. How many slices are left?",
+          "result": 2
+        }
+      ]
+    }
+  ]
+}

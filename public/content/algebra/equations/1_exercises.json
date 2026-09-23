@@ -1,0 +1,136 @@
+{
+  "id": "e6bd6591-bc19-4b6b-9910-89f29d08719d",
+  "title": "Equations — Practice 1",
+  "evaluation": false,
+  "difficulty": 5,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "c8ec8e13-8932-4759-9b2e-b8b30845309b",
+          "type": "equation",
+          "equation": "x + 2 = 27",
+          "result": 25
+        },
+        {
+          "id": "f6760d04-edc0-420c-bbca-e1be2507c874",
+          "type": "equation",
+          "equation": "x - 20 = -17",
+          "result": 3
+        },
+        {
+          "id": "c1a9a809-c941-4892-bf8c-58f6efbed08d",
+          "type": "equation",
+          "equation": "x - 2 = 22",
+          "result": 24
+        },
+        {
+          "id": "b2f2aba3-9031-471a-831d-04cf1adde06b",
+          "type": "equation",
+          "equation": "x - 20 = 0",
+          "result": 20
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9dff09bd-1458-49fa-86a0-346acb9498df",
+          "type": "equation",
+          "equation": "x - 15 = 10",
+          "result": 25
+        },
+        {
+          "id": "873dfd50-d713-40ec-a4f7-8471ee51a87d",
+          "type": "equation",
+          "equation": "x - 12 = -7",
+          "result": 5
+        },
+        {
+          "id": "30b1cd3a-60ff-43ec-ad33-95a0165170ed",
+          "type": "equation",
+          "equation": "x + 2 = 18",
+          "result": 16
+        },
+        {
+          "id": "71c9334c-6010-49d1-805e-1bab0206777f",
+          "type": "equation",
+          "equation": "x - 19 = 5",
+          "result": 24
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "bd9c5948-4b7f-4aaa-b367-34f21f8d040a",
+          "type": "equation",
+          "equation": "x + 5 = 26",
+          "result": 21
+        },
+        {
+          "id": "b9c14d72-9a79-44af-8b23-4ca478342862",
+          "type": "equation",
+          "equation": "x - 3 = 0",
+          "result": 3
+        },
+        {
+          "id": "e7b86fd3-4c9f-41bd-b4ba-f5aef076a159",
+          "type": "equation",
+          "equation": "x - 4 = 1",
+          "result": 5
+        },
+        {
+          "id": "995b11ba-2655-49cc-bb7f-e4e1a01f34fc",
+          "type": "equation",
+          "equation": "x - 6 = 19",
+          "result": 25
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "b9b61787-4f42-4f75-99e7-3aab13a636dd",
+          "type": "equation",
+          "equation": "x - 3 = 26",
+          "result": 29
+        },
+        {
+          "id": "0bfc2b2d-afd5-42f2-9ccd-01ab0d805506",
+          "type": "equation",
+          "equation": "x + 10 = 14",
+          "result": 4
+        },
+        {
+          "id": "30ca6e53-48c9-4a7f-b3c0-cfe5bb4e24ee",
+          "type": "equation",
+          "equation": "x + 6 = 33",
+          "result": 27
+        },
+        {
+          "id": "8d1cc6a6-f3e6-4bca-8901-5f2558228989",
+          "type": "equation",
+          "equation": "x - 17 = 0",
+          "result": 17
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "82858271-279c-4121-8a46-ae9a11cc9b22",
+          "type": "equation",
+          "equation": "x - 16 = -13",
+          "result": 3
+        },
+        {
+          "id": "698f8876-2c6d-4552-af44-e95f73f4057d",
+          "type": "problem",
+          "question": "I think of a number, add 23 to it, and I get 58. What is my number?",
+          "result": 35
+        }
+      ]
+    }
+  ]
+}

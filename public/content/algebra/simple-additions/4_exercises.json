@@ -1,0 +1,153 @@
+{
+  "id": "0e84a1e1-031c-496c-b9cc-9de4fe679d2b",
+  "title": "Simple Additions — Checkpoint",
+  "evaluation": true,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "326fc56a-8cfc-40da-8960-1788aba2e831",
+          "type": "addition",
+          "x": 6,
+          "y": 2,
+          "result": 8
+        },
+        {
+          "id": "2f6c913c-f730-4c38-b5f9-0424b46b46ef",
+          "type": "addition",
+          "x": 12,
+          "y": 19,
+          "result": 31
+        },
+        {
+          "id": "33f428cf-7bb1-4b83-82a8-4a149e0ad883",
+          "type": "addition",
+          "x": 4,
+          "y": 1,
+          "result": 5
+        },
+        {
+          "id": "defa1d17-948d-4028-8a99-2c7db59d506d",
+          "type": "addition",
+          "x": 14,
+          "y": 13,
+          "result": 27
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "0e92b360-8716-40a9-b54e-6d69d1617f95",
+          "type": "addition",
+          "x": 12,
+          "y": 15,
+          "result": 27
+        },
+        {
+          "id": "95633f3d-a401-4417-915e-25dfde8c3634",
+          "type": "addition",
+          "x": 1,
+          "y": 19,
+          "result": 20
+        },
+        {
+          "id": "d00a90e6-4204-47f5-9b0b-0482f06cf7e7",
+          "type": "addition",
+          "x": 7,
+          "y": 11,
+          "result": 18
+        },
+        {
+          "id": "b572d17e-fcc2-4205-a73d-b7fb6bf24cad",
+          "type": "addition",
+          "x": 15,
+          "y": 14,
+          "result": 29
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "1926bedb-828b-4dea-a181-a53e105cf99d",
+          "type": "addition",
+          "x": 11,
+          "y": 16,
+          "result": 27
+        },
+        {
+          "id": "9035a3a1-e2ea-4bd6-b83a-5de09141e7a0",
+          "type": "addition",
+          "x": 20,
+          "y": 5,
+          "result": 25
+        },
+        {
+          "id": "f45a194b-6fe1-4b39-aa78-f36300e450b8",
+          "type": "addition",
+          "x": 7,
+          "y": 18,
+          "result": 25
+        },
+        {
+          "id": "1df9530f-fca6-4e2c-b06e-e2c5a8bec28f",
+          "type": "addition",
+          "x": 8,
+          "y": 9,
+          "result": 17
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "1dcd46d1-98a9-40a7-8f4e-7a9315a372a1",
+          "type": "addition",
+          "x": 5,
+          "y": 3,
+          "result": 8
+        },
+        {
+          "id": "3e0b404d-313a-48e4-94d9-ff079f1e608d",
+          "type": "addition",
+          "x": 8,
+          "y": 2,
+          "result": 10
+        },
+        {
+          "id": "47d82d1f-6c36-4a79-8829-6dedb43f77d5",
+          "type": "addition",
+          "x": 6,
+          "y": 6,
+          "result": 12
+        },
+        {
+          "id": "49f2af4b-c41c-4bc4-91ef-26ba2e6b09c0",
+          "type": "addition",
+          "x": 7,
+          "y": 4,
+          "result": 11
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "62b4a790-a05d-4651-98d7-e1e7eea774cc",
+          "type": "addition",
+          "x": 13,
+          "y": 13,
+          "result": 26
+        },
+        {
+          "id": "9bd13031-fa99-4f61-9d94-f82933dba0e1",
+          "type": "problem",
+          "question": "Josh had 13 marbles. Liam gave Josh 9 more marbles. How many marbles does Josh have now?",
+          "result": 22
+        }
+      ]
+    }
+  ]
+}

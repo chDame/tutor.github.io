@@ -1,0 +1,153 @@
+{
+  "id": "7238d80c-3d6f-4896-b094-7f82b1a5d729",
+  "title": "Simple Additions — Practice 3",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "68882c57-406f-4cd0-963b-b24a531dcc8b",
+          "type": "addition",
+          "x": 11,
+          "y": 11,
+          "result": 22
+        },
+        {
+          "id": "5f8856e9-57ea-4acb-a8cb-9dc5cf0cfb29",
+          "type": "addition",
+          "x": 13,
+          "y": 12,
+          "result": 25
+        },
+        {
+          "id": "ac3c604c-eaab-4638-906f-44ad07ca73cd",
+          "type": "addition",
+          "x": 18,
+          "y": 11,
+          "result": 29
+        },
+        {
+          "id": "a2dd7315-553f-4467-906f-d07bda83936b",
+          "type": "addition",
+          "x": 2,
+          "y": 11,
+          "result": 13
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "58b1ba20-8e09-4745-8529-a67417256d4e",
+          "type": "addition",
+          "x": 13,
+          "y": 10,
+          "result": 23
+        },
+        {
+          "id": "fdde1f42-04e2-444a-b06a-050a37607513",
+          "type": "addition",
+          "x": 10,
+          "y": 17,
+          "result": 27
+        },
+        {
+          "id": "7fcf310d-2e86-48e1-a7c1-26c5a543ca60",
+          "type": "addition",
+          "x": 9,
+          "y": 14,
+          "result": 23
+        },
+        {
+          "id": "42e466d8-348c-460c-8bb1-8fc1b1a0bf87",
+          "type": "addition",
+          "x": 14,
+          "y": 4,
+          "result": 18
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "f92ad6c4-41b6-47d3-b04e-38300efc0b50",
+          "type": "addition",
+          "x": 4,
+          "y": 6,
+          "result": 10
+        },
+        {
+          "id": "563ea95d-5b9e-4d78-a895-223290581e81",
+          "type": "addition",
+          "x": 8,
+          "y": 8,
+          "result": 16
+        },
+        {
+          "id": "4848d823-20f0-46cf-985f-9b743f4b3671",
+          "type": "addition",
+          "x": 12,
+          "y": 3,
+          "result": 15
+        },
+        {
+          "id": "ddbfc652-dd4c-4bdf-9bd6-25e772374679",
+          "type": "addition",
+          "x": 12,
+          "y": 12,
+          "result": 24
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "82965d17-00bf-40b5-9837-74c42f1cf96d",
+          "type": "addition",
+          "x": 9,
+          "y": 17,
+          "result": 26
+        },
+        {
+          "id": "96010865-5d7c-437c-8dbc-9968f394a5e8",
+          "type": "addition",
+          "x": 17,
+          "y": 16,
+          "result": 33
+        },
+        {
+          "id": "a9b28a0b-b2cf-42d4-a054-e7f349e65f6f",
+          "type": "addition",
+          "x": 7,
+          "y": 13,
+          "result": 20
+        },
+        {
+          "id": "42cba769-f39b-487a-bb7f-2e3c683cad74",
+          "type": "addition",
+          "x": 6,
+          "y": 2,
+          "result": 8
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "e23cb944-557d-44d7-bb45-f7db99327b6f",
+          "type": "addition",
+          "x": 15,
+          "y": 20,
+          "result": 35
+        },
+        {
+          "id": "4c1d2828-1fce-4f16-9ffb-e8e8a837a330",
+          "type": "problem",
+          "question": "Josh had 17 books. Ana gave Josh 12 more books. How many books does Josh have now?",
+          "result": 29
+        }
+      ]
+    }
+  ]
+}

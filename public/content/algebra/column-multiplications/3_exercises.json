@@ -1,0 +1,187 @@
+{
+  "id": "6807dfc9-779a-46ca-8328-5d4fcf9176b9",
+  "title": "Column Multiplications — Practice 3",
+  "evaluation": false,
+  "difficulty": 3,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "4fbc1c6f-d9cd-48b9-96fc-ad5c2772de16",
+          "type": "columnMultiplication",
+          "operands": [
+            10,
+            6
+          ],
+          "result": 60
+        },
+        {
+          "id": "e27d1a7e-8fd6-4b76-9623-fde9cee1e36c",
+          "type": "columnMultiplication",
+          "operands": [
+            74,
+            9
+          ],
+          "result": 666
+        },
+        {
+          "id": "459f11db-6ee0-4758-9ad6-8e14d7c4bc9b",
+          "type": "columnMultiplication",
+          "operands": [
+            45,
+            4
+          ],
+          "result": 180
+        },
+        {
+          "id": "716d94bc-7eaa-4360-a51e-34035e6abd93",
+          "type": "columnMultiplication",
+          "operands": [
+            44,
+            7
+          ],
+          "result": 308
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "b4fb2962-49f6-4b49-96c4-8bf795113f66",
+          "type": "columnMultiplication",
+          "operands": [
+            87,
+            3
+          ],
+          "result": 261
+        },
+        {
+          "id": "ede8e54e-7b70-425b-8bcf-c35e719983e9",
+          "type": "columnMultiplication",
+          "operands": [
+            66,
+            8
+          ],
+          "result": 528
+        },
+        {
+          "id": "f5467ddb-eb31-432f-b220-7fce17c51656",
+          "type": "columnMultiplication",
+          "operands": [
+            62,
+            2
+          ],
+          "result": 124
+        },
+        {
+          "id": "228ff45e-7277-4730-9101-e1ec5b4286f3",
+          "type": "columnMultiplication",
+          "operands": [
+            55,
+            3
+          ],
+          "result": 165
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "2967e7d5-1458-4951-8515-e8145e8f5c38",
+          "type": "columnMultiplication",
+          "operands": [
+            78,
+            3
+          ],
+          "result": 234
+        },
+        {
+          "id": "c51cf961-6e6d-4519-a4a5-bd3151e1100a",
+          "type": "columnMultiplication",
+          "operands": [
+            81,
+            6
+          ],
+          "result": 486
+        },
+        {
+          "id": "b380da4f-50d8-4d22-ad17-8adbeae3b5d9",
+          "type": "columnMultiplication",
+          "operands": [
+            11,
+            4
+          ],
+          "result": 44
+        },
+        {
+          "id": "0399cdfb-e72b-482c-a763-e7f90a78a469",
+          "type": "columnMultiplication",
+          "operands": [
+            97,
+            5
+          ],
+          "result": 485
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "0f2da83c-abef-4d64-be20-cbfadbd9bedc",
+          "type": "columnMultiplication",
+          "operands": [
+            90,
+            3
+          ],
+          "result": 270
+        },
+        {
+          "id": "90ac87fd-5a0d-4352-94ad-054bc61aa4c3",
+          "type": "columnMultiplication",
+          "operands": [
+            70,
+            3
+          ],
+          "result": 210
+        },
+        {
+          "id": "02aa643e-9133-45ac-a5c8-10b94d2d4a20",
+          "type": "columnMultiplication",
+          "operands": [
+            99,
+            3
+          ],
+          "result": 297
+        },
+        {
+          "id": "d3dccb72-9a3e-4b8a-a3ae-2e8026890abe",
+          "type": "columnMultiplication",
+          "operands": [
+            22,
+            3
+          ],
+          "result": 66
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "5c7cdbd7-33b4-45c8-84d9-645e33fa4bec",
+          "type": "columnMultiplication",
+          "operands": [
+            95,
+            2
+          ],
+          "result": 190
+        },
+        {
+          "id": "c3c8afdb-a13f-44e3-ae5b-1b88bd218068",
+          "type": "problem",
+          "question": "Paul has 6 boxes with 7 candies in each box. How many candies does Paul have in total?",
+          "result": 42
+        }
+      ]
+    }
+  ]
+}

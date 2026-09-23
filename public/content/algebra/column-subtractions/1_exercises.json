@@ -1,0 +1,187 @@
+{
+  "id": "1100b660-00b5-4c9b-80ce-b2d1cf13a432",
+  "title": "Column Subtractions — Practice 1",
+  "evaluation": false,
+  "difficulty": 3,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "f818be89-4302-4bc1-93bf-a93777b2f18f",
+          "type": "columnSubtraction",
+          "operands": [
+            368,
+            63
+          ],
+          "result": 305
+        },
+        {
+          "id": "214bd065-4bb5-4804-a27b-01560c90c0ce",
+          "type": "columnSubtraction",
+          "operands": [
+            450,
+            119
+          ],
+          "result": 331
+        },
+        {
+          "id": "6b744568-345f-486e-8316-a31f291c1c62",
+          "type": "columnSubtraction",
+          "operands": [
+            509,
+            182
+          ],
+          "result": 327
+        },
+        {
+          "id": "40ee0961-533b-495f-b43f-b441e15983bc",
+          "type": "columnSubtraction",
+          "operands": [
+            486,
+            163
+          ],
+          "result": 323
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "02417a2b-0698-44e1-9ab0-51a0bae78a0b",
+          "type": "columnSubtraction",
+          "operands": [
+            397,
+            23
+          ],
+          "result": 374
+        },
+        {
+          "id": "fc0ff26e-ab13-46b2-8174-5a8bc4c4c07e",
+          "type": "columnSubtraction",
+          "operands": [
+            719,
+            13
+          ],
+          "result": 706
+        },
+        {
+          "id": "8338b83e-ab30-4619-8950-c2d6db3e7199",
+          "type": "columnSubtraction",
+          "operands": [
+            689,
+            512
+          ],
+          "result": 177
+        },
+        {
+          "id": "7878c67e-a1a1-4511-a52c-44a2aee0df67",
+          "type": "columnSubtraction",
+          "operands": [
+            971,
+            476
+          ],
+          "result": 495
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "829580a5-9af8-4707-94b3-365a9c9f63ec",
+          "type": "columnSubtraction",
+          "operands": [
+            756,
+            51
+          ],
+          "result": 705
+        },
+        {
+          "id": "e7720701-79e0-4663-a0b4-5f09c4a0602c",
+          "type": "columnSubtraction",
+          "operands": [
+            938,
+            792
+          ],
+          "result": 146
+        },
+        {
+          "id": "185b8521-a299-4476-8aba-d22762436a9d",
+          "type": "columnSubtraction",
+          "operands": [
+            803,
+            227
+          ],
+          "result": 576
+        },
+        {
+          "id": "b9437ad8-f028-45f8-833b-663b518ac012",
+          "type": "columnSubtraction",
+          "operands": [
+            658,
+            74
+          ],
+          "result": 584
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "d304fd66-0bb6-4f4b-8fd2-a0ca17aab3f3",
+          "type": "columnSubtraction",
+          "operands": [
+            427,
+            45
+          ],
+          "result": 382
+        },
+        {
+          "id": "209ec784-cd51-45ef-bea8-2ee6b6a54417",
+          "type": "columnSubtraction",
+          "operands": [
+            257,
+            161
+          ],
+          "result": 96
+        },
+        {
+          "id": "2b2466fe-e8ce-46eb-b139-2ed17b303b98",
+          "type": "columnSubtraction",
+          "operands": [
+            403,
+            146
+          ],
+          "result": 257
+        },
+        {
+          "id": "e1f34044-3585-44f6-aa89-5120e4e040bb",
+          "type": "columnSubtraction",
+          "operands": [
+            324,
+            108
+          ],
+          "result": 216
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "8c78e9ce-db5e-4121-ac40-34512c1bce9f",
+          "type": "columnSubtraction",
+          "operands": [
+            700,
+            225
+          ],
+          "result": 475
+        },
+        {
+          "id": "461b2a00-1842-4382-a9f1-35dbbf353d55",
+          "type": "problem",
+          "question": "Emma was having 45 marbles but gave 9 to Sophie and 13 to Maria. How many marbles does Emma still have?",
+          "result": 23
+        }
+      ]
+    }
+  ]
+}

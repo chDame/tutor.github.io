@@ -1,0 +1,153 @@
+{
+  "id": "fa1e3174-8897-4a28-9a6f-f79cbb84a6ee",
+  "title": "Simple Multiplications — Practice 3",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "11178337-a881-4e96-9444-84ab726900f2",
+          "type": "multiplication",
+          "x": 1,
+          "y": 4,
+          "result": 4
+        },
+        {
+          "id": "74beace7-22bd-4052-bafb-9568c8de8c70",
+          "type": "multiplication",
+          "x": 5,
+          "y": 8,
+          "result": 40
+        },
+        {
+          "id": "4ee59b6a-132b-456d-ab54-19a824bbedd0",
+          "type": "multiplication",
+          "x": 10,
+          "y": 4,
+          "result": 40
+        },
+        {
+          "id": "d0bc993f-dbb4-499f-a381-f94074778796",
+          "type": "multiplication",
+          "x": 7,
+          "y": 6,
+          "result": 42
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "1136a4df-d849-4c0d-b2be-456543282ce5",
+          "type": "multiplication",
+          "x": 6,
+          "y": 9,
+          "result": 54
+        },
+        {
+          "id": "b43ba54d-adab-4369-a104-d1b3b2d8544b",
+          "type": "multiplication",
+          "x": 2,
+          "y": 5,
+          "result": 10
+        },
+        {
+          "id": "2ac0b9ce-36f8-4313-bd38-6df823fb0c59",
+          "type": "multiplication",
+          "x": 6,
+          "y": 4,
+          "result": 24
+        },
+        {
+          "id": "fc6f3a7b-18a9-4dff-aa45-88f23d5efcf1",
+          "type": "multiplication",
+          "x": 6,
+          "y": 1,
+          "result": 6
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "a181e573-3efe-43d1-a82a-02131e947137",
+          "type": "multiplication",
+          "x": 1,
+          "y": 6,
+          "result": 6
+        },
+        {
+          "id": "29e732f0-1916-41ee-817d-b22c1277b9b7",
+          "type": "multiplication",
+          "x": 8,
+          "y": 9,
+          "result": 72
+        },
+        {
+          "id": "7cc84383-63c6-4570-8d92-a1ae810c159a",
+          "type": "multiplication",
+          "x": 5,
+          "y": 2,
+          "result": 10
+        },
+        {
+          "id": "7b667936-3346-425e-87e7-0a37ce756897",
+          "type": "multiplication",
+          "x": 1,
+          "y": 2,
+          "result": 2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "a6af67fc-9d72-442b-8201-f961132fa79c",
+          "type": "multiplication",
+          "x": 7,
+          "y": 3,
+          "result": 21
+        },
+        {
+          "id": "8b92da40-bff6-48c0-adaa-a03e6b7c2377",
+          "type": "multiplication",
+          "x": 2,
+          "y": 9,
+          "result": 18
+        },
+        {
+          "id": "e90d16ee-9600-4cb3-9748-2daa7e1c3486",
+          "type": "multiplication",
+          "x": 3,
+          "y": 10,
+          "result": 30
+        },
+        {
+          "id": "e1b18e11-8ebe-44d5-8c1a-6532c5ddd755",
+          "type": "multiplication",
+          "x": 10,
+          "y": 5,
+          "result": 50
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "d23a6277-ed55-49c9-a184-37420ce87f60",
+          "type": "multiplication",
+          "x": 2,
+          "y": 3,
+          "result": 6
+        },
+        {
+          "id": "10be0c3e-4067-4662-8177-7646617f96a6",
+          "type": "problem",
+          "question": "Emma has 2 boxes with 5 coins in each box. How many coins does Emma have in total?",
+          "result": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "de6a0940-3bcf-44bd-90f0-717d98a310de",
+  "title": "Euclidian Divisions — Practice 2",
+  "evaluation": false,
+  "difficulty": 3,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "be0bdd5d-fb7c-4a73-960a-8832511d9dce",
+          "type": "euclidianDivision",
+          "x": 77,
+          "y": 7,
+          "quotient": 11,
+          "remainder": 0
+        },
+        {
+          "id": "a36f5f9a-5e1f-4a9b-a835-ec58f759d50e",
+          "type": "euclidianDivision",
+          "x": 82,
+          "y": 8,
+          "quotient": 10,
+          "remainder": 2
+        },
+        {
+          "id": "871190b9-c5d7-46d9-88dc-8d010eb67efb",
+          "type": "euclidianDivision",
+          "x": 19,
+          "y": 5,
+          "quotient": 3,
+          "remainder": 4
+        },
+        {
+          "id": "388405d7-4951-47e4-9abf-c2b25e2600cc",
+          "type": "euclidianDivision",
+          "x": 28,
+          "y": 4,
+          "quotient": 7,
+          "remainder": 0
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "92ec7614-3d1c-4b65-a350-0c27884d892c",
+          "type": "euclidianDivision",
+          "x": 52,
+          "y": 7,
+          "quotient": 7,
+          "remainder": 3
+        },
+        {
+          "id": "35c16cfc-6726-4dc9-bed0-f1b8cd2019ef",
+          "type": "euclidianDivision",
+          "x": 33,
+          "y": 9,
+          "quotient": 3,
+          "remainder": 6
+        },
+        {
+          "id": "9fc5c849-4f49-4a71-80d1-46583dd3ac31",
+          "type": "euclidianDivision",
+          "x": 80,
+          "y": 9,
+          "quotient": 8,
+          "remainder": 8
+        },
+        {
+          "id": "8f1d5729-7fcc-4108-bfd4-71ced5519d0c",
+          "type": "euclidianDivision",
+          "x": 23,
+          "y": 5,
+          "quotient": 4,
+          "remainder": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "5ca580be-9dbe-47d4-9b7b-b25e19ac0bb0",
+          "type": "euclidianDivision",
+          "x": 43,
+          "y": 6,
+          "quotient": 7,
+          "remainder": 1
+        },
+        {
+          "id": "2438ec35-b794-49ba-8682-fa9e6ad8bea7",
+          "type": "euclidianDivision",
+          "x": 90,
+          "y": 7,
+          "quotient": 12,
+          "remainder": 6
+        },
+        {
+          "id": "9b99cec6-62b7-4026-8136-979bf9e2e716",
+          "type": "euclidianDivision",
+          "x": 71,
+          "y": 8,
+          "quotient": 8,
+          "remainder": 7
+        },
+        {
+          "id": "2626b8a5-f695-4636-99a1-29285364405a",
+          "type": "euclidianDivision",
+          "x": 93,
+          "y": 9,
+          "quotient": 10,
+          "remainder": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "15fbce0f-95fa-46d5-aa56-8afffdf4e876",
+          "type": "euclidianDivision",
+          "x": 42,
+          "y": 6,
+          "quotient": 7,
+          "remainder": 0
+        },
+        {
+          "id": "41b9f291-e560-4afd-b070-4e60f26c3b13",
+          "type": "euclidianDivision",
+          "x": 19,
+          "y": 2,
+          "quotient": 9,
+          "remainder": 1
+        },
+        {
+          "id": "ff8bdfbb-42d3-4f8e-a0b2-6f0ab4b2a6d7",
+          "type": "euclidianDivision",
+          "x": 23,
+          "y": 3,
+          "quotient": 7,
+          "remainder": 2
+        },
+        {
+          "id": "c7033b2a-950c-4727-b107-d4c0d1c41013",
+          "type": "euclidianDivision",
+          "x": 38,
+          "y": 6,
+          "quotient": 6,
+          "remainder": 2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "3ee9d243-ab06-41f1-9fd8-cca4e85a5abf",
+          "type": "euclidianDivision",
+          "x": 69,
+          "y": 7,
+          "quotient": 9,
+          "remainder": 6
+        },
+        {
+          "id": "d701c34f-830c-4983-90b1-7d6971337253",
+          "type": "problem",
+          "question": "Maria has 32 balloons to share equally among 8 friends. How many balloons does each friend get?",
+          "result": 4
+        }
+      ]
+    }
+  ]
+}

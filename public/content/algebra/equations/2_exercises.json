@@ -1,0 +1,136 @@
+{
+  "id": "3658127a-8e55-4b44-a067-16dd1846220d",
+  "title": "Equations — Practice 2",
+  "evaluation": false,
+  "difficulty": 5,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "a19abbcf-5cbb-4b05-8038-2008c2ecb8e7",
+          "type": "equation",
+          "equation": "x + 6 = 26",
+          "result": 20
+        },
+        {
+          "id": "2c53e0a6-7753-48e7-8511-315a8a140823",
+          "type": "equation",
+          "equation": "x - 10 = 0",
+          "result": 10
+        },
+        {
+          "id": "417a8e68-21ed-4459-8719-6e3ee0ffb32a",
+          "type": "equation",
+          "equation": "x - 12 = 11",
+          "result": 23
+        },
+        {
+          "id": "2b90b033-3eb4-4762-9a77-64f4e5675f25",
+          "type": "equation",
+          "equation": "x - 9 = -5",
+          "result": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "0ece1ebb-60c6-4ccc-b9ab-fc0271f32903",
+          "type": "equation",
+          "equation": "x + 13 = 26",
+          "result": 13
+        },
+        {
+          "id": "245edcbf-2b12-46be-8ef1-94d113fc8787",
+          "type": "equation",
+          "equation": "x - 19 = 2",
+          "result": 21
+        },
+        {
+          "id": "24a68812-6d4f-42e7-b6a0-c4f70df0438a",
+          "type": "equation",
+          "equation": "x + 13 = 39",
+          "result": 26
+        },
+        {
+          "id": "02e85ef8-8f4e-459c-825e-2a086af969f4",
+          "type": "equation",
+          "equation": "x + 14 = 24",
+          "result": 10
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "d76926bd-adfd-4b02-9438-2644d616637a",
+          "type": "equation",
+          "equation": "x + 18 = 27",
+          "result": 9
+        },
+        {
+          "id": "00c76f9a-b45e-404e-a582-325ffd3bde93",
+          "type": "equation",
+          "equation": "x - 9 = 0",
+          "result": 9
+        },
+        {
+          "id": "f1992c36-0481-4d5d-9588-8eab8bf36423",
+          "type": "equation",
+          "equation": "x - 8 = 4",
+          "result": 12
+        },
+        {
+          "id": "ad1a74db-fe89-4a27-9429-9b153234b5f0",
+          "type": "equation",
+          "equation": "x - 5 = 14",
+          "result": 19
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "01091a86-1570-41ba-8308-dba73893af02",
+          "type": "equation",
+          "equation": "x + 17 = 23",
+          "result": 6
+        },
+        {
+          "id": "f475f966-4a29-46c0-849d-1dacf3b6f86f",
+          "type": "equation",
+          "equation": "x + 6 = 33",
+          "result": 27
+        },
+        {
+          "id": "21e6e824-2ade-45b6-9a6f-f9bd97e00913",
+          "type": "equation",
+          "equation": "x + 5 = 15",
+          "result": 10
+        },
+        {
+          "id": "42daef83-a646-4c10-9cf0-7b31f23bc132",
+          "type": "equation",
+          "equation": "x + 4 = 9",
+          "result": 5
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "62acc47f-e775-486d-9e2b-61e66c8f2361",
+          "type": "equation",
+          "equation": "x + 16 = 24",
+          "result": 8
+        },
+        {
+          "id": "c3652aed-d1c6-40ac-8e8e-90128fbed3ae",
+          "type": "problem",
+          "question": "I think of a number, add 2 to it, and I get 33. What is my number?",
+          "result": 31
+        }
+      ]
+    }
+  ]
+}

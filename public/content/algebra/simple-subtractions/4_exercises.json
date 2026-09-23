@@ -1,0 +1,153 @@
+{
+  "id": "e32d217e-15b1-4031-9b99-a2b720368271",
+  "title": "Simple Subtractions — Checkpoint",
+  "evaluation": true,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "3aa0831f-143d-4f21-ada7-b4aefc123b3c",
+          "type": "subtraction",
+          "x": 23,
+          "y": 4,
+          "result": 19
+        },
+        {
+          "id": "3deb286d-a4eb-4416-bb81-a82b9a4fb62c",
+          "type": "subtraction",
+          "x": 25,
+          "y": 10,
+          "result": 15
+        },
+        {
+          "id": "75d3abcb-88e2-4c85-bcae-5c45eb8c1286",
+          "type": "subtraction",
+          "x": 17,
+          "y": 1,
+          "result": 16
+        },
+        {
+          "id": "4fdc0244-a975-4126-9833-963202e7934e",
+          "type": "subtraction",
+          "x": 29,
+          "y": 15,
+          "result": 14
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "ae7415db-9e04-47e5-8b57-cbaba88f7229",
+          "type": "subtraction",
+          "x": 13,
+          "y": 12,
+          "result": 1
+        },
+        {
+          "id": "51437847-2a4c-452a-9ce3-c2daabdd4480",
+          "type": "subtraction",
+          "x": 19,
+          "y": 1,
+          "result": 18
+        },
+        {
+          "id": "5f8b3d9f-d4d9-4e3e-9d91-161be2941bb4",
+          "type": "subtraction",
+          "x": 15,
+          "y": 6,
+          "result": 9
+        },
+        {
+          "id": "e6bc3db1-f87d-4cf6-8529-ede5eb82c084",
+          "type": "subtraction",
+          "x": 22,
+          "y": 18,
+          "result": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "73310626-f616-4457-8485-a4dbe09e4480",
+          "type": "subtraction",
+          "x": 17,
+          "y": 7,
+          "result": 10
+        },
+        {
+          "id": "e2889e2e-7e7b-4785-a479-5ed751bce9bb",
+          "type": "subtraction",
+          "x": 27,
+          "y": 5,
+          "result": 22
+        },
+        {
+          "id": "6fdaffba-a248-4c81-ad40-189f09361436",
+          "type": "subtraction",
+          "x": 24,
+          "y": 8,
+          "result": 16
+        },
+        {
+          "id": "30a6c166-0c40-437e-a814-5b936e19c877",
+          "type": "subtraction",
+          "x": 23,
+          "y": 17,
+          "result": 6
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "68fcb691-3d39-4969-b857-948d99ccf309",
+          "type": "subtraction",
+          "x": 20,
+          "y": 10,
+          "result": 10
+        },
+        {
+          "id": "891608bc-8a4c-419e-910d-80f0800a3fe1",
+          "type": "subtraction",
+          "x": 27,
+          "y": 21,
+          "result": 6
+        },
+        {
+          "id": "05475d3c-f9f7-4ea8-842a-865aaedfc537",
+          "type": "subtraction",
+          "x": 13,
+          "y": 1,
+          "result": 12
+        },
+        {
+          "id": "ed3f309f-3de3-4660-8256-f9c3b4641003",
+          "type": "subtraction",
+          "x": 28,
+          "y": 4,
+          "result": 24
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "bf3c3f50-da76-46c4-950c-ed20dcb47ac3",
+          "type": "subtraction",
+          "x": 29,
+          "y": 18,
+          "result": 11
+        },
+        {
+          "id": "8863b092-1f23-460e-85dc-bc2b7f561f53",
+          "type": "problem",
+          "question": "Sophie was having 44 books but gave 7 to Maria and 13 to Liam. How many books does Sophie still have?",
+          "result": 24
+        }
+      ]
+    }
+  ]
+}

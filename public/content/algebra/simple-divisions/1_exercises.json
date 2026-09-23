@@ -1,0 +1,153 @@
+{
+  "id": "54124b18-3c92-4063-83b1-a29b295f8ffe",
+  "title": "Simple Divisions — Practice 1",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "736f0106-d7fb-4f3c-afd6-dc8306618083",
+          "type": "division",
+          "x": 25,
+          "y": 5,
+          "result": 5
+        },
+        {
+          "id": "213381ba-e9d9-4dbe-8ad4-45d1c84d9d95",
+          "type": "division",
+          "x": 16,
+          "y": 4,
+          "result": 4
+        },
+        {
+          "id": "c35aedbf-e86a-458a-91b0-8d930c1cb94d",
+          "type": "division",
+          "x": 54,
+          "y": 6,
+          "result": 9
+        },
+        {
+          "id": "1af98208-36ec-475c-8aa8-785a90939407",
+          "type": "division",
+          "x": 36,
+          "y": 9,
+          "result": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "240e5ee3-dba1-4d4c-b533-935b0838cdad",
+          "type": "division",
+          "x": 40,
+          "y": 5,
+          "result": 8
+        },
+        {
+          "id": "8f8f2c53-e564-4cb7-b493-eb2b93915e5e",
+          "type": "division",
+          "x": 12,
+          "y": 3,
+          "result": 4
+        },
+        {
+          "id": "a51a5f4a-8a45-4617-9376-e9a1d38ebbdd",
+          "type": "division",
+          "x": 28,
+          "y": 7,
+          "result": 4
+        },
+        {
+          "id": "b80e9f3f-3a2c-46cd-bc32-671cd143f78c",
+          "type": "division",
+          "x": 20,
+          "y": 2,
+          "result": 10
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "280f9834-4dd5-4152-9b97-7edbe0b98eba",
+          "type": "division",
+          "x": 18,
+          "y": 3,
+          "result": 6
+        },
+        {
+          "id": "b58ce40f-4dd2-4b02-80fe-978678aebdfe",
+          "type": "division",
+          "x": 9,
+          "y": 9,
+          "result": 1
+        },
+        {
+          "id": "f8239116-076b-4584-b50b-e20ae90e4ebc",
+          "type": "division",
+          "x": 18,
+          "y": 6,
+          "result": 3
+        },
+        {
+          "id": "7d9b0621-8648-4c8f-9ef8-5f937002e82c",
+          "type": "division",
+          "x": 30,
+          "y": 6,
+          "result": 5
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6467dce4-8da6-4c8c-bc4a-2ecfaaa66e20",
+          "type": "division",
+          "x": 14,
+          "y": 2,
+          "result": 7
+        },
+        {
+          "id": "dfcb3441-5293-4eb5-8f4b-2f99fdff3d48",
+          "type": "division",
+          "x": 81,
+          "y": 9,
+          "result": 9
+        },
+        {
+          "id": "1e750edd-a99b-49f1-9439-77084d6b256a",
+          "type": "division",
+          "x": 42,
+          "y": 7,
+          "result": 6
+        },
+        {
+          "id": "e853dbed-640e-4009-ace6-267641c8b288",
+          "type": "division",
+          "x": 12,
+          "y": 3,
+          "result": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "e478e916-e1f4-4355-8d0d-4fd892d0bdfb",
+          "type": "division",
+          "x": 20,
+          "y": 5,
+          "result": 4
+        },
+        {
+          "id": "5499627e-6d84-417d-8041-75dade78465c",
+          "type": "problem",
+          "question": "Sophie has 40 stickers to share equally among 4 friends. How many stickers does each friend get?",
+          "result": 10
+        }
+      ]
+    }
+  ]
+}
