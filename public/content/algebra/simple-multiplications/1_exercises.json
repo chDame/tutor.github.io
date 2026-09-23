@@ -1,34 +1,34 @@
 {
-  "id": "ba44d8ca-3aec-48ca-b63a-e3d3f3bbc144",
-  "title": "Simple Multiplications — Practice 1",
+  "id": "simple-multiplications-practice1",
+  "title": "Simple Multiplications \u2014 Practice 1",
   "evaluation": false,
   "difficulty": 2,
   "pages": [
     {
       "items": [
         {
-          "id": "f89f84af-ae09-4ac1-860f-2b8df2b37f21",
+          "id": "1",
           "type": "multiplication",
           "x": 7,
           "y": 2,
           "result": 14
         },
         {
-          "id": "fe6e605a-bcd2-4b0a-88d6-3c129f7e8205",
+          "id": "2",
           "type": "multiplication",
           "x": 6,
           "y": 2,
           "result": 12
         },
         {
-          "id": "2b825ddc-0985-436e-b913-1db960b22fd3",
+          "id": "3",
           "type": "multiplication",
           "x": 1,
           "y": 8,
           "result": 8
         },
         {
-          "id": "aedf437a-b976-47f6-97a9-72b31933d26b",
+          "id": "4",
           "type": "multiplication",
           "x": 3,
           "y": 6,
@@ -39,28 +39,28 @@
     {
       "items": [
         {
-          "id": "c230a060-bc7e-436a-a38c-f3b66a8a33c2",
+          "id": "5",
           "type": "multiplication",
           "x": 3,
           "y": 7,
           "result": 21
         },
         {
-          "id": "38bf1bca-89d4-489e-8ec6-a6c21bf38c81",
+          "id": "6",
           "type": "multiplication",
           "x": 8,
           "y": 4,
           "result": 32
         },
         {
-          "id": "bacc5134-8439-4ec6-b77d-31e8ba77bae8",
+          "id": "7",
           "type": "multiplication",
           "x": 3,
           "y": 2,
           "result": 6
         },
         {
-          "id": "d32030fc-b2b3-4f3b-8038-4f00317c2854",
+          "id": "8",
           "type": "multiplication",
           "x": 7,
           "y": 8,
@@ -71,28 +71,28 @@
     {
       "items": [
         {
-          "id": "e3677255-b80c-498d-aaeb-feac72803150",
+          "id": "9",
           "type": "multiplication",
           "x": 3,
           "y": 5,
           "result": 15
         },
         {
-          "id": "1adb8150-35f1-48b7-a92f-ac04ab56b2fc",
+          "id": "10",
           "type": "multiplication",
           "x": 7,
           "y": 7,
           "result": 49
         },
         {
-          "id": "3ccc59fb-1007-4d98-b28c-f206f4a166d3",
+          "id": "11",
           "type": "multiplication",
           "x": 6,
           "y": 7,
           "result": 42
         },
         {
-          "id": "894e9995-c546-412f-8b6b-74d8164ddf59",
+          "id": "12",
           "type": "multiplication",
           "x": 6,
           "y": 5,
@@ -103,28 +103,28 @@
     {
       "items": [
         {
-          "id": "a532227d-bb1e-4bad-83df-88afee2bb104",
+          "id": "13",
           "type": "multiplication",
           "x": 1,
           "y": 1,
           "result": 1
         },
         {
-          "id": "66a194f9-e573-4264-8022-30023ef183bb",
+          "id": "14",
           "type": "multiplication",
           "x": 9,
           "y": 4,
           "result": 36
         },
         {
-          "id": "514010c1-4dd5-4db0-8419-906820a7072a",
+          "id": "15",
           "type": "multiplication",
           "x": 5,
           "y": 7,
           "result": 35
         },
         {
-          "id": "caf3609e-e444-44ae-acf0-570cb26da53f",
+          "id": "16",
           "type": "multiplication",
           "x": 7,
           "y": 1,
@@ -135,14 +135,14 @@
     {
       "items": [
         {
-          "id": "8186a71f-3fdd-46d2-82b3-fd8dd62e6777",
+          "id": "17",
           "type": "multiplication",
           "x": 3,
           "y": 9,
           "result": 27
         },
         {
-          "id": "01cc1913-8643-4fc9-8b5e-a2747f6ab920",
+          "id": "18",
           "type": "problem",
           "question": "Paul has 4 boxes with 3 balloons in each box. How many balloons does Paul have in total?",
           "result": 12

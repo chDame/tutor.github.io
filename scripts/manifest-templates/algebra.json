@@ -1,20 +1,73 @@
 {
   "topic": "algebra",
   "levels": [
-    { "slug": "basic", "title": "Discover numbers from 1 to 5" },
-    { "slug": "basic2", "title": "Let's go to 10" },
-    { "slug": "addOne", "title": "Add One" },
-    { "slug": "simple-additions", "title": "Simple Additions" },
-    { "slug": "simple-subtractions", "title": "Simple Subtractions" },
-    { "slug": "simple-multiplications", "title": "Simple Multiplications" },
-    { "slug": "simple-divisions", "title": "Simple Divisions" },
-    { "slug": "column-additions", "title": "Column Additions" },
-    { "slug": "column-subtractions", "title": "Column Subtractions" },
-    { "slug": "column-multiplications", "title": "Column Multiplications" },
-    { "slug": "euclidian-divisions", "title": "Euclidian Divisions" },
-    { "slug": "relative-numbers", "title": "Relative Numbers" },
-    { "slug": "decimal-numbers", "title": "Decimal Numbers" },
-    { "slug": "fractions", "title": "Fractions" },
-    { "slug": "equations", "title": "Equations" }
+    {
+      "slug": "basic5",
+      "title": "Numbers from 1 to 5"
+    },
+    {
+      "slug": "basic10",
+      "title": "Numbers from 1 to 10"
+    },
+    {
+      "slug": "basic20",
+      "title": "Numbers from 11 to 20"
+    },
+    {
+      "slug": "addOneTo10",
+      "title": "Add One within 10"
+    },
+    {
+      "slug": "addOneTo20",
+      "title": "Add One within 20"
+    },
+    {
+      "slug": "simple-additions",
+      "title": "Simple Additions"
+    },
+    {
+      "slug": "simple-subtractions",
+      "title": "Simple Subtractions"
+    },
+    {
+      "slug": "simple-multiplications",
+      "title": "Simple Multiplications"
+    },
+    {
+      "slug": "simple-divisions",
+      "title": "Simple Divisions"
+    },
+    {
+      "slug": "column-additions",
+      "title": "Column Additions"
+    },
+    {
+      "slug": "column-subtractions",
+      "title": "Column Subtractions"
+    },
+    {
+      "slug": "column-multiplications",
+      "title": "Column Multiplications"
+    },
+    {
+      "slug": "euclidian-divisions",
+      "title": "Euclidian Divisions"
+    },
+    {
+      "slug": "relative-numbers",
+      "title": "Relative Numbers"
+    },
+    {
+      "slug": "decimal-numbers",
+      "title": "Decimal Numbers"
+    },
+    {
+      "slug": "fractions",
+      "title": "Fractions"
+    },
+    {
+      "slug": "equations",
+      "title": "Equations"
+    }
   ]
 }

@@ -1,34 +1,34 @@
 {
-  "id": "337b1110-7c60-4b64-8e9e-19e08b69a9f7",
-  "title": "Simple Additions — Practice 1",
+  "id": "simple-additions-practice1",
+  "title": "Simple Additions \u2014 Practice 1",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "id": "d2ce9436-24c2-48dc-96c6-e01c924711ec",
+          "id": "1",
           "type": "addition",
           "x": 4,
           "y": 18,
           "result": 22
         },
         {
-          "id": "0db2dc97-40cf-4968-968d-72bd2fa6a562",
+          "id": "2",
           "type": "addition",
           "x": 3,
           "y": 17,
           "result": 20
         },
         {
-          "id": "daef8f44-01b3-47e3-98ee-2f60ec64c43b",
+          "id": "3",
           "type": "addition",
           "x": 15,
           "y": 14,
           "result": 29
         },
         {
-          "id": "328d99f1-a5c4-4d55-b0ce-5e5433455665",
+          "id": "4",
           "type": "addition",
           "x": 6,
           "y": 19,
@@ -39,28 +39,28 @@
     {
       "items": [
         {
-          "id": "747c00aa-4114-45ab-9bb9-9720bc9fddad",
+          "id": "5",
           "type": "addition",
           "x": 3,
           "y": 13,
           "result": 16
         },
         {
-          "id": "6291b3a2-c275-49ed-9bb2-9f5a2707276c",
+          "id": "6",
           "type": "addition",
           "x": 14,
           "y": 12,
           "result": 26
         },
         {
-          "id": "1f0dc026-33e9-4d7f-b42d-9f111302026b",
+          "id": "7",
           "type": "addition",
           "x": 6,
           "y": 19,
           "result": 25
         },
         {
-          "id": "22ab4fbb-3145-45b2-b1e8-5618d62e4a5b",
+          "id": "8",
           "type": "addition",
           "x": 6,
           "y": 15,
@@ -71,28 +71,28 @@
     {
       "items": [
         {
-          "id": "830bccd9-319b-4d2f-9421-57184a22d2a7",
+          "id": "9",
           "type": "addition",
           "x": 13,
           "y": 8,
           "result": 21
         },
         {
-          "id": "1d131d13-56c4-4065-840e-6c73b89f6e9e",
+          "id": "10",
           "type": "addition",
           "x": 11,
           "y": 18,
           "result": 29
         },
         {
-          "id": "97c789b2-e199-43ca-9f89-ecf15c8465d5",
+          "id": "11",
           "type": "addition",
           "x": 18,
           "y": 10,
           "result": 28
         },
         {
-          "id": "7fe16681-9c39-4765-85da-87d9e5722f76",
+          "id": "12",
           "type": "addition",
           "x": 18,
           "y": 4,
@@ -103,28 +103,28 @@
     {
       "items": [
         {
-          "id": "36ae591e-197b-44b8-baaf-6314b6fb9c26",
+          "id": "13",
           "type": "addition",
           "x": 14,
           "y": 7,
           "result": 21
         },
         {
-          "id": "c51c6180-8e1d-48e1-8ee7-33a95ca3a7fe",
+          "id": "14",
           "type": "addition",
           "x": 1,
           "y": 18,
           "result": 19
         },
         {
-          "id": "bd7454d4-d9d9-4b5f-a2d4-1c6152b86024",
+          "id": "15",
           "type": "addition",
           "x": 5,
           "y": 11,
           "result": 16
         },
         {
-          "id": "7daebac2-6bd0-4cfe-8294-69502ed1acc8",
+          "id": "16",
           "type": "addition",
           "x": 10,
           "y": 2,
@@ -135,14 +135,14 @@
     {
       "items": [
         {
-          "id": "b0ca10b6-24c7-4d47-851a-1308a6ff08a5",
+          "id": "17",
           "type": "addition",
           "x": 17,
           "y": 15,
           "result": 32
         },
         {
-          "id": "2af0ade4-1c7c-45e8-a6d3-bbd9c131a386",
+          "id": "18",
           "type": "problem",
           "question": "Ana had 16 stickers. Paul gave Ana 14 more stickers. How many stickers does Ana have now?",
           "result": 30

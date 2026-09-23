@@ -1,34 +1,34 @@
 {
-  "id": "14d9aaa1-286e-446b-9794-02adc5e52994",
-  "title": "Decimal Numbers — Checkpoint",
+  "id": "decimal-numbers-evaluation",
+  "title": "Decimal Numbers \u2014 Checkpoint",
   "evaluation": true,
   "difficulty": 5,
   "pages": [
     {
       "items": [
         {
-          "id": "dfb0cc9b-fdd7-47ac-bd19-15b111aec419",
+          "id": "1",
           "type": "decimalSubtraction",
           "x": 53.9,
           "y": 12.6,
           "result": 41.3
         },
         {
-          "id": "fae3f1ff-1d6f-476e-88f5-0135993049bd",
+          "id": "2",
           "type": "decimalAddition",
           "x": 46.9,
           "y": 40.3,
           "result": 87.2
         },
         {
-          "id": "2a4ae17f-0fe6-4cac-b420-3c858a0af291",
+          "id": "3",
           "type": "decimalAddition",
           "x": 44,
           "y": 39.2,
           "result": 83.2
         },
         {
-          "id": "5345349c-bb6e-45d3-bff5-d585304a8425",
+          "id": "4",
           "type": "decimalSubtraction",
           "x": 28,
           "y": 3.6,
@@ -39,28 +39,28 @@
     {
       "items": [
         {
-          "id": "5e36e972-448f-4478-a645-8334bf6909a4",
+          "id": "5",
           "type": "decimalSubtraction",
           "x": 55.3,
           "y": 20.9,
           "result": 34.4
         },
         {
-          "id": "c33ead53-6fe0-48fc-ad6c-e919974469cf",
+          "id": "6",
           "type": "decimalAddition",
           "x": 82.9,
           "y": 41.6,
           "result": 124.5
         },
         {
-          "id": "38787a98-311d-4eac-9c19-7d148cc42c18",
+          "id": "7",
           "type": "decimalAddition",
           "x": 21.6,
           "y": 28.6,
           "result": 50.2
         },
         {
-          "id": "090018d8-35e5-4cb0-bd34-9ba674243cd8",
+          "id": "8",
           "type": "decimalAddition",
           "x": 8.5,
           "y": 39.1,
@@ -71,28 +71,28 @@
     {
       "items": [
         {
-          "id": "a3ccc0b1-7ccb-41bc-9ae5-d0559d5d41dc",
+          "id": "9",
           "type": "decimalSubtraction",
           "x": 38.5,
           "y": 16.2,
           "result": 22.3
         },
         {
-          "id": "0c9b778d-402d-47fc-ad96-27c1a1fe19e3",
+          "id": "10",
           "type": "decimalAddition",
           "x": 33.1,
           "y": 14.4,
           "result": 47.5
         },
         {
-          "id": "277300fb-6ea6-4b42-b692-80046563fe17",
+          "id": "11",
           "type": "decimalSubtraction",
           "x": 69,
           "y": 13.9,
           "result": 55.1
         },
         {
-          "id": "f9e0682f-c23c-42b1-8807-1e4188ddc4c2",
+          "id": "12",
           "type": "decimalAddition",
           "x": 90.2,
           "y": 31.8,
@@ -103,28 +103,28 @@
     {
       "items": [
         {
-          "id": "d724732f-7226-4c29-a574-c950d4171963",
+          "id": "13",
           "type": "decimalAddition",
           "x": 51.8,
           "y": 1.3,
           "result": 53.1
         },
         {
-          "id": "f03ae501-04a4-4059-9c16-745adb99da9e",
+          "id": "14",
           "type": "decimalSubtraction",
           "x": 24.1,
           "y": 14.7,
           "result": 9.4
         },
         {
-          "id": "aa7843b9-def3-4dd2-aaf5-77df2c5d81ce",
+          "id": "15",
           "type": "decimalSubtraction",
           "x": 86.7,
           "y": 29.2,
           "result": 57.5
         },
         {
-          "id": "1e20c6c0-7442-4657-ac63-28b19fc8c390",
+          "id": "16",
           "type": "decimalAddition",
           "x": 22.8,
           "y": 45.1,
@@ -135,14 +135,14 @@
     {
       "items": [
         {
-          "id": "d4e16289-6e0e-48b1-8335-789fc7690004",
+          "id": "17",
           "type": "decimalSubtraction",
           "x": 57.5,
           "y": 8.9,
           "result": 48.6
         },
         {
-          "id": "02b8e85e-31a5-4237-abf1-0dff18998f23",
+          "id": "18",
           "type": "problem",
           "question": "Sophie has $53.7 and spends $15.3. How much money does Sophie have now?",
           "result": 38.4

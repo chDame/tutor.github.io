@@ -1,0 +1,120 @@
+{
+  "id": "basic5-practice7",
+  "title": "Numbers from 1 to 5 \u2014 Practice 7",
+  "evaluation": false,
+  "difficulty": 0,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "counting",
+          "countingElement": "\ud83c\udf4d",
+          "result": 5
+        },
+        {
+          "id": "2",
+          "type": "counting",
+          "countingElement": "\ud83c\udf53",
+          "result": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "3",
+          "type": "counting",
+          "countingElement": "\ud83c\udf38",
+          "result": 4
+        },
+        {
+          "id": "4",
+          "type": "counting",
+          "countingElement": "\ud83c\udf39",
+          "result": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "5",
+          "type": "counting",
+          "countingElement": "\ud83c\udf4e",
+          "result": 3
+        },
+        {
+          "id": "6",
+          "type": "counting",
+          "countingElement": "\ud83c\udf81",
+          "result": 2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "7",
+          "type": "counting",
+          "countingElement": "\ud83c\udf44",
+          "result": 2
+        },
+        {
+          "id": "8",
+          "type": "counting",
+          "countingElement": "\ud83c\udf32",
+          "result": 1
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9",
+          "type": "problem",
+          "question": "If Ana has 4 dolls and her mum gives her another one, how many will she have in total?",
+          "result": 5
+        },
+        {
+          "id": "10",
+          "type": "counting",
+          "countingElement": "\ud83c\udf3d",
+          "result": 2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "11",
+          "type": "counting",
+          "countingElement": "\ud83c\udfce",
+          "result": 4
+        },
+        {
+          "id": "12",
+          "type": "counting",
+          "countingElement": "\ud83d\ude95",
+          "result": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "13",
+          "type": "counting",
+          "countingElement": "\ud83c\udf55",
+          "result": 3
+        },
+        {
+          "id": "14",
+          "type": "counting",
+          "countingElement": "\ud83c\udf57",
+          "result": 1
+        }
+      ]
+    }
+  ]
+}

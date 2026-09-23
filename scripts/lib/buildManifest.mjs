@@ -15,6 +15,43 @@ function exerciseFilesInLevel(levelDir) {
     .sort((a, b) => Number(a.match(EXERCISE_FILE_RE)[1]) - Number(b.match(EXERCISE_FILE_RE)[1]))
 }
 
+function validateMissingNumbers(item, file) {
+  if (!Number.isInteger(item.start)) {
+    throw new Error(`${file}: missingNumbers.start must be an integer`)
+  }
+  if (!Number.isInteger(item.length) || item.length < 1) {
+    throw new Error(`${file}: missingNumbers.length must be a positive integer`)
+  }
+  if (!Array.isArray(item.missingIndices) || item.missingIndices.length === 0) {
+    throw new Error(`${file}: missingNumbers.missingIndices must be a non-empty array`)
+  }
+  const seen = new Set()
+  for (const index of item.missingIndices) {
+    if (!Number.isInteger(index) || index < 0 || index >= item.length) {
+      throw new Error(`${file}: missingNumbers.missingIndices must stay within the sequence length`)
+    }
+    if (seen.has(index)) {
+      throw new Error(`${file}: missingNumbers.missingIndices must not contain duplicates`)
+    }
+    seen.add(index)
+  }
+}
+
+function validateExerciseDoc(doc, file) {
+  const itemIds = new Set()
+  doc.pages.forEach((page) => {
+    page.items.forEach((item) => {
+      if (itemIds.has(item.id)) {
+        throw new Error(`${file}: duplicate item id "${item.id}"`)
+      }
+      itemIds.add(item.id)
+      if (item.type === 'missingNumbers') {
+        validateMissingNumbers(item, file)
+      }
+    })
+  })
+}
+
 export function buildManifestForTopic(template, contentRoot) {
   const manifest = { topic: template.topic, levels: [] }
 
@@ -22,6 +59,7 @@ export function buildManifestForTopic(template, contentRoot) {
     const levelDir = join(contentRoot, slug)
     const exercises = exerciseFilesInLevel(levelDir).map((file) => {
       const doc = JSON.parse(readFileSync(join(levelDir, file), 'utf8'))
+      validateExerciseDoc(doc, `${slug}/${file}`)
       return {
         file: `${slug}/${file}`,
         id: doc.id,

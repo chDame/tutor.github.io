@@ -1,0 +1,100 @@
+{
+  "id": "basic5-practice1",
+  "title": "Numbers from 1 to 5 \u2014 Practice 1",
+  "evaluation": false,
+  "difficulty": 0,
+  "character": {
+    "image": "characters/puzzledChickenNumbers.png",
+    "position": "left"
+  },
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "discoverNumber",
+          "from": 1,
+          "to": 3,
+          "displayElements": true,
+          "countingElement": "\ud83c\udf4e"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "2",
+          "type": "counting",
+          "countingElement": "\ud83c\udf38",
+          "result": 1
+        },
+        {
+          "id": "3",
+          "type": "counting",
+          "countingElement": "\ud83c\udf39",
+          "result": 2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "type": "counting",
+          "countingElement": "\ud83c\udf44",
+          "result": 2
+        },
+        {
+          "id": "5",
+          "type": "counting",
+          "countingElement": "\ud83c\udf32",
+          "result": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6",
+          "type": "counting",
+          "countingElement": "\ud83c\udf3b",
+          "result": 2
+        },
+        {
+          "id": "7",
+          "type": "counting",
+          "countingElement": "\ud83c\udf3d",
+          "result": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "8",
+          "type": "discoverNumber",
+          "from": 1,
+          "to": 3,
+          "displayElements": true,
+          "countingElement": "\ud83c\udf4d"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9",
+          "type": "counting",
+          "countingElement": "\ud83c\udfce",
+          "result": 3
+        },
+        {
+          "id": "10",
+          "type": "counting",
+          "countingElement": "\ud83d\ude95",
+          "result": 2
+        }
+      ]
+    }
+  ]
+}

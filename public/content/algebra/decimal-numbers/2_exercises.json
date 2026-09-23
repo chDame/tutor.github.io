@@ -1,34 +1,34 @@
 {
-  "id": "019a3fb3-33ce-433e-86b5-e163558ad7f5",
-  "title": "Decimal Numbers — Practice 2",
+  "id": "decimal-numbers-practice2",
+  "title": "Decimal Numbers \u2014 Practice 2",
   "evaluation": false,
   "difficulty": 4,
   "pages": [
     {
       "items": [
         {
-          "id": "ed49efa8-74a5-4766-ae20-daf5be2a3ba7",
+          "id": "1",
           "type": "decimalAddition",
           "x": 91.6,
           "y": 22.2,
           "result": 113.8
         },
         {
-          "id": "5bcf000a-2443-42a3-b458-396b8b610ca1",
+          "id": "2",
           "type": "decimalSubtraction",
           "x": 23.2,
           "y": 13.7,
           "result": 9.5
         },
         {
-          "id": "2f8f4244-f10d-49f0-9f2a-fc7ff466355e",
+          "id": "3",
           "type": "decimalSubtraction",
           "x": 38.4,
           "y": 1.5,
           "result": 36.9
         },
         {
-          "id": "a81afd8f-ecf9-4df0-b470-1b95aad0fec3",
+          "id": "4",
           "type": "decimalSubtraction",
           "x": 49.3,
           "y": 9.9,
@@ -39,28 +39,28 @@
     {
       "items": [
         {
-          "id": "b904ff32-9ce8-42af-b46c-93d343b53b7a",
+          "id": "5",
           "type": "decimalSubtraction",
           "x": 95.5,
           "y": 10.5,
           "result": 85
         },
         {
-          "id": "a5e4374a-97ac-4bfd-b00b-689441e49dd7",
+          "id": "6",
           "type": "decimalSubtraction",
           "x": 89.2,
           "y": 13.6,
           "result": 75.6
         },
         {
-          "id": "9f1c8676-8836-4b2f-8466-f499ba0304b2",
+          "id": "7",
           "type": "decimalAddition",
           "x": 28.5,
           "y": 16.2,
           "result": 44.7
         },
         {
-          "id": "0176ff7e-a373-4747-aef3-8f6089425cc8",
+          "id": "8",
           "type": "decimalSubtraction",
           "x": 61.8,
           "y": 16.4,
@@ -71,28 +71,28 @@
     {
       "items": [
         {
-          "id": "a7ae3c93-bf3a-46c1-9575-e0365b137abb",
+          "id": "9",
           "type": "decimalAddition",
           "x": 66.5,
           "y": 20.3,
           "result": 86.8
         },
         {
-          "id": "95f137dd-cdc5-4b81-9acf-ab7694b8bc8f",
+          "id": "10",
           "type": "decimalAddition",
           "x": 44.3,
           "y": 25.2,
           "result": 69.5
         },
         {
-          "id": "621ce8db-5a89-408e-80d1-260eeb782d87",
+          "id": "11",
           "type": "decimalSubtraction",
           "x": 31.7,
           "y": 20.8,
           "result": 10.9
         },
         {
-          "id": "bea32d60-c78f-4cad-9572-bcd165fde74f",
+          "id": "12",
           "type": "decimalSubtraction",
           "x": 50.8,
           "y": 11.8,
@@ -103,28 +103,28 @@
     {
       "items": [
         {
-          "id": "81830e94-d6d2-46ef-8d6c-1ec954e0032f",
+          "id": "13",
           "type": "decimalSubtraction",
           "x": 85,
           "y": 9.6,
           "result": 75.4
         },
         {
-          "id": "48b22c7e-07dd-41c4-a809-a29b28389797",
+          "id": "14",
           "type": "decimalSubtraction",
           "x": 73.4,
           "y": 30.6,
           "result": 42.8
         },
         {
-          "id": "dcac100c-8d06-4c57-9eb5-7b1f5e0ea2ee",
+          "id": "15",
           "type": "decimalAddition",
           "x": 37.8,
           "y": 45.8,
           "result": 83.6
         },
         {
-          "id": "f76b4beb-454f-4c83-9cf0-6b2319428bc9",
+          "id": "16",
           "type": "decimalSubtraction",
           "x": 45.6,
           "y": 34.7,
@@ -135,14 +135,14 @@
     {
       "items": [
         {
-          "id": "0a59c3d4-7d47-41f7-870f-adefc17b5bac",
+          "id": "17",
           "type": "decimalAddition",
           "x": 62.8,
           "y": 25.6,
           "result": 88.4
         },
         {
-          "id": "a890145d-d0d1-4069-b7fc-43acc73a262b",
+          "id": "18",
           "type": "problem",
           "question": "Liam has $79.3 and receives $28.0 more. How much money does Liam have now?",
           "result": 107.3

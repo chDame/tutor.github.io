@@ -1,34 +1,34 @@
 {
-  "id": "1af016b2-ddcf-49e2-87b8-650b03d07d1b",
-  "title": "Decimal Numbers — Practice 1",
+  "id": "decimal-numbers-practice1",
+  "title": "Decimal Numbers \u2014 Practice 1",
   "evaluation": false,
   "difficulty": 4,
   "pages": [
     {
       "items": [
         {
-          "id": "0ebf57d2-dba5-43c3-b362-160df58fc5ac",
+          "id": "1",
           "type": "decimalAddition",
           "x": 91.4,
           "y": 39.4,
           "result": 130.8
         },
         {
-          "id": "be37c4e8-d4f3-4f60-89d0-46bff8cd3fa0",
+          "id": "2",
           "type": "decimalAddition",
           "x": 46.4,
           "y": 24.1,
           "result": 70.5
         },
         {
-          "id": "f13b7a31-06ea-49af-b892-a332a39d334d",
+          "id": "3",
           "type": "decimalAddition",
           "x": 72.9,
           "y": 28.4,
           "result": 101.3
         },
         {
-          "id": "cf244970-a93e-4703-b572-a8b9d9335bb2",
+          "id": "4",
           "type": "decimalSubtraction",
           "x": 65.6,
           "y": 46.3,
@@ -39,28 +39,28 @@
     {
       "items": [
         {
-          "id": "0c36f17c-94af-4bed-b358-dbd146aa8c86",
+          "id": "5",
           "type": "decimalAddition",
           "x": 11.2,
           "y": 27.3,
           "result": 38.5
         },
         {
-          "id": "ffbb9eab-9337-4de8-aedd-8a2b7ffc7b8c",
+          "id": "6",
           "type": "decimalSubtraction",
           "x": 63.2,
           "y": 40.7,
           "result": 22.5
         },
         {
-          "id": "76e68e29-d001-4af1-9292-aca5f2a1deb7",
+          "id": "7",
           "type": "decimalAddition",
           "x": 90.9,
           "y": 19.9,
           "result": 110.8
         },
         {
-          "id": "f9d04902-cd5d-4147-9420-5624980caa24",
+          "id": "8",
           "type": "decimalSubtraction",
           "x": 83.4,
           "y": 42.1,
@@ -71,28 +71,28 @@
     {
       "items": [
         {
-          "id": "0038eea8-0606-4f9a-97f1-3e3d307c27e2",
+          "id": "9",
           "type": "decimalAddition",
           "x": 29.7,
           "y": 44,
           "result": 73.7
         },
         {
-          "id": "a83890b0-77a2-4afa-8cbf-04453300fba4",
+          "id": "10",
           "type": "decimalAddition",
           "x": 49.6,
           "y": 8.6,
           "result": 58.2
         },
         {
-          "id": "53ead5a2-92e7-4aed-9c0d-79de2a8d58a8",
+          "id": "11",
           "type": "decimalAddition",
           "x": 92.4,
           "y": 17.5,
           "result": 109.9
         },
         {
-          "id": "a9e80823-cbe1-4e9f-bcdb-0a160aa84d44",
+          "id": "12",
           "type": "decimalAddition",
           "x": 2.4,
           "y": 19.7,
@@ -103,28 +103,28 @@
     {
       "items": [
         {
-          "id": "795f4239-aabc-4e56-a8cf-e6d207021238",
+          "id": "13",
           "type": "decimalAddition",
           "x": 86.8,
           "y": 31.3,
           "result": 118.1
         },
         {
-          "id": "c353bb4d-ff1a-467f-911d-3519fc09bdb2",
+          "id": "14",
           "type": "decimalSubtraction",
           "x": 58.8,
           "y": 11.1,
           "result": 47.7
         },
         {
-          "id": "d7246142-a93f-44fb-9072-3b7a439bd070",
+          "id": "15",
           "type": "decimalAddition",
           "x": 50.9,
           "y": 40.2,
           "result": 91.1
         },
         {
-          "id": "f594acc0-562d-4bf5-977f-c0eab9004de4",
+          "id": "16",
           "type": "decimalAddition",
           "x": 80.6,
           "y": 1.3,
@@ -135,14 +135,14 @@
     {
       "items": [
         {
-          "id": "65ad5925-a465-4be4-b9ab-a599b2c0d7c2",
+          "id": "17",
           "type": "decimalSubtraction",
           "x": 39.4,
           "y": 1.9,
           "result": 37.5
         },
         {
-          "id": "679a0c0a-d20e-488f-a9ae-e694330b3927",
+          "id": "18",
           "type": "problem",
           "question": "Paul has $66.1 and receives $1.1 more. How much money does Paul have now?",
           "result": 67.2

@@ -1,13 +1,13 @@
 {
-  "id": "d4260465-07ad-427d-9bcb-3018e4896a72",
-  "title": "Column Additions — Checkpoint",
+  "id": "column-additions-evaluation",
+  "title": "Column Additions \u2014 Checkpoint",
   "evaluation": true,
   "difficulty": 3,
   "pages": [
     {
       "items": [
         {
-          "id": "e417e976-dc8a-46a6-9343-1e561003c918",
+          "id": "1",
           "type": "columnAddition",
           "operands": [
             485,
@@ -16,7 +16,7 @@
           "result": 1220
         },
         {
-          "id": "d4feb0f0-a4f6-4647-8104-0568b96815e1",
+          "id": "2",
           "type": "columnAddition",
           "operands": [
             763,
@@ -25,7 +25,7 @@
           "result": 1535
         },
         {
-          "id": "5c249a13-3ede-4f68-81d3-bde8bd98aa76",
+          "id": "3",
           "type": "columnAddition",
           "operands": [
             347,
@@ -34,7 +34,7 @@
           "result": 702
         },
         {
-          "id": "fff1b8d6-d2eb-4e80-a3ee-6e23d0b90925",
+          "id": "4",
           "type": "columnAddition",
           "operands": [
             487,
@@ -47,7 +47,7 @@
     {
       "items": [
         {
-          "id": "b9590cf8-41ac-4981-8cca-ab3eabf7362e",
+          "id": "5",
           "type": "columnAddition",
           "operands": [
             968,
@@ -56,7 +56,7 @@
           "result": 1458
         },
         {
-          "id": "c3998b68-479a-4764-831d-e47c6a952b70",
+          "id": "6",
           "type": "columnAddition",
           "operands": [
             928,
@@ -65,7 +65,7 @@
           "result": 1782
         },
         {
-          "id": "79b976e3-040a-4b5d-b823-5190ef9a7739",
+          "id": "7",
           "type": "columnAddition",
           "operands": [
             899,
@@ -74,7 +74,7 @@
           "result": 1055
         },
         {
-          "id": "d6598f0a-1cbc-46bb-a136-509bba812509",
+          "id": "8",
           "type": "columnAddition",
           "operands": [
             393,
@@ -87,7 +87,7 @@
     {
       "items": [
         {
-          "id": "50036e46-d826-4010-8963-26bd86aa4ac3",
+          "id": "9",
           "type": "columnAddition",
           "operands": [
             888,
@@ -96,7 +96,7 @@
           "result": 1028
         },
         {
-          "id": "f17ee603-e4df-43e6-a7e9-faef5b2fc8aa",
+          "id": "10",
           "type": "columnAddition",
           "operands": [
             297,
@@ -105,7 +105,7 @@
           "result": 1266
         },
         {
-          "id": "1914120a-b1ed-4f1d-ae72-88e9d69357cd",
+          "id": "11",
           "type": "columnAddition",
           "operands": [
             257,
@@ -114,7 +114,7 @@
           "result": 657
         },
         {
-          "id": "20b0fe48-86ef-4a6f-be63-c20691448a92",
+          "id": "12",
           "type": "columnAddition",
           "operands": [
             349,
@@ -127,7 +127,7 @@
     {
       "items": [
         {
-          "id": "8e0e42c8-9d1c-4312-ae1c-910ff712ca15",
+          "id": "13",
           "type": "columnAddition",
           "operands": [
             843,
@@ -136,7 +136,7 @@
           "result": 1166
         },
         {
-          "id": "158c2f5e-af24-43d0-bdc3-23137213791e",
+          "id": "14",
           "type": "columnAddition",
           "operands": [
             877,
@@ -145,7 +145,7 @@
           "result": 1229
         },
         {
-          "id": "f60b2777-490a-412e-9cfb-6aa160899dd5",
+          "id": "15",
           "type": "columnAddition",
           "operands": [
             782,
@@ -154,7 +154,7 @@
           "result": 1428
         },
         {
-          "id": "0e9f985e-cee4-451f-a811-50a708f768fb",
+          "id": "16",
           "type": "columnAddition",
           "operands": [
             222,
@@ -167,7 +167,7 @@
     {
       "items": [
         {
-          "id": "f33c586b-15ee-43fc-8b2b-07ee1674d39f",
+          "id": "17",
           "type": "columnAddition",
           "operands": [
             718,
@@ -176,7 +176,7 @@
           "result": 1452
         },
         {
-          "id": "03c5648d-accd-428f-8081-04f66a102518",
+          "id": "18",
           "type": "problem",
           "question": "Paul had 37 coins. Emma gave Paul 15 more coins. How many coins does Paul have now?",
           "result": 52

@@ -1,34 +1,34 @@
 {
-  "id": "7b1730bc-2b73-4768-98fc-7b3d80cc679e",
-  "title": "Relative Numbers — Checkpoint",
+  "id": "relative-numbers-evaluation",
+  "title": "Relative Numbers \u2014 Checkpoint",
   "evaluation": true,
   "difficulty": 5,
   "pages": [
     {
       "items": [
         {
-          "id": "173084bc-fced-4336-9e24-a008e6d9c417",
+          "id": "1",
           "type": "relativeSubtraction",
           "x": -14,
           "y": -17,
           "result": 3
         },
         {
-          "id": "a4d412fa-366e-4d78-9326-bef176987f2e",
+          "id": "2",
           "type": "relativeSubtraction",
           "x": 6,
           "y": -4,
           "result": 10
         },
         {
-          "id": "163edd4b-7f3c-4b3d-b3eb-868257cd1d21",
+          "id": "3",
           "type": "relativeSubtraction",
           "x": -5,
           "y": 4,
           "result": -9
         },
         {
-          "id": "b08d4b18-6bf9-4f17-9a97-eb0f0bde3369",
+          "id": "4",
           "type": "relativeSubtraction",
           "x": -9,
           "y": -20,
@@ -39,28 +39,28 @@
     {
       "items": [
         {
-          "id": "1c405e49-49e8-4745-81d8-91555d443d2d",
+          "id": "5",
           "type": "relativeSubtraction",
           "x": 14,
           "y": 14,
           "result": 0
         },
         {
-          "id": "8c9a67cc-d3af-4aa0-b765-1833b36edde0",
+          "id": "6",
           "type": "relativeAddition",
           "x": -3,
           "y": 5,
           "result": 2
         },
         {
-          "id": "c70d8bc0-d625-47b4-bf8e-262ec4e7104a",
+          "id": "7",
           "type": "relativeSubtraction",
           "x": 1,
           "y": -4,
           "result": 5
         },
         {
-          "id": "bcf3ce8b-4d48-4f13-876b-b5ab87cc4f31",
+          "id": "8",
           "type": "relativeAddition",
           "x": 18,
           "y": -17,
@@ -71,28 +71,28 @@
     {
       "items": [
         {
-          "id": "16f06034-5c88-459e-a7a3-1890b1755c96",
+          "id": "9",
           "type": "relativeAddition",
           "x": 20,
           "y": -4,
           "result": 16
         },
         {
-          "id": "90f18ed0-b86b-47a9-8198-432ddad4516a",
+          "id": "10",
           "type": "relativeSubtraction",
           "x": -3,
           "y": 4,
           "result": -7
         },
         {
-          "id": "8175db2f-7e98-4838-9ca8-6128177e09a0",
+          "id": "11",
           "type": "relativeAddition",
           "x": -13,
           "y": -3,
           "result": -16
         },
         {
-          "id": "ac1e0f07-907c-4d96-bdac-b5a2e8600f53",
+          "id": "12",
           "type": "relativeAddition",
           "x": -6,
           "y": -20,
@@ -103,28 +103,28 @@
     {
       "items": [
         {
-          "id": "3b43a17f-50aa-4824-871b-2faaa8ce1ae8",
+          "id": "13",
           "type": "relativeSubtraction",
           "x": -5,
           "y": 3,
           "result": -8
         },
         {
-          "id": "cf8be432-e523-4769-9e7d-212ca1c4c418",
+          "id": "14",
           "type": "relativeAddition",
           "x": -19,
           "y": 5,
           "result": -14
         },
         {
-          "id": "bf18df6d-1454-4c79-8893-f09912f05912",
+          "id": "15",
           "type": "relativeAddition",
           "x": 8,
           "y": 16,
           "result": 24
         },
         {
-          "id": "f0037423-a9de-440d-b0f9-3bf31f1715b3",
+          "id": "16",
           "type": "relativeSubtraction",
           "x": 3,
           "y": -1,
@@ -135,16 +135,16 @@
     {
       "items": [
         {
-          "id": "b43e3c79-d130-4faf-8ab8-5ae22039dc1e",
+          "id": "17",
           "type": "relativeSubtraction",
           "x": -2,
           "y": 10,
           "result": -12
         },
         {
-          "id": "1c6b35be-12e2-4318-ae8d-a0993b5835bd",
+          "id": "18",
           "type": "problem",
-          "question": "The temperature was -4°C in the morning. It dropped by 10 degrees. What is the temperature now?",
+          "question": "The temperature was -4\u00b0C in the morning. It dropped by 10 degrees. What is the temperature now?",
           "result": -14
         }
       ]

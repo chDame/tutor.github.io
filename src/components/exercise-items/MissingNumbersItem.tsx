@@ -16,6 +16,7 @@ export default function MissingNumbersItem({ item, answer, onChange }: ItemProps
 
   return (
     <div className="item-box missingNumbers">
+      <div className="item-question">Please fill in the missing numbers:</div>
       <div className="sequence">
         {Array.from({ length: item.length }, (_, i) => {
           const pos = indices.indexOf(i)

@@ -1,0 +1,102 @@
+{
+  "id": "addOneTo10-practice9",
+  "title": "Add One to 10 \u2014 Practice 9",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "addition",
+          "x": 3,
+          "y": 1,
+          "result": 4
+        },
+        {
+          "id": "2",
+          "type": "addition",
+          "x": 4,
+          "y": 1,
+          "result": 5
+        },
+        {
+          "id": "3",
+          "type": "missingNumbers",
+          "start": 3,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "type": "addition",
+          "x": 6,
+          "y": 1,
+          "result": 7
+        },
+        {
+          "id": "5",
+          "type": "addition",
+          "x": 7,
+          "y": 1,
+          "result": 8
+        },
+        {
+          "id": "6",
+          "type": "missingNumbers",
+          "start": 6,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "7",
+          "type": "addition",
+          "x": 8,
+          "y": 1,
+          "result": 9
+        },
+        {
+          "id": "8",
+          "type": "addition",
+          "x": 9,
+          "y": 1,
+          "result": 10
+        },
+        {
+          "id": "9",
+          "type": "missingNumbers",
+          "start": 8,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "10",
+          "type": "problem",
+          "question": "If Alfred has 9 balls and buys a new one, how many balls will he have in total?",
+          "result": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
-  "id": "a3285457-1e23-42b5-a835-f1886b406231",
-  "title": "Column Multiplications — Practice 1",
+  "id": "column-multiplications-practice1",
+  "title": "Column Multiplications \u2014 Practice 1",
   "evaluation": false,
   "difficulty": 3,
   "pages": [
     {
       "items": [
         {
-          "id": "476ff5cd-c8d9-49ba-9242-ab778469032d",
+          "id": "1",
           "type": "columnMultiplication",
           "operands": [
             59,
@@ -16,7 +16,7 @@
           "result": 413
         },
         {
-          "id": "203d5499-24d0-45b1-bf7f-612d57c15d14",
+          "id": "2",
           "type": "columnMultiplication",
           "operands": [
             65,
@@ -25,7 +25,7 @@
           "result": 130
         },
         {
-          "id": "daa32675-dfd1-465b-8d86-0a4ad39744a1",
+          "id": "3",
           "type": "columnMultiplication",
           "operands": [
             50,
@@ -34,7 +34,7 @@
           "result": 400
         },
         {
-          "id": "da46240f-48b9-4979-844e-8983e23b3506",
+          "id": "4",
           "type": "columnMultiplication",
           "operands": [
             33,
@@ -47,7 +47,7 @@
     {
       "items": [
         {
-          "id": "a80a1a1a-2284-4ff7-a5d2-f67e5cb73a65",
+          "id": "5",
           "type": "columnMultiplication",
           "operands": [
             81,
@@ -56,7 +56,7 @@
           "result": 729
         },
         {
-          "id": "1c094a43-ee17-4649-a00a-0d40a6b53a6d",
+          "id": "6",
           "type": "columnMultiplication",
           "operands": [
             39,
@@ -65,7 +65,7 @@
           "result": 312
         },
         {
-          "id": "9ced54e5-837b-4d8d-96ad-e8f65df7b069",
+          "id": "7",
           "type": "columnMultiplication",
           "operands": [
             30,
@@ -74,7 +74,7 @@
           "result": 240
         },
         {
-          "id": "c97505aa-8f60-4329-82bf-84169db9391f",
+          "id": "8",
           "type": "columnMultiplication",
           "operands": [
             87,
@@ -87,7 +87,7 @@
     {
       "items": [
         {
-          "id": "61cbbade-cc9a-421c-a518-0f2700bbff94",
+          "id": "9",
           "type": "columnMultiplication",
           "operands": [
             61,
@@ -96,7 +96,7 @@
           "result": 183
         },
         {
-          "id": "c451bcc4-4783-4264-a90a-efe60cea122f",
+          "id": "10",
           "type": "columnMultiplication",
           "operands": [
             17,
@@ -105,7 +105,7 @@
           "result": 68
         },
         {
-          "id": "7c3eaf1d-bcab-4380-bb20-5bbdad3d8bdc",
+          "id": "11",
           "type": "columnMultiplication",
           "operands": [
             85,
@@ -114,7 +114,7 @@
           "result": 255
         },
         {
-          "id": "beb4a2a6-6876-446e-b25a-8b2fe52d75af",
+          "id": "12",
           "type": "columnMultiplication",
           "operands": [
             75,
@@ -127,7 +127,7 @@
     {
       "items": [
         {
-          "id": "36fa3342-2b9f-4a13-8ded-e98e73c24a42",
+          "id": "13",
           "type": "columnMultiplication",
           "operands": [
             60,
@@ -136,7 +136,7 @@
           "result": 360
         },
         {
-          "id": "2f36e335-6ef9-4ad3-964a-9b1f453f4570",
+          "id": "14",
           "type": "columnMultiplication",
           "operands": [
             84,
@@ -145,7 +145,7 @@
           "result": 588
         },
         {
-          "id": "8c1b0ab0-68bd-4e40-920a-09431df046ea",
+          "id": "15",
           "type": "columnMultiplication",
           "operands": [
             47,
@@ -154,7 +154,7 @@
           "result": 329
         },
         {
-          "id": "bdc427a2-65af-4edc-b976-42e7d8caa767",
+          "id": "16",
           "type": "columnMultiplication",
           "operands": [
             88,
@@ -167,7 +167,7 @@
     {
       "items": [
         {
-          "id": "2dc2b1ab-129c-44fa-ae3c-ca9f59e29d7d",
+          "id": "17",
           "type": "columnMultiplication",
           "operands": [
             42,
@@ -176,7 +176,7 @@
           "result": 378
         },
         {
-          "id": "44018376-f5d8-4dea-b854-34d2caee163f",
+          "id": "18",
           "type": "problem",
           "question": "Noah has 6 boxes with 3 candies in each box. How many candies does Noah have in total?",
           "result": 18

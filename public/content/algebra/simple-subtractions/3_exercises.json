@@ -1,34 +1,34 @@
 {
-  "id": "af2ac53d-c75d-423e-9b9c-4e04de0a50b9",
-  "title": "Simple Subtractions — Practice 3",
+  "id": "simple-subtractions-practice3",
+  "title": "Simple Subtractions \u2014 Practice 3",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "id": "fb8176e1-c62f-4242-8918-f9fe45d5fb6e",
+          "id": "1",
           "type": "subtraction",
           "x": 14,
           "y": 6,
           "result": 8
         },
         {
-          "id": "a2a6221c-bace-46af-8fa6-3a3873004b5b",
+          "id": "2",
           "type": "subtraction",
           "x": 18,
           "y": 8,
           "result": 10
         },
         {
-          "id": "b6ea3e2f-9fca-4760-b6cd-9deded186c19",
+          "id": "3",
           "type": "subtraction",
           "x": 14,
           "y": 9,
           "result": 5
         },
         {
-          "id": "2872a3d1-2a83-4762-9418-dc5e056828e5",
+          "id": "4",
           "type": "subtraction",
           "x": 29,
           "y": 9,
@@ -39,28 +39,28 @@
     {
       "items": [
         {
-          "id": "98d9baf6-325c-42d7-bc40-9b804524eece",
+          "id": "5",
           "type": "subtraction",
           "x": 11,
           "y": 4,
           "result": 7
         },
         {
-          "id": "4f7faad6-4046-49c3-b640-280222769c65",
+          "id": "6",
           "type": "subtraction",
           "x": 17,
           "y": 5,
           "result": 12
         },
         {
-          "id": "372284e7-b2f7-469c-9b7f-7f034dd73edf",
+          "id": "7",
           "type": "subtraction",
           "x": 10,
           "y": 7,
           "result": 3
         },
         {
-          "id": "8b39341d-19bd-4334-8212-fc734dd84de6",
+          "id": "8",
           "type": "subtraction",
           "x": 14,
           "y": 4,
@@ -71,28 +71,28 @@
     {
       "items": [
         {
-          "id": "19ed1d24-d0b4-4b13-b477-bed38dfb312e",
+          "id": "9",
           "type": "subtraction",
           "x": 12,
           "y": 11,
           "result": 1
         },
         {
-          "id": "aa7bea2c-986a-4c1e-bc5f-1f5f2d6579de",
+          "id": "10",
           "type": "subtraction",
           "x": 30,
           "y": 25,
           "result": 5
         },
         {
-          "id": "81b390be-35d1-4007-bc26-de76b65afc18",
+          "id": "11",
           "type": "subtraction",
           "x": 17,
           "y": 1,
           "result": 16
         },
         {
-          "id": "088ec902-f3de-4140-9dea-812adfd9c432",
+          "id": "12",
           "type": "subtraction",
           "x": 20,
           "y": 1,
@@ -103,28 +103,28 @@
     {
       "items": [
         {
-          "id": "0a2ee6a7-9f4e-4111-8687-07d0d94c7c79",
+          "id": "13",
           "type": "subtraction",
           "x": 18,
           "y": 3,
           "result": 15
         },
         {
-          "id": "5b0848d8-8933-4eac-b0bd-7d05621451e5",
+          "id": "14",
           "type": "subtraction",
           "x": 25,
           "y": 3,
           "result": 22
         },
         {
-          "id": "ff32624c-8998-4840-a0cb-1bae1a499aa8",
+          "id": "15",
           "type": "subtraction",
           "x": 22,
           "y": 8,
           "result": 14
         },
         {
-          "id": "e0754b30-1e9d-4026-904c-4c3522836c1c",
+          "id": "16",
           "type": "subtraction",
           "x": 23,
           "y": 13,
@@ -135,14 +135,14 @@
     {
       "items": [
         {
-          "id": "b3ecc3cc-0a76-4573-9237-cc9f6c0fa4ab",
+          "id": "17",
           "type": "subtraction",
           "x": 11,
           "y": 7,
           "result": 4
         },
         {
-          "id": "087a0fb3-73b0-4a69-a68a-c2262867d02c",
+          "id": "18",
           "type": "problem",
           "question": "Sophie was having 47 pens but gave 12 to Ana and 10 to Paul. How many pens does Sophie still have?",
           "result": 25

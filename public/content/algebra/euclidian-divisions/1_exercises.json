@@ -1,13 +1,13 @@
 {
-  "id": "6daa7dde-eeb1-4274-b7bb-aa7339ead8ae",
-  "title": "Euclidian Divisions — Practice 1",
+  "id": "euclidian-divisions-practice1",
+  "title": "Euclidian Divisions \u2014 Practice 1",
   "evaluation": false,
   "difficulty": 3,
   "pages": [
     {
       "items": [
         {
-          "id": "a6031aeb-7f51-4e09-8e11-72d606cda243",
+          "id": "1",
           "type": "euclidianDivision",
           "x": 72,
           "y": 6,
@@ -15,7 +15,7 @@
           "remainder": 0
         },
         {
-          "id": "8a2c2ca6-8c8e-4edc-88c8-c5b639b58203",
+          "id": "2",
           "type": "euclidianDivision",
           "x": 32,
           "y": 7,
@@ -23,7 +23,7 @@
           "remainder": 4
         },
         {
-          "id": "649eab80-e11e-4c1e-82a1-20b617ab425d",
+          "id": "3",
           "type": "euclidianDivision",
           "x": 37,
           "y": 3,
@@ -31,7 +31,7 @@
           "remainder": 1
         },
         {
-          "id": "fe00ea00-4f31-4f74-848c-8f751801c153",
+          "id": "4",
           "type": "euclidianDivision",
           "x": 43,
           "y": 5,
@@ -43,7 +43,7 @@
     {
       "items": [
         {
-          "id": "001f6cde-c04e-4e5d-9b3e-d8aeac705181",
+          "id": "5",
           "type": "euclidianDivision",
           "x": 32,
           "y": 3,
@@ -51,7 +51,7 @@
           "remainder": 2
         },
         {
-          "id": "1ee622ea-02b2-4e0b-b8d1-a72a96f06f15",
+          "id": "6",
           "type": "euclidianDivision",
           "x": 110,
           "y": 9,
@@ -59,7 +59,7 @@
           "remainder": 2
         },
         {
-          "id": "03c4c807-eebf-4c3a-b0d9-f182aef5b86e",
+          "id": "7",
           "type": "euclidianDivision",
           "x": 60,
           "y": 6,
@@ -67,7 +67,7 @@
           "remainder": 0
         },
         {
-          "id": "52c833b6-2ce8-499b-90a8-c9ce31158adc",
+          "id": "8",
           "type": "euclidianDivision",
           "x": 18,
           "y": 5,
@@ -79,7 +79,7 @@
     {
       "items": [
         {
-          "id": "56abd7cb-751b-4cbb-81c3-6a83475e8444",
+          "id": "9",
           "type": "euclidianDivision",
           "x": 41,
           "y": 4,
@@ -87,7 +87,7 @@
           "remainder": 1
         },
         {
-          "id": "8d827e8c-3390-4685-b462-aa4412797974",
+          "id": "10",
           "type": "euclidianDivision",
           "x": 53,
           "y": 7,
@@ -95,7 +95,7 @@
           "remainder": 4
         },
         {
-          "id": "6b510067-e174-4989-8ab6-b4958ba51096",
+          "id": "11",
           "type": "euclidianDivision",
           "x": 48,
           "y": 9,
@@ -103,7 +103,7 @@
           "remainder": 3
         },
         {
-          "id": "59b7f92a-9db4-4a3b-beb6-4d5007a35e77",
+          "id": "12",
           "type": "euclidianDivision",
           "x": 23,
           "y": 6,
@@ -115,7 +115,7 @@
     {
       "items": [
         {
-          "id": "7b315319-2634-43b6-b7ae-de111cee4135",
+          "id": "13",
           "type": "euclidianDivision",
           "x": 28,
           "y": 9,
@@ -123,7 +123,7 @@
           "remainder": 1
         },
         {
-          "id": "b9e46db7-5932-460b-9b6c-80c2f0d9910d",
+          "id": "14",
           "type": "euclidianDivision",
           "x": 55,
           "y": 6,
@@ -131,7 +131,7 @@
           "remainder": 1
         },
         {
-          "id": "647f8e60-c4e9-4630-a05e-6b0b71fdac02",
+          "id": "15",
           "type": "euclidianDivision",
           "x": 25,
           "y": 8,
@@ -139,7 +139,7 @@
           "remainder": 1
         },
         {
-          "id": "da929525-8611-4cab-b200-28f71bbe3352",
+          "id": "16",
           "type": "euclidianDivision",
           "x": 17,
           "y": 7,
@@ -151,7 +151,7 @@
     {
       "items": [
         {
-          "id": "e50866d8-9b78-4c16-825c-d6e4783623a5",
+          "id": "17",
           "type": "euclidianDivision",
           "x": 99,
           "y": 9,
@@ -159,7 +159,7 @@
           "remainder": 0
         },
         {
-          "id": "21a47e55-65a1-40ac-800e-e07aa7f25ebf",
+          "id": "18",
           "type": "problem",
           "question": "Josh has 48 marbles to share equally among 8 friends. How many marbles does each friend get?",
           "result": 6

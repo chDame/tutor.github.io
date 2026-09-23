@@ -1,13 +1,13 @@
 {
-  "id": "a28a1e84-8997-4bc3-90e3-a94669fc0401",
-  "title": "Column Additions — Practice 2",
+  "id": "column-additions-practice2",
+  "title": "Column Additions \u2014 Practice 2",
   "evaluation": false,
   "difficulty": 2,
   "pages": [
     {
       "items": [
         {
-          "id": "8edc48a6-2942-4829-8d9f-128a82f578ea",
+          "id": "1",
           "type": "columnAddition",
           "operands": [
             560,
@@ -16,7 +16,7 @@
           "result": 1329
         },
         {
-          "id": "4b51c7bb-8da4-4603-8b69-c56550d3ceba",
+          "id": "2",
           "type": "columnAddition",
           "operands": [
             559,
@@ -25,7 +25,7 @@
           "result": 660
         },
         {
-          "id": "e780e613-db36-4a28-9503-0eb8b394b9e1",
+          "id": "3",
           "type": "columnAddition",
           "operands": [
             840,
@@ -34,7 +34,7 @@
           "result": 1425
         },
         {
-          "id": "a2bbf00b-01cb-4137-bf53-fb465cb64d5c",
+          "id": "4",
           "type": "columnAddition",
           "operands": [
             991,
@@ -47,7 +47,7 @@
     {
       "items": [
         {
-          "id": "9868f498-826a-4ccb-8651-eec27ff626cf",
+          "id": "5",
           "type": "columnAddition",
           "operands": [
             845,
@@ -56,7 +56,7 @@
           "result": 1714
         },
         {
-          "id": "ea6d3504-108a-4907-a8f8-b819eca3c001",
+          "id": "6",
           "type": "columnAddition",
           "operands": [
             327,
@@ -65,7 +65,7 @@
           "result": 485
         },
         {
-          "id": "7ece579e-5005-495e-ae33-9fc63804611d",
+          "id": "7",
           "type": "columnAddition",
           "operands": [
             868,
@@ -74,7 +74,7 @@
           "result": 1720
         },
         {
-          "id": "117b4b62-628a-49a9-8f0b-a8c81d323f5b",
+          "id": "8",
           "type": "columnAddition",
           "operands": [
             873,
@@ -87,7 +87,7 @@
     {
       "items": [
         {
-          "id": "3a859d98-6f6c-4bc5-8b82-0010757a2d29",
+          "id": "9",
           "type": "columnAddition",
           "operands": [
             697,
@@ -96,7 +96,7 @@
           "result": 1368
         },
         {
-          "id": "f027638a-acd9-4b74-bf1f-fb3172658a76",
+          "id": "10",
           "type": "columnAddition",
           "operands": [
             720,
@@ -105,7 +105,7 @@
           "result": 889
         },
         {
-          "id": "f83f0f2c-0dfa-47df-a981-a24569671e43",
+          "id": "11",
           "type": "columnAddition",
           "operands": [
             631,
@@ -114,7 +114,7 @@
           "result": 973
         },
         {
-          "id": "a4a25106-0739-4c2f-956e-ec937615caec",
+          "id": "12",
           "type": "columnAddition",
           "operands": [
             680,
@@ -127,7 +127,7 @@
     {
       "items": [
         {
-          "id": "f70b6189-b315-48b6-9b26-29acff72e3eb",
+          "id": "13",
           "type": "columnAddition",
           "operands": [
             603,
@@ -136,7 +136,7 @@
           "result": 935
         },
         {
-          "id": "c2b7463a-d6d4-421e-bda7-82006733f02c",
+          "id": "14",
           "type": "columnAddition",
           "operands": [
             726,
@@ -145,7 +145,7 @@
           "result": 1488
         },
         {
-          "id": "d61423b1-c282-44f3-9210-11fafd4757ee",
+          "id": "15",
           "type": "columnAddition",
           "operands": [
             664,
@@ -154,7 +154,7 @@
           "result": 1510
         },
         {
-          "id": "60f74bc2-b5d8-4eee-9dfd-2f9ac63be18e",
+          "id": "16",
           "type": "columnAddition",
           "operands": [
             189,
@@ -167,7 +167,7 @@
     {
       "items": [
         {
-          "id": "479691f4-150f-4c0b-b63a-bd4573df5150",
+          "id": "17",
           "type": "columnAddition",
           "operands": [
             143,
@@ -176,7 +176,7 @@
           "result": 306
         },
         {
-          "id": "17afbfda-691f-4eb7-a30c-b7f04c87fd7e",
+          "id": "18",
           "type": "problem",
           "question": "Maria had 35 books. Ana gave Maria 7 more books. How many books does Maria have now?",
           "result": 42

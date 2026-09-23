@@ -1,31 +1,31 @@
 {
-  "id": "11b4ee79-1fef-47b7-854f-eb120499ee99",
-  "title": "Equations — Checkpoint",
+  "id": "equations-evaluation",
+  "title": "Equations \u2014 Checkpoint",
   "evaluation": true,
   "difficulty": 5,
   "pages": [
     {
       "items": [
         {
-          "id": "5760ea1b-a8a5-437b-838a-5e7eabf87b7b",
+          "id": "1",
           "type": "equation",
           "equation": "x - 4 = 10",
           "result": 14
         },
         {
-          "id": "3e1e9b5f-9b82-4b73-b696-67b6f1b67a46",
+          "id": "2",
           "type": "equation",
           "equation": "x - 6 = 8",
           "result": 14
         },
         {
-          "id": "cadcf95e-5d06-4b9f-ae9b-e2d7418745d9",
+          "id": "3",
           "type": "equation",
           "equation": "x - 18 = -4",
           "result": 14
         },
         {
-          "id": "2a0d0dad-796e-4631-b72a-f0d83dc4cb30",
+          "id": "4",
           "type": "equation",
           "equation": "x + 10 = 11",
           "result": 1
@@ -35,25 +35,25 @@
     {
       "items": [
         {
-          "id": "c2fb9c84-e1c7-4cdc-bd2b-2f0f67edec49",
+          "id": "5",
           "type": "equation",
           "equation": "x + 11 = 18",
           "result": 7
         },
         {
-          "id": "8f9ca94e-80cf-4c94-8a88-54e8589aa7e0",
+          "id": "6",
           "type": "equation",
           "equation": "x + 5 = 34",
           "result": 29
         },
         {
-          "id": "c0341bed-b713-42b4-afcf-6943cfcc7ae0",
+          "id": "7",
           "type": "equation",
           "equation": "x - 5 = -1",
           "result": 4
         },
         {
-          "id": "6a200174-e5d6-49eb-95e2-af4f16d9afac",
+          "id": "8",
           "type": "equation",
           "equation": "x - 14 = 15",
           "result": 29
@@ -63,25 +63,25 @@
     {
       "items": [
         {
-          "id": "f70bbde8-05e7-4a51-af30-f37a7ca8196b",
+          "id": "9",
           "type": "equation",
           "equation": "x - 10 = -2",
           "result": 8
         },
         {
-          "id": "dc918c4d-1897-46ec-9c76-1bd062a4b8e8",
+          "id": "10",
           "type": "equation",
           "equation": "x + 15 = 20",
           "result": 5
         },
         {
-          "id": "7eb6923c-f961-4c0c-b401-75f4f2d6bccf",
+          "id": "11",
           "type": "equation",
           "equation": "x - 2 = 1",
           "result": 3
         },
         {
-          "id": "bc0927c5-4f51-418e-a95d-8cc2854efcaa",
+          "id": "12",
           "type": "equation",
           "equation": "x - 17 = 5",
           "result": 22
@@ -91,25 +91,25 @@
     {
       "items": [
         {
-          "id": "a3cc1232-2dd8-46fa-a913-48c7115c478c",
+          "id": "13",
           "type": "equation",
           "equation": "x - 14 = -12",
           "result": 2
         },
         {
-          "id": "be6d713e-81da-42b7-86a1-152b1b51462b",
+          "id": "14",
           "type": "equation",
           "equation": "x - 3 = 12",
           "result": 15
         },
         {
-          "id": "16a69823-385e-4a9e-860a-9c956f55f3a9",
+          "id": "15",
           "type": "equation",
           "equation": "x - 4 = 20",
           "result": 24
         },
         {
-          "id": "66e02015-dede-4bde-89cd-a07bc1e3ee3d",
+          "id": "16",
           "type": "equation",
           "equation": "x - 2 = 11",
           "result": 13
@@ -119,13 +119,13 @@
     {
       "items": [
         {
-          "id": "d430512a-1256-48ae-b93f-9843b3636bdf",
+          "id": "17",
           "type": "equation",
           "equation": "x - 5 = 5",
           "result": 10
         },
         {
-          "id": "2b71e668-8f4f-461f-9810-baa2ca99d8db",
+          "id": "18",
           "type": "problem",
           "question": "I think of a number, add 9 to it, and I get 23. What is my number?",
           "result": 14

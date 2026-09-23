@@ -48,10 +48,15 @@ const GENERATORS = {
     const y = randInt(rng, 1, 5)
     return item('addition', { x, y, result: x + y })
   },
+  basic5: (rng) => GENERATORS.basic(rng),
+  basic10: (rng) => GENERATORS.basic(rng),
+  basic20: (rng) => GENERATORS.basic(rng),
   addOne: (rng) => {
     const x = randInt(rng, 1, 20)
     return item('addition', { x, y: 1, result: x + 1 })
   },
+  addOneTo10: (rng) => GENERATORS.addOne(rng),
+  addOneTo20: (rng) => GENERATORS.addOne(rng),
   'simple-additions': (rng) => {
     const x = randInt(rng, 1, 20)
     const y = randInt(rng, 1, 20)
@@ -133,7 +138,12 @@ const GENERATORS = {
 // --- per-level word-problem templates ---------------------------------------
 const PROBLEM_TEMPLATES = {
   basic: additionProblem,
+  basic5: additionProblem,
+  basic10: additionProblem,
+  basic20: additionProblem,
   addOne: additionProblem,
+  addOneTo10: additionProblem,
+  addOneTo20: additionProblem,
   'simple-additions': additionProblem,
   'column-additions': additionProblem,
   'simple-subtractions': subtractionProblem,

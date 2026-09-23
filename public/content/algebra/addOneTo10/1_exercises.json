@@ -1,0 +1,106 @@
+{
+  "id": "addOneTo10-practice1",
+  "title": "Add One to 10 \u2014 Practice 1",
+  "evaluation": false,
+  "difficulty": 0,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "addition",
+          "x": 1,
+          "y": 1,
+          "result": 2
+        },
+        {
+          "id": "2",
+          "type": "addition",
+          "x": 2,
+          "y": 1,
+          "result": 3
+        },
+        {
+          "id": "3",
+          "type": "missingNumbers",
+          "start": 1,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "type": "addition",
+          "x": 2,
+          "y": 1,
+          "result": 3
+        },
+        {
+          "id": "5",
+          "type": "addition",
+          "x": 3,
+          "y": 1,
+          "result": 4
+        },
+        {
+          "id": "6",
+          "type": "missingNumbers",
+          "start": 2,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "7",
+          "type": "addition",
+          "x": 3,
+          "y": 1,
+          "result": 4
+        },
+        {
+          "id": "8",
+          "type": "addition",
+          "x": 4,
+          "y": 1,
+          "result": 5
+        },
+        {
+          "id": "9",
+          "type": "missingNumbers",
+          "start": 3,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "10",
+          "type": "problem",
+          "question": "If John is 2 years old today, how old will he be at his next birthday?",
+          "result": 3
+        }
+      ]
+    }
+  ],
+  "character": {
+    "image": "characters/girlCreatingANumbersTower.png",
+    "position": "right"
+  }
+}
