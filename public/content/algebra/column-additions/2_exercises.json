@@ -1,6 +1,6 @@
 {
   "id": "column-additions-practice2",
-  "title": "Column Additions \u2014 Practice 2",
+  "title": "Column Additions — Practice 2",
   "evaluation": false,
   "difficulty": 2,
   "pages": [
@@ -12,8 +12,7 @@
           "operands": [
             560,
             769
-          ],
-          "result": 1329
+          ]
         },
         {
           "id": "2",
@@ -21,8 +20,7 @@
           "operands": [
             559,
             101
-          ],
-          "result": 660
+          ]
         },
         {
           "id": "3",
@@ -30,8 +28,7 @@
           "operands": [
             840,
             585
-          ],
-          "result": 1425
+          ]
         },
         {
           "id": "4",
@@ -39,8 +36,7 @@
           "operands": [
             991,
             771
-          ],
-          "result": 1762
+          ]
         }
       ]
     },
@@ -52,8 +48,7 @@
           "operands": [
             845,
             869
-          ],
-          "result": 1714
+          ]
         },
         {
           "id": "6",
@@ -61,8 +56,7 @@
           "operands": [
             327,
             158
-          ],
-          "result": 485
+          ]
         },
         {
           "id": "7",
@@ -70,8 +64,7 @@
           "operands": [
             868,
             852
-          ],
-          "result": 1720
+          ]
         },
         {
           "id": "8",
@@ -79,8 +72,7 @@
           "operands": [
             873,
             130
-          ],
-          "result": 1003
+          ]
         }
       ]
     },
@@ -92,8 +84,7 @@
           "operands": [
             697,
             671
-          ],
-          "result": 1368
+          ]
         },
         {
           "id": "10",
@@ -101,8 +92,7 @@
           "operands": [
             720,
             169
-          ],
-          "result": 889
+          ]
         },
         {
           "id": "11",
@@ -110,8 +100,7 @@
           "operands": [
             631,
             342
-          ],
-          "result": 973
+          ]
         },
         {
           "id": "12",
@@ -119,8 +108,7 @@
           "operands": [
             680,
             987
-          ],
-          "result": 1667
+          ]
         }
       ]
     },
@@ -132,8 +120,7 @@
           "operands": [
             603,
             332
-          ],
-          "result": 935
+          ]
         },
         {
           "id": "14",
@@ -141,8 +128,7 @@
           "operands": [
             726,
             762
-          ],
-          "result": 1488
+          ]
         },
         {
           "id": "15",
@@ -150,8 +136,7 @@
           "operands": [
             664,
             846
-          ],
-          "result": 1510
+          ]
         },
         {
           "id": "16",
@@ -159,8 +144,7 @@
           "operands": [
             189,
             487
-          ],
-          "result": 676
+          ]
         }
       ]
     },
@@ -172,8 +156,7 @@
           "operands": [
             143,
             163
-          ],
-          "result": 306
+          ]
         },
         {
           "id": "18",

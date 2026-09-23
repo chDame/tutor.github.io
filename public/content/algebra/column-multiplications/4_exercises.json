@@ -1,6 +1,6 @@
 {
   "id": "column-multiplications-evaluation",
-  "title": "Column Multiplications \u2014 Checkpoint",
+  "title": "Column Multiplications — Checkpoint",
   "evaluation": true,
   "difficulty": 4,
   "pages": [
@@ -12,8 +12,7 @@
           "operands": [
             96,
             9
-          ],
-          "result": 864
+          ]
         },
         {
           "id": "2",
@@ -21,8 +20,7 @@
           "operands": [
             32,
             3
-          ],
-          "result": 96
+          ]
         },
         {
           "id": "3",
@@ -30,8 +28,7 @@
           "operands": [
             83,
             8
-          ],
-          "result": 664
+          ]
         },
         {
           "id": "4",
@@ -39,8 +36,7 @@
           "operands": [
             62,
             9
-          ],
-          "result": 558
+          ]
         }
       ]
     },
@@ -52,8 +48,7 @@
           "operands": [
             78,
             3
-          ],
-          "result": 234
+          ]
         },
         {
           "id": "6",
@@ -61,8 +56,7 @@
           "operands": [
             56,
             4
-          ],
-          "result": 224
+          ]
         },
         {
           "id": "7",
@@ -70,8 +64,7 @@
           "operands": [
             18,
             9
-          ],
-          "result": 162
+          ]
         },
         {
           "id": "8",
@@ -79,8 +72,7 @@
           "operands": [
             16,
             9
-          ],
-          "result": 144
+          ]
         }
       ]
     },
@@ -92,8 +84,7 @@
           "operands": [
             94,
             9
-          ],
-          "result": 846
+          ]
         },
         {
           "id": "10",
@@ -101,8 +92,7 @@
           "operands": [
             36,
             9
-          ],
-          "result": 324
+          ]
         },
         {
           "id": "11",
@@ -110,8 +100,7 @@
           "operands": [
             99,
             3
-          ],
-          "result": 297
+          ]
         },
         {
           "id": "12",
@@ -119,8 +108,7 @@
           "operands": [
             38,
             3
-          ],
-          "result": 114
+          ]
         }
       ]
     },
@@ -132,8 +120,7 @@
           "operands": [
             32,
             8
-          ],
-          "result": 256
+          ]
         },
         {
           "id": "14",
@@ -141,8 +128,7 @@
           "operands": [
             30,
             2
-          ],
-          "result": 60
+          ]
         },
         {
           "id": "15",
@@ -150,8 +136,7 @@
           "operands": [
             57,
             2
-          ],
-          "result": 114
+          ]
         },
         {
           "id": "16",
@@ -159,8 +144,7 @@
           "operands": [
             20,
             7
-          ],
-          "result": 140
+          ]
         }
       ]
     },
@@ -172,8 +156,7 @@
           "operands": [
             33,
             3
-          ],
-          "result": 99
+          ]
         },
         {
           "id": "18",

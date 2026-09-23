@@ -2,6 +2,7 @@ import type { ExerciseItem } from '../../types'
 import type { AnswerInput } from '../../utils/checkAnswer'
 import SimpleOperationItem from './SimpleOperationItem'
 import ColumnOperationItem from './ColumnOperationItem'
+import ColumnDigitsItem from './ColumnDigitsItem'
 import EuclidianDivisionItem from './EuclidianDivisionItem'
 import FractionOperationItem from './FractionOperationItem'
 import EquationItem from './EquationItem'
@@ -35,6 +36,7 @@ export default function ExerciseItemView({ item, answer, onChange }: Props) {
       return <SimpleOperationItem item={item} answer={answer} onChange={onChange} />
     case 'columnAddition':
     case 'columnSubtraction':
+      return <ColumnDigitsItem item={item} answer={answer} onChange={onChange} />
     case 'columnMultiplication':
       return <ColumnOperationItem item={item} answer={answer} onChange={onChange} />
     case 'euclidianDivision':

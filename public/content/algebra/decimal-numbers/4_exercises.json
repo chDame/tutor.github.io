@@ -1,6 +1,6 @@
 {
   "id": "decimal-numbers-evaluation",
-  "title": "Decimal Numbers \u2014 Checkpoint",
+  "title": "Decimal Numbers — Checkpoint",
   "evaluation": true,
   "difficulty": 5,
   "pages": [
@@ -10,29 +10,25 @@
           "id": "1",
           "type": "decimalSubtraction",
           "x": 53.9,
-          "y": 12.6,
-          "result": 41.3
+          "y": 12.6
         },
         {
           "id": "2",
           "type": "decimalAddition",
           "x": 46.9,
-          "y": 40.3,
-          "result": 87.2
+          "y": 40.3
         },
         {
           "id": "3",
           "type": "decimalAddition",
           "x": 44,
-          "y": 39.2,
-          "result": 83.2
+          "y": 39.2
         },
         {
           "id": "4",
           "type": "decimalSubtraction",
           "x": 28,
-          "y": 3.6,
-          "result": 24.4
+          "y": 3.6
         }
       ]
     },
@@ -42,29 +38,25 @@
           "id": "5",
           "type": "decimalSubtraction",
           "x": 55.3,
-          "y": 20.9,
-          "result": 34.4
+          "y": 20.9
         },
         {
           "id": "6",
           "type": "decimalAddition",
           "x": 82.9,
-          "y": 41.6,
-          "result": 124.5
+          "y": 41.6
         },
         {
           "id": "7",
           "type": "decimalAddition",
           "x": 21.6,
-          "y": 28.6,
-          "result": 50.2
+          "y": 28.6
         },
         {
           "id": "8",
           "type": "decimalAddition",
           "x": 8.5,
-          "y": 39.1,
-          "result": 47.6
+          "y": 39.1
         }
       ]
     },
@@ -74,29 +66,25 @@
           "id": "9",
           "type": "decimalSubtraction",
           "x": 38.5,
-          "y": 16.2,
-          "result": 22.3
+          "y": 16.2
         },
         {
           "id": "10",
           "type": "decimalAddition",
           "x": 33.1,
-          "y": 14.4,
-          "result": 47.5
+          "y": 14.4
         },
         {
           "id": "11",
           "type": "decimalSubtraction",
           "x": 69,
-          "y": 13.9,
-          "result": 55.1
+          "y": 13.9
         },
         {
           "id": "12",
           "type": "decimalAddition",
           "x": 90.2,
-          "y": 31.8,
-          "result": 122
+          "y": 31.8
         }
       ]
     },
@@ -106,29 +94,25 @@
           "id": "13",
           "type": "decimalAddition",
           "x": 51.8,
-          "y": 1.3,
-          "result": 53.1
+          "y": 1.3
         },
         {
           "id": "14",
           "type": "decimalSubtraction",
           "x": 24.1,
-          "y": 14.7,
-          "result": 9.4
+          "y": 14.7
         },
         {
           "id": "15",
           "type": "decimalSubtraction",
           "x": 86.7,
-          "y": 29.2,
-          "result": 57.5
+          "y": 29.2
         },
         {
           "id": "16",
           "type": "decimalAddition",
           "x": 22.8,
-          "y": 45.1,
-          "result": 67.9
+          "y": 45.1
         }
       ]
     },
@@ -138,8 +122,7 @@
           "id": "17",
           "type": "decimalSubtraction",
           "x": 57.5,
-          "y": 8.9,
-          "result": 48.6
+          "y": 8.9
         },
         {
           "id": "18",

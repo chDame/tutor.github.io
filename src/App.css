@@ -381,9 +381,10 @@
   flex-wrap: wrap;
 }
 .number-cell {
-  flex: 1;
-  max-width: 120px;
-  width: 120px;
+  flex: 1 0 16%;
+  width: 130px;
+  max-width: 130px;
+  padding: 4px 0px 10px 0;
   min-height: 40px;
   border: 1px solid var(--border);
   border-radius: 6px;
@@ -393,7 +394,6 @@
   justify-content: center;
   font-weight: 700;
   font-size: 18px;
-  padding: 4px;
   text-align: center;
 }
 .no-display-elements .number-cell {
@@ -401,7 +401,12 @@
   max-width: 60px;
 }
 .number-row.with-display-elements .number-cell {
-  flex: 1 0 16px;
+  flex: 1 0 16%;
+}
+@media screen and (max-width: 440px) {
+  .number-row.with-display-elements .number-cell {
+    flex: 1 0 45%;
+  }
 }
 .number-cell .counting-element {
   font-size: 15px;
@@ -463,6 +468,44 @@
 .column-stack .rule {
   border-top: 2px solid var(--text);
   margin: 2px 0;
+}
+.digit-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-family: var(--mono, ui-monospace, monospace);
+}
+.digit-row {
+  display: flex;
+}
+.digit-cell {
+  width: 26px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: 700;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.rule-row {
+  align-self: stretch;
+  border-top: 2px solid var(--text);
+  margin: 2px 0;
+}
+.digit-input {
+  border: 2px solid var(--border);
+  border-radius: 4px;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  background: var(--surface);
+  font: inherit;
+}
+.digit-input:focus {
+  outline: none;
+  border-color: var(--accent);
 }
 .exercise-footer {
   margin-top: 20px;
@@ -573,6 +616,19 @@ img.character.character-right {
 }
 img.character.character-left {
     right: 150px;
+}
+@media screen and (max-width: 440px) {
+    img.character {
+        height: 80px;
+    }
+
+    img.character.character-left {
+        right: 80px;
+    }
+
+    img.character.character-right {
+      left: 80px;
+    }
 }
 .counting-element {
   display: inline-block;

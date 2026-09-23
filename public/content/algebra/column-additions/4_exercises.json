@@ -1,6 +1,6 @@
 {
   "id": "column-additions-evaluation",
-  "title": "Column Additions \u2014 Checkpoint",
+  "title": "Column Additions — Checkpoint",
   "evaluation": true,
   "difficulty": 3,
   "pages": [
@@ -12,8 +12,7 @@
           "operands": [
             485,
             735
-          ],
-          "result": 1220
+          ]
         },
         {
           "id": "2",
@@ -21,8 +20,7 @@
           "operands": [
             763,
             772
-          ],
-          "result": 1535
+          ]
         },
         {
           "id": "3",
@@ -30,8 +28,7 @@
           "operands": [
             347,
             355
-          ],
-          "result": 702
+          ]
         },
         {
           "id": "4",
@@ -39,8 +36,7 @@
           "operands": [
             487,
             173
-          ],
-          "result": 660
+          ]
         }
       ]
     },
@@ -52,8 +48,7 @@
           "operands": [
             968,
             490
-          ],
-          "result": 1458
+          ]
         },
         {
           "id": "6",
@@ -61,8 +56,7 @@
           "operands": [
             928,
             854
-          ],
-          "result": 1782
+          ]
         },
         {
           "id": "7",
@@ -70,8 +64,7 @@
           "operands": [
             899,
             156
-          ],
-          "result": 1055
+          ]
         },
         {
           "id": "8",
@@ -79,8 +72,7 @@
           "operands": [
             393,
             925
-          ],
-          "result": 1318
+          ]
         }
       ]
     },
@@ -92,8 +84,7 @@
           "operands": [
             888,
             140
-          ],
-          "result": 1028
+          ]
         },
         {
           "id": "10",
@@ -101,8 +92,7 @@
           "operands": [
             297,
             969
-          ],
-          "result": 1266
+          ]
         },
         {
           "id": "11",
@@ -110,8 +100,7 @@
           "operands": [
             257,
             400
-          ],
-          "result": 657
+          ]
         },
         {
           "id": "12",
@@ -119,8 +108,7 @@
           "operands": [
             349,
             477
-          ],
-          "result": 826
+          ]
         }
       ]
     },
@@ -132,8 +120,7 @@
           "operands": [
             843,
             323
-          ],
-          "result": 1166
+          ]
         },
         {
           "id": "14",
@@ -141,8 +128,7 @@
           "operands": [
             877,
             352
-          ],
-          "result": 1229
+          ]
         },
         {
           "id": "15",
@@ -150,8 +136,7 @@
           "operands": [
             782,
             646
-          ],
-          "result": 1428
+          ]
         },
         {
           "id": "16",
@@ -159,8 +144,7 @@
           "operands": [
             222,
             468
-          ],
-          "result": 690
+          ]
         }
       ]
     },
@@ -172,8 +156,7 @@
           "operands": [
             718,
             734
-          ],
-          "result": 1452
+          ]
         },
         {
           "id": "18",

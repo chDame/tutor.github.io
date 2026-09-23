@@ -1,6 +1,6 @@
 {
   "id": "simple-divisions-practice1",
-  "title": "Simple Divisions \u2014 Practice 1",
+  "title": "Simple Divisions — Practice 1",
   "evaluation": false,
   "difficulty": 2,
   "pages": [
@@ -10,29 +10,25 @@
           "id": "1",
           "type": "division",
           "x": 25,
-          "y": 5,
-          "result": 5
+          "y": 5
         },
         {
           "id": "2",
           "type": "division",
           "x": 16,
-          "y": 4,
-          "result": 4
+          "y": 4
         },
         {
           "id": "3",
           "type": "division",
           "x": 54,
-          "y": 6,
-          "result": 9
+          "y": 6
         },
         {
           "id": "4",
           "type": "division",
           "x": 36,
-          "y": 9,
-          "result": 4
+          "y": 9
         }
       ]
     },
@@ -42,29 +38,25 @@
           "id": "5",
           "type": "division",
           "x": 40,
-          "y": 5,
-          "result": 8
+          "y": 5
         },
         {
           "id": "6",
           "type": "division",
           "x": 12,
-          "y": 3,
-          "result": 4
+          "y": 3
         },
         {
           "id": "7",
           "type": "division",
           "x": 28,
-          "y": 7,
-          "result": 4
+          "y": 7
         },
         {
           "id": "8",
           "type": "division",
           "x": 20,
-          "y": 2,
-          "result": 10
+          "y": 2
         }
       ]
     },
@@ -74,29 +66,25 @@
           "id": "9",
           "type": "division",
           "x": 18,
-          "y": 3,
-          "result": 6
+          "y": 3
         },
         {
           "id": "10",
           "type": "division",
           "x": 9,
-          "y": 9,
-          "result": 1
+          "y": 9
         },
         {
           "id": "11",
           "type": "division",
           "x": 18,
-          "y": 6,
-          "result": 3
+          "y": 6
         },
         {
           "id": "12",
           "type": "division",
           "x": 30,
-          "y": 6,
-          "result": 5
+          "y": 6
         }
       ]
     },
@@ -106,29 +94,25 @@
           "id": "13",
           "type": "division",
           "x": 14,
-          "y": 2,
-          "result": 7
+          "y": 2
         },
         {
           "id": "14",
           "type": "division",
           "x": 81,
-          "y": 9,
-          "result": 9
+          "y": 9
         },
         {
           "id": "15",
           "type": "division",
           "x": 42,
-          "y": 7,
-          "result": 6
+          "y": 7
         },
         {
           "id": "16",
           "type": "division",
           "x": 12,
-          "y": 3,
-          "result": 4
+          "y": 3
         }
       ]
     },
@@ -138,8 +122,7 @@
           "id": "17",
           "type": "division",
           "x": 20,
-          "y": 5,
-          "result": 4
+          "y": 5
         },
         {
           "id": "18",

@@ -1,6 +1,6 @@
 {
   "id": "simple-additions-evaluation",
-  "title": "Simple Additions \u2014 Checkpoint",
+  "title": "Simple Additions — Checkpoint",
   "evaluation": true,
   "difficulty": 2,
   "pages": [
@@ -10,29 +10,25 @@
           "id": "1",
           "type": "addition",
           "x": 6,
-          "y": 2,
-          "result": 8
+          "y": 2
         },
         {
           "id": "2",
           "type": "addition",
           "x": 12,
-          "y": 19,
-          "result": 31
+          "y": 19
         },
         {
           "id": "3",
           "type": "addition",
           "x": 4,
-          "y": 1,
-          "result": 5
+          "y": 1
         },
         {
           "id": "4",
           "type": "addition",
           "x": 14,
-          "y": 13,
-          "result": 27
+          "y": 13
         }
       ]
     },
@@ -42,29 +38,25 @@
           "id": "5",
           "type": "addition",
           "x": 12,
-          "y": 15,
-          "result": 27
+          "y": 15
         },
         {
           "id": "6",
           "type": "addition",
           "x": 1,
-          "y": 19,
-          "result": 20
+          "y": 19
         },
         {
           "id": "7",
           "type": "addition",
           "x": 7,
-          "y": 11,
-          "result": 18
+          "y": 11
         },
         {
           "id": "8",
           "type": "addition",
           "x": 15,
-          "y": 14,
-          "result": 29
+          "y": 14
         }
       ]
     },
@@ -74,29 +66,25 @@
           "id": "9",
           "type": "addition",
           "x": 11,
-          "y": 16,
-          "result": 27
+          "y": 16
         },
         {
           "id": "10",
           "type": "addition",
           "x": 20,
-          "y": 5,
-          "result": 25
+          "y": 5
         },
         {
           "id": "11",
           "type": "addition",
           "x": 7,
-          "y": 18,
-          "result": 25
+          "y": 18
         },
         {
           "id": "12",
           "type": "addition",
           "x": 8,
-          "y": 9,
-          "result": 17
+          "y": 9
         }
       ]
     },
@@ -106,29 +94,25 @@
           "id": "13",
           "type": "addition",
           "x": 5,
-          "y": 3,
-          "result": 8
+          "y": 3
         },
         {
           "id": "14",
           "type": "addition",
           "x": 8,
-          "y": 2,
-          "result": 10
+          "y": 2
         },
         {
           "id": "15",
           "type": "addition",
           "x": 6,
-          "y": 6,
-          "result": 12
+          "y": 6
         },
         {
           "id": "16",
           "type": "addition",
           "x": 7,
-          "y": 4,
-          "result": 11
+          "y": 4
         }
       ]
     },
@@ -138,8 +122,7 @@
           "id": "17",
           "type": "addition",
           "x": 13,
-          "y": 13,
-          "result": 26
+          "y": 13
         },
         {
           "id": "18",

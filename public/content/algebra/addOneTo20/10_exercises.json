@@ -1,6 +1,6 @@
 {
   "id": "addOneTo20-evaluation",
-  "title": "Add One to 20 \u2014 Evaluation",
+  "title": "Add One to 20 — Evaluation",
   "evaluation": true,
   "difficulty": 1,
   "pages": [
@@ -10,15 +10,13 @@
           "id": "1",
           "type": "addition",
           "x": 9,
-          "y": 1,
-          "result": 10
+          "y": 1
         },
         {
           "id": "2",
           "type": "addition",
           "x": 10,
-          "y": 1,
-          "result": 11
+          "y": 1
         },
         {
           "id": "3",
@@ -38,15 +36,13 @@
           "id": "4",
           "type": "addition",
           "x": 11,
-          "y": 1,
-          "result": 12
+          "y": 1
         },
         {
           "id": "5",
           "type": "addition",
           "x": 12,
-          "y": 1,
-          "result": 13
+          "y": 1
         },
         {
           "id": "6",
@@ -66,15 +62,13 @@
           "id": "7",
           "type": "addition",
           "x": 13,
-          "y": 1,
-          "result": 14
+          "y": 1
         },
         {
           "id": "8",
           "type": "addition",
           "x": 14,
-          "y": 1,
-          "result": 15
+          "y": 1
         },
         {
           "id": "9",
@@ -94,15 +88,13 @@
           "id": "10",
           "type": "addition",
           "x": 15,
-          "y": 1,
-          "result": 16
+          "y": 1
         },
         {
           "id": "11",
           "type": "addition",
           "x": 16,
-          "y": 1,
-          "result": 17
+          "y": 1
         },
         {
           "id": "12",
@@ -122,15 +114,13 @@
           "id": "13",
           "type": "addition",
           "x": 17,
-          "y": 1,
-          "result": 18
+          "y": 1
         },
         {
           "id": "14",
           "type": "addition",
           "x": 18,
-          "y": 1,
-          "result": 19
+          "y": 1
         },
         {
           "id": "15",

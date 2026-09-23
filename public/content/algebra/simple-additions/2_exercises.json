@@ -1,6 +1,6 @@
 {
   "id": "simple-additions-practice2",
-  "title": "Simple Additions \u2014 Practice 2",
+  "title": "Simple Additions — Practice 2",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
@@ -10,29 +10,25 @@
           "id": "1",
           "type": "addition",
           "x": 11,
-          "y": 19,
-          "result": 30
+          "y": 19
         },
         {
           "id": "2",
           "type": "addition",
           "x": 14,
-          "y": 17,
-          "result": 31
+          "y": 17
         },
         {
           "id": "3",
           "type": "addition",
           "x": 10,
-          "y": 9,
-          "result": 19
+          "y": 9
         },
         {
           "id": "4",
           "type": "addition",
           "x": 5,
-          "y": 2,
-          "result": 7
+          "y": 2
         }
       ]
     },
@@ -42,29 +38,25 @@
           "id": "5",
           "type": "addition",
           "x": 1,
-          "y": 20,
-          "result": 21
+          "y": 20
         },
         {
           "id": "6",
           "type": "addition",
           "x": 19,
-          "y": 3,
-          "result": 22
+          "y": 3
         },
         {
           "id": "7",
           "type": "addition",
           "x": 8,
-          "y": 8,
-          "result": 16
+          "y": 8
         },
         {
           "id": "8",
           "type": "addition",
           "x": 9,
-          "y": 19,
-          "result": 28
+          "y": 19
         }
       ]
     },
@@ -74,29 +66,25 @@
           "id": "9",
           "type": "addition",
           "x": 6,
-          "y": 17,
-          "result": 23
+          "y": 17
         },
         {
           "id": "10",
           "type": "addition",
           "x": 19,
-          "y": 4,
-          "result": 23
+          "y": 4
         },
         {
           "id": "11",
           "type": "addition",
           "x": 8,
-          "y": 14,
-          "result": 22
+          "y": 14
         },
         {
           "id": "12",
           "type": "addition",
           "x": 11,
-          "y": 10,
-          "result": 21
+          "y": 10
         }
       ]
     },
@@ -106,29 +94,25 @@
           "id": "13",
           "type": "addition",
           "x": 6,
-          "y": 7,
-          "result": 13
+          "y": 7
         },
         {
           "id": "14",
           "type": "addition",
           "x": 8,
-          "y": 11,
-          "result": 19
+          "y": 11
         },
         {
           "id": "15",
           "type": "addition",
           "x": 1,
-          "y": 11,
-          "result": 12
+          "y": 11
         },
         {
           "id": "16",
           "type": "addition",
           "x": 1,
-          "y": 2,
-          "result": 3
+          "y": 2
         }
       ]
     },
@@ -138,8 +122,7 @@
           "id": "17",
           "type": "addition",
           "x": 5,
-          "y": 3,
-          "result": 8
+          "y": 3
         },
         {
           "id": "18",

@@ -18,6 +18,45 @@ export function orderedMissingIndices(item: MissingNumbers): number[] {
   return [...item.missingIndices].sort((a, b) => a - b)
 }
 
+type SimpleOperation = Extract<
+  ExerciseItem,
+  { type: 'addition' | 'subtraction' | 'multiplication' | 'division' | 'relativeAddition' | 'relativeSubtraction' | 'decimalAddition' | 'decimalSubtraction' }
+>
+
+/** No stored answer key for these — always derived from x/y, so content only ever supplies operands. */
+export function expectedSimpleResult(item: SimpleOperation): number {
+  switch (item.type) {
+    case 'addition':
+    case 'relativeAddition':
+      return item.x + item.y
+    case 'subtraction':
+    case 'relativeSubtraction':
+      return item.x - item.y
+    case 'multiplication':
+      return item.x * item.y
+    case 'division':
+      return item.x / item.y
+    case 'decimalAddition':
+      return Math.round((item.x + item.y) * 10) / 10
+    case 'decimalSubtraction':
+      return Math.round((item.x - item.y) * 10) / 10
+  }
+}
+
+export type ColumnOperation = Extract<ExerciseItem, { type: 'columnAddition' | 'columnSubtraction' | 'columnMultiplication' }>
+
+/** No stored answer key for these either — derived from the operands. */
+export function expectedColumnResult(item: ColumnOperation): number {
+  switch (item.type) {
+    case 'columnAddition':
+      return item.operands.reduce((a, b) => a + b, 0)
+    case 'columnSubtraction':
+      return item.operands.reduce((a, b) => a - b)
+    case 'columnMultiplication':
+      return item.operands.reduce((a, b) => a * b, 1)
+  }
+}
+
 const toNumber = (s: string | undefined): number | null => {
   if (s === undefined || s.trim() === '') return null
   const n = Number(s.replace(',', '.'))
@@ -35,6 +74,11 @@ export function isAnswerComplete(item: ExerciseItem, answer: AnswerInput): boole
       return orderedMissingIndices(item).every((_, i) => toNumber(answer.values?.[i]) != null)
     case 'discoverNumber':
       return true // display-only, nothing for the student to answer
+    case 'columnAddition':
+    case 'columnSubtraction': {
+      const digits = String(expectedColumnResult(item)).length
+      return Array.from({ length: digits }).every((_, i) => /^\d$/.test(answer.values?.[i] ?? ''))
+    }
     default:
       return toNumber(answer.value) != null
   }
@@ -58,6 +102,31 @@ export function checkAnswer(item: ExerciseItem, answer: AnswerInput): boolean {
       return orderedMissingIndices(item).every((idx, i) => toNumber(answer.values?.[i]) === item.start + idx)
     case 'discoverNumber':
       return true // display-only, always counts as correct
+    case 'columnAddition':
+    case 'columnSubtraction': {
+      const expected = expectedColumnResult(item)
+      const digits = String(expected).length
+      // digit place-values are stored index 0 = units, so rebuild MSB-first for parsing.
+      const reconstructed = Array.from({ length: digits }, (_, i) => answer.values?.[digits - 1 - i] ?? '').join('')
+      return /^\d+$/.test(reconstructed) && Number(reconstructed) === expected
+    }
+    case 'columnMultiplication': {
+      const value = toNumber(answer.value)
+      if (value == null) return false
+      return value === expectedColumnResult(item)
+    }
+    case 'addition':
+    case 'subtraction':
+    case 'multiplication':
+    case 'division':
+    case 'relativeAddition':
+    case 'relativeSubtraction':
+    case 'decimalAddition':
+    case 'decimalSubtraction': {
+      const value = toNumber(answer.value)
+      if (value == null) return false
+      return Math.abs(value - expectedSimpleResult(item)) < 1e-9
+    }
     default: {
       const value = toNumber(answer.value)
       if (value == null) return false

@@ -4,10 +4,17 @@ export interface Fraction {
 }
 
 export type ExerciseItem =
-  | { id: string; type: 'addition' | 'subtraction' | 'multiplication' | 'division'; x: number; y: number; result: number }
-  | { id: string; type: 'relativeAddition' | 'relativeSubtraction'; x: number; y: number; result: number }
-  | { id: string; type: 'decimalAddition' | 'decimalSubtraction'; x: number; y: number; result: number }
-  | { id: string; type: 'columnAddition' | 'columnSubtraction' | 'columnMultiplication'; operands: number[]; result: number }
+  | { id: string; type: 'addition'; x: number; y: number }
+  | { id: string; type: 'subtraction'; x: number; y: number }
+  | { id: string; type: 'multiplication'; x: number; y: number }
+  | { id: string; type: 'division'; x: number; y: number }
+  | { id: string; type: 'relativeAddition'; x: number; y: number }
+  | { id: string; type: 'relativeSubtraction'; x: number; y: number }
+  | { id: string; type: 'decimalAddition'; x: number; y: number }
+  | { id: string; type: 'decimalSubtraction'; x: number; y: number }
+  | { id: string; type: 'columnAddition'; operands: number[] }
+  | { id: string; type: 'columnSubtraction'; operands: number[] }
+  | { id: string; type: 'columnMultiplication'; operands: number[] }
   | { id: string; type: 'euclidianDivision'; x: number; y: number; quotient: number; remainder: number }
   | { id: string; type: 'fractionAddition' | 'fractionSubtraction'; x: Fraction; y: Fraction; result: Fraction }
   | { id: string; type: 'equation'; equation: string; result: number }

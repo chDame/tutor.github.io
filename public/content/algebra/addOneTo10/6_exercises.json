@@ -1,6 +1,6 @@
 {
   "id": "addOneTo10-practice6",
-  "title": "Add One to 10 \u2014 Practice 6",
+  "title": "Add One to 10 — Practice 6",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
@@ -10,15 +10,13 @@
           "id": "1",
           "type": "addition",
           "x": 6,
-          "y": 1,
-          "result": 7
+          "y": 1
         },
         {
           "id": "2",
           "type": "addition",
           "x": 7,
-          "y": 1,
-          "result": 8
+          "y": 1
         },
         {
           "id": "3",
@@ -38,15 +36,13 @@
           "id": "4",
           "type": "addition",
           "x": 7,
-          "y": 1,
-          "result": 8
+          "y": 1
         },
         {
           "id": "5",
           "type": "addition",
           "x": 8,
-          "y": 1,
-          "result": 9
+          "y": 1
         },
         {
           "id": "6",
@@ -66,15 +62,13 @@
           "id": "7",
           "type": "addition",
           "x": 8,
-          "y": 1,
-          "result": 9
+          "y": 1
         },
         {
           "id": "8",
           "type": "addition",
           "x": 9,
-          "y": 1,
-          "result": 10
+          "y": 1
         },
         {
           "id": "9",

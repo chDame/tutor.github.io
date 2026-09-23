@@ -1,6 +1,6 @@
 {
   "id": "simple-multiplications-practice3",
-  "title": "Simple Multiplications \u2014 Practice 3",
+  "title": "Simple Multiplications — Practice 3",
   "evaluation": false,
   "difficulty": 2,
   "pages": [
@@ -10,29 +10,25 @@
           "id": "1",
           "type": "multiplication",
           "x": 1,
-          "y": 4,
-          "result": 4
+          "y": 4
         },
         {
           "id": "2",
           "type": "multiplication",
           "x": 5,
-          "y": 8,
-          "result": 40
+          "y": 8
         },
         {
           "id": "3",
           "type": "multiplication",
           "x": 10,
-          "y": 4,
-          "result": 40
+          "y": 4
         },
         {
           "id": "4",
           "type": "multiplication",
           "x": 7,
-          "y": 6,
-          "result": 42
+          "y": 6
         }
       ]
     },
@@ -42,29 +38,25 @@
           "id": "5",
           "type": "multiplication",
           "x": 6,
-          "y": 9,
-          "result": 54
+          "y": 9
         },
         {
           "id": "6",
           "type": "multiplication",
           "x": 2,
-          "y": 5,
-          "result": 10
+          "y": 5
         },
         {
           "id": "7",
           "type": "multiplication",
           "x": 6,
-          "y": 4,
-          "result": 24
+          "y": 4
         },
         {
           "id": "8",
           "type": "multiplication",
           "x": 6,
-          "y": 1,
-          "result": 6
+          "y": 1
         }
       ]
     },
@@ -74,29 +66,25 @@
           "id": "9",
           "type": "multiplication",
           "x": 1,
-          "y": 6,
-          "result": 6
+          "y": 6
         },
         {
           "id": "10",
           "type": "multiplication",
           "x": 8,
-          "y": 9,
-          "result": 72
+          "y": 9
         },
         {
           "id": "11",
           "type": "multiplication",
           "x": 5,
-          "y": 2,
-          "result": 10
+          "y": 2
         },
         {
           "id": "12",
           "type": "multiplication",
           "x": 1,
-          "y": 2,
-          "result": 2
+          "y": 2
         }
       ]
     },
@@ -106,29 +94,25 @@
           "id": "13",
           "type": "multiplication",
           "x": 7,
-          "y": 3,
-          "result": 21
+          "y": 3
         },
         {
           "id": "14",
           "type": "multiplication",
           "x": 2,
-          "y": 9,
-          "result": 18
+          "y": 9
         },
         {
           "id": "15",
           "type": "multiplication",
           "x": 3,
-          "y": 10,
-          "result": 30
+          "y": 10
         },
         {
           "id": "16",
           "type": "multiplication",
           "x": 10,
-          "y": 5,
-          "result": 50
+          "y": 5
         }
       ]
     },
@@ -138,8 +122,7 @@
           "id": "17",
           "type": "multiplication",
           "x": 2,
-          "y": 3,
-          "result": 6
+          "y": 3
         },
         {
           "id": "18",

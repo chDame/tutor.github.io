@@ -46,51 +46,51 @@ const GENERATORS = {
   basic: (rng) => {
     const x = randInt(rng, 1, 5)
     const y = randInt(rng, 1, 5)
-    return item('addition', { x, y, result: x + y })
+    return item('addition', { x, y })
   },
   basic5: (rng) => GENERATORS.basic(rng),
   basic10: (rng) => GENERATORS.basic(rng),
   basic20: (rng) => GENERATORS.basic(rng),
   addOne: (rng) => {
     const x = randInt(rng, 1, 20)
-    return item('addition', { x, y: 1, result: x + 1 })
+    return item('addition', { x, y: 1 })
   },
   addOneTo10: (rng) => GENERATORS.addOne(rng),
   addOneTo20: (rng) => GENERATORS.addOne(rng),
   'simple-additions': (rng) => {
     const x = randInt(rng, 1, 20)
     const y = randInt(rng, 1, 20)
-    return item('addition', { x, y, result: x + y })
+    return item('addition', { x, y })
   },
   'simple-subtractions': (rng) => {
     const x = randInt(rng, 10, 30)
     const y = randInt(rng, 1, x - 1)
-    return item('subtraction', { x, y, result: x - y })
+    return item('subtraction', { x, y })
   },
   'simple-multiplications': (rng) => {
     const x = randInt(rng, 1, 10)
     const y = randInt(rng, 1, 10)
-    return item('multiplication', { x, y, result: x * y })
+    return item('multiplication', { x, y })
   },
   'simple-divisions': (rng) => {
     const y = randInt(rng, 2, 10)
     const quotient = randInt(rng, 1, 10)
-    return item('division', { x: y * quotient, y, result: quotient })
+    return item('division', { x: y * quotient, y })
   },
   'column-additions': (rng) => {
     const a = randInt(rng, 100, 999)
     const b = randInt(rng, 100, 999)
-    return item('columnAddition', { operands: [a, b], result: a + b })
+    return item('columnAddition', { operands: [a, b] })
   },
   'column-subtractions': (rng) => {
     const a = randInt(rng, 200, 999)
     const b = randInt(rng, 10, a - 1)
-    return item('columnSubtraction', { operands: [a, b], result: a - b })
+    return item('columnSubtraction', { operands: [a, b] })
   },
   'column-multiplications': (rng) => {
     const a = randInt(rng, 10, 99)
     const b = randInt(rng, 2, 9)
-    return item('columnMultiplication', { operands: [a, b], result: a * b })
+    return item('columnMultiplication', { operands: [a, b] })
   },
   'euclidian-divisions': (rng) => {
     const divisor = randInt(rng, 2, 9)
@@ -102,16 +102,14 @@ const GENERATORS = {
     const type = pick(rng, ['relativeAddition', 'relativeSubtraction'])
     const x = randInt(rng, -20, 20) || 3
     const y = randInt(rng, -20, 20) || -4
-    const result = type === 'relativeAddition' ? x + y : x - y
-    return item(type, { x, y, result })
+    return item(type, { x, y })
   },
   'decimal-numbers': (rng) => {
     const type = pick(rng, ['decimalAddition', 'decimalSubtraction'])
     let x = randInt(rng, 10, 999) / 10
     let y = randInt(rng, 1, 500) / 10
     if (type === 'decimalSubtraction' && y > x) [x, y] = [y, x]
-    const result = Math.round((type === 'decimalAddition' ? x + y : x - y) * 10) / 10
-    return item(type, { x, y, result })
+    return item(type, { x, y })
   },
   fractions: (rng) => {
     const type = pick(rng, ['fractionAddition', 'fractionSubtraction'])

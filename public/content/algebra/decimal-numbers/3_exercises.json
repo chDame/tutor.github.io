@@ -1,6 +1,6 @@
 {
   "id": "decimal-numbers-practice3",
-  "title": "Decimal Numbers \u2014 Practice 3",
+  "title": "Decimal Numbers — Practice 3",
   "evaluation": false,
   "difficulty": 4,
   "pages": [
@@ -10,29 +10,25 @@
           "id": "1",
           "type": "decimalSubtraction",
           "x": 23.6,
-          "y": 10.5,
-          "result": 13.1
+          "y": 10.5
         },
         {
           "id": "2",
           "type": "decimalSubtraction",
           "x": 50.5,
-          "y": 32.9,
-          "result": 17.6
+          "y": 32.9
         },
         {
           "id": "3",
           "type": "decimalSubtraction",
           "x": 60.1,
-          "y": 1.4,
-          "result": 58.7
+          "y": 1.4
         },
         {
           "id": "4",
           "type": "decimalSubtraction",
           "x": 13.1,
-          "y": 3.9,
-          "result": 9.2
+          "y": 3.9
         }
       ]
     },
@@ -42,29 +38,25 @@
           "id": "5",
           "type": "decimalAddition",
           "x": 22.7,
-          "y": 27.2,
-          "result": 49.9
+          "y": 27.2
         },
         {
           "id": "6",
           "type": "decimalAddition",
           "x": 79.9,
-          "y": 13.7,
-          "result": 93.6
+          "y": 13.7
         },
         {
           "id": "7",
           "type": "decimalSubtraction",
           "x": 64.8,
-          "y": 39.8,
-          "result": 25
+          "y": 39.8
         },
         {
           "id": "8",
           "type": "decimalAddition",
           "x": 55.7,
-          "y": 43.8,
-          "result": 99.5
+          "y": 43.8
         }
       ]
     },
@@ -74,29 +66,25 @@
           "id": "9",
           "type": "decimalSubtraction",
           "x": 63.9,
-          "y": 34.3,
-          "result": 29.6
+          "y": 34.3
         },
         {
           "id": "10",
           "type": "decimalAddition",
           "x": 80.5,
-          "y": 49.9,
-          "result": 130.4
+          "y": 49.9
         },
         {
           "id": "11",
           "type": "decimalAddition",
           "x": 4.1,
-          "y": 18,
-          "result": 22.1
+          "y": 18
         },
         {
           "id": "12",
           "type": "decimalAddition",
           "x": 2,
-          "y": 16.3,
-          "result": 18.3
+          "y": 16.3
         }
       ]
     },
@@ -106,29 +94,25 @@
           "id": "13",
           "type": "decimalSubtraction",
           "x": 21.3,
-          "y": 16.1,
-          "result": 5.2
+          "y": 16.1
         },
         {
           "id": "14",
           "type": "decimalSubtraction",
           "x": 66.9,
-          "y": 26,
-          "result": 40.9
+          "y": 26
         },
         {
           "id": "15",
           "type": "decimalAddition",
           "x": 27.2,
-          "y": 10.1,
-          "result": 37.3
+          "y": 10.1
         },
         {
           "id": "16",
           "type": "decimalSubtraction",
           "x": 37.6,
-          "y": 34.6,
-          "result": 3
+          "y": 34.6
         }
       ]
     },
@@ -138,8 +122,7 @@
           "id": "17",
           "type": "decimalAddition",
           "x": 33,
-          "y": 43.4,
-          "result": 76.4
+          "y": 43.4
         },
         {
           "id": "18",

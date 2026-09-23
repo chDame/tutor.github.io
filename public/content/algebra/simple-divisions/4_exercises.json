@@ -1,6 +1,6 @@
 {
   "id": "simple-divisions-evaluation",
-  "title": "Simple Divisions \u2014 Checkpoint",
+  "title": "Simple Divisions — Checkpoint",
   "evaluation": true,
   "difficulty": 3,
   "pages": [
@@ -10,29 +10,25 @@
           "id": "1",
           "type": "division",
           "x": 40,
-          "y": 4,
-          "result": 10
+          "y": 4
         },
         {
           "id": "2",
           "type": "division",
           "x": 4,
-          "y": 4,
-          "result": 1
+          "y": 4
         },
         {
           "id": "3",
           "type": "division",
           "x": 12,
-          "y": 6,
-          "result": 2
+          "y": 6
         },
         {
           "id": "4",
           "type": "division",
           "x": 20,
-          "y": 4,
-          "result": 5
+          "y": 4
         }
       ]
     },
@@ -42,29 +38,25 @@
           "id": "5",
           "type": "division",
           "x": 72,
-          "y": 9,
-          "result": 8
+          "y": 9
         },
         {
           "id": "6",
           "type": "division",
           "x": 28,
-          "y": 7,
-          "result": 4
+          "y": 7
         },
         {
           "id": "7",
           "type": "division",
           "x": 10,
-          "y": 2,
-          "result": 5
+          "y": 2
         },
         {
           "id": "8",
           "type": "division",
           "x": 32,
-          "y": 8,
-          "result": 4
+          "y": 8
         }
       ]
     },
@@ -74,29 +66,25 @@
           "id": "9",
           "type": "division",
           "x": 100,
-          "y": 10,
-          "result": 10
+          "y": 10
         },
         {
           "id": "10",
           "type": "division",
           "x": 24,
-          "y": 6,
-          "result": 4
+          "y": 6
         },
         {
           "id": "11",
           "type": "division",
           "x": 36,
-          "y": 9,
-          "result": 4
+          "y": 9
         },
         {
           "id": "12",
           "type": "division",
           "x": 70,
-          "y": 10,
-          "result": 7
+          "y": 10
         }
       ]
     },
@@ -106,29 +94,25 @@
           "id": "13",
           "type": "division",
           "x": 14,
-          "y": 7,
-          "result": 2
+          "y": 7
         },
         {
           "id": "14",
           "type": "division",
           "x": 24,
-          "y": 3,
-          "result": 8
+          "y": 3
         },
         {
           "id": "15",
           "type": "division",
           "x": 90,
-          "y": 10,
-          "result": 9
+          "y": 10
         },
         {
           "id": "16",
           "type": "division",
           "x": 9,
-          "y": 3,
-          "result": 3
+          "y": 3
         }
       ]
     },
@@ -138,8 +122,7 @@
           "id": "17",
           "type": "division",
           "x": 72,
-          "y": 8,
-          "result": 9
+          "y": 8
         },
         {
           "id": "18",
