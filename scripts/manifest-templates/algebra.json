@@ -14,6 +14,10 @@
       "title": "Numbers from 11 to 20"
     },
     {
+      "slug": "basic50",
+      "title": "Numbers from 0 to 50"
+    },
+    {
       "slug": "addOneTo10",
       "title": "Add One within 10"
     },
@@ -22,8 +26,32 @@
       "title": "Add One within 20"
     },
     {
-      "slug": "simple-additions",
-      "title": "Simple Additions"
+      "slug": "addOneTo50",
+      "title": "Add One within 50"
+    },
+    {
+      "slug": "basic100",
+      "title": "Numbers from 0 to 100"
+    },
+    {
+      "slug": "addOneTo100",
+      "title": "Add One within 100"
+    },
+    {
+      "slug": "simple-additions-10",
+      "title": "Simple Additions (0 to 10)"
+    },
+    {
+      "slug": "simple-additions-20",
+      "title": "Simple Additions (0 to 20)"
+    },
+    {
+      "slug": "simple-additions-50",
+      "title": "Simple Additions (0 to 50)"
+    },
+    {
+      "slug": "simple-additions-100",
+      "title": "Simple Additions (0 to 100)"
     },
     {
       "slug": "simple-subtractions",

@@ -1,0 +1,138 @@
+{
+  "id": "addOneTo50-evaluation",
+  "title": "Add One to 50 — Evaluation",
+  "evaluation": true,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "addition",
+          "x": 39,
+          "y": 1
+        },
+        {
+          "id": "2",
+          "type": "addition",
+          "x": 40,
+          "y": 1
+        },
+        {
+          "id": "3",
+          "type": "missingNumbers",
+          "start": 39,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "type": "addition",
+          "x": 41,
+          "y": 1
+        },
+        {
+          "id": "5",
+          "type": "addition",
+          "x": 42,
+          "y": 1
+        },
+        {
+          "id": "6",
+          "type": "missingNumbers",
+          "start": 41,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "7",
+          "type": "addition",
+          "x": 43,
+          "y": 1
+        },
+        {
+          "id": "8",
+          "type": "addition",
+          "x": 44,
+          "y": 1
+        },
+        {
+          "id": "9",
+          "type": "missingNumbers",
+          "start": 43,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "10",
+          "type": "addition",
+          "x": 45,
+          "y": 1
+        },
+        {
+          "id": "11",
+          "type": "addition",
+          "x": 46,
+          "y": 1
+        },
+        {
+          "id": "12",
+          "type": "missingNumbers",
+          "start": 45,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "13",
+          "type": "addition",
+          "x": 47,
+          "y": 1
+        },
+        {
+          "id": "14",
+          "type": "addition",
+          "x": 48,
+          "y": 1
+        },
+        {
+          "id": "15",
+          "type": "missingNumbers",
+          "start": 47,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

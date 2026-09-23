@@ -263,6 +263,92 @@
       ]
     },
     {
+      "slug": "basic50",
+      "title": "Numbers from 0 to 50",
+      "exercises": [
+        {
+          "file": "basic50/1_exercises.json",
+          "id": "basic50-practice1",
+          "title": "Numbers from 0 to 50 — Practice 1",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic50/2_exercises.json",
+          "id": "basic50-practice2",
+          "title": "Numbers from 0 to 50 — Practice 2",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "basic50/3_exercises.json",
+          "id": "basic50-practice3",
+          "title": "Numbers from 0 to 50 — Practice 3",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "basic50/4_exercises.json",
+          "id": "basic50-practice4",
+          "title": "Numbers from 0 to 50 — Practice 4",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "basic50/5_exercises.json",
+          "id": "basic50-practice5",
+          "title": "Numbers from 0 to 50 — Practice 5",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "basic50/6_exercises.json",
+          "id": "basic50-practice6",
+          "title": "Numbers from 0 to 50 — Practice 6",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic50/7_exercises.json",
+          "id": "basic50-practice7",
+          "title": "Numbers from 0 to 50 — Practice 7",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic50/8_exercises.json",
+          "id": "basic50-practice8",
+          "title": "Numbers from 0 to 50 — Practice 8",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic50/9_exercises.json",
+          "id": "basic50-practice9",
+          "title": "Numbers from 0 to 50 — Practice 9",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic50/10_exercises.json",
+          "id": "basic50-evaluation",
+          "title": "Numbers from 0 to 50 — Evaluation",
+          "evaluation": true,
+          "difficulty": 1,
+          "character": null
+        }
+      ]
+    },
+    {
       "slug": "addOneTo10",
       "title": "Add One within 10",
       "exercises": [
@@ -441,37 +527,607 @@
       ]
     },
     {
-      "slug": "simple-additions",
-      "title": "Simple Additions",
+      "slug": "addOneTo50",
+      "title": "Add One within 50",
       "exercises": [
         {
-          "file": "simple-additions/1_exercises.json",
-          "id": "simple-additions-practice1",
-          "title": "Simple Additions — Practice 1",
+          "file": "addOneTo50/1_exercises.json",
+          "id": "addOneTo50-practice1",
+          "title": "Add One to 50 — Practice 1",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": {
+            "image": "characters/girlCreatingANumbersTower.png",
+            "position": "right"
+          }
+        },
+        {
+          "file": "addOneTo50/2_exercises.json",
+          "id": "addOneTo50-practice2",
+          "title": "Add One to 50 — Practice 2",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "addOneTo50/3_exercises.json",
+          "id": "addOneTo50-practice3",
+          "title": "Add One to 50 — Practice 3",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "addOneTo50/4_exercises.json",
+          "id": "addOneTo50-practice4",
+          "title": "Add One to 50 — Practice 4",
           "evaluation": false,
           "difficulty": 1,
           "character": null
         },
         {
-          "file": "simple-additions/2_exercises.json",
-          "id": "simple-additions-practice2",
-          "title": "Simple Additions — Practice 2",
+          "file": "addOneTo50/5_exercises.json",
+          "id": "addOneTo50-practice5",
+          "title": "Add One to 50 — Practice 5",
           "evaluation": false,
           "difficulty": 1,
           "character": null
         },
         {
-          "file": "simple-additions/3_exercises.json",
-          "id": "simple-additions-practice3",
-          "title": "Simple Additions — Practice 3",
+          "file": "addOneTo50/6_exercises.json",
+          "id": "addOneTo50-practice6",
+          "title": "Add One to 50 — Practice 6",
           "evaluation": false,
           "difficulty": 1,
           "character": null
         },
         {
-          "file": "simple-additions/4_exercises.json",
-          "id": "simple-additions-evaluation",
-          "title": "Simple Additions — Checkpoint",
+          "file": "addOneTo50/7_exercises.json",
+          "id": "addOneTo50-practice7",
+          "title": "Add One to 50 — Practice 7",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo50/8_exercises.json",
+          "id": "addOneTo50-practice8",
+          "title": "Add One to 50 — Practice 8",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo50/9_exercises.json",
+          "id": "addOneTo50-practice9",
+          "title": "Add One to 50 — Practice 9",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo50/10_exercises.json",
+          "id": "addOneTo50-evaluation",
+          "title": "Add One to 50 — Evaluation",
+          "evaluation": true,
+          "difficulty": 1,
+          "character": null
+        }
+      ]
+    },
+    {
+      "slug": "basic100",
+      "title": "Numbers from 0 to 100",
+      "exercises": [
+        {
+          "file": "basic100/1_exercises.json",
+          "id": "basic100-practice1",
+          "title": "Numbers from 0 to 100 — Practice 1",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic100/2_exercises.json",
+          "id": "basic100-practice2",
+          "title": "Numbers from 0 to 100 — Practice 2",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "basic100/3_exercises.json",
+          "id": "basic100-practice3",
+          "title": "Numbers from 0 to 100 — Practice 3",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "basic100/4_exercises.json",
+          "id": "basic100-practice4",
+          "title": "Numbers from 0 to 100 — Practice 4",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "basic100/5_exercises.json",
+          "id": "basic100-practice5",
+          "title": "Numbers from 0 to 100 — Practice 5",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "basic100/6_exercises.json",
+          "id": "basic100-practice6",
+          "title": "Numbers from 0 to 100 — Practice 6",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic100/7_exercises.json",
+          "id": "basic100-practice7",
+          "title": "Numbers from 0 to 100 — Practice 7",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic100/8_exercises.json",
+          "id": "basic100-practice8",
+          "title": "Numbers from 0 to 100 — Practice 8",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic100/9_exercises.json",
+          "id": "basic100-practice9",
+          "title": "Numbers from 0 to 100 — Practice 9",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "basic100/10_exercises.json",
+          "id": "basic100-evaluation",
+          "title": "Numbers from 0 to 100 — Evaluation",
+          "evaluation": true,
+          "difficulty": 1,
+          "character": null
+        }
+      ]
+    },
+    {
+      "slug": "addOneTo100",
+      "title": "Add One within 100",
+      "exercises": [
+        {
+          "file": "addOneTo100/1_exercises.json",
+          "id": "addOneTo100-practice1",
+          "title": "Add One to 100 — Practice 1",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": {
+            "image": "characters/girlCreatingANumbersTower.png",
+            "position": "right"
+          }
+        },
+        {
+          "file": "addOneTo100/2_exercises.json",
+          "id": "addOneTo100-practice2",
+          "title": "Add One to 100 — Practice 2",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "addOneTo100/3_exercises.json",
+          "id": "addOneTo100-practice3",
+          "title": "Add One to 100 — Practice 3",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "addOneTo100/4_exercises.json",
+          "id": "addOneTo100-practice4",
+          "title": "Add One to 100 — Practice 4",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "addOneTo100/5_exercises.json",
+          "id": "addOneTo100-practice5",
+          "title": "Add One to 100 — Practice 5",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "addOneTo100/6_exercises.json",
+          "id": "addOneTo100-practice6",
+          "title": "Add One to 100 — Practice 6",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "addOneTo100/7_exercises.json",
+          "id": "addOneTo100-practice7",
+          "title": "Add One to 100 — Practice 7",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo100/8_exercises.json",
+          "id": "addOneTo100-practice8",
+          "title": "Add One to 100 — Practice 8",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo100/9_exercises.json",
+          "id": "addOneTo100-practice9",
+          "title": "Add One to 100 — Practice 9",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "addOneTo100/10_exercises.json",
+          "id": "addOneTo100-evaluation",
+          "title": "Add One to 100 — Evaluation",
+          "evaluation": true,
+          "difficulty": 1,
+          "character": null
+        }
+      ]
+    },
+    {
+      "slug": "simple-additions-10",
+      "title": "Simple Additions (0 to 10)",
+      "exercises": [
+        {
+          "file": "simple-additions-10/1_exercises.json",
+          "id": "simple-additions-10-practice1",
+          "title": "Simple Additions (0 to 10) — Practice 1",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-10/2_exercises.json",
+          "id": "simple-additions-10-practice2",
+          "title": "Simple Additions (0 to 10) — Practice 2",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-10/3_exercises.json",
+          "id": "simple-additions-10-practice3",
+          "title": "Simple Additions (0 to 10) — Practice 3",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-10/4_exercises.json",
+          "id": "simple-additions-10-practice4",
+          "title": "Simple Additions (0 to 10) — Practice 4",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-10/5_exercises.json",
+          "id": "simple-additions-10-practice5",
+          "title": "Simple Additions (0 to 10) — Practice 5",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-10/6_exercises.json",
+          "id": "simple-additions-10-practice6",
+          "title": "Simple Additions (0 to 10) — Practice 6",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-10/7_exercises.json",
+          "id": "simple-additions-10-practice7",
+          "title": "Simple Additions (0 to 10) — Practice 7",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-10/8_exercises.json",
+          "id": "simple-additions-10-practice8",
+          "title": "Simple Additions (0 to 10) — Practice 8",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-10/9_exercises.json",
+          "id": "simple-additions-10-practice9",
+          "title": "Simple Additions (0 to 10) — Practice 9",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-10/10_exercises.json",
+          "id": "simple-additions-10-evaluation",
+          "title": "Simple Additions (0 to 10) — Checkpoint",
+          "evaluation": true,
+          "difficulty": 2,
+          "character": null
+        }
+      ]
+    },
+    {
+      "slug": "simple-additions-20",
+      "title": "Simple Additions (0 to 20)",
+      "exercises": [
+        {
+          "file": "simple-additions-20/1_exercises.json",
+          "id": "simple-additions-20-practice1",
+          "title": "Simple Additions (0 to 20) — Practice 1",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-20/2_exercises.json",
+          "id": "simple-additions-20-practice2",
+          "title": "Simple Additions (0 to 20) — Practice 2",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-20/3_exercises.json",
+          "id": "simple-additions-20-practice3",
+          "title": "Simple Additions (0 to 20) — Practice 3",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-20/4_exercises.json",
+          "id": "simple-additions-20-practice4",
+          "title": "Simple Additions (0 to 20) — Practice 4",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-20/5_exercises.json",
+          "id": "simple-additions-20-practice5",
+          "title": "Simple Additions (0 to 20) — Practice 5",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-20/6_exercises.json",
+          "id": "simple-additions-20-practice6",
+          "title": "Simple Additions (0 to 20) — Practice 6",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-20/7_exercises.json",
+          "id": "simple-additions-20-practice7",
+          "title": "Simple Additions (0 to 20) — Practice 7",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-20/8_exercises.json",
+          "id": "simple-additions-20-practice8",
+          "title": "Simple Additions (0 to 20) — Practice 8",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-20/9_exercises.json",
+          "id": "simple-additions-20-practice9",
+          "title": "Simple Additions (0 to 20) — Practice 9",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-20/10_exercises.json",
+          "id": "simple-additions-20-evaluation",
+          "title": "Simple Additions (0 to 20) — Checkpoint",
+          "evaluation": true,
+          "difficulty": 2,
+          "character": null
+        }
+      ]
+    },
+    {
+      "slug": "simple-additions-50",
+      "title": "Simple Additions (0 to 50)",
+      "exercises": [
+        {
+          "file": "simple-additions-50/1_exercises.json",
+          "id": "simple-additions-50-practice1",
+          "title": "Simple Additions (0 to 50) — Practice 1",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-50/2_exercises.json",
+          "id": "simple-additions-50-practice2",
+          "title": "Simple Additions (0 to 50) — Practice 2",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-50/3_exercises.json",
+          "id": "simple-additions-50-practice3",
+          "title": "Simple Additions (0 to 50) — Practice 3",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-50/4_exercises.json",
+          "id": "simple-additions-50-practice4",
+          "title": "Simple Additions (0 to 50) — Practice 4",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-50/5_exercises.json",
+          "id": "simple-additions-50-practice5",
+          "title": "Simple Additions (0 to 50) — Practice 5",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-50/6_exercises.json",
+          "id": "simple-additions-50-practice6",
+          "title": "Simple Additions (0 to 50) — Practice 6",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-50/7_exercises.json",
+          "id": "simple-additions-50-practice7",
+          "title": "Simple Additions (0 to 50) — Practice 7",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-50/8_exercises.json",
+          "id": "simple-additions-50-practice8",
+          "title": "Simple Additions (0 to 50) — Practice 8",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-50/9_exercises.json",
+          "id": "simple-additions-50-practice9",
+          "title": "Simple Additions (0 to 50) — Practice 9",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-50/10_exercises.json",
+          "id": "simple-additions-50-evaluation",
+          "title": "Simple Additions (0 to 50) — Checkpoint",
+          "evaluation": true,
+          "difficulty": 2,
+          "character": null
+        }
+      ]
+    },
+    {
+      "slug": "simple-additions-100",
+      "title": "Simple Additions (0 to 100)",
+      "exercises": [
+        {
+          "file": "simple-additions-100/1_exercises.json",
+          "id": "simple-additions-100-practice1",
+          "title": "Simple Additions (0 to 100) — Practice 1",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-100/2_exercises.json",
+          "id": "simple-additions-100-practice2",
+          "title": "Simple Additions (0 to 100) — Practice 2",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-100/3_exercises.json",
+          "id": "simple-additions-100-practice3",
+          "title": "Simple Additions (0 to 100) — Practice 3",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-100/4_exercises.json",
+          "id": "simple-additions-100-practice4",
+          "title": "Simple Additions (0 to 100) — Practice 4",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-100/5_exercises.json",
+          "id": "simple-additions-100-practice5",
+          "title": "Simple Additions (0 to 100) — Practice 5",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-100/6_exercises.json",
+          "id": "simple-additions-100-practice6",
+          "title": "Simple Additions (0 to 100) — Practice 6",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-100/7_exercises.json",
+          "id": "simple-additions-100-practice7",
+          "title": "Simple Additions (0 to 100) — Practice 7",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-100/8_exercises.json",
+          "id": "simple-additions-100-practice8",
+          "title": "Simple Additions (0 to 100) — Practice 8",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-100/9_exercises.json",
+          "id": "simple-additions-100-practice9",
+          "title": "Simple Additions (0 to 100) — Practice 9",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-additions-100/10_exercises.json",
+          "id": "simple-additions-100-evaluation",
+          "title": "Simple Additions (0 to 100) — Checkpoint",
           "evaluation": true,
           "difficulty": 2,
           "character": null

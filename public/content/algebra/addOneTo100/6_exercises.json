@@ -1,0 +1,86 @@
+{
+  "id": "addOneTo100-practice6",
+  "title": "Add One to 100 — Practice 6",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "addition",
+          "x": 94,
+          "y": 1
+        },
+        {
+          "id": "2",
+          "type": "addition",
+          "x": 95,
+          "y": 1
+        },
+        {
+          "id": "3",
+          "type": "missingNumbers",
+          "start": 94,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "type": "addition",
+          "x": 95,
+          "y": 1
+        },
+        {
+          "id": "5",
+          "type": "addition",
+          "x": 96,
+          "y": 1
+        },
+        {
+          "id": "6",
+          "type": "missingNumbers",
+          "start": 95,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "7",
+          "type": "addition",
+          "x": 96,
+          "y": 1
+        },
+        {
+          "id": "8",
+          "type": "addition",
+          "x": 97,
+          "y": 1
+        },
+        {
+          "id": "9",
+          "type": "missingNumbers",
+          "start": 96,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

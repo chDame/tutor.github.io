@@ -1,0 +1,134 @@
+{
+  "id": "basic50-practice7",
+  "title": "Numbers from 0 to 50 — Practice 7",
+  "evaluation": false,
+  "difficulty": 0,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "counting",
+          "countingElement": "🍍",
+          "result": 50
+        },
+        {
+          "id": "2",
+          "type": "counting",
+          "countingElement": "🍓",
+          "result": 49
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "3",
+          "type": "counting",
+          "countingElement": "🌸",
+          "result": 45
+        },
+        {
+          "id": "4",
+          "type": "counting",
+          "countingElement": "🌹",
+          "result": 46
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "5",
+          "type": "counting",
+          "countingElement": "🍎",
+          "result": 47
+        },
+        {
+          "id": "6",
+          "type": "counting",
+          "countingElement": "🎁",
+          "result": 48
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "7",
+          "type": "counting",
+          "countingElement": "🍄",
+          "result": 44
+        },
+        {
+          "id": "8",
+          "type": "counting",
+          "countingElement": "🌲",
+          "result": 42
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9",
+          "type": "counting",
+          "countingElement": "🌻",
+          "result": 43
+        },
+        {
+          "id": "10",
+          "type": "counting",
+          "countingElement": "🌽",
+          "result": 41
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "11",
+          "type": "counting",
+          "countingElement": "🏎",
+          "result": 50
+        },
+        {
+          "id": "12",
+          "type": "counting",
+          "countingElement": "🚕",
+          "result": 49
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "13",
+          "type": "missingNumbers",
+          "start": 42,
+          "length": 5,
+          "missingIndices": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "14",
+          "type": "counting",
+          "countingElement": "🍕",
+          "result": 48
+        },
+        {
+          "id": "15",
+          "type": "counting",
+          "countingElement": "🍗",
+          "result": 50
+        }
+      ]
+    }
+  ]
+}
