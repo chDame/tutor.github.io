@@ -109,6 +109,40 @@
     {
       "items": [
         {
+          "type": "missingNumbers",
+          "start": 8,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "13"
+        },
+        {
+          "type": "addition",
+          "x": 8,
+          "y": 1,
+          "id": "14"
+        },
+        {
+          "type": "addition",
+          "x": 9,
+          "y": 1,
+          "id": "15"
+        },
+        {
+          "type": "missingOperand",
+          "x": 8,
+          "operator": "+",
+          "y": null,
+          "result": 9,
+          "id": "16"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "type": "problem",
           "question": "If Tony has had 5 pieces of pizza and eats a new one, how many pieces of pizza will he have in total?",
           "result": 6,

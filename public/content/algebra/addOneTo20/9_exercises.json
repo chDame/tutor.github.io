@@ -76,7 +76,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 18,
+          "start": 11,
           "length": 3,
           "missingIndices": [
             1,
@@ -86,15 +86,49 @@
         },
         {
           "type": "addition",
-          "x": 18,
+          "x": 11,
           "y": 1,
           "id": "10"
         },
         {
           "type": "addition",
-          "x": 19,
+          "x": 12,
           "y": 1,
           "id": "11"
+        },
+        {
+          "type": "missingOperand",
+          "x": 11,
+          "operator": "+",
+          "y": null,
+          "result": 12,
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 18,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "13"
+        },
+        {
+          "type": "addition",
+          "x": 18,
+          "y": 1,
+          "id": "14"
+        },
+        {
+          "type": "addition",
+          "x": 19,
+          "y": 1,
+          "id": "15"
         },
         {
           "type": "missingOperand",
@@ -102,7 +136,41 @@
           "operator": "+",
           "y": null,
           "result": 19,
-          "id": "12"
+          "id": "16"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 16,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "17"
+        },
+        {
+          "type": "addition",
+          "x": 16,
+          "y": 1,
+          "id": "18"
+        },
+        {
+          "type": "addition",
+          "x": 17,
+          "y": 1,
+          "id": "19"
+        },
+        {
+          "type": "missingOperand",
+          "x": 16,
+          "operator": "+",
+          "y": null,
+          "result": 17,
+          "id": "20"
         }
       ]
     }

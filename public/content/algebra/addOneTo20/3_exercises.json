@@ -8,6 +8,58 @@
       "items": [
         {
           "type": "missingNumbers",
+          "start": 9,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "1b"
+        },
+        {
+          "type": "addition",
+          "x": 9,
+          "y": 1,
+          "id": "2b"
+        },
+        {
+          "type": "addition",
+          "x": 10,
+          "y": 1,
+          "id": "3b"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 10,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "1c"
+        },
+        {
+          "type": "addition",
+          "x": 10,
+          "y": 1,
+          "id": "2c"
+        },
+        {
+          "type": "addition",
+          "x": 11,
+          "y": 1,
+          "id": "3c"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
           "start": 11,
           "length": 3,
           "missingIndices": [

@@ -8,6 +8,108 @@
       "items": [
         {
           "type": "missingNumbers",
+          "start": 13,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "1d"
+        },
+        {
+          "type": "addition",
+          "x": 13,
+          "y": 1,
+          "id": "2d"
+        },
+        {
+          "type": "addition",
+          "x": 14,
+          "y": 1,
+          "id": "3d"
+        },
+        {
+          "type": "missingOperand",
+          "x": 13,
+          "operator": "+",
+          "y": null,
+          "result": 14,
+          "id": "4d"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 14,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "1c"
+        },
+        {
+          "type": "addition",
+          "x": 14,
+          "y": 1,
+          "id": "2c"
+        },
+        {
+          "type": "addition",
+          "x": 15,
+          "y": 1,
+          "id": "3c"
+        },
+        {
+          "type": "missingOperand",
+          "x": 14,
+          "operator": "+",
+          "y": null,
+          "result": 15,
+          "id": "4c"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 15,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "1b"
+        },
+        {
+          "type": "addition",
+          "x": 15,
+          "y": 1,
+          "id": "2b"
+        },
+        {
+          "type": "addition",
+          "x": 16,
+          "y": 1,
+          "id": "3b"
+        },
+        {
+          "type": "missingOperand",
+          "x": 15,
+          "operator": "+",
+          "y": null,
+          "result": 16,
+          "id": "4b"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
           "start": 16,
           "length": 3,
           "missingIndices": [

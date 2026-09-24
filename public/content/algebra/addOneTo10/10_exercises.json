@@ -27,14 +27,6 @@
           "x": 2,
           "y": 1,
           "id": "3"
-        },
-        {
-          "type": "missingOperand",
-          "x": 1,
-          "operator": "+",
-          "y": null,
-          "result": 2,
-          "id": "4"
         }
       ]
     },
@@ -61,14 +53,6 @@
           "x": 4,
           "y": 1,
           "id": "7"
-        },
-        {
-          "type": "missingOperand",
-          "x": 3,
-          "operator": "+",
-          "y": null,
-          "result": 4,
-          "id": "8"
         }
       ]
     },
@@ -95,14 +79,6 @@
           "x": 6,
           "y": 1,
           "id": "11"
-        },
-        {
-          "type": "missingOperand",
-          "x": 5,
-          "operator": "+",
-          "y": null,
-          "result": 6,
-          "id": "12"
         }
       ]
     },
@@ -129,14 +105,6 @@
           "x": 8,
           "y": 1,
           "id": "15"
-        },
-        {
-          "type": "missingOperand",
-          "x": 7,
-          "operator": "+",
-          "y": null,
-          "result": 8,
-          "id": "16"
         }
       ]
     },
@@ -163,14 +131,6 @@
           "x": 9,
           "y": 1,
           "id": "19"
-        },
-        {
-          "type": "missingOperand",
-          "x": 8,
-          "operator": "+",
-          "y": null,
-          "result": 9,
-          "id": "20"
         }
       ]
     },

@@ -8,6 +8,74 @@
       "items": [
         {
           "type": "missingNumbers",
+          "start": 4,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "1c"
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 1,
+          "id": "2c"
+        },
+        {
+          "type": "addition",
+          "x": 5,
+          "y": 1,
+          "id": "3c"
+        },
+        {
+          "type": "missingOperand",
+          "x": 4,
+          "operator": "+",
+          "y": null,
+          "result": 5,
+          "id": "4c"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 5,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "1b"
+        },
+        {
+          "type": "addition",
+          "x": 5,
+          "y": 1,
+          "id": "2b"
+        },
+        {
+          "type": "addition",
+          "x": 6,
+          "y": 1,
+          "id": "3b"
+        },
+        {
+          "type": "missingOperand",
+          "x": 5,
+          "operator": "+",
+          "y": null,
+          "result": 6,
+          "id": "4b"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
           "start": 6,
           "length": 3,
           "missingIndices": [
