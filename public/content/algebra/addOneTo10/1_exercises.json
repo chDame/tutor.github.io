@@ -7,19 +7,16 @@
     {
       "items": [
         {
+          "id": "0",
+          "type": "explanation",
+          "html": "<p>Welcome to the the first step across additions!<br/><br/> As you will see, adding 1 to a number is like asking what's the next number. For example if I ask you what comes after 2, you'll tell me 3. So if I ask you 2+1, then the result is 3! Simple, isn't it ?<br /><br /> Enjoy these first steps into additions!</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "id": "1",
-          "type": "addition",
-          "x": 1,
-          "y": 1
-        },
-        {
-          "id": "2",
-          "type": "addition",
-          "x": 2,
-          "y": 1
-        },
-        {
-          "id": "3",
           "type": "missingNumbers",
           "start": 1,
           "length": 3,
@@ -27,6 +24,18 @@
             1,
             2
           ]
+        },
+        {
+          "id": "2",
+          "type": "addition",
+          "x": 1,
+          "y": 1
+        },
+        {
+          "id": "3",
+          "type": "addition",
+          "x": 2,
+          "y": 1
         }
       ]
     },
@@ -34,18 +43,6 @@
       "items": [
         {
           "id": "4",
-          "type": "addition",
-          "x": 2,
-          "y": 1
-        },
-        {
-          "id": "5",
-          "type": "addition",
-          "x": 3,
-          "y": 1
-        },
-        {
-          "id": "6",
           "type": "missingNumbers",
           "start": 2,
           "length": 3,
@@ -53,6 +50,18 @@
             1,
             2
           ]
+        },
+        {
+          "id": "5",
+          "type": "addition",
+          "x": 2,
+          "y": 1
+        },
+        {
+          "id": "6",
+          "type": "addition",
+          "x": 3,
+          "y": 1
         }
       ]
     },
@@ -60,18 +69,6 @@
       "items": [
         {
           "id": "7",
-          "type": "addition",
-          "x": 3,
-          "y": 1
-        },
-        {
-          "id": "8",
-          "type": "addition",
-          "x": 4,
-          "y": 1
-        },
-        {
-          "id": "9",
           "type": "missingNumbers",
           "start": 3,
           "length": 3,
@@ -79,6 +76,18 @@
             1,
             2
           ]
+        },
+        {
+          "id": "8",
+          "type": "addition",
+          "x": 3,
+          "y": 1
+        },
+        {
+          "id": "9",
+          "type": "addition",
+          "x": 4,
+          "y": 1
         }
       ]
     },

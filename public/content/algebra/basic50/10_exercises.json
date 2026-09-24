@@ -8,15 +8,21 @@
       "items": [
         {
           "id": "1",
-          "type": "counting",
-          "countingElement": "🍎",
-          "result": 45
+          "type": "missingNumbers",
+          "start": 46,
+          "length": 5,
+          "missingIndices": [
+            1,2,3,4
+          ]
         },
         {
           "id": "2",
-          "type": "counting",
-          "countingElement": "🎁",
-          "result": 50
+          "type": "missingNumbers",
+          "start": 40,
+          "length": 4,
+          "missingIndices": [
+            1,2,3
+          ]
         }
       ]
     },
@@ -24,15 +30,21 @@
       "items": [
         {
           "id": "3",
-          "type": "counting",
-          "countingElement": "🌸",
-          "result": 49
+          "type": "missingNumbers",
+          "start": 17,
+          "length": 5,
+          "missingIndices": [
+            2,3,4
+          ]
         },
         {
           "id": "4",
-          "type": "counting",
-          "countingElement": "🌹",
-          "result": 48
+          "type": "missingNumbers",
+          "start": 28,
+          "length": 4,
+          "missingIndices": [
+            0,1
+          ]
         }
       ]
     },
@@ -40,15 +52,21 @@
       "items": [
         {
           "id": "5",
-          "type": "counting",
-          "countingElement": "🍄",
-          "result": 46
+          "type": "missingNumbers",
+          "start": 41,
+          "length": 6,
+          "missingIndices": [
+            0,3,5
+          ]
         },
         {
           "id": "6",
-          "type": "counting",
-          "countingElement": "🌲",
-          "result": 47
+          "type": "missingNumbers",
+          "start": 25,
+          "length": 4,
+          "missingIndices": [
+            1,2,3
+          ]
         }
       ]
     },
@@ -56,15 +74,23 @@
       "items": [
         {
           "id": "7",
-          "type": "counting",
-          "countingElement": "🌻",
-          "result": 44
+          "type": "missingNumbers",
+          "start": 39,
+          "length": 4,
+          "missingIndices": [
+            0,
+            1
+          ]
         },
         {
           "id": "8",
-          "type": "counting",
-          "countingElement": "🌽",
-          "result": 43
+          "type": "missingNumbers",
+          "start": 48,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         }
       ]
     },
@@ -73,11 +99,22 @@
         {
           "id": "9",
           "type": "missingNumbers",
-          "start": 45,
-          "length": 5,
+          "start": 18,
+          "length": 3,
           "missingIndices": [
             1,
-            3
+            2
+          ]
+        },
+
+        {
+          "id": "10",
+          "type": "missingNumbers",
+          "start": 19,
+          "length": 3,
+          "missingIndices": [
+            0,
+            1
           ]
         }
       ]
@@ -85,16 +122,24 @@
     {
       "items": [
         {
-          "id": "10",
-          "type": "counting",
-          "countingElement": "🍍",
-          "result": 42
+          "id": "11",
+          "type": "missingNumbers",
+          "start": 30,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
-          "id": "11",
-          "type": "counting",
-          "countingElement": "🍓",
-          "result": 41
+          "id": "12",
+          "type": "missingNumbers",
+          "start": 40,
+          "length": 4,
+          "missingIndices": [
+            1,
+            2,3
+          ]
         }
       ]
     }

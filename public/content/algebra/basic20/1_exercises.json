@@ -7,9 +7,18 @@
     {
       "items": [
         {
+          "id": "0",
+          "type": "explanation",
+          "html": "<p>Welcome to the Numbers from 11 to 20 practice!<br/><br/> In this module, you'll start counting and recognizing numbers from 11 to 20. This means that you're entering the world of larger numbers, building on your knowledge of smaller ones. <br /><br /> I want you to note on the next page that once you reach 10, all the next numbers will start with 1: 11, 12, 13, 14, 15, 16, 17, 18, 19. And only when you reach 19, the next number will start with 2: 20.<br /><br /> Have fun!</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "id": "1",
           "type": "discoverNumber",
-          "from": 1,
+          "from": 0,
           "to": 20,
           "displayElements": false,
           "countingElement": "\ud83c\udf4e"

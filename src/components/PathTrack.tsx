@@ -44,7 +44,12 @@ export default function PathTrack({ exercises, onSelect }: Props) {
         const stateClass = ex.completed ? `completed score-${ex.score}` : ex.unlocked ? 'unlocked' : 'locked'
 
         return (
-          <div key={ex.id} className="path-node-abs" style={{ left: p.x - NODE_SIZE / 2, top: p.y - NODE_SIZE / 2 }}>
+          <div
+            key={ex.id}
+            id={`exercise-node-${ex.id}`}
+            className="path-node-abs"
+            style={{ left: p.x - NODE_SIZE / 2, top: p.y - NODE_SIZE / 2 }}
+          >
             <button
               className={`path-node ${stateClass} ${ex.isNextValidation ? 'validation-shortcut' : ''}`}
               disabled={!ex.unlocked}

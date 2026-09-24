@@ -11,6 +11,15 @@
     {
       "items": [
         {
+          "id": "0",
+          "type": "explanation",
+          "html": "<p>Welcome to the Numbers from 1 to 5 practice!<br/><br/> You're entering the world of small numbers and they will soon be your best friends! In this module, you'll need to read and count. If you need help, ask an adult to show you.<br /><br /> Have fun!</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "id": "1",
           "type": "discoverNumber",
           "from": 1,

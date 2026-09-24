@@ -10,7 +10,7 @@
           "id": "1",
           "type": "discoverNumber",
           "from": 0,
-          "to": 50,
+          "to": 59,
           "displayElements": false,
           "countingElement": "🍎"
         }
@@ -20,15 +20,22 @@
       "items": [
         {
           "id": "2",
-          "type": "counting",
-          "countingElement": "🌸",
-          "result": 47
+          "type": "missingNumbers",
+          "start": 22,
+          "length": 4,
+          "missingIndices": [
+            0,
+            2
+          ]
         },
         {
           "id": "3",
-          "type": "counting",
-          "countingElement": "🌹",
-          "result": 48
+          "type": "missingNumbers",
+          "start": 26,
+          "length": 5,
+          "missingIndices": [
+            0, 2
+          ]
         }
       ]
     },
@@ -36,15 +43,21 @@
       "items": [
         {
           "id": "4",
-          "type": "counting",
-          "countingElement": "🍄",
-          "result": 44
+          "type": "missingNumbers",
+          "start": 33,
+          "length": 5,
+          "missingIndices": [
+            0,2,4
+          ]
         },
         {
           "id": "5",
-          "type": "counting",
-          "countingElement": "🌲",
-          "result": 45
+          "type": "missingNumbers",
+          "start": 28,
+          "length": 4,
+          "missingIndices": [
+            1,2
+          ]
         }
       ]
     },
@@ -52,15 +65,22 @@
       "items": [
         {
           "id": "6",
-          "type": "counting",
-          "countingElement": "🌻",
-          "result": 43
+          "type": "missingNumbers",
+          "start": 38,
+          "length": 4,
+          "missingIndices": [
+            1,2
+          ]
         },
         {
           "id": "7",
-          "type": "counting",
-          "countingElement": "🌽",
-          "result": 44
+          "type": "missingNumbers",
+          "start": 28,
+          "length": 4,
+          "missingIndices": [
+            1,
+            2
+          ]
         }
       ]
     },
@@ -68,15 +88,22 @@
       "items": [
         {
           "id": "8",
-          "type": "counting",
-          "countingElement": "🍍",
-          "result": 41
+          "type": "missingNumbers",
+          "start": 38,
+          "length": 4,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "9",
-          "type": "counting",
-          "countingElement": "🍓",
-          "result": 42
+          "type": "missingNumbers",
+          "start": 48,
+          "length": 4,
+          "missingIndices": [
+            1,2
+          ]
         }
       ]
     },
@@ -84,27 +111,22 @@
       "items": [
         {
           "id": "10",
-          "type": "counting",
-          "countingElement": "🏎",
-          "result": 43
+          "type": "missingNumbers",
+          "start": 42,
+          "length": 5,
+          "missingIndices": [
+            0,
+            1
+          ]
         },
         {
           "id": "11",
-          "type": "counting",
-          "countingElement": "🚕",
-          "result": 44
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "12",
-          "type": "discoverNumber",
-          "from": 0,
-          "to": 50,
-          "displayElements": true,
-          "countingElement": "🚕"
+          "type": "missingNumbers",
+          "start": 47,
+          "length": 5,
+          "missingIndices": [
+            2
+          ]
         }
       ]
     },
@@ -116,7 +138,17 @@
           "start": 44,
           "length": 5,
           "missingIndices": [
-            1,
+            1,2,
+            3
+          ]
+        },
+        {
+          "id": "135",
+          "type": "missingNumbers",
+          "start": 48,
+          "length": 5,
+          "missingIndices": [
+            1,2,
             3
           ]
         }
@@ -126,15 +158,22 @@
       "items": [
         {
           "id": "14",
-          "type": "counting",
-          "countingElement": "🍕",
-          "result": 47
+          "type": "missingNumbers",
+          "start": 44,
+          "length": 4,
+          "missingIndices": [
+            1,
+            2
+          ]
         },
         {
           "id": "15",
-          "type": "counting",
-          "countingElement": "🍗",
-          "result": 48
+          "type": "missingNumbers",
+          "start": 46,
+          "length": 5,
+          "missingIndices": [
+            3,4
+          ]
         }
       ]
     }

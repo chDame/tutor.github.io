@@ -7,10 +7,19 @@
     {
       "items": [
         {
+          "id": "0",
+          "type": "explanation",
+          "html": "<p>Welcome to the Numbers from 0 to 50 practice!<br /><br/>In this exercise, you will explore numbers within this range. I'd like you to pay attention that numbers always follow a simple logic.<br /><br />We start counting 0, 1, 2, 3, 4, 5, 6, 7, 8 ,9 and when we reach 9, we move to 10. From there, we follow the same logic: 11, 12, 13, 14 and so on with all numbers starting with 1 until 19. Once wew reach 19, we move to 20. And from there, all numbers will start with 2 until 29. After 29, we move to 30 and this continue like this.<br /><br/>Have a good look at the next page and note how the numbers repeat themselves. I hope you'll enjoy discovering that mathematics are so fascinating!</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "id": "1",
           "type": "discoverNumber",
           "from": 0,
-          "to": 50,
+          "to": 59,
           "displayElements": false,
           "countingElement": "🍎"
         }
@@ -20,15 +29,23 @@
       "items": [
         {
           "id": "2",
-          "type": "counting",
-          "countingElement": "🌸",
-          "result": 43
+          "type": "missingNumbers",
+          "start": 8,
+          "length": 5,
+          "missingIndices": [
+            2,
+            4
+          ]
         },
         {
           "id": "3",
-          "type": "counting",
-          "countingElement": "🌹",
-          "result": 44
+          "type": "missingNumbers",
+          "start": 9,
+          "length": 4,
+          "missingIndices": [
+            0,
+            2
+          ]
         }
       ]
     },
@@ -36,15 +53,21 @@
       "items": [
         {
           "id": "4",
-          "type": "counting",
-          "countingElement": "🍄",
-          "result": 45
+          "type": "missingNumbers",
+          "start": 10,
+          "length": 5,
+          "missingIndices": [
+            0,4
+          ]
         },
         {
           "id": "5",
-          "type": "counting",
-          "countingElement": "🌲",
-          "result": 46
+          "type": "missingNumbers",
+          "start": 14,
+          "length": 5,
+          "missingIndices": [
+            0,3
+          ]
         }
       ]
     },
@@ -52,15 +75,21 @@
       "items": [
         {
           "id": "6",
-          "type": "counting",
-          "countingElement": "🌻",
-          "result": 45
+          "type": "missingNumbers",
+          "start": 18,
+          "length": 4,
+          "missingIndices": [
+            1,2
+          ]
         },
         {
           "id": "7",
-          "type": "counting",
-          "countingElement": "🌽",
-          "result": 43
+          "type": "missingNumbers",
+          "start": 19,
+          "length": 4,
+          "missingIndices": [
+            0
+          ]
         }
       ]
     },
@@ -68,15 +97,21 @@
       "items": [
         {
           "id": "8",
-          "type": "counting",
-          "countingElement": "🍍",
-          "result": 43
+          "type": "missingNumbers",
+          "start": 20,
+          "length": 4,
+          "missingIndices": [
+            1,3
+          ]
         },
         {
           "id": "9",
-          "type": "counting",
-          "countingElement": "🍓",
-          "result": 44
+          "type": "missingNumbers",
+          "start": 25,
+          "length": 5,
+          "missingIndices": [
+            3
+          ]
         }
       ]
     },
@@ -84,15 +119,22 @@
       "items": [
         {
           "id": "10",
-          "type": "counting",
-          "countingElement": "🏎",
-          "result": 44
+          "type": "missingNumbers",
+          "start": 25,
+          "length": 5,
+          "missingIndices": [
+            1,
+            4
+          ]
         },
         {
           "id": "11",
-          "type": "counting",
-          "countingElement": "🚕",
-          "result": 42
+          "type": "missingNumbers",
+          "start": 28,
+          "length": 4,
+          "missingIndices": [
+            2
+          ]
         }
       ]
     },
@@ -101,8 +143,18 @@
         {
           "id": "12",
           "type": "missingNumbers",
-          "start": 41,
+          "start": 29,
           "length": 5,
+          "missingIndices": [
+            1,
+            3
+          ]
+        },
+        {
+          "id": "125",
+          "type": "missingNumbers",
+          "start": 33,
+          "length": 4,
           "missingIndices": [
             1,
             3
@@ -114,15 +166,21 @@
       "items": [
         {
           "id": "13",
-          "type": "counting",
-          "countingElement": "🍕",
-          "result": 42
+          "type": "missingNumbers",
+          "start": 35,
+          "length": 4,
+          "missingIndices": [
+            2
+          ]
         },
         {
           "id": "14",
-          "type": "counting",
-          "countingElement": "🍗",
-          "result": 41
+          "type": "missingNumbers",
+          "start": 36,
+          "length": 4,
+          "missingIndices": [
+            2,3
+          ]
         }
       ]
     }

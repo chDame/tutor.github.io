@@ -34,10 +34,12 @@ export function flattenManifest(manifest: TopicManifest): FlatExercise[] {
 }
 
 /**
- * At any time only two nodes are attemptable if not yet completed: the next
- * exercise right after the last one completed, and the next validation
- * ahead of it (a shortcut that, if passed with score >= 4, skips everything
- * in between). Failing a validation does not advance past it.
+ * `reached` is the frontier earned so far: it advances past a regular
+ * exercise as soon as it's completed (any score), and past a validation
+ * only once it's passed (score >= 4) — failing a validation does not
+ * advance past it. Everything up to that frontier is startable (not just
+ * the single next exercise), plus the next validation ahead of it as a
+ * shortcut to skip everything in between.
  */
 export function computeExerciseStates(flat: FlatExercise[], scores: Record<string, Score>): ExerciseState[] {
   let reached = 0
@@ -60,7 +62,7 @@ export function computeExerciseStates(flat: FlatExercise[], scores: Record<strin
     const score = scores[ex.id] ?? null
     const completed = score != null
     const isNextValidation = i === nextValidationIndex
-    const unlocked = completed || i === reached || isNextValidation
+    const unlocked = completed || i <= reached || isNextValidation
     return { ...ex, score, completed, unlocked, isNextValidation }
   })
 }

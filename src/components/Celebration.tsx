@@ -18,9 +18,8 @@ function Balloons() {
 function BrainBenchPress() {
   return (
     <div className="celebration brain-gym">
-      <div className="brain-rig">
-        <span className="brain-head">🧠</span>
-        <span className="brain-bar">💪</span>
+      <div className="brain-panel">
+        <img src={`${import.meta.env.BASE_URL}brainPress.gif`} alt="Brain doing a bench press" />
       </div>
       <p className="brain-caption">Brain gains!</p>
     </div>
@@ -31,6 +30,11 @@ function Fireworks() {
   return (
     <div className="fireworks-panel">
       <FireworksCanvas />
+      <img
+        src={`${import.meta.env.BASE_URL}brainPress.gif`}
+        alt="Brain doing a bench press"
+        className="fireworks-brain-foreground"
+      />
     </div>
   )
 }
