@@ -1,94 +1,118 @@
 {
   "id": "addOneTo10-practice6",
-  "title": "Add One to 10 — Practice 6",
+  "title": "Add One to 10 \u2014 Practice 6",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
-          "type": "addition",
-          "x": 6,
-          "y": 1
-        },
-        {
-          "id": "2",
-          "type": "addition",
-          "x": 7,
-          "y": 1
-        },
-        {
-          "id": "3",
           "type": "missingNumbers",
           "start": 6,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "1"
+        },
+        {
+          "type": "addition",
+          "x": 6,
+          "y": 1,
+          "id": "2"
+        },
+        {
+          "type": "addition",
+          "x": 7,
+          "y": 1,
+          "id": "3"
+        },
+        {
+          "type": "missingOperand",
+          "x": 6,
+          "operator": "+",
+          "y": null,
+          "result": 7,
+          "id": "4"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "4",
-          "type": "addition",
-          "x": 7,
-          "y": 1
-        },
-        {
-          "id": "5",
-          "type": "addition",
-          "x": 8,
-          "y": 1
-        },
-        {
-          "id": "6",
           "type": "missingNumbers",
           "start": 7,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "5"
+        },
+        {
+          "type": "addition",
+          "x": 7,
+          "y": 1,
+          "id": "6"
+        },
+        {
+          "type": "addition",
+          "x": 8,
+          "y": 1,
+          "id": "7"
+        },
+        {
+          "type": "missingOperand",
+          "x": 7,
+          "operator": "+",
+          "y": null,
+          "result": 8,
+          "id": "8"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "7",
-          "type": "addition",
-          "x": 8,
-          "y": 1
-        },
-        {
-          "id": "8",
-          "type": "addition",
-          "x": 9,
-          "y": 1
-        },
-        {
-          "id": "9",
           "type": "missingNumbers",
           "start": 8,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "9"
+        },
+        {
+          "type": "addition",
+          "x": 8,
+          "y": 1,
+          "id": "10"
+        },
+        {
+          "type": "addition",
+          "x": 9,
+          "y": 1,
+          "id": "11"
+        },
+        {
+          "type": "missingOperand",
+          "x": 8,
+          "operator": "+",
+          "y": null,
+          "result": 9,
+          "id": "12"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "10",
           "type": "problem",
           "question": "If Alfred has 8 balls and buys a new one, how many balls will he have in total?",
-          "result": 9
+          "result": 9,
+          "id": "13"
         }
       ]
     }

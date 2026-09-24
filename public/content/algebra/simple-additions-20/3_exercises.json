@@ -1,694 +1,694 @@
 {
   "id": "simple-additions-20-practice3",
-  "title": "Simple Additions (0 to 20) — Practice 3",
+  "title": "Simple Additions (0 to 20) \u2014 Practice 3",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
-          "type": "missingNumbers",
-          "start": 17,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "2",
-          "type": "addition",
-          "x": 17,
-          "y": 1
-        },
-        {
-          "id": "3",
-          "type": "addition",
-          "x": 18,
-          "y": 2
-        },
-        {
-          "id": "4",
-          "type": "addition",
-          "x": 17,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "5",
-          "type": "missingNumbers",
-          "start": 3,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "6",
-          "type": "addition",
-          "x": 3,
-          "y": 1
-        },
-        {
-          "id": "7",
-          "type": "addition",
-          "x": 4,
-          "y": 2
-        },
-        {
-          "id": "8",
-          "type": "addition",
-          "x": 3,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "9",
-          "type": "missingNumbers",
-          "start": 1,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "10",
-          "type": "addition",
-          "x": 1,
-          "y": 1
-        },
-        {
-          "id": "11",
-          "type": "addition",
-          "x": 2,
-          "y": 2
-        },
-        {
-          "id": "12",
-          "type": "addition",
-          "x": 1,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "13",
-          "type": "missingNumbers",
-          "start": 5,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "14",
-          "type": "addition",
-          "x": 5,
-          "y": 1
-        },
-        {
-          "id": "15",
-          "type": "addition",
-          "x": 6,
-          "y": 2
-        },
-        {
-          "id": "16",
-          "type": "addition",
-          "x": 5,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "17",
-          "type": "missingNumbers",
-          "start": 4,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "18",
-          "type": "addition",
-          "x": 4,
-          "y": 1
-        },
-        {
-          "id": "19",
-          "type": "addition",
-          "x": 5,
-          "y": 2
-        },
-        {
-          "id": "20",
-          "type": "addition",
-          "x": 4,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "21",
-          "type": "missingNumbers",
-          "start": 20,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "22",
-          "type": "addition",
-          "x": 20,
-          "y": 1
-        },
-        {
-          "id": "23",
-          "type": "addition",
-          "x": 21,
-          "y": 2
-        },
-        {
-          "id": "24",
-          "type": "addition",
-          "x": 20,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "25",
-          "type": "missingNumbers",
-          "start": 10,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "26",
-          "type": "addition",
-          "x": 10,
-          "y": 1
-        },
-        {
-          "id": "27",
-          "type": "addition",
-          "x": 11,
-          "y": 2
-        },
-        {
-          "id": "28",
-          "type": "addition",
-          "x": 10,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "29",
-          "type": "missingNumbers",
-          "start": 18,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "30",
-          "type": "addition",
-          "x": 18,
-          "y": 1
-        },
-        {
-          "id": "31",
-          "type": "addition",
-          "x": 19,
-          "y": 2
-        },
-        {
-          "id": "32",
-          "type": "addition",
-          "x": 18,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "33",
-          "type": "missingNumbers",
-          "start": 15,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "34",
-          "type": "addition",
-          "x": 15,
-          "y": 1
-        },
-        {
-          "id": "35",
-          "type": "addition",
-          "x": 16,
-          "y": 2
-        },
-        {
-          "id": "36",
-          "type": "addition",
-          "x": 15,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "37",
-          "type": "missingNumbers",
-          "start": 6,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "38",
-          "type": "addition",
-          "x": 6,
-          "y": 1
-        },
-        {
-          "id": "39",
-          "type": "addition",
-          "x": 7,
-          "y": 2
-        },
-        {
-          "id": "40",
-          "type": "addition",
-          "x": 6,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "41",
           "type": "missingNumbers",
           "start": 9,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "1"
         },
         {
-          "id": "42",
           "type": "addition",
           "x": 9,
-          "y": 1
+          "y": 4,
+          "id": "2"
         },
         {
-          "id": "43",
           "type": "addition",
           "x": 10,
-          "y": 2
+          "y": 4,
+          "id": "3"
         },
         {
-          "id": "44",
           "type": "addition",
           "x": 9,
-          "y": 3
+          "y": 5,
+          "id": "4"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "45",
-          "type": "missingNumbers",
-          "start": 19,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "46",
-          "type": "addition",
-          "x": 19,
-          "y": 1
-        },
-        {
-          "id": "47",
-          "type": "addition",
-          "x": 20,
-          "y": 2
-        },
-        {
-          "id": "48",
-          "type": "addition",
-          "x": 19,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "49",
-          "type": "missingNumbers",
-          "start": 0,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "50",
-          "type": "addition",
-          "x": 0,
-          "y": 1
-        },
-        {
-          "id": "51",
-          "type": "addition",
-          "x": 1,
-          "y": 2
-        },
-        {
-          "id": "52",
-          "type": "addition",
-          "x": 0,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "53",
           "type": "missingNumbers",
           "start": 11,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "5"
         },
         {
-          "id": "54",
           "type": "addition",
           "x": 11,
-          "y": 1
+          "y": 4,
+          "id": "6"
         },
         {
-          "id": "55",
           "type": "addition",
           "x": 12,
-          "y": 2
+          "y": 4,
+          "id": "7"
         },
         {
-          "id": "56",
           "type": "addition",
           "x": 11,
-          "y": 3
+          "y": 5,
+          "id": "8"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "57",
-          "type": "missingNumbers",
-          "start": 2,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "58",
-          "type": "addition",
-          "x": 2,
-          "y": 1
-        },
-        {
-          "id": "59",
-          "type": "addition",
-          "x": 3,
-          "y": 2
-        },
-        {
-          "id": "60",
-          "type": "addition",
-          "x": 2,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "61",
-          "type": "missingNumbers",
-          "start": 14,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "62",
-          "type": "addition",
-          "x": 14,
-          "y": 1
-        },
-        {
-          "id": "63",
-          "type": "addition",
-          "x": 15,
-          "y": 2
-        },
-        {
-          "id": "64",
-          "type": "addition",
-          "x": 14,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "65",
-          "type": "missingNumbers",
-          "start": 12,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "66",
-          "type": "addition",
-          "x": 12,
-          "y": 1
-        },
-        {
-          "id": "67",
-          "type": "addition",
-          "x": 13,
-          "y": 2
-        },
-        {
-          "id": "68",
-          "type": "addition",
-          "x": 12,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "69",
-          "type": "missingNumbers",
-          "start": 16,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "70",
-          "type": "addition",
-          "x": 16,
-          "y": 1
-        },
-        {
-          "id": "71",
-          "type": "addition",
-          "x": 17,
-          "y": 2
-        },
-        {
-          "id": "72",
-          "type": "addition",
-          "x": 16,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "73",
-          "type": "missingNumbers",
-          "start": 8,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "74",
-          "type": "addition",
-          "x": 8,
-          "y": 1
-        },
-        {
-          "id": "75",
-          "type": "addition",
-          "x": 9,
-          "y": 2
-        },
-        {
-          "id": "76",
-          "type": "addition",
-          "x": 8,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "77",
-          "type": "missingNumbers",
-          "start": 7,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
-        },
-        {
-          "id": "78",
-          "type": "addition",
-          "x": 7,
-          "y": 1
-        },
-        {
-          "id": "79",
-          "type": "addition",
-          "x": 8,
-          "y": 2
-        },
-        {
-          "id": "80",
-          "type": "addition",
-          "x": 7,
-          "y": 3
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "81",
           "type": "missingNumbers",
           "start": 13,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "9"
         },
         {
-          "id": "82",
           "type": "addition",
           "x": 13,
-          "y": 1
+          "y": 4,
+          "id": "10"
         },
         {
-          "id": "83",
           "type": "addition",
           "x": 14,
-          "y": 2
+          "y": 4,
+          "id": "11"
         },
         {
-          "id": "84",
           "type": "addition",
           "x": 13,
-          "y": 3
+          "y": 5,
+          "id": "12"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "85",
-          "type": "problem",
-          "question": "If Pedro has 10 pens and Ana gives Pedro 3 pens. How many pens will Pedro have in total?",
-          "result": 13
+          "type": "missingNumbers",
+          "start": 15,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "13"
         },
         {
-          "id": "86",
+          "type": "addition",
+          "x": 15,
+          "y": 4,
+          "id": "14"
+        },
+        {
+          "type": "addition",
+          "x": 16,
+          "y": 4,
+          "id": "15"
+        },
+        {
+          "type": "addition",
+          "x": 15,
+          "y": 5,
+          "id": "16"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 17,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "17"
+        },
+        {
+          "type": "addition",
+          "x": 17,
+          "y": 4,
+          "id": "18"
+        },
+        {
+          "type": "addition",
+          "x": 18,
+          "y": 4,
+          "id": "19"
+        },
+        {
+          "type": "addition",
+          "x": 17,
+          "y": 5,
+          "id": "20"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 0,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "21"
+        },
+        {
+          "type": "addition",
+          "x": 0,
+          "y": 4,
+          "id": "22"
+        },
+        {
+          "type": "addition",
+          "x": 1,
+          "y": 4,
+          "id": "23"
+        },
+        {
+          "type": "addition",
+          "x": 0,
+          "y": 5,
+          "id": "24"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 2,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "25"
+        },
+        {
+          "type": "addition",
+          "x": 2,
+          "y": 4,
+          "id": "26"
+        },
+        {
+          "type": "addition",
+          "x": 3,
+          "y": 4,
+          "id": "27"
+        },
+        {
+          "type": "addition",
+          "x": 2,
+          "y": 5,
+          "id": "28"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 4,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "29"
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 4,
+          "id": "30"
+        },
+        {
+          "type": "addition",
+          "x": 5,
+          "y": 4,
+          "id": "31"
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 5,
+          "id": "32"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 6,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "33"
+        },
+        {
+          "type": "addition",
+          "x": 6,
+          "y": 4,
+          "id": "34"
+        },
+        {
+          "type": "addition",
+          "x": 7,
+          "y": 4,
+          "id": "35"
+        },
+        {
+          "type": "addition",
+          "x": 6,
+          "y": 5,
+          "id": "36"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 8,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "37"
+        },
+        {
+          "type": "addition",
+          "x": 8,
+          "y": 4,
+          "id": "38"
+        },
+        {
+          "type": "addition",
+          "x": 9,
+          "y": 4,
+          "id": "39"
+        },
+        {
+          "type": "addition",
+          "x": 8,
+          "y": 5,
+          "id": "40"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 10,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "41"
+        },
+        {
+          "type": "addition",
+          "x": 10,
+          "y": 4,
+          "id": "42"
+        },
+        {
+          "type": "addition",
+          "x": 11,
+          "y": 4,
+          "id": "43"
+        },
+        {
+          "type": "addition",
+          "x": 10,
+          "y": 5,
+          "id": "44"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 12,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "45"
+        },
+        {
+          "type": "addition",
+          "x": 12,
+          "y": 4,
+          "id": "46"
+        },
+        {
+          "type": "addition",
+          "x": 13,
+          "y": 4,
+          "id": "47"
+        },
+        {
+          "type": "addition",
+          "x": 12,
+          "y": 5,
+          "id": "48"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 14,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "49"
+        },
+        {
+          "type": "addition",
+          "x": 14,
+          "y": 4,
+          "id": "50"
+        },
+        {
+          "type": "addition",
+          "x": 15,
+          "y": 4,
+          "id": "51"
+        },
+        {
+          "type": "addition",
+          "x": 14,
+          "y": 5,
+          "id": "52"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 16,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "53"
+        },
+        {
+          "type": "addition",
+          "x": 16,
+          "y": 4,
+          "id": "54"
+        },
+        {
+          "type": "addition",
+          "x": 17,
+          "y": 4,
+          "id": "55"
+        },
+        {
+          "type": "addition",
+          "x": 16,
+          "y": 5,
+          "id": "56"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 18,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "57"
+        },
+        {
+          "type": "addition",
+          "x": 18,
+          "y": 4,
+          "id": "58"
+        },
+        {
+          "type": "addition",
+          "x": 19,
+          "y": 4,
+          "id": "59"
+        },
+        {
+          "type": "addition",
+          "x": 18,
+          "y": 5,
+          "id": "60"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 1,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "61"
+        },
+        {
+          "type": "addition",
+          "x": 1,
+          "y": 4,
+          "id": "62"
+        },
+        {
+          "type": "addition",
+          "x": 2,
+          "y": 4,
+          "id": "63"
+        },
+        {
+          "type": "addition",
+          "x": 1,
+          "y": 5,
+          "id": "64"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 3,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "65"
+        },
+        {
+          "type": "addition",
+          "x": 3,
+          "y": 4,
+          "id": "66"
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 4,
+          "id": "67"
+        },
+        {
+          "type": "addition",
+          "x": 3,
+          "y": 5,
+          "id": "68"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 5,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "69"
+        },
+        {
+          "type": "addition",
+          "x": 5,
+          "y": 4,
+          "id": "70"
+        },
+        {
+          "type": "addition",
+          "x": 6,
+          "y": 4,
+          "id": "71"
+        },
+        {
+          "type": "addition",
+          "x": 5,
+          "y": 5,
+          "id": "72"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 7,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "73"
+        },
+        {
+          "type": "addition",
+          "x": 7,
+          "y": 4,
+          "id": "74"
+        },
+        {
+          "type": "addition",
+          "x": 8,
+          "y": 4,
+          "id": "75"
+        },
+        {
+          "type": "addition",
+          "x": 7,
+          "y": 5,
+          "id": "76"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 9,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "77"
+        },
+        {
+          "type": "addition",
+          "x": 9,
+          "y": 4,
+          "id": "78"
+        },
+        {
+          "type": "addition",
+          "x": 10,
+          "y": 4,
+          "id": "79"
+        },
+        {
+          "type": "addition",
+          "x": 9,
+          "y": 5,
+          "id": "80"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 11,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "81"
+        },
+        {
+          "type": "addition",
+          "x": 11,
+          "y": 4,
+          "id": "82"
+        },
+        {
+          "type": "addition",
+          "x": 12,
+          "y": 4,
+          "id": "83"
+        },
+        {
+          "type": "addition",
+          "x": 11,
+          "y": 5,
+          "id": "84"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "type": "problem",
-          "question": "If Lina has 10 apples and Paul gives Lina 3 apples. How many apples will Lina have in total?",
-          "result": 13
+          "question": "If Ana has 12 stickers and gets 4 more, how many stickers does Ana have now?",
+          "result": 16,
+          "id": "85"
+        },
+        {
+          "type": "problem",
+          "question": "If Leo has 13 stickers and gets 5 more, how many stickers does Leo have now?",
+          "result": 18,
+          "id": "86"
         }
       ]
     }
