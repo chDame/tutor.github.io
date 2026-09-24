@@ -8,7 +8,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 3,
+          "start": 2,
           "length": 3,
           "missingIndices": [
             1,
@@ -18,19 +18,19 @@
         },
         {
           "type": "addition",
-          "x": 3,
+          "x": 2,
           "y": 6,
           "id": "2"
         },
         {
           "type": "addition",
-          "x": 4,
+          "x": 3,
           "y": 6,
           "id": "3"
         },
         {
           "type": "addition",
-          "x": 3,
+          "x": 2,
           "y": 7,
           "id": "4"
         }
@@ -40,7 +40,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 5,
+          "start": 0,
           "length": 3,
           "missingIndices": [
             1,
@@ -50,19 +50,19 @@
         },
         {
           "type": "addition",
-          "x": 5,
+          "x": 0,
           "y": 6,
           "id": "6"
         },
         {
           "type": "addition",
-          "x": 6,
+          "x": 1,
           "y": 6,
           "id": "7"
         },
         {
           "type": "addition",
-          "x": 5,
+          "x": 0,
           "y": 7,
           "id": "8"
         }
@@ -72,7 +72,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 7,
+          "start": 2,
           "length": 3,
           "missingIndices": [
             1,
@@ -82,19 +82,19 @@
         },
         {
           "type": "addition",
-          "x": 7,
+          "x": 2,
           "y": 6,
           "id": "10"
         },
         {
           "type": "addition",
-          "x": 8,
+          "x": 3,
           "y": 6,
           "id": "11"
         },
         {
           "type": "addition",
-          "x": 7,
+          "x": 2,
           "y": 7,
           "id": "12"
         }
@@ -168,7 +168,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 4,
+          "start": 0,
           "length": 3,
           "missingIndices": [
             1,
@@ -178,19 +178,19 @@
         },
         {
           "type": "addition",
-          "x": 4,
+          "x": 0,
           "y": 6,
           "id": "22"
         },
         {
           "type": "addition",
-          "x": 5,
+          "x": 1,
           "y": 6,
           "id": "23"
         },
         {
           "type": "addition",
-          "x": 4,
+          "x": 0,
           "y": 7,
           "id": "24"
         }
@@ -200,7 +200,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 6,
+          "start": 2,
           "length": 3,
           "missingIndices": [
             1,
@@ -210,19 +210,19 @@
         },
         {
           "type": "addition",
-          "x": 6,
+          "x": 2,
           "y": 6,
           "id": "26"
         },
         {
           "type": "addition",
-          "x": 7,
+          "x": 3,
           "y": 6,
           "id": "27"
         },
         {
           "type": "addition",
-          "x": 6,
+          "x": 2,
           "y": 7,
           "id": "28"
         }
@@ -232,7 +232,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 8,
+          "start": 0,
           "length": 3,
           "missingIndices": [
             1,
@@ -242,19 +242,19 @@
         },
         {
           "type": "addition",
-          "x": 8,
+          "x": 0,
           "y": 6,
           "id": "30"
         },
         {
           "type": "addition",
-          "x": 9,
+          "x": 1,
           "y": 6,
           "id": "31"
         },
         {
           "type": "addition",
-          "x": 8,
+          "x": 0,
           "y": 7,
           "id": "32"
         }
@@ -264,7 +264,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 1,
+          "start": 2,
           "length": 3,
           "missingIndices": [
             1,
@@ -274,19 +274,19 @@
         },
         {
           "type": "addition",
-          "x": 1,
+          "x": 2,
           "y": 6,
           "id": "34"
         },
         {
           "type": "addition",
-          "x": 2,
+          "x": 3,
           "y": 6,
           "id": "35"
         },
         {
           "type": "addition",
-          "x": 1,
+          "x": 2,
           "y": 7,
           "id": "36"
         }
@@ -296,7 +296,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 3,
+          "start": 0,
           "length": 3,
           "missingIndices": [
             1,
@@ -306,19 +306,19 @@
         },
         {
           "type": "addition",
-          "x": 3,
+          "x": 0,
           "y": 6,
           "id": "38"
         },
         {
           "type": "addition",
-          "x": 4,
+          "x": 1,
           "y": 6,
           "id": "39"
         },
         {
           "type": "addition",
-          "x": 3,
+          "x": 0,
           "y": 7,
           "id": "40"
         }
@@ -328,7 +328,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 5,
+          "start": 2,
           "length": 3,
           "missingIndices": [
             1,
@@ -338,19 +338,19 @@
         },
         {
           "type": "addition",
-          "x": 5,
+          "x": 2,
           "y": 6,
           "id": "42"
         },
         {
           "type": "addition",
-          "x": 6,
+          "x": 3,
           "y": 6,
           "id": "43"
         },
         {
           "type": "addition",
-          "x": 5,
+          "x": 2,
           "y": 7,
           "id": "44"
         }
@@ -360,14 +360,14 @@
       "items": [
         {
           "type": "problem",
-          "question": "If Ana has 0 stickers and gets 6 more, how many stickers does Ana have now?",
-          "result": 6,
+          "question": "If Ana has 1 stickers and gets 6 more, how many stickers does Ana have now?",
+          "result": 7,
           "id": "45"
         },
         {
           "type": "problem",
-          "question": "If Leo has 1 stickers and gets 7 more, how many stickers does Leo have now?",
-          "result": 8,
+          "question": "If Leo has 2 stickers and gets 7 more, how many stickers does Leo have now?",
+          "result": 9,
           "id": "46"
         }
       ]

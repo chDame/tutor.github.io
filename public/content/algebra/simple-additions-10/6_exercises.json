@@ -8,7 +8,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 0,
+          "start": 3,
           "length": 3,
           "missingIndices": [
             1,
@@ -18,19 +18,19 @@
         },
         {
           "type": "addition",
-          "x": 0,
+          "x": 3,
           "y": 5,
           "id": "2"
         },
         {
           "type": "addition",
-          "x": 1,
+          "x": 4,
           "y": 5,
           "id": "3"
         },
         {
           "type": "addition",
-          "x": 0,
+          "x": 3,
           "y": 6,
           "id": "4"
         }
@@ -40,40 +40,40 @@
       "items": [
         {
           "type": "addition",
-          "x": 7,
+          "x": 1,
           "y": 5,
           "id": "5"
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 7,
+          "y": 1,
           "id": "6"
         },
         {
           "type": "addition",
-          "x": 7,
+          "x": 1,
           "y": 4,
           "id": "7"
         },
         {
           "type": "addition",
-          "x": 6,
+          "x": 0,
           "y": 5,
           "id": "8"
         },
         {
           "type": "addition",
-          "x": 8,
+          "x": 2,
           "y": 4,
           "id": "9"
         },
         {
           "type": "missingOperand",
-          "x": 7,
+          "x": 1,
           "operator": "+",
           "y": null,
-          "result": 12,
+          "result": 6,
           "id": "10"
         }
       ]
@@ -83,31 +83,31 @@
         {
           "type": "addition",
           "x": 1,
-          "y": 5,
+          "y": 4,
           "id": "11"
         },
         {
           "type": "addition",
-          "x": 5,
+          "x": 4,
           "y": 1,
           "id": "12"
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 4,
+          "y": 3,
           "id": "13"
         },
         {
           "type": "addition",
           "x": 0,
-          "y": 5,
+          "y": 4,
           "id": "14"
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 4,
+          "y": 3,
           "id": "15"
         },
         {
@@ -115,7 +115,7 @@
           "x": 1,
           "operator": "+",
           "y": null,
-          "result": 6,
+          "result": 5,
           "id": "16"
         }
       ]
@@ -124,40 +124,40 @@
       "items": [
         {
           "type": "addition",
-          "x": 4,
+          "x": 2,
           "y": 5,
           "id": "17"
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 4,
+          "y": 2,
           "id": "18"
         },
         {
           "type": "addition",
-          "x": 4,
+          "x": 2,
           "y": 4,
           "id": "19"
         },
         {
           "type": "addition",
-          "x": 3,
+          "x": 1,
           "y": 5,
           "id": "20"
         },
         {
           "type": "addition",
-          "x": 5,
+          "x": 3,
           "y": 4,
           "id": "21"
         },
         {
           "type": "missingOperand",
-          "x": 4,
+          "x": 2,
           "operator": "+",
           "y": null,
-          "result": 9,
+          "result": 7,
           "id": "22"
         }
       ]
@@ -166,40 +166,40 @@
       "items": [
         {
           "type": "addition",
-          "x": 7,
-          "y": 5,
+          "x": 2,
+          "y": 4,
           "id": "23"
         },
         {
           "type": "addition",
-          "x": 5,
-          "y": 7,
+          "x": 4,
+          "y": 2,
           "id": "24"
         },
         {
           "type": "addition",
-          "x": 7,
-          "y": 4,
+          "x": 2,
+          "y": 3,
           "id": "25"
         },
         {
           "type": "addition",
-          "x": 6,
-          "y": 5,
+          "x": 1,
+          "y": 4,
           "id": "26"
         },
         {
           "type": "addition",
-          "x": 8,
-          "y": 4,
+          "x": 3,
+          "y": 3,
           "id": "27"
         },
         {
           "type": "missingOperand",
-          "x": 7,
+          "x": 2,
           "operator": "+",
           "y": null,
-          "result": 12,
+          "result": 6,
           "id": "28"
         }
       ]
@@ -208,40 +208,40 @@
       "items": [
         {
           "type": "addition",
-          "x": 1,
+          "x": 3,
           "y": 5,
           "id": "29"
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 1,
+          "y": 3,
           "id": "30"
         },
         {
           "type": "addition",
-          "x": 1,
+          "x": 3,
           "y": 4,
           "id": "31"
         },
         {
           "type": "addition",
-          "x": 0,
+          "x": 2,
           "y": 5,
           "id": "32"
         },
         {
           "type": "addition",
-          "x": 2,
+          "x": 4,
           "y": 4,
           "id": "33"
         },
         {
           "type": "missingOperand",
-          "x": 1,
+          "x": 3,
           "operator": "+",
           "y": null,
-          "result": 6,
+          "result": 8,
           "id": "34"
         }
       ]
@@ -250,40 +250,40 @@
       "items": [
         {
           "type": "addition",
-          "x": 4,
-          "y": 5,
+          "x": 3,
+          "y": 4,
           "id": "35"
         },
         {
           "type": "addition",
-          "x": 5,
-          "y": 4,
+          "x": 4,
+          "y": 3,
           "id": "36"
         },
         {
           "type": "addition",
-          "x": 4,
-          "y": 4,
+          "x": 3,
+          "y": 3,
           "id": "37"
         },
         {
           "type": "addition",
-          "x": 3,
-          "y": 5,
+          "x": 2,
+          "y": 4,
           "id": "38"
         },
         {
           "type": "addition",
-          "x": 5,
-          "y": 4,
+          "x": 4,
+          "y": 3,
           "id": "39"
         },
         {
           "type": "missingOperand",
-          "x": 4,
+          "x": 3,
           "operator": "+",
           "y": null,
-          "result": 9,
+          "result": 7,
           "id": "40"
         }
       ]
@@ -292,40 +292,40 @@
       "items": [
         {
           "type": "addition",
-          "x": 7,
+          "x": 4,
           "y": 5,
           "id": "41"
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 7,
+          "y": 4,
           "id": "42"
         },
         {
           "type": "addition",
-          "x": 7,
+          "x": 4,
           "y": 4,
           "id": "43"
         },
         {
           "type": "addition",
-          "x": 6,
+          "x": 3,
           "y": 5,
           "id": "44"
         },
         {
           "type": "addition",
-          "x": 8,
+          "x": 5,
           "y": 4,
           "id": "45"
         },
         {
           "type": "missingOperand",
-          "x": 7,
+          "x": 4,
           "operator": "+",
           "y": null,
-          "result": 12,
+          "result": 9,
           "id": "46"
         }
       ]
@@ -334,40 +334,40 @@
       "items": [
         {
           "type": "addition",
-          "x": 1,
-          "y": 5,
+          "x": 4,
+          "y": 4,
           "id": "47"
         },
         {
           "type": "addition",
-          "x": 5,
-          "y": 1,
+          "x": 4,
+          "y": 4,
           "id": "48"
         },
         {
           "type": "addition",
-          "x": 1,
-          "y": 4,
+          "x": 4,
+          "y": 3,
           "id": "49"
         },
         {
           "type": "addition",
-          "x": 0,
-          "y": 5,
+          "x": 3,
+          "y": 4,
           "id": "50"
         },
         {
           "type": "addition",
-          "x": 2,
-          "y": 4,
+          "x": 5,
+          "y": 3,
           "id": "51"
         },
         {
           "type": "missingOperand",
-          "x": 1,
+          "x": 4,
           "operator": "+",
           "y": null,
-          "result": 6,
+          "result": 8,
           "id": "52"
         }
       ]
@@ -376,40 +376,40 @@
       "items": [
         {
           "type": "addition",
-          "x": 4,
+          "x": 5,
           "y": 5,
           "id": "53"
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 4,
-          "id": "54"
-        },
-        {
-          "type": "addition",
-          "x": 4,
-          "y": 4,
-          "id": "55"
-        },
-        {
-          "type": "addition",
-          "x": 3,
           "y": 5,
-          "id": "56"
+          "id": "54"
         },
         {
           "type": "addition",
           "x": 5,
           "y": 4,
+          "id": "55"
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 5,
+          "id": "56"
+        },
+        {
+          "type": "addition",
+          "x": 6,
+          "y": 4,
           "id": "57"
         },
         {
           "type": "missingOperand",
-          "x": 4,
+          "x": 5,
           "operator": "+",
           "y": null,
-          "result": 9,
+          "result": 10,
           "id": "58"
         }
       ]
@@ -418,40 +418,40 @@
       "items": [
         {
           "type": "addition",
-          "x": 7,
-          "y": 5,
+          "x": 5,
+          "y": 4,
           "id": "59"
         },
         {
           "type": "addition",
-          "x": 5,
-          "y": 7,
+          "x": 4,
+          "y": 5,
           "id": "60"
         },
         {
           "type": "addition",
-          "x": 7,
-          "y": 4,
+          "x": 5,
+          "y": 3,
           "id": "61"
         },
         {
           "type": "addition",
-          "x": 6,
-          "y": 5,
+          "x": 4,
+          "y": 4,
           "id": "62"
         },
         {
           "type": "addition",
-          "x": 8,
-          "y": 4,
+          "x": 6,
+          "y": 3,
           "id": "63"
         },
         {
           "type": "missingOperand",
-          "x": 7,
+          "x": 5,
           "operator": "+",
           "y": null,
-          "result": 12,
+          "result": 9,
           "id": "64"
         }
       ]
@@ -460,14 +460,14 @@
       "items": [
         {
           "type": "problem",
-          "question": "If Ana has 4 stickers and gets 5 more, how many stickers does Ana have now?",
-          "result": 9,
+          "question": "If Ana has 0 stickers and gets 5 more, how many stickers does Ana have now?",
+          "result": 5,
           "id": "65"
         },
         {
           "type": "problem",
-          "question": "If Leo has 5 stickers and gets 6 more, how many stickers does Leo have now?",
-          "result": 11,
+          "question": "If Leo has 1 stickers and gets 6 more, how many stickers does Leo have now?",
+          "result": 7,
           "id": "66"
         }
       ]

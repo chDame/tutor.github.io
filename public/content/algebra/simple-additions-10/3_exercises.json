@@ -8,7 +8,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 0,
+          "start": 3,
           "length": 3,
           "missingIndices": [
             1,
@@ -18,19 +18,19 @@
         },
         {
           "type": "addition",
-          "x": 0,
+          "x": 3,
           "y": 4,
           "id": "2"
         },
         {
           "type": "addition",
-          "x": 1,
+          "x": 4,
           "y": 4,
           "id": "3"
         },
         {
           "type": "addition",
-          "x": 0,
+          "x": 3,
           "y": 5,
           "id": "4"
         }
@@ -40,7 +40,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 2,
+          "start": 5,
           "length": 3,
           "missingIndices": [
             1,
@@ -50,19 +50,19 @@
         },
         {
           "type": "addition",
-          "x": 2,
+          "x": 5,
           "y": 4,
           "id": "6"
         },
         {
           "type": "addition",
-          "x": 3,
+          "x": 6,
           "y": 4,
           "id": "7"
         },
         {
           "type": "addition",
-          "x": 2,
+          "x": 5,
           "y": 5,
           "id": "8"
         }
@@ -72,7 +72,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 4,
+          "start": 1,
           "length": 3,
           "missingIndices": [
             1,
@@ -82,19 +82,19 @@
         },
         {
           "type": "addition",
-          "x": 4,
+          "x": 1,
           "y": 4,
           "id": "10"
         },
         {
           "type": "addition",
-          "x": 5,
+          "x": 2,
           "y": 4,
           "id": "11"
         },
         {
           "type": "addition",
-          "x": 4,
+          "x": 1,
           "y": 5,
           "id": "12"
         }
@@ -104,7 +104,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 6,
+          "start": 3,
           "length": 3,
           "missingIndices": [
             1,
@@ -114,19 +114,19 @@
         },
         {
           "type": "addition",
-          "x": 6,
+          "x": 3,
           "y": 4,
           "id": "14"
         },
         {
           "type": "addition",
-          "x": 7,
+          "x": 4,
           "y": 4,
           "id": "15"
         },
         {
           "type": "addition",
-          "x": 6,
+          "x": 3,
           "y": 5,
           "id": "16"
         }
@@ -136,7 +136,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 8,
+          "start": 5,
           "length": 3,
           "missingIndices": [
             1,
@@ -146,19 +146,19 @@
         },
         {
           "type": "addition",
-          "x": 8,
+          "x": 5,
           "y": 4,
           "id": "18"
         },
         {
           "type": "addition",
-          "x": 9,
+          "x": 6,
           "y": 4,
           "id": "19"
         },
         {
           "type": "addition",
-          "x": 8,
+          "x": 5,
           "y": 5,
           "id": "20"
         }
@@ -264,7 +264,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 7,
+          "start": 1,
           "length": 3,
           "missingIndices": [
             1,
@@ -274,19 +274,19 @@
         },
         {
           "type": "addition",
-          "x": 7,
+          "x": 1,
           "y": 4,
           "id": "34"
         },
         {
           "type": "addition",
-          "x": 8,
+          "x": 2,
           "y": 4,
           "id": "35"
         },
         {
           "type": "addition",
-          "x": 7,
+          "x": 1,
           "y": 5,
           "id": "36"
         }
@@ -296,7 +296,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 0,
+          "start": 3,
           "length": 3,
           "missingIndices": [
             1,
@@ -306,19 +306,19 @@
         },
         {
           "type": "addition",
-          "x": 0,
+          "x": 3,
           "y": 4,
           "id": "38"
         },
         {
           "type": "addition",
-          "x": 1,
+          "x": 4,
           "y": 4,
           "id": "39"
         },
         {
           "type": "addition",
-          "x": 0,
+          "x": 3,
           "y": 5,
           "id": "40"
         }
@@ -328,7 +328,7 @@
       "items": [
         {
           "type": "missingNumbers",
-          "start": 2,
+          "start": 5,
           "length": 3,
           "missingIndices": [
             1,
@@ -338,19 +338,19 @@
         },
         {
           "type": "addition",
-          "x": 2,
+          "x": 5,
           "y": 4,
           "id": "42"
         },
         {
           "type": "addition",
-          "x": 3,
+          "x": 6,
           "y": 4,
           "id": "43"
         },
         {
           "type": "addition",
-          "x": 2,
+          "x": 5,
           "y": 5,
           "id": "44"
         }
