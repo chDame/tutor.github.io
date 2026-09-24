@@ -2140,14 +2140,14 @@
       "items": [
         {
           "type": "problem",
-          "question": "If Ana has 32 marbles and gets 8 more, how many marbles does Ana have now?",
-          "result": 40,
+          "question": "If Ana has 22 marbles and gets 8 more, how many marbles does Ana have now?",
+          "result": 30,
           "id": "305"
         },
         {
           "type": "problem",
-          "question": "If Leo has 33 marbles and gets 9 more, how many marbles does Leo have now?",
-          "result": 42,
+          "question": "If Leo has 23 marbles and gets 9 more, how many marbles does Leo have now?",
+          "result": 32,
           "id": "306"
         }
       ]
