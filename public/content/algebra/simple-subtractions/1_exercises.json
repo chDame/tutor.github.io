@@ -1,134 +1,201 @@
 {
   "id": "simple-subtractions-practice1",
-  "title": "Simple Subtractions — Practice 1",
+  "title": "Simple Subtractions \u2014 Practice 1",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
-          "type": "subtraction",
-          "x": 21,
-          "y": 8
+          "type": "missingNumbers",
+          "start": 12,
+          "length": 4,
+          "missingIndices": [
+            0,
+            1,
+            2
+          ],
+          "id": "1"
         },
         {
-          "id": "2",
           "type": "subtraction",
-          "x": 11,
-          "y": 1
+          "x": 15,
+          "y": 3,
+          "id": "2"
         },
         {
-          "id": "3",
-          "type": "subtraction",
-          "x": 10,
-          "y": 1
-        },
-        {
-          "id": "4",
-          "type": "subtraction",
-          "x": 11,
-          "y": 4
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "id": "5",
-          "type": "subtraction",
-          "x": 21,
-          "y": 18
-        },
-        {
-          "id": "6",
-          "type": "subtraction",
-          "x": 23,
-          "y": 17
-        },
-        {
-          "id": "7",
           "type": "subtraction",
           "x": 16,
-          "y": 3
+          "y": 2,
+          "id": "3"
         },
         {
-          "id": "8",
           "type": "subtraction",
-          "x": 21,
-          "y": 8
+          "x": 15,
+          "y": 4,
+          "id": "4"
+        },
+        {
+          "type": "subtraction",
+          "x": 15,
+          "y": 5,
+          "id": "5"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "9",
-          "type": "subtraction",
-          "x": 22,
-          "y": 13
+          "type": "missingNumbers",
+          "start": 13,
+          "length": 4,
+          "missingIndices": [
+            0,
+            1,
+            2
+          ],
+          "id": "6"
         },
         {
-          "id": "10",
           "type": "subtraction",
-          "x": 12,
-          "y": 8
+          "x": 17,
+          "y": 4,
+          "id": "7"
         },
         {
-          "id": "11",
+          "type": "subtraction",
+          "x": 18,
+          "y": 3,
+          "id": "8"
+        },
+        {
+          "type": "subtraction",
+          "x": 17,
+          "y": 5,
+          "id": "9"
+        },
+        {
+          "type": "subtraction",
+          "x": 17,
+          "y": 6,
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "missingNumbers",
+          "start": 14,
+          "length": 4,
+          "missingIndices": [
+            0,
+            1,
+            2
+          ],
+          "id": "11"
+        },
+        {
           "type": "subtraction",
           "x": 19,
-          "y": 12
+          "y": 5,
+          "id": "12"
         },
         {
-          "id": "12",
           "type": "subtraction",
-          "x": 17,
-          "y": 2
+          "x": 20,
+          "y": 4,
+          "id": "13"
+        },
+        {
+          "type": "subtraction",
+          "x": 19,
+          "y": 6,
+          "id": "14"
+        },
+        {
+          "type": "subtraction",
+          "x": 19,
+          "y": 7,
+          "id": "15"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "13",
-          "type": "subtraction",
-          "x": 25,
-          "y": 10
+          "type": "missingNumbers",
+          "start": 15,
+          "length": 4,
+          "missingIndices": [
+            0,
+            1,
+            2
+          ],
+          "id": "16"
         },
         {
-          "id": "14",
           "type": "subtraction",
-          "x": 11,
-          "y": 4
+          "x": 21,
+          "y": 6,
+          "id": "17"
         },
         {
-          "id": "15",
           "type": "subtraction",
-          "x": 10,
-          "y": 1
+          "x": 22,
+          "y": 5,
+          "id": "18"
         },
         {
-          "id": "16",
           "type": "subtraction",
-          "x": 16,
-          "y": 14
+          "x": 21,
+          "y": 7,
+          "id": "19"
+        },
+        {
+          "type": "subtraction",
+          "x": 21,
+          "y": 8,
+          "id": "20"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "17",
-          "type": "subtraction",
-          "x": 17,
-          "y": 12
+          "type": "missingNumbers",
+          "start": 16,
+          "length": 4,
+          "missingIndices": [
+            0,
+            1,
+            2
+          ],
+          "id": "21"
         },
         {
-          "id": "18",
-          "type": "problem",
-          "question": "Ana was having 20 books but gave 4 to Maria and 2 to Josh. How many books does Ana still have?",
-          "result": 14
+          "type": "subtraction",
+          "x": 23,
+          "y": 7,
+          "id": "22"
+        },
+        {
+          "type": "subtraction",
+          "x": 24,
+          "y": 6,
+          "id": "23"
+        },
+        {
+          "type": "subtraction",
+          "x": 23,
+          "y": 8,
+          "id": "24"
+        },
+        {
+          "type": "subtraction",
+          "x": 23,
+          "y": 9,
+          "id": "25"
         }
       ]
     }

@@ -1,94 +1,94 @@
 {
   "id": "addOneTo10-practice2",
-  "title": "Add One to 10 — Practice 2",
+  "title": "Add One to 10 \u2014 Practice 2",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
-          "type": "addition",
-          "x": 2,
-          "y": 1
-        },
-        {
-          "id": "2",
-          "type": "addition",
-          "x": 3,
-          "y": 1
-        },
-        {
-          "id": "3",
           "type": "missingNumbers",
           "start": 2,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "1"
+        },
+        {
+          "type": "addition",
+          "x": 2,
+          "y": 1,
+          "id": "2"
+        },
+        {
+          "type": "addition",
+          "x": 3,
+          "y": 1,
+          "id": "3"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "4",
-          "type": "addition",
-          "x": 3,
-          "y": 1
-        },
-        {
-          "id": "5",
-          "type": "addition",
-          "x": 4,
-          "y": 1
-        },
-        {
-          "id": "6",
           "type": "missingNumbers",
           "start": 3,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "4"
+        },
+        {
+          "type": "addition",
+          "x": 3,
+          "y": 1,
+          "id": "5"
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 1,
+          "id": "6"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "7",
-          "type": "addition",
-          "x": 4,
-          "y": 1
-        },
-        {
-          "id": "8",
-          "type": "addition",
-          "x": 5,
-          "y": 1
-        },
-        {
-          "id": "9",
           "type": "missingNumbers",
           "start": 4,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "7"
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 1,
+          "id": "8"
+        },
+        {
+          "type": "addition",
+          "x": 5,
+          "y": 1,
+          "id": "9"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "10",
           "type": "problem",
           "question": "If Paul has 3 marbles today, how many will he have after getting 1 more?",
-          "result": 4
+          "result": 4,
+          "id": "10"
         }
       ]
     }

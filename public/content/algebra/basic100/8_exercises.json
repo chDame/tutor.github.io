@@ -1,6 +1,6 @@
 {
   "id": "basic100-practice8",
-  "title": "Numbers from 0 to 100 — Practice 8",
+  "title": "Numbers from 0 to 100 \u2014 Practice 8",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
@@ -12,7 +12,7 @@
           "from": 0,
           "to": 100,
           "displayElements": true,
-          "countingElement": "🍎"
+          "countingElement": "\ud83c\udf4e"
         }
       ]
     },
@@ -21,7 +21,7 @@
         {
           "id": "2",
           "type": "missingNumbers",
-          "start": 93,
+          "start": 28,
           "length": 6,
           "missingIndices": [
             0,
@@ -31,7 +31,7 @@
         {
           "id": "3",
           "type": "missingNumbers",
-          "start": 98,
+          "start": 62,
           "length": 5,
           "missingIndices": [
             1
@@ -44,7 +44,7 @@
         {
           "id": "4",
           "type": "missingNumbers",
-          "start": 97,
+          "start": 66,
           "length": 5,
           "missingIndices": [
             3
@@ -53,7 +53,7 @@
         {
           "id": "5",
           "type": "missingNumbers",
-          "start": 97,
+          "start": 70,
           "length": 5,
           "missingIndices": [
             2,
@@ -67,7 +67,7 @@
         {
           "id": "6",
           "type": "missingNumbers",
-          "start": 95,
+          "start": 24,
           "length": 5,
           "missingIndices": [
             0
@@ -76,7 +76,7 @@
         {
           "id": "7",
           "type": "missingNumbers",
-          "start": 107,
+          "start": 74,
           "length": 6,
           "missingIndices": [
             1,
@@ -90,7 +90,7 @@
         {
           "id": "8",
           "type": "missingNumbers",
-          "start": 91,
+          "start": 78,
           "length": 5,
           "missingIndices": [
             1
@@ -99,7 +99,7 @@
         {
           "id": "9",
           "type": "missingNumbers",
-          "start": 99,
+          "start": 82,
           "length": 5,
           "missingIndices": [
             2
@@ -112,7 +112,7 @@
         {
           "id": "10",
           "type": "missingNumbers",
-          "start": 92,
+          "start": 36,
           "length": 6,
           "missingIndices": [
             1,
@@ -122,7 +122,7 @@
         {
           "id": "11",
           "type": "missingNumbers",
-          "start": 97,
+          "start": 86,
           "length": 5,
           "missingIndices": [
             2,
@@ -136,7 +136,7 @@
         {
           "id": "12",
           "type": "missingNumbers",
-          "start": 94,
+          "start": 90,
           "length": 5,
           "missingIndices": [
             1,
@@ -150,7 +150,7 @@
         {
           "id": "13",
           "type": "missingNumbers",
-          "start": 98,
+          "start": 50,
           "length": 5,
           "missingIndices": [
             1,
@@ -160,7 +160,7 @@
         {
           "id": "14",
           "type": "missingNumbers",
-          "start": 100,
+          "start": 32,
           "length": 5,
           "missingIndices": [
             0,

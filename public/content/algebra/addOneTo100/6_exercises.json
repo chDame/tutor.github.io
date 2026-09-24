@@ -1,84 +1,108 @@
 {
   "id": "addOneTo100-practice6",
-  "title": "Add One to 100 — Practice 6",
+  "title": "Add One to 100 \u2014 Practice 6",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
-          "type": "addition",
-          "x": 94,
-          "y": 1
-        },
-        {
-          "id": "2",
-          "type": "addition",
-          "x": 95,
-          "y": 1
-        },
-        {
-          "id": "3",
           "type": "missingNumbers",
-          "start": 94,
+          "start": 64,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "1"
+        },
+        {
+          "type": "addition",
+          "x": 64,
+          "y": 1,
+          "id": "2"
+        },
+        {
+          "type": "addition",
+          "x": 65,
+          "y": 1,
+          "id": "3"
+        },
+        {
+          "type": "missingOperand",
+          "x": 64,
+          "operator": "+",
+          "y": null,
+          "result": 65,
+          "id": "4"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "4",
-          "type": "addition",
-          "x": 95,
-          "y": 1
+          "type": "missingNumbers",
+          "start": 78,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ],
+          "id": "5"
         },
         {
-          "id": "5",
           "type": "addition",
-          "x": 96,
-          "y": 1
+          "x": 78,
+          "y": 1,
+          "id": "6"
         },
         {
-          "id": "6",
+          "type": "addition",
+          "x": 79,
+          "y": 1,
+          "id": "7"
+        },
+        {
+          "type": "missingOperand",
+          "x": 78,
+          "operator": "+",
+          "y": null,
+          "result": 79,
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "type": "missingNumbers",
           "start": 95,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
-        }
-      ]
-    },
-    {
-      "items": [
+          ],
+          "id": "9"
+        },
         {
-          "id": "7",
+          "type": "addition",
+          "x": 95,
+          "y": 1,
+          "id": "10"
+        },
+        {
           "type": "addition",
           "x": 96,
-          "y": 1
+          "y": 1,
+          "id": "11"
         },
         {
-          "id": "8",
-          "type": "addition",
-          "x": 97,
-          "y": 1
-        },
-        {
-          "id": "9",
-          "type": "missingNumbers",
-          "start": 96,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ]
+          "type": "missingOperand",
+          "x": 95,
+          "operator": "+",
+          "y": null,
+          "result": 96,
+          "id": "12"
         }
       ]
     }

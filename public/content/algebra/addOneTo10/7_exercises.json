@@ -1,94 +1,118 @@
 {
   "id": "addOneTo10-practice7",
-  "title": "Add One to 10 — Practice 7",
+  "title": "Add One to 10 \u2014 Practice 7",
   "evaluation": false,
   "difficulty": 2,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
-          "type": "addition",
-          "x": 2,
-          "y": 1
-        },
-        {
-          "id": "2",
-          "type": "addition",
-          "x": 3,
-          "y": 1
-        },
-        {
-          "id": "3",
           "type": "missingNumbers",
           "start": 2,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "1"
+        },
+        {
+          "type": "addition",
+          "x": 2,
+          "y": 1,
+          "id": "2"
+        },
+        {
+          "type": "addition",
+          "x": 3,
+          "y": 1,
+          "id": "3"
+        },
+        {
+          "type": "missingOperand",
+          "x": 2,
+          "operator": "+",
+          "y": null,
+          "result": 3,
+          "id": "4"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "4",
-          "type": "addition",
-          "x": 4,
-          "y": 1
-        },
-        {
-          "id": "5",
-          "type": "addition",
-          "x": 5,
-          "y": 1
-        },
-        {
-          "id": "6",
           "type": "missingNumbers",
           "start": 4,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "5"
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 1,
+          "id": "6"
+        },
+        {
+          "type": "addition",
+          "x": 5,
+          "y": 1,
+          "id": "7"
+        },
+        {
+          "type": "missingOperand",
+          "x": 4,
+          "operator": "+",
+          "y": null,
+          "result": 5,
+          "id": "8"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "7",
-          "type": "addition",
-          "x": 6,
-          "y": 1
-        },
-        {
-          "id": "8",
-          "type": "addition",
-          "x": 7,
-          "y": 1
-        },
-        {
-          "id": "9",
           "type": "missingNumbers",
           "start": 6,
           "length": 3,
           "missingIndices": [
             1,
             2
-          ]
+          ],
+          "id": "9"
+        },
+        {
+          "type": "addition",
+          "x": 6,
+          "y": 1,
+          "id": "10"
+        },
+        {
+          "type": "addition",
+          "x": 7,
+          "y": 1,
+          "id": "11"
+        },
+        {
+          "type": "missingOperand",
+          "x": 6,
+          "operator": "+",
+          "y": null,
+          "result": 7,
+          "id": "12"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "10",
           "type": "problem",
           "question": "If Tony has had 5 pieces of pizza and eats a new one, how many pieces of pizza will he have in total?",
-          "result": 6
+          "result": 6,
+          "id": "13"
         }
       ]
     }
