@@ -7,6 +7,7 @@ import { getScores, setScore } from '../storage'
 import { flattenManifest, computeExerciseStates } from '../utils/unlock'
 import { useAuth } from '../AuthContext'
 import Celebration from '../components/Celebration'
+import { starsForScore, bonusIcon } from '../utils/scoreVisual'
 import ExerciseItemView from '../components/exercise-items/ExerciseItemView'
 
 export default function ExerciseScreen() {
@@ -18,7 +19,9 @@ export default function ExerciseScreen() {
   const [error, setError] = useState<string | null>(null)
   const [pageIndex, setPageIndex] = useState(0)
   const [answers, setAnswers] = useState<Record<string, AnswerInput>>({})
-  const [result, setResult] = useState<{ score: Score; correct: number; total: number } | null>(null)
+  const [result, setResult] = useState<{ score: Score; correct: number; total: number; mistakeIds: string[] } | null>(null)
+  const [resolvedMistakes, setResolvedMistakes] = useState<Set<string>>(new Set())
+  const [retryFeedback, setRetryFeedback] = useState<Record<string, 'correct' | 'incorrect'>>({})
   const startRef = useRef<number>(Date.now())
 
   useEffect(() => {
@@ -27,6 +30,8 @@ export default function ExerciseScreen() {
     setPageIndex(0)
     setAnswers({})
     setResult(null)
+    setResolvedMistakes(new Set())
+    setRetryFeedback({})
 
     const expectedFile = `${levelSlug}/${fileName}`
 
@@ -73,14 +78,47 @@ export default function ExerciseScreen() {
   if (!doc) return <p>Loading…</p>
 
   if (result) {
+    const allResolved = result.mistakeIds.every((id) => resolvedMistakes.has(id))
+
     return (
       <div className="result-screen">
         <Celebration score={result.score} />
         <h2>{result.score >= 4 ? 'Great job! 🎉' : result.score >= 2 ? 'Well done!' : 'Keep practicing!'}</h2>
-        <div className="stars">{'★'.repeat(result.score)}{'☆'.repeat(5 - result.score)}</div>
+        <div className="stars">
+          {'★'.repeat(starsForScore(result.score))}
+          {'☆'.repeat(3 - starsForScore(result.score))}
+          {bonusIcon(result.score) && <span className="result-bonus">{bonusIcon(result.score)}</span>}
+        </div>
         <p className="result-detail">
           {result.correct} / {result.total} correct — score {result.score}/5
         </p>
+        {result.mistakeIds.length > 0 && !allResolved && (
+          <div className="mistakes-review">
+            <h3>Review your mistakes</h3>
+            {result.mistakeIds.map((id) => {
+              const item = allItems.find((i) => i.id === id)
+              if (!item) return null
+              if (resolvedMistakes.has(id)) {
+                return (
+                  <div className="mistake-row resolved" key={id}>
+                    ✅ Well done!
+                  </div>
+                )
+              }
+              return (
+                <div className="mistake-row" key={id}>
+                  <ExerciseItemView item={item} answer={answers[id] ?? {}} onChange={(patch) => updateAnswer(id, patch)} />
+                  <div className="mistake-actions">
+                    <button className="btn-secondary" onClick={() => handleCheckMistake(id)}>
+                      Check
+                    </button>
+                    {retryFeedback[id] === 'incorrect' && <span className="mistake-feedback">Give it another try</span>}
+                  </div>
+                </div>
+              )
+            })}
+          </div>
+        )}
         <button className="btn" onClick={() => navigate(`/path/${topic}`)}>
           Back to path
         </button>
@@ -97,17 +135,26 @@ export default function ExerciseScreen() {
     setAnswers((prev) => ({ ...prev, [itemId]: { ...prev[itemId], ...patch } }))
   }
 
+  function handleCheckMistake(itemId: string) {
+    const item = allItems.find((i) => i.id === itemId)
+    if (!item) return
+    const isCorrect = checkAnswer(item, answers[itemId] ?? {})
+    setRetryFeedback((prev) => ({ ...prev, [itemId]: isCorrect ? 'correct' : 'incorrect' }))
+    if (isCorrect) setResolvedMistakes((prev) => new Set(prev).add(itemId))
+  }
+
   function handleNext() {
     if (!isLastPage) {
       setPageIndex((p) => p + 1)
       return
     }
     const total = allItems.length
-    const correct = allItems.filter((item) => checkAnswer(item, answers[item.id] ?? {})).length
+    const mistakeIds = allItems.filter((item) => !checkAnswer(item, answers[item.id] ?? {})).map((item) => item.id)
+    const correct = total - mistakeIds.length
     const elapsedMs = Date.now() - startRef.current
     const score = computeScore(correct, total, elapsedMs)
     setScore(username!, doc!.id, score)
-    setResult({ score, correct, total })
+    setResult({ score, correct, total, mistakeIds })
   }
   function handlePrevious() {
     if (!isFirstPage) {

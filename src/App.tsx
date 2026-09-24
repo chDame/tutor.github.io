@@ -13,23 +13,26 @@ function TopBar() {
   if (!username) return null
 
   return (
-    <div className="topbar">
-      <Link to="/topics" className="topbar-title">
-        📚 Tutor
-      </Link>
-      <div className="topbar-user">
-        <span>{username}</span>
-        <button
-          className="btn-link"
-          onClick={() => {
-            logout()
-            navigate('/login')
-          }}
-        >
-          Log out
-        </button>
+    <>
+      <div className="topbar">
+        <Link to="/topics" className="topbar-title">
+          📚 Tutor
+        </Link>
+        <div className="topbar-user">
+          <span>{username}</span>
+          <button
+            className="btn-link"
+            onClick={() => {
+              logout()
+              navigate('/login')
+            }}
+          >
+            Log out
+          </button>
+        </div>
       </div>
-    </div>
+      <div className="topbar-spacer" />
+    </>
   )
 }
 

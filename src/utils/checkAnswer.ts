@@ -57,6 +57,50 @@ export function expectedColumnResult(item: ColumnOperation): number {
   }
 }
 
+type MissingOperand = Extract<ExerciseItem, { type: 'missingOperand' }>
+
+/**
+ * Exactly one of x/y is null in content; derives that missing value from the
+ * other operand, the operator, and the shown result. For '%' the inverse
+ * isn't unique in general, so this picks the canonical smallest valid answer
+ * (matches simple textbook problems like "12 % ? = 4" -> 8).
+ */
+export function solveMissingOperand(item: MissingOperand): number {
+  const { x, operator, y, result } = item
+  if (y == null) {
+    switch (operator) {
+      case '+':
+        return result - x!
+      case '-':
+        return x! - result
+      case '×':
+        return result / x!
+      case '÷':
+        return x! / result
+      case '%': {
+        const target = x! - result
+        if (target === 0) return result + 1
+        for (let candidate = result + 1; candidate <= target; candidate++) {
+          if (target % candidate === 0) return candidate
+        }
+        return NaN
+      }
+    }
+  }
+  switch (operator) {
+    case '+':
+      return result - y!
+    case '-':
+      return result + y!
+    case '×':
+      return result / y!
+    case '÷':
+      return result * y!
+    case '%':
+      return result // smallest non-negative x satisfying x % y === result
+  }
+}
+
 const toNumber = (s: string | undefined): number | null => {
   if (s === undefined || s.trim() === '') return null
   const n = Number(s.replace(',', '.'))
@@ -73,6 +117,7 @@ export function isAnswerComplete(item: ExerciseItem, answer: AnswerInput): boole
     case 'missingNumbers':
       return orderedMissingIndices(item).every((_, i) => toNumber(answer.values?.[i]) != null)
     case 'discoverNumber':
+    case 'explanation':
       return true // display-only, nothing for the student to answer
     case 'columnAddition':
     case 'columnSubtraction': {
@@ -101,7 +146,13 @@ export function checkAnswer(item: ExerciseItem, answer: AnswerInput): boolean {
     case 'missingNumbers':
       return orderedMissingIndices(item).every((idx, i) => toNumber(answer.values?.[i]) === item.start + idx)
     case 'discoverNumber':
+    case 'explanation':
       return true // display-only, always counts as correct
+    case 'missingOperand': {
+      const value = toNumber(answer.value)
+      if (value == null) return false
+      return Math.abs(value - solveMissingOperand(item)) < 1e-9
+    }
     case 'columnAddition':
     case 'columnSubtraction': {
       const expected = expectedColumnResult(item)

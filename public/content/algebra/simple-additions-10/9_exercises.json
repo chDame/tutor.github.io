@@ -1,0 +1,376 @@
+{
+  "id": "simple-additions-10-practice9",
+  "title": "Simple Additions (0 to 10) — Practice 9",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "missingNumbers",
+          "start": 0,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "2",
+          "type": "addition",
+          "x": 0,
+          "y": 1
+        },
+        {
+          "id": "3",
+          "type": "addition",
+          "x": 0,
+          "y": 1
+        },
+        {
+          "id": "4",
+          "type": "addition",
+          "x": 0,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "5",
+          "type": "missingNumbers",
+          "start": 7,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "6",
+          "type": "addition",
+          "x": 7,
+          "y": 1
+        },
+        {
+          "id": "7",
+          "type": "addition",
+          "x": 8,
+          "y": 1
+        },
+        {
+          "id": "8",
+          "type": "addition",
+          "x": 7,
+          "y": 2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "9",
+          "type": "missingNumbers",
+          "start": 5,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "10",
+          "type": "addition",
+          "x": 5,
+          "y": 1
+        },
+        {
+          "id": "11",
+          "type": "addition",
+          "x": 6,
+          "y": 2
+        },
+        {
+          "id": "12",
+          "type": "addition",
+          "x": 5,
+          "y": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "13",
+          "type": "missingNumbers",
+          "start": 2,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "14",
+          "type": "addition",
+          "x": 2,
+          "y": 1
+        },
+        {
+          "id": "15",
+          "type": "addition",
+          "x": 3,
+          "y": 3
+        },
+        {
+          "id": "16",
+          "type": "addition",
+          "x": 2,
+          "y": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "17",
+          "type": "missingNumbers",
+          "start": 6,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "18",
+          "type": "addition",
+          "x": 6,
+          "y": 1
+        },
+        {
+          "id": "19",
+          "type": "addition",
+          "x": 7,
+          "y": 4
+        },
+        {
+          "id": "20",
+          "type": "addition",
+          "x": 6,
+          "y": 5
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "21",
+          "type": "missingNumbers",
+          "start": 10,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "22",
+          "type": "addition",
+          "x": 10,
+          "y": 1
+        },
+        {
+          "id": "23",
+          "type": "addition",
+          "x": 10,
+          "y": 1
+        },
+        {
+          "id": "24",
+          "type": "addition",
+          "x": 10,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "25",
+          "type": "missingNumbers",
+          "start": 3,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "26",
+          "type": "addition",
+          "x": 3,
+          "y": 1
+        },
+        {
+          "id": "27",
+          "type": "addition",
+          "x": 4,
+          "y": 1
+        },
+        {
+          "id": "28",
+          "type": "addition",
+          "x": 3,
+          "y": 2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "29",
+          "type": "missingNumbers",
+          "start": 1,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "30",
+          "type": "addition",
+          "x": 1,
+          "y": 1
+        },
+        {
+          "id": "31",
+          "type": "addition",
+          "x": 2,
+          "y": 2
+        },
+        {
+          "id": "32",
+          "type": "addition",
+          "x": 1,
+          "y": 3
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "33",
+          "type": "missingNumbers",
+          "start": 8,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "34",
+          "type": "addition",
+          "x": 8,
+          "y": 1
+        },
+        {
+          "id": "35",
+          "type": "addition",
+          "x": 9,
+          "y": 3
+        },
+        {
+          "id": "36",
+          "type": "addition",
+          "x": 8,
+          "y": 4
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "37",
+          "type": "missingNumbers",
+          "start": 9,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "38",
+          "type": "addition",
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": "39",
+          "type": "addition",
+          "x": 10,
+          "y": 4
+        },
+        {
+          "id": "40",
+          "type": "addition",
+          "x": 9,
+          "y": 5
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "41",
+          "type": "missingNumbers",
+          "start": 4,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "42",
+          "type": "addition",
+          "x": 4,
+          "y": 1
+        },
+        {
+          "id": "43",
+          "type": "addition",
+          "x": 4,
+          "y": 1
+        },
+        {
+          "id": "44",
+          "type": "addition",
+          "x": 4,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "45",
+          "type": "problem",
+          "question": "If Pedro has 5 pens and Ana gives Pedro 1 pens. How many pens will Pedro have in total?",
+          "result": 6
+        },
+        {
+          "id": "46",
+          "type": "problem",
+          "question": "If Lina has 7 apples and Paul gives Lina 2 apples. How many apples will Lina have in total?",
+          "result": 9
+        }
+      ]
+    }
+  ]
+}

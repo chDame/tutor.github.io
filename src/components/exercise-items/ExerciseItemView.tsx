@@ -10,6 +10,8 @@ import ProblemItem from './ProblemItem'
 import CountingItem from './CountingItem'
 import MissingNumbersItem from './MissingNumbersItem'
 import DiscoverNumberItem from './DiscoverNumberItem'
+import MissingOperandItem from './MissingOperandItem'
+import ExplanationItem from './ExplanationItem'
 
 interface Props {
   item: ExerciseItem
@@ -25,6 +27,10 @@ export default function ExerciseItemView({ item, answer, onChange }: Props) {
       return <MissingNumbersItem item={item} answer={answer} onChange={onChange} />
     case 'discoverNumber':
       return <DiscoverNumberItem item={item} answer={answer} onChange={onChange} />
+    case 'missingOperand':
+      return <MissingOperandItem item={item} answer={answer} onChange={onChange} />
+    case 'explanation':
+      return <ExplanationItem item={item} answer={answer} onChange={onChange} />
     case 'addition':
     case 'subtraction':
     case 'multiplication':

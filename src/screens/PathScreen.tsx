@@ -7,6 +7,19 @@ import { useAuth } from '../AuthContext'
 import PathTrack from '../components/PathTrack'
 import pathBackground from '../assets/path-background.png'
 
+function computeNextPendingId(manifest: TopicManifest, username: string): string | null {
+  const states = computeExerciseStates(flattenManifest(manifest), getScores(username))
+  const pending = states.filter((s) => s.unlocked && !s.completed)
+  if (pending.length === 0) return null
+  // Any number of earlier, previously-skipped exercises can be unlocked now too —
+  // scroll to the furthest one reached (the actual frontier), not the earliest
+  // available. Prefer the furthest non-shortcut exercise over a distant
+  // validation shortcut, which is a bonus target rather than "next up".
+  const nonShortcut = pending.filter((s) => !s.isNextValidation)
+  const target = nonShortcut.length > 0 ? nonShortcut[nonShortcut.length - 1] : pending[pending.length - 1]
+  return target.id
+}
+
 export default function PathScreen() {
   const { topic } = useParams<{ topic: string }>()
   const navigate = useNavigate()
@@ -25,6 +38,13 @@ export default function PathScreen() {
       .then(setManifest)
       .catch(() => setError('Could not load this topic yet.'))
   }, [topic])
+
+  const nextPendingId = manifest ? computeNextPendingId(manifest, username!) : null
+
+  useEffect(() => {
+    if (!nextPendingId) return
+    document.getElementById(`exercise-node-${nextPendingId}`)?.scrollIntoView({ block: 'center' })
+  }, [nextPendingId])
 
   if (error) return <p>{error}</p>
   if (!manifest) return <p>Loading…</p>

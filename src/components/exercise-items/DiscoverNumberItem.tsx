@@ -10,7 +10,7 @@ function groupByTens(from: number, to: number): number[][] {
   let row: number[] = []
   for (let n = from; n <= to; n++) {
     row.push(n)
-    if (n % 10 === 0 || n === to) {
+    if ((n+1) % 10 === 0 || n === to) {
       rows.push(row)
       row = []
     }

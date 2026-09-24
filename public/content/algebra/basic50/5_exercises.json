@@ -1,0 +1,206 @@
+{
+  "id": "basic50-practice5",
+  "title": "Numbers from 0 to 50 — Practice 5",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "discoverNumber",
+          "from": 0,
+          "to": 59,
+          "displayElements": false,
+          "countingElement": "🍎"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "2",
+          "type": "missingNumbers",
+          "start": 41,
+          "length": 5,
+          "missingIndices": [
+            0
+          ]
+        },
+        {
+          "id": "3",
+          "type": "missingNumbers",
+          "start": 41,
+          "length": 4,
+          "missingIndices": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "type": "missingNumbers",
+          "start": 34,
+          "length": 5,
+          "missingIndices": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": "5",
+          "type": "missingNumbers",
+          "start": 9,
+          "length": 4,
+          "missingIndices": [
+            0,1
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "6",
+          "type": "missingNumbers",
+          "start": 27,
+          "length": 4,
+          "missingIndices": [
+            2,3
+          ]
+        },
+        {
+          "id": "7",
+          "type": "missingNumbers",
+          "start": 19,
+          "length": 4,
+          "missingIndices": [
+            0,1
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "8",
+          "type": "missingNumbers",
+          "start": 38,
+          "length": 5,
+          "missingIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "9",
+          "type": "missingNumbers",
+          "start": 25,
+          "length": 4,
+          "missingIndices": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "10",
+          "type": "missingNumbers",
+          "start": 46,
+          "length": 4,
+          "missingIndices": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": "10b",
+          "type": "missingNumbers",
+          "start": 46,
+          "length": 4,
+          "missingIndices": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "11",
+          "type": "missingNumbers",
+          "start": 28,
+          "length": 5,
+          "missingIndices": [
+            1,2,4
+          ]
+        },
+        {
+          "id": "12",
+          "type": "missingNumbers",
+          "start": 35,
+          "length": 4,
+          "missingIndices": [
+            0,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "13",
+          "type": "missingNumbers",
+          "start": 38,
+          "length": 4,
+          "missingIndices": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": "13b",
+          "type": "missingNumbers",
+          "start": 38,
+          "length": 4,
+          "missingIndices": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "14",
+          "type": "missingNumbers",
+          "start": 47,
+          "length": 4,
+          "missingIndices": [
+            2,
+            3
+          ]
+        },
+        {
+          "id": "15",
+          "type": "missingNumbers",
+          "start": 47,
+          "length": 4,
+          "missingIndices": [
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

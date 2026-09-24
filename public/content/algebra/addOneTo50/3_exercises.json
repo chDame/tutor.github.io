@@ -1,0 +1,86 @@
+{
+  "id": "addOneTo50-practice3",
+  "title": "Add One to 50 — Practice 3",
+  "evaluation": false,
+  "difficulty": 0,
+  "pages": [
+    {
+      "items": [
+        {
+          "id": "1",
+          "type": "addition",
+          "x": 41,
+          "y": 1
+        },
+        {
+          "id": "2",
+          "type": "addition",
+          "x": 42,
+          "y": 1
+        },
+        {
+          "id": "3",
+          "type": "missingNumbers",
+          "start": 41,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "type": "addition",
+          "x": 42,
+          "y": 1
+        },
+        {
+          "id": "5",
+          "type": "addition",
+          "x": 43,
+          "y": 1
+        },
+        {
+          "id": "6",
+          "type": "missingNumbers",
+          "start": 42,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": "7",
+          "type": "addition",
+          "x": 43,
+          "y": 1
+        },
+        {
+          "id": "8",
+          "type": "addition",
+          "x": 44,
+          "y": 1
+        },
+        {
+          "id": "9",
+          "type": "missingNumbers",
+          "start": 43,
+          "length": 3,
+          "missingIndices": [
+            1,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

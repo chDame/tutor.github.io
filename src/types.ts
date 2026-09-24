@@ -22,6 +22,8 @@ export type ExerciseItem =
   | { id: string; type: 'counting'; countingElement: string; result: number }
   | { id: string; type: 'missingNumbers'; start: number; length: number; missingIndices: number[] }
   | { id: string; type: 'discoverNumber'; from: number; to: number; displayElements: boolean; countingElement: string }
+  | { id: string; type: 'missingOperand'; x: number | null; operator: '+' | '-' | '×' | '÷' | '%'; y: number | null; result: number }
+  | { id: string; type: 'explanation'; html: string }
 
 export type ExerciseItemType = ExerciseItem['type']
 

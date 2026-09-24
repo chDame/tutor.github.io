@@ -7,6 +7,15 @@
     {
       "items": [
         {
+          "id": "0",
+          "type": "explanation",
+          "html": "<p>Welcome to the Numbers from 1 to 10 practice!<br/><br/> You're now familiar with small numbers and you will soon know everything about numbers up to 10! With such a foundation, you'll be able to master counting and recognizing numbers quickly.<br /><br /> Have fun!</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "id": "1",
           "type": "discoverNumber",
           "from": 1,
