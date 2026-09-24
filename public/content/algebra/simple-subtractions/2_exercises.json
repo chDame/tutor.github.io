@@ -163,34 +163,39 @@
     {
       "items": [
         {
-          "type": "subtraction",
-          "x": 20,
-          "y": 4,
+          "type": "missingNumbers",
+          "start": 18,
+          "length": 4,
+          "missingIndices": [
+            0,
+            1,
+            2
+          ],
           "id": "21"
         },
         {
           "type": "subtraction",
-          "x": 23,
-          "y": 4,
+          "x": 26,
+          "y": 8,
           "id": "22"
         },
         {
           "type": "subtraction",
-          "x": 25,
-          "y": 4,
+          "x": 27,
+          "y": 7,
           "id": "23"
         },
         {
           "type": "subtraction",
-          "x": 28,
-          "y": 4,
+          "x": 26,
+          "y": 9,
           "id": "24"
         },
         {
-          "id": "25",
           "type": "subtraction",
-          "x": 30,
-          "y": 4
+          "x": 26,
+          "y": 10,
+          "id": "25"
         }
       ]
     }
