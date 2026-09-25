@@ -66,7 +66,7 @@
     },
     {
       "items": [
-        { "type": "firstLetter", "emoji": "🚌", "wordSuffix": "niforme", "result": "u" },
+        { "type": "firstLetter", "emoji": "🥋", "wordSuffix": "niforme", "result": "u" },
         { "type": "firstLetter", "emoji": "🚲", "wordSuffix": "élo", "result": "v" }
       ]
     },
