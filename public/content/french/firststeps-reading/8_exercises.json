@@ -1,0 +1,14 @@
+{
+  "id": "firststeps-reading-practice8",
+  "title": "Premiers pas en lecture — Exercice 8",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🏠", "wordSuffix": "aison", "result": "m" },
+        { "type": "firstLetter", "emoji": "☁️", "wordSuffix": "uage", "result": "n" }
+      ]
+    }
+  ]
+}

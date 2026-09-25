@@ -1,0 +1,20 @@
+{
+  "id": "firststeps-reading-practice1",
+  "title": "Premiers pas en lecture — Exercice 1",
+  "evaluation": false,
+  "difficulty": 0,
+  "character": {
+    "image": "characters/puzzledChickenNumbers.png",
+    "position": "left"
+  },
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>🚀 Partons à la découverte des mots !</p><p>Tu vas bientôt découvrir un super pouvoir : savoir lire ! 📚✨</p><p>Pour commencer, nous allons apprendre à bien connaître les lettres.</p><p>Puis, nous allons apprendre à mettre les lettres ensemble pour faire de petits sons.</p><p>Et petit à petit, ces sons vont se mettre à travailler ensemble… 🔤</p><p>jusqu’à former des mots ! 🐱🌈🚗</p><p>Au début, nous allons avancer petit à petit.</p><p>Mais tu verras : à chaque nouvelle lettre et à chaque nouveau son, tu seras capable de lire un peu plus de choses.</p><p>Alors, prêt à partir à la découverte des lettres, des sons… et bientôt des mots ? 🎉</p><p>C’est parti ! 🚀📖</p><hr/><p>Les voyelles sont : <strong>A, E, I, O, U, Y</strong>.</p><p><strong>A</strong> : <span style=\"font-size:64px\">✈️ 🌳</span> avion, arbre</p><p><strong>E</strong> : <span style=\"font-size:64px\">🐌 🧗</span> escargot, escalade</p><p><strong>I</strong> : <span style=\"font-size:64px\">🏝️ 🦎</span> île, iguane</p><p><strong>O</strong> : <span style=\"font-size:64px\">🍊 🐻</span> orange, ours</p><p><strong>U</strong> : <span style=\"font-size:64px\">🏭 🎓</span> usine, uniforme</p><p><strong>Y</strong> : <span style=\"font-size:64px\">🪀 🛥️</span> yoyo, yacht</p>"
+        }
+      ]
+    }
+  ]
+}

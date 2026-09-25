@@ -1,0 +1,16 @@
+{
+  "id": "firststeps-reading-practice2",
+  "title": "Premiers pas en lecture — Exercice 2",
+  "evaluation": false,
+  "difficulty": 0,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Découvrons 10 consonnes : <strong>B, C, D, F, G, L, M, N, P, R</strong>.</p><p><strong>B</strong> : <span style=\"font-size:64px\">⛵ 🎈</span> bateau, ballon</p><p><strong>C</strong> : <span style=\"font-size:64px\">🔑 🍪</span> clef, cookie</p>"
+        }
+      ]
+    }
+  ]
+}

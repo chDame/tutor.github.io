@@ -1,0 +1,86 @@
+{
+  "id": "firststeps-reading-evaluation1",
+  "title": "Premiers pas en lecture — Évaluation",
+  "evaluation": true,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🛩️", "wordSuffix": "vion", "result": "a" },
+        { "type": "firstLetter", "emoji": "🚲", "wordSuffix": "icyclette", "result": "b" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🍪", "wordSuffix": "ookie", "result": "c" },
+        { "type": "firstLetter", "emoji": "🦷", "wordSuffix": "ent", "result": "d" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🐘", "wordSuffix": "léphant", "result": "e" },
+        { "type": "firstLetter", "emoji": "🌼", "wordSuffix": "leur", "result": "f" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🦒", "wordSuffix": "irafe", "result": "g" },
+        { "type": "firstLetter", "emoji": "🏨", "wordSuffix": "ôtel", "result": "h" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🏝️", "wordSuffix": "le", "result": "i" },
+        { "type": "firstLetter", "emoji": "🧥", "wordSuffix": "este", "result": "j" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🥝", "wordSuffix": "iwi", "result": "k" },
+        { "type": "firstLetter", "emoji": "🦁", "wordSuffix": "ion", "result": "l" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🏠", "wordSuffix": "aison", "result": "m" },
+        { "type": "firstLetter", "emoji": "☁️", "wordSuffix": "uage", "result": "n" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🐻", "wordSuffix": "urs", "result": "o" },
+        { "type": "firstLetter", "emoji": "🍞", "wordSuffix": "ain", "result": "p" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "👑", "wordSuffix": "ueen", "result": "q" },
+        { "type": "firstLetter", "emoji": "🤖", "wordSuffix": "obot", "result": "r" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "☀️", "wordSuffix": "oleil", "result": "s" },
+        { "type": "firstLetter", "emoji": "🐢", "wordSuffix": "ortue", "result": "t" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🏭", "wordSuffix": "sine", "result": "u" },
+        { "type": "firstLetter", "emoji": "🧳", "wordSuffix": "alise", "result": "v" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🚃", "wordSuffix": "agon", "result": "w" },
+        { "type": "firstLetter", "emoji": "🎼", "wordSuffix": "ylophone", "result": "x" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🛥️", "wordSuffix": "acht", "result": "y" },
+        { "type": "firstLetter", "emoji": "🦓", "wordSuffix": "èbre", "result": "z" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "firststeps-reading-practice9",
+  "title": "Premiers pas en lecture — Exercice 9",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🍞", "wordSuffix": "ain", "result": "p" },
+        { "type": "firstLetter", "emoji": "🐜", "wordSuffix": "ourmi", "result": "f" }
+      ]
+    }
+  ]
+}

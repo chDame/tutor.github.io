@@ -107,6 +107,8 @@ const toNumber = (s: string | undefined): number | null => {
   return Number.isNaN(n) ? null : n
 }
 
+const normalizeText = (s: string | undefined): string => (s ?? '').trim().toLocaleLowerCase()
+
 export function isAnswerComplete(item: ExerciseItem, answer: AnswerInput): boolean {
   switch (item.type) {
     case 'euclidianDivision':
@@ -119,6 +121,8 @@ export function isAnswerComplete(item: ExerciseItem, answer: AnswerInput): boole
     case 'discoverNumber':
     case 'explanation':
       return true // display-only, nothing for the student to answer
+    case 'firstLetter':
+      return normalizeText(answer.value).length > 0
     case 'columnAddition':
     case 'columnSubtraction': {
       const digits = String(expectedColumnResult(item)).length
@@ -153,6 +157,8 @@ export function checkAnswer(item: ExerciseItem, answer: AnswerInput): boolean {
       if (value == null) return false
       return Math.abs(value - solveMissingOperand(item)) < 1e-9
     }
+    case 'firstLetter':
+      return normalizeText(answer.value) === normalizeText(item.result)
     case 'columnAddition':
     case 'columnSubtraction': {
       const expected = expectedColumnResult(item)

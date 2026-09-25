@@ -1,0 +1,94 @@
+{
+  "topic": "french",
+  "levels": [
+    {
+      "slug": "firststeps-reading",
+      "title": "Premiers pas en lecture",
+      "exercises": [
+        {
+          "file": "firststeps-reading/1_exercises.json",
+          "id": "firststeps-reading-practice1",
+          "title": "Premiers pas en lecture — Exercice 1",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": {
+            "image": "characters/puzzledChickenNumbers.png",
+            "position": "left"
+          }
+        },
+        {
+          "file": "firststeps-reading/2_exercises.json",
+          "id": "firststeps-reading-practice2",
+          "title": "Premiers pas en lecture — Exercice 2",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "firststeps-reading/3_exercises.json",
+          "id": "firststeps-reading-practice3",
+          "title": "Premiers pas en lecture — Exercice 3",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null
+        },
+        {
+          "file": "firststeps-reading/4_exercises.json",
+          "id": "firststeps-reading-practice4",
+          "title": "Premiers pas en lecture — Exercice 4",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "firststeps-reading/5_exercises.json",
+          "id": "firststeps-reading-practice5",
+          "title": "Premiers pas en lecture — Exercice 5",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "firststeps-reading/6_exercises.json",
+          "id": "firststeps-reading-practice6",
+          "title": "Premiers pas en lecture — Exercice 6",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "firststeps-reading/7_exercises.json",
+          "id": "firststeps-reading-practice7",
+          "title": "Premiers pas en lecture — Exercice 7",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "firststeps-reading/8_exercises.json",
+          "id": "firststeps-reading-practice8",
+          "title": "Premiers pas en lecture — Exercice 8",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "firststeps-reading/9_exercises.json",
+          "id": "firststeps-reading-practice9",
+          "title": "Premiers pas en lecture — Exercice 9",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "firststeps-reading/10_exercises.json",
+          "id": "firststeps-reading-evaluation1",
+          "title": "Premiers pas en lecture — Évaluation",
+          "evaluation": true,
+          "difficulty": 2,
+          "character": null
+        }
+      ]
+    }
+  ]
+}
