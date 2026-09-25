@@ -1,0 +1,103 @@
+{
+  "id": "simple-subtractions-100-practice3",
+  "title": "Simple Subtractions (0 to 100) — Practice 3",
+  "evaluation": false,
+  "difficulty": 4,
+  "pages": [
+    {
+      "items": [
+        { "type": "missingNumbers", "start": 54, "length": 5, "missingIndices": [0, 1, 2, 3] },
+        { "type": "subtraction", "x": 51, "y": 1 },
+        { "type": "subtraction", "x": 52, "y": 1 },
+        { "type": "subtraction", "x": 53, "y": 1 },
+        { "type": "subtraction", "x": 54, "y": 1 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "missingNumbers", "start": 48, "length": 5, "missingIndices": [0, 1, 2, 3] },
+        { "type": "subtraction", "x": 45, "y": 1 },
+        { "type": "subtraction", "x": 46, "y": 1 },
+        { "type": "subtraction", "x": 47, "y": 1 },
+        { "type": "subtraction", "x": 48, "y": 1 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "missingNumbers", "start": 62, "length": 5, "missingIndices": [1, 2, 3] },
+        { "type": "subtraction", "x": 59, "y": 1 },
+        { "type": "subtraction", "x": 60, "y": 1 },
+        { "type": "subtraction", "x": 61, "y": 1 },
+        { "type": "subtraction", "x": 62, "y": 1 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "missingNumbers", "start": 66, "length": 5, "missingIndices": [0, 1, 2, 3] },
+        { "type": "subtraction", "x": 63, "y": 1 },
+        { "type": "subtraction", "x": 64, "y": 1 },
+        { "type": "subtraction", "x": 65, "y": 1 },
+        { "type": "subtraction", "x": 66, "y": 1 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "missingNumbers", "start": 70, "length": 5, "missingIndices": [0, 1, 2, 3] },
+        { "type": "subtraction", "x": 67, "y": 1 },
+        { "type": "subtraction", "x": 68, "y": 1 },
+        { "type": "subtraction", "x": 69, "y": 1 },
+        { "type": "subtraction", "x": 70, "y": 1 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 65, "y": 2 },
+        { "type": "subtraction", "x": 64, "y": 1 },
+        { "type": "subtraction", "x": 64, "y": 2 },
+        { "type": "subtraction", "x": 63, "y": 1 },
+        { "type": "subtraction", "x": 63, "y": 2 },
+        { "type": "subtraction", "x": 62, "y": 1 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 59, "y": 2 },
+        { "type": "subtraction", "x": 58, "y": 1 },
+        { "type": "subtraction", "x": 58, "y": 2 },
+        { "type": "subtraction", "x": 57, "y": 1 },
+        { "type": "subtraction", "x": 57, "y": 2 },
+        { "type": "subtraction", "x": 56, "y": 1 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 43, "y": 2 },
+        { "type": "subtraction", "x": 42, "y": 1 },
+        { "type": "subtraction", "x": 42, "y": 2 },
+        { "type": "subtraction", "x": 41, "y": 1 },
+        { "type": "subtraction", "x": 41, "y": 2 },
+        { "type": "subtraction", "x": 40, "y": 1 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 37, "y": 2 },
+        { "type": "subtraction", "x": 36, "y": 1 },
+        { "type": "subtraction", "x": 36, "y": 2 },
+        { "type": "subtraction", "x": 35, "y": 1 },
+        { "type": "subtraction", "x": 35, "y": 2 },
+        { "type": "subtraction", "x": 34, "y": 1 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 70, "y": 2 },
+        { "type": "subtraction", "x": 69, "y": 1 },
+        { "type": "subtraction", "x": 69, "y": 2 },
+        { "type": "subtraction", "x": 68, "y": 1 },
+        { "type": "subtraction", "x": 68, "y": 2 },
+        { "type": "subtraction", "x": 67, "y": 1 }
+      ]
+    }
+  ]
+}

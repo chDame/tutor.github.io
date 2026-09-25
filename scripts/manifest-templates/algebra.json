@@ -54,8 +54,12 @@
       "title": "Simple Additions (0 to 100)"
     },
     {
-      "slug": "simple-subtractions",
-      "title": "Simple Subtractions"
+      "slug": "simple-subtractions-20",
+      "title": "Simple Subtractions (0 to 20)"
+    },
+    {
+      "slug": "simple-subtractions-100",
+      "title": "Simple Subtractions (0 to 100)"
     },
     {
       "slug": "simple-multiplications",

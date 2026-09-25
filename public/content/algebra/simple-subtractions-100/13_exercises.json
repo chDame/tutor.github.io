@@ -1,0 +1,88 @@
+{
+  "id": "simple-subtractions-100-checkpoint",
+  "title": "Simple Subtractions (0 to 100) — Checkpoint",
+  "evaluation": true,
+  "difficulty": 5,
+  "pages": [
+    {
+      "items": [
+        { "type": "subtraction", "x": 100, "y": 10 },
+        { "type": "subtraction", "x": 86, "y": 9 },
+        { "type": "subtraction", "x": 22, "y": 5 },
+        { "type": "subtraction", "x": 39, "y": 6 },
+        { "type": "subtraction", "x": 57, "y": 2 },
+        { "type": "subtraction", "x": 43, "y": 4 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 80, "y": 10 },
+        { "type": "subtraction", "x": 95, "y": 8 },
+        { "type": "subtraction", "x": 84, "y": 7 },
+        { "type": "subtraction", "x": 63, "y": 3 },
+        { "type": "subtraction", "x": 49, "y": 2 },
+        { "type": "subtraction", "x": 27, "y": 4 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 45, "y": 10 },
+        { "type": "subtraction", "x": 87, "y": 9 },
+        { "type": "subtraction", "x": 22, "y": 8 },
+        { "type": "subtraction", "x": 39, "y": 1 },
+        { "type": "subtraction", "x": 75, "y": 3 },
+        { "type": "subtraction", "x": 83, "y": 10 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 91, "y": 10 },
+        { "type": "subtraction", "x": 74, "y": 7 },
+        { "type": "subtraction", "x": 90, "y": 8 },
+        { "type": "subtraction", "x": 49, "y": 3 },
+        { "type": "subtraction", "x": 85, "y": 1 },
+        { "type": "subtraction", "x": 63, "y": 2 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 34, "y": 7 },
+        { "type": "subtraction", "x": 28, "y": 9 },
+        { "type": "subtraction", "x": 19, "y": 10 },
+        { "type": "subtraction", "x": 81, "y": 5 },
+        { "type": "subtraction", "x": 50, "y": 5 },
+        { "type": "subtraction", "x": 93, "y": 3 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 92, "y": 9 },
+        { "type": "subtraction", "x": 47, "y": 6 },
+        { "type": "subtraction", "x": 60, "y": 5 },
+        { "type": "subtraction", "x": 29, "y": 4 },
+        { "type": "subtraction", "x": 75, "y": 8 },
+        { "type": "subtraction", "x": 53, "y": 7 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 80, "y": 9 },
+        { "type": "subtraction", "x": 16, "y": 7 },
+        { "type": "subtraction", "x": 90, "y": 5 },
+        { "type": "subtraction", "x": 29, "y": 1 },
+        { "type": "subtraction", "x": 75, "y": 2 },
+        { "type": "subtraction", "x": 63, "y": 3 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 59, "y": 2 },
+        { "type": "subtraction", "x": 47, "y": 1 },
+        { "type": "subtraction", "x": 65, "y": 5 },
+        { "type": "subtraction", "x": 39, "y": 4 },
+        { "type": "subtraction", "x": 75, "y": 9 },
+        { "type": "subtraction", "x": 23, "y": 6 }
+      ]
+    }
+  ]
+}

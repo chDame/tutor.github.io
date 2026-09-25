@@ -1,0 +1,110 @@
+{
+  "id": "simple-subtractions-100-practice9",
+  "title": "Simple Subtractions (0 to 100) — Practice 9",
+  "evaluation": false,
+  "difficulty": 5,
+  "pages": [
+    {
+      "items": [
+        { "type": "missingOperand","x": 15,"operator": "+","y": null, "result": 22 },
+        { "type": "subtraction", "x": 22, "y": 7 },
+        { "type": "missingOperand","x": 22,"operator": "+","y": null, "result": 29 },
+        { "type": "subtraction", "x": 29, "y": 7 },
+        { "type": "missingOperand","x": 30,"operator": "+","y": null, "result": 37 },
+        { "type": "subtraction", "x": 37, "y": 7 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "missingOperand","x": 21,"operator": "+","y": null, "result": 28 },
+        { "type": "subtraction", "x": 28, "y": 7 },
+        { "type": "missingOperand","x": 43,"operator": "+","y": null, "result": 50 },
+        { "type": "subtraction", "x": 50, "y": 7 },
+        { "type": "missingOperand","x": 74,"operator": "+","y": null, "result": 81 },
+        { "type": "subtraction", "x": 81, "y": 7 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "missingOperand","x": 37,"operator": "+","y": null, "result": 44 },
+        { "type": "subtraction", "x": 44, "y": 7 },
+        { "type": "missingOperand","x": 85,"operator": "+","y": null, "result": 92 },
+        { "type": "subtraction", "x": 92, "y": 7 },
+        { "type": "missingOperand","x": 66,"operator": "+","y": null, "result": 73 },
+        { "type": "subtraction", "x": 73, "y": 7 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "missingOperand","x": 90,"operator": "+","y": null, "result": 97 },
+        { "type": "subtraction", "x": 97, "y": 7 },
+        { "type": "missingOperand","x": 58,"operator": "+","y": null, "result": 65 },
+        { "type": "subtraction", "x": 65, "y": 7 },
+        { "type": "missingOperand","x": 21,"operator": "+","y": null, "result": 28 },
+        { "type": "subtraction", "x": 28, "y": 7 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "missingOperand","x": 93,"operator": "+","y": null, "result": 100 },
+        { "type": "subtraction", "x": 100, "y": 7 },
+        { "type": "missingOperand","x": 61,"operator": "+","y": null, "result": 68 },
+        { "type": "subtraction", "x": 68, "y": 7 },
+        { "type": "missingOperand","x": 32,"operator": "+","y": null, "result": 39 },
+        { "type": "subtraction", "x": 39, "y": 7 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "missingOperand","x": 25,"operator": "+","y": null, "result": 32 },
+        { "type": "subtraction", "x": 32, "y": 7 },
+        { "type": "missingOperand","x": 48,"operator": "+","y": null, "result": 55 },
+        { "type": "subtraction", "x": 55, "y": 7 },
+        { "type": "missingOperand","x": 74,"operator": "+","y": null, "result": 81 },
+        { "type": "subtraction", "x": 81, "y": 7 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 17, "y": 7 },
+        { "type": "subtraction", "x": 28, "y": 7 },
+        { "type": "subtraction", "x": 39, "y": 7 },
+        { "type": "subtraction", "x": 40, "y": 7 },
+        { "type": "subtraction", "x": 51, "y": 7 },
+        { "type": "subtraction", "x": 52, "y": 7 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 63, "y": 7 },
+        { "type": "subtraction", "x": 74, "y": 7 },
+        { "type": "subtraction", "x": 85, "y": 7 },
+        { "type": "subtraction", "x": 96, "y": 7 },
+        { "type": "subtraction", "x": 27, "y": 7 },
+        { "type": "subtraction", "x": 38, "y": 7 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 49, "y": 7 },
+        { "type": "subtraction", "x": 50, "y": 7 },
+        { "type": "subtraction", "x": 61, "y": 7 },
+        { "type": "subtraction", "x": 62, "y": 7 },
+        { "type": "subtraction", "x": 63, "y": 7 },
+        { "type": "subtraction", "x": 64, "y": 7 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 88, "y": 7 },
+        { "type": "subtraction", "x": 57, "y": 6 },
+        { "type": "subtraction", "x": 26, "y": 5 },
+        { "type": "subtraction", "x": 37, "y": 4 },
+        { "type": "subtraction", "x": 69, "y": 7 },
+        { "type": "subtraction", "x": 78, "y": 6 },
+        { "type": "subtraction", "x": 97, "y": 5 },
+        { "type": "subtraction", "x": 100, "y": 4 }
+      ]
+    }
+  ]
+}

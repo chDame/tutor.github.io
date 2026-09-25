@@ -1,0 +1,114 @@
+{
+  "id": "simple-subtractions-20-practice6",
+  "title": "Simple Subtractions (0 to 20) — Practice 6",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        { "type": "subtraction", "x": 4, "y": 4 },
+        { "type": "subtraction", "x": 4, "y": 2 },
+        { "type": "subtraction", "x": 2, "y": 2 },
+        { "type": "subtraction", "x": 5, "y": 4 },
+        { "type": "subtraction", "x": 5, "y": 2 },
+        { "type": "subtraction", "x": 3, "y": 2 },
+        { "type": "subtraction", "x": 6, "y": 4 },
+        { "type": "subtraction", "x": 6, "y": 3 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 7, "y": 4 },
+        { "type": "subtraction", "x": 7, "y": 2 },
+        { "type": "subtraction", "x": 5, "y": 2 },
+        { "type": "subtraction", "x": 8, "y": 4 },
+        { "type": "subtraction", "x": 8, "y": 2 },
+        { "type": "subtraction", "x": 6, "y": 2 },
+        { "type": "subtraction", "x": 9, "y": 4 },
+        { "type": "subtraction", "x": 9, "y": 3 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 9, "y": 4 },
+        { "type": "subtraction", "x": 9, "y": 3 },
+        { "type": "subtraction", "x": 10, "y": 4 },
+        { "type": "subtraction", "x": 10, "y": 3 },
+        { "type": "subtraction", "x": 11, "y": 4 },
+        { "type": "subtraction", "x": 11, "y": 3 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 12, "y": 4 },
+        { "type": "subtraction", "x": 12, "y": 3 },
+        { "type": "subtraction", "x": 13, "y": 4 },
+        { "type": "subtraction", "x": 13, "y": 3 },
+        { "type": "subtraction", "x": 14, "y": 4 },
+        { "type": "subtraction", "x": 14, "y": 3 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 15, "y": 4 },
+        { "type": "subtraction", "x": 15, "y": 3 },
+        { "type": "subtraction", "x": 16, "y": 4 },
+        { "type": "subtraction", "x": 16, "y": 3 },
+        { "type": "subtraction", "x": 17, "y": 4 },
+        { "type": "subtraction", "x": 17, "y": 3 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 18, "y": 4 },
+        { "type": "subtraction", "x": 18, "y": 3 },
+        { "type": "subtraction", "x": 19, "y": 4 },
+        { "type": "subtraction", "x": 19, "y": 3 },
+        { "type": "subtraction", "x": 20, "y": 4 },
+        { "type": "subtraction", "x": 20, "y": 3 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 4, "y": 4 },
+        { "type": "subtraction", "x": 5, "y": 4 },
+        { "type": "subtraction", "x": 6, "y": 4 },
+        { "type": "subtraction", "x": 7, "y": 4 },
+        { "type": "subtraction", "x": 8, "y": 4 },
+        { "type": "subtraction", "x": 9, "y": 4 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 10, "y": 4 },
+        { "type": "subtraction", "x": 11, "y": 4 },
+        { "type": "subtraction", "x": 12, "y": 4 },
+        { "type": "subtraction", "x": 13, "y": 4 },
+        { "type": "subtraction", "x": 14, "y": 4 },
+        { "type": "subtraction", "x": 15, "y": 4 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 16, "y": 4 },
+        { "type": "subtraction", "x": 17, "y": 4 },
+        { "type": "subtraction", "x": 18, "y": 4 },
+        { "type": "subtraction", "x": 19, "y": 4 },
+        { "type": "subtraction", "x": 20, "y": 4 },
+        { "type": "subtraction", "x": 21, "y": 4 }
+      ]
+    },
+    {
+      "items": [
+        { "type": "subtraction", "x": 6, "y": 4 },
+        { "type": "subtraction", "x": 5, "y": 3 },
+        { "type": "subtraction", "x": 4, "y": 2 },
+        { "type": "subtraction", "x": 3, "y": 1 },
+        { "type": "subtraction", "x": 19, "y": 4 },
+        { "type": "subtraction", "x": 18, "y": 3 },
+        { "type": "subtraction", "x": 17, "y": 2 },
+        { "type": "subtraction", "x": 16, "y": 1 }
+      ]
+    }
+  ]
+}
