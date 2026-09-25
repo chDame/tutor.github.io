@@ -13,7 +13,7 @@ export default function FirstLetterItem({ item, answer, onChange }: ItemProps<Fi
             maxLength={1}
             value={answer.value ?? ''}
             onChange={(e) => onChange({ value: e.target.value })}
-            aria-label="Première lettre"
+            aria-label={`First letter for ${item.wordSuffix}`}
           />
         </span>
         <span>{item.wordSuffix}</span>

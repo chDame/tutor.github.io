@@ -6,8 +6,8 @@
   "pages": [
     {
       "items": [
-        { "type": "firstLetter", "emoji": "🍎", "wordSuffix": "omme", "result": "p" },
-        { "type": "firstLetter", "emoji": "🚀", "wordSuffix": "usée", "result": "f" }
+        { "type": "firstLetter", "emoji": "🍞", "wordSuffix": "ain", "result": "p" },
+        { "type": "firstLetter", "emoji": "🐜", "wordSuffix": "ourmi", "result": "f" }
       ]
     }
   ]
