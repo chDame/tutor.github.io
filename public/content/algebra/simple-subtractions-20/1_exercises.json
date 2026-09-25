@@ -6,6 +6,14 @@
   "pages": [
     {
       "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Welcome to the substractions module!<br /><br/>You might think subtraction is something new and difficult, but guess what?<br /><br/>You have already been doing it! 🎉<br /><br/>Remember when you do additions like '3 + ? = 5' where you have to find the missing number?<br /><br/>Well, subtraction is just another way of asking the same question!<br />5 − 3 = ?<br />It means: “If I remove 3 from 5, what do I get? But it can also be phrased as: What do I add to 3 to get 5?”. Let's do it :<br />3 + ? = 5 => the answer is 2!<br />5 - 3 = ? => the answer is also 2!<br/><br/>So don't worry about subtraction, you already know how to do it.🚀</p>"
+        }
+      ]
+    },
+    {
+      "items": [
         { "type": "missingNumbers", "start": 4, "length": 5, "missingIndices": [0, 1, 2, 3] },
         { "type": "subtraction", "x": 1, "y": 1 },
         { "type": "subtraction", "x": 2, "y": 1 },
