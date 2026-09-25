@@ -7,7 +7,7 @@
     {
       "items": [
         { "type": "firstLetter", "emoji": "🔑", "wordSuffix": "lef", "result": "c" },
-        { "type": "firstLetter", "emoji": "🍪", "wordSuffix": "ookies", "result": "c" }
+        { "type": "firstLetter", "emoji": "🍪", "wordSuffix": "ookie", "result": "c" }
       ]
     }
   ]
