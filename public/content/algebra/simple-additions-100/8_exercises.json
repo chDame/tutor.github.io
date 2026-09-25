@@ -1,0 +1,1848 @@
+{
+  "id": "simple-additions-100-practice8",
+  "title": "Simple Additions (0 to 100) — Practice 8",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "missingOperand",
+          "x": 74,
+          "operator": "+",
+          "y": null,
+          "result": 90
+        },
+        {
+          "type": "addition",
+          "x": 68,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 69,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 68,
+          "y": 9
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 68,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 18
+        },
+        {
+          "type": "addition",
+          "x": 68,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 67,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 69,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 68,
+          "operator": "+",
+          "y": null,
+          "result": 76
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 69,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 19
+        },
+        {
+          "type": "addition",
+          "x": 69,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 68,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 69,
+          "operator": "+",
+          "y": null,
+          "result": 76
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 69,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 19
+        },
+        {
+          "type": "addition",
+          "x": 69,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 68,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 69,
+          "operator": "+",
+          "y": null,
+          "result": 77
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 20
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 69,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 70,
+          "operator": "+",
+          "y": null,
+          "result": 77
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 20
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 69,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 70,
+          "operator": "+",
+          "y": null,
+          "result": 78
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 21
+        },
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 72,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 71,
+          "operator": "+",
+          "y": null,
+          "result": 78
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 21
+        },
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 72,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 71,
+          "operator": "+",
+          "y": null,
+          "result": 79
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 72,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 22
+        },
+        {
+          "type": "addition",
+          "x": 72,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 72,
+          "operator": "+",
+          "y": null,
+          "result": 79
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 72,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 22
+        },
+        {
+          "type": "addition",
+          "x": 72,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 72,
+          "operator": "+",
+          "y": null,
+          "result": 80
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 23
+        },
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 72,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 73,
+          "operator": "+",
+          "y": null,
+          "result": 80
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 23
+        },
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 72,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 73,
+          "operator": "+",
+          "y": null,
+          "result": 81
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 24
+        },
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 75,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 74,
+          "operator": "+",
+          "y": null,
+          "result": 81
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 24
+        },
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 75,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 74,
+          "operator": "+",
+          "y": null,
+          "result": 82
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 75,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 25
+        },
+        {
+          "type": "addition",
+          "x": 75,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 75,
+          "operator": "+",
+          "y": null,
+          "result": 82
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 75,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 25
+        },
+        {
+          "type": "addition",
+          "x": 75,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 75,
+          "operator": "+",
+          "y": null,
+          "result": 83
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 26
+        },
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 75,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 77,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 76,
+          "operator": "+",
+          "y": null,
+          "result": 83
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 26
+        },
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 75,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 77,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 76,
+          "operator": "+",
+          "y": null,
+          "result": 84
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 77,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 27
+        },
+        {
+          "type": "addition",
+          "x": 77,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 77,
+          "operator": "+",
+          "y": null,
+          "result": 84
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 77,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 27
+        },
+        {
+          "type": "addition",
+          "x": 77,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 77,
+          "operator": "+",
+          "y": null,
+          "result": 85
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 28
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 77,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 78,
+          "operator": "+",
+          "y": null,
+          "result": 85
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 28
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 77,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 78,
+          "operator": "+",
+          "y": null,
+          "result": 86
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 29
+        },
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 79,
+          "operator": "+",
+          "y": null,
+          "result": 86
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 29
+        },
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 79,
+          "operator": "+",
+          "y": null,
+          "result": 87
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 30
+        },
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 81,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 80,
+          "operator": "+",
+          "y": null,
+          "result": 87
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 30
+        },
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 81,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 80,
+          "operator": "+",
+          "y": null,
+          "result": 88
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 81,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 31
+        },
+        {
+          "type": "addition",
+          "x": 81,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 81,
+          "operator": "+",
+          "y": null,
+          "result": 88
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 81,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 31
+        },
+        {
+          "type": "addition",
+          "x": 81,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 81,
+          "operator": "+",
+          "y": null,
+          "result": 89
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 32
+        },
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 81,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 83,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 82,
+          "operator": "+",
+          "y": null,
+          "result": 89
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 32
+        },
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 81,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 83,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 82,
+          "operator": "+",
+          "y": null,
+          "result": 90
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 83,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 33
+        },
+        {
+          "type": "addition",
+          "x": 83,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 83,
+          "operator": "+",
+          "y": null,
+          "result": 90
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 83,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 33
+        },
+        {
+          "type": "addition",
+          "x": 83,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 83,
+          "operator": "+",
+          "y": null,
+          "result": 91
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 34
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 83,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 84,
+          "operator": "+",
+          "y": null,
+          "result": 91
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 34
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 83,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 84,
+          "operator": "+",
+          "y": null,
+          "result": 92
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 35
+        },
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 86,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 85,
+          "operator": "+",
+          "y": null,
+          "result": 92
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 35
+        },
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 86,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 85,
+          "operator": "+",
+          "y": null,
+          "result": 93
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 86,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 36
+        },
+        {
+          "type": "addition",
+          "x": 86,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 87,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 86,
+          "operator": "+",
+          "y": null,
+          "result": 93
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 86,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 36
+        },
+        {
+          "type": "addition",
+          "x": 86,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 87,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 86,
+          "operator": "+",
+          "y": null,
+          "result": 94
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 87,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 37
+        },
+        {
+          "type": "addition",
+          "x": 87,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 86,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 87,
+          "operator": "+",
+          "y": null,
+          "result": 94
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 87,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 37
+        },
+        {
+          "type": "addition",
+          "x": 87,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 86,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 87,
+          "operator": "+",
+          "y": null,
+          "result": 95
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 38
+        },
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 87,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 89,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 88,
+          "operator": "+",
+          "y": null,
+          "result": 95
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 38
+        },
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 87,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 89,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 88,
+          "operator": "+",
+          "y": null,
+          "result": 96
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 89,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 39
+        },
+        {
+          "type": "addition",
+          "x": 89,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 89,
+          "operator": "+",
+          "y": null,
+          "result": 96
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 89,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 39
+        },
+        {
+          "type": "addition",
+          "x": 89,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 89,
+          "operator": "+",
+          "y": null,
+          "result": 97
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 40
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 89,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 90,
+          "operator": "+",
+          "y": null,
+          "result": 97
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 40
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 89,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 90,
+          "operator": "+",
+          "y": null,
+          "result": 98
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 41
+        },
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 92,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 91,
+          "operator": "+",
+          "y": null,
+          "result": 98
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 41
+        },
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 92,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 91,
+          "operator": "+",
+          "y": null,
+          "result": 99
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 92,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 42
+        },
+        {
+          "type": "addition",
+          "x": 92,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 93,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 92,
+          "operator": "+",
+          "y": null,
+          "result": 99
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 92,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 58,
+          "y": 42
+        },
+        {
+          "type": "addition",
+          "x": 92,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 93,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 92,
+          "operator": "+",
+          "y": null,
+          "result": 100
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 93,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 57,
+          "y": 43
+        },
+        {
+          "type": "addition",
+          "x": 93,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 92,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 94,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 93,
+          "operator": "+",
+          "y": null,
+          "result": 100
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "problem",
+          "question": "If Ana has 89 marbles and gets 8 more, how many marbles does Ana have now?",
+          "result": 97
+        },
+        {
+          "type": "problem",
+          "question": "If Leo has 90 marbles and gets 9 more, how many marbles does Leo have now?",
+          "result": 99
+        }
+      ]
+    }
+  ]
+}

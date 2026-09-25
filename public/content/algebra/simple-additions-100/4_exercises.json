@@ -1,0 +1,362 @@
+{
+  "id": "simple-additions-100-practice4",
+  "title": "Simple Additions (0 to 100) — Practice 4",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 96,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 97,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 96,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 96,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 97,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 96,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 89,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 89,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 88,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 67,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 68,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 67,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 67,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 68,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 67,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 97,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 98,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 97,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 97,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 98,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 97,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 99,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 100,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 99,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 99,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 100,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 99,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "problem",
+          "question": "If Ana has 75 marbles and gets 6 more, how many marbles does Ana have now?",
+          "result": 81
+        },
+        {
+          "type": "problem",
+          "question": "If Leo has 96 marbles and gets 7 more, how many marbles does Leo have now?",
+          "result": 103
+        }
+      ]
+    }
+  ]
+}

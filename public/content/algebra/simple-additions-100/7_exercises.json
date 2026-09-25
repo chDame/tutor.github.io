@@ -1,0 +1,392 @@
+{
+  "id": "simple-additions-100-practice7",
+  "title": "Simple Additions (0 to 100) — Practice 7",
+  "evaluation": false,
+  "difficulty": 5,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 92,
+          "y": 9
+        },
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 10
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 9
+        },
+        {
+          "type": "addition",
+          "x": 63,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 72,
+          "operator": "+",
+          "y": null,
+          "result": 80
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 65,
+          "y": 9
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 77,
+          "y": 9
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 94,
+          "y": 9
+        },
+        {
+          "type": "missingOperand",
+          "x": 71,
+          "operator": "+",
+          "y": null,
+          "result": 80
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 95,
+          "y": 9
+        },
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 81,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 7
+        },
+        {
+          "type": "missingOperand",
+          "x": 83,
+          "operator": "+",
+          "y": null,
+          "result": 90
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 9
+        },
+        {
+          "type": "addition",
+          "x": 94,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 91,
+          "y": 6
+        },
+        {
+          "type": "missingOperand",
+          "x": 84,
+          "operator": "+",
+          "y": null,
+          "result": 92
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 78,
+          "y": 9
+        },
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 94,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 65,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 73,
+          "y": 9
+        },
+        {
+          "type": "missingOperand",
+          "x": 73,
+          "operator": "+",
+          "y": null,
+          "result": 82
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 69,
+          "y": 9
+        },
+        {
+          "type": "addition",
+          "x": 95,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 10
+        },
+        {
+          "type": "addition",
+          "x": 82,
+          "y": 6
+        },
+        {
+          "type": "addition",
+          "x": 98,
+          "y": 5
+        },
+        {
+          "type": "missingOperand",
+          "x": 84,
+          "operator": "+",
+          "y": null,
+          "result": 93
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 60,
+          "y": 10
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 10
+        },
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 10
+        },
+        {
+          "type": "addition",
+          "x": 90,
+          "y": 10
+        },
+        {
+          "type": "addition",
+          "x": 100,
+          "y": 10
+        },
+        {
+          "type": "missingOperand",
+          "x": 60,
+          "operator": "+",
+          "y": null,
+          "result": 70
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 55,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 60,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 65,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 75,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 5
+        },
+        {
+          "type": "missingOperand",
+          "x": 95,
+          "operator": "+",
+          "y": null,
+          "result": 100
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 79,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 83,
+          "y": 9
+        },
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 7
+        },
+        {
+          "type": "addition",
+          "x": 72,
+          "y": 5
+        },
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 3
+        },
+        {
+          "type": "missingOperand",
+          "x": 80,
+          "operator": "+",
+          "y": null,
+          "result": 85
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "addition",
+          "x": 92,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 87,
+          "y": 3
+        },
+        {
+          "type": "addition",
+          "x": 72,
+          "y": 8
+        },
+        {
+          "type": "addition",
+          "x": 66,
+          "y": 4
+        },
+        {
+          "type": "addition",
+          "x": 61,
+          "y": 9
+        },
+        {
+          "type": "missingOperand",
+          "x": 73,
+          "operator": "+",
+          "y": null,
+          "result": 80
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "problem",
+          "question": "If Ana has 73 stickers and gets 7 more, how many stickers does Ana have now?",
+          "result": 80
+        },
+        {
+          "type": "problem",
+          "question": "If Leo has 95 stickers and gets 5 more, how many stickers does Leo have now?",
+          "result": 100
+        }
+      ]
+    }
+  ]
+}
