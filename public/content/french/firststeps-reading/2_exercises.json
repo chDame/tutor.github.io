@@ -8,7 +8,103 @@
       "items": [
         {
           "type": "explanation",
-          "html": "<p>Découvrons 10 consonnes : <strong>B, C, D, F, G, L, M, N, P, R</strong>.</p><p><strong>B</strong> : <span style=\"font-size:64px\">⛵ 🎈</span> bateau, ballon</p><p><strong>C</strong> : <span style=\"font-size:64px\">🔑 🍪</span> clef, cookie</p>"
+          "html": "<p>Découvrons 8 consonnes : <strong>B, C, D, F, G, L, M, N</strong>.</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p><strong>B</strong>ateau  <span style=\"font-size:64px\">⛵</span></p>"
+        },
+        {
+          "type": "explanation",
+          "html": "<p><strong>B</strong>allon  <span style=\"font-size:64px\">🎈</span></p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p><strong>C</strong>actus  <span style=\"font-size:64px\">🌵</span></p>"
+        },
+        {
+          "type": "explanation",
+          "html": "<p><strong>C</strong>ookie  <span style=\"font-size:64px\">🍪</span></p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p><strong>D</strong>ragon  <span style=\"font-size:64px\">🐉</span></p>"
+        },
+        {
+          "type": "explanation",
+          "html": "<p><strong>D</strong>auphin  <span style=\"font-size:64px\">🐬</span></p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p><strong>F</strong>lamant  <span style=\"font-size:64px\">🦩</span></p>"
+        },
+        {
+          "type": "explanation",
+          "html": "<p><strong>F</strong>euille  <span style=\"font-size:64px\">🍃</span></p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p><strong>G</strong>orille  <span style=\"font-size:64px\">🦍</span></p>"
+        },
+        {
+          "type": "explanation",
+          "html": "<p><strong>G</strong>renouille  <span style=\"font-size:64px\">🐸</span></p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p><strong>L</strong>ion  <span style=\"font-size:64px\">🦁</span></p>"
+        },
+        {
+          "type": "explanation",
+          "html": "<p><strong>L</strong>ampe  <span style=\"font-size:64px\">💡</span></p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p><strong>M</strong>outon  <span style=\"font-size:64px\">🐑</span></p>"
+        },
+        {
+          "type": "explanation",
+          "html": "<p><strong>M</strong>aison  <span style=\"font-size:64px\">🏠</span></p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p><strong>N</strong>eige  <span style=\"font-size:64px\">❄️</span></p>"
+        },
+        {
+          "type": "explanation",
+          "html": "<p><strong>N</strong>uage  <span style=\"font-size:64px\">☁️</span></p>"
         }
       ]
     }
