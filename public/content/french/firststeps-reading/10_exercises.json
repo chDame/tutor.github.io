@@ -66,14 +66,14 @@
     },
     {
       "items": [
-        { "type": "firstLetter", "emoji": "🥋", "wordSuffix": "niforme", "result": "u" },
+        { "type": "firstLetter", "emoji": "🏭", "wordSuffix": "sine", "result": "u" },
         { "type": "firstLetter", "emoji": "🚲", "wordSuffix": "élo", "result": "v" }
       ]
     },
     {
       "items": [
-        { "type": "firstLetter", "emoji": "🧇", "wordSuffix": "affle", "result": "w" },
-        { "type": "firstLetter", "emoji": "🩻", "wordSuffix": "ray", "result": "x" }
+        { "type": "firstLetter", "emoji": "🚃", "wordSuffix": "agon", "result": "w" },
+        { "type": "firstLetter", "emoji": "🎼", "wordSuffix": "ylophone", "result": "x" }
       ]
     },
     {
