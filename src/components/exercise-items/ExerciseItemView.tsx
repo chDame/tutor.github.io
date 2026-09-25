@@ -12,6 +12,7 @@ import MissingNumbersItem from './MissingNumbersItem'
 import DiscoverNumberItem from './DiscoverNumberItem'
 import MissingOperandItem from './MissingOperandItem'
 import ExplanationItem from './ExplanationItem'
+import FirstLetterItem from './FirstLetterItem'
 
 interface Props {
   item: ExerciseItem
@@ -54,5 +55,7 @@ export default function ExerciseItemView({ item, answer, onChange }: Props) {
       return <EquationItem item={item} answer={answer} onChange={onChange} />
     case 'problem':
       return <ProblemItem item={item} answer={answer} onChange={onChange} />
+    case 'firstLetter':
+      return <FirstLetterItem item={item} answer={answer} onChange={onChange} />
   }
 }

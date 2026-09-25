@@ -1,0 +1,14 @@
+{
+  "id": "firststeps-reading-practice4",
+  "title": "Premiers pas en lecture — Exercice 4",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🛩️", "wordSuffix": "vion", "result": "a" },
+        { "type": "firstLetter", "emoji": "🌳", "wordSuffix": "rbre", "result": "a" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "firststeps-reading-practice7",
+  "title": "Premiers pas en lecture — Exercice 7",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🔑", "wordSuffix": "lef", "result": "c" },
+        { "type": "firstLetter", "emoji": "🍪", "wordSuffix": "ookies", "result": "c" }
+      ]
+    }
+  ]
+}

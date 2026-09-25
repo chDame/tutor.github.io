@@ -1,0 +1,14 @@
+{
+  "id": "firststeps-reading-practice5",
+  "title": "Premiers pas en lecture — Exercice 5",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🐌", "wordSuffix": "scargot", "result": "e" },
+        { "type": "firstLetter", "emoji": "🧗", "wordSuffix": "scalade", "result": "e" }
+      ]
+    }
+  ]
+}

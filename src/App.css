@@ -368,12 +368,20 @@
   min-height: 120px;
 }
 .item-box.problem,
+.item-box.first-letter,
 .item-box.counting,
 .item-box.missingNumbers,
 .item-box.discover-number,
 .item-box.explanation {
   grid-column: 1 / -1;
   align-items: flex-start;
+}
+.first-letter-prompt {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 28px;
+  font-weight: 700;
 }
 .item-box.explanation {
   display: block;

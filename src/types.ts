@@ -19,6 +19,7 @@ export type ExerciseItem =
   | { id: string; type: 'fractionAddition' | 'fractionSubtraction'; x: Fraction; y: Fraction; result: Fraction }
   | { id: string; type: 'equation'; equation: string; result: number }
   | { id: string; type: 'problem'; question: string; result: number }
+  | { id: string; type: 'firstLetter'; emoji: string; wordSuffix: string; result: string }
   | { id: string; type: 'counting'; countingElement: string; result: number }
   | { id: string; type: 'missingNumbers'; start: number; length: number; missingIndices: number[] }
   | { id: string; type: 'discoverNumber'; from: number; to: number; displayElements: boolean; countingElement: string }

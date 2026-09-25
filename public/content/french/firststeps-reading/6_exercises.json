@@ -1,0 +1,14 @@
+{
+  "id": "firststeps-reading-practice6",
+  "title": "Premiers pas en lecture — Exercice 6",
+  "evaluation": false,
+  "difficulty": 1,
+  "pages": [
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "⛵", "wordSuffix": "ateau", "result": "b" },
+        { "type": "firstLetter", "emoji": "🎈", "wordSuffix": "allon", "result": "b" }
+      ]
+    }
+  ]
+}
