@@ -1,6 +1,6 @@
 {
   "id": "addOneTo10-evaluation",
-  "title": "Add One to 10 \u2014 Evaluation",
+  "title": "Add One to 10 — Evaluation",
   "evaluation": true,
   "difficulty": 1,
   "pages": [
@@ -13,20 +13,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 1,
-          "id": "2"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 1,
-          "id": "3"
+          "y": 1
         }
       ]
     },
@@ -39,20 +36,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "5"
+          ]
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 1,
-          "id": "6"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 1,
-          "id": "7"
+          "y": 1
         }
       ]
     },
@@ -65,20 +59,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "9"
+          ]
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 1,
-          "id": "10"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 1,
-          "id": "11"
+          "y": 1
         }
       ]
     },
@@ -91,20 +82,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "13"
+          ]
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 1,
-          "id": "14"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 8,
-          "y": 1,
-          "id": "15"
+          "y": 1
         }
       ]
     },
@@ -117,20 +105,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "17"
+          ]
         },
         {
           "type": "addition",
           "x": 8,
-          "y": 1,
-          "id": "18"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 9,
-          "y": 1,
-          "id": "19"
+          "y": 1
         }
       ]
     },
@@ -139,8 +124,7 @@
         {
           "type": "problem",
           "question": "If Nina was 9 years old and has a birthday, how old will she be?",
-          "result": 10,
-          "id": "21"
+          "result": 10
         }
       ]
     }

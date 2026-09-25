@@ -1,6 +1,6 @@
 {
   "id": "addOneTo10-practice3",
-  "title": "Add One to 10 \u2014 Practice 3",
+  "title": "Add One to 10 — Practice 3",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
@@ -13,20 +13,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 1,
-          "id": "2"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 1,
-          "id": "3"
+          "y": 1
         }
       ]
     },
@@ -39,20 +36,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "4"
+          ]
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 1,
-          "id": "5"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 1,
-          "id": "6"
+          "y": 1
         }
       ]
     },
@@ -65,20 +59,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "7"
+          ]
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 1,
-          "id": "8"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 1,
-          "id": "9"
+          "y": 1
         }
       ]
     },
@@ -87,8 +78,7 @@
         {
           "type": "problem",
           "question": "If Ana has 4 dolls and her mum gives her another one, how many will she have in total?",
-          "result": 5,
-          "id": "10"
+          "result": 5
         }
       ]
     }

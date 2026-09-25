@@ -1,21 +1,19 @@
 {
   "id": "basic20-evaluation",
-  "title": "Numbers from 11 to 20 \u2014 Evaluation",
+  "title": "Numbers from 11 to 20 — Evaluation",
   "evaluation": true,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "counting",
-          "countingElement": "\ud83c\udf4e",
+          "countingElement": "🍎",
           "result": 15
         },
         {
-          "id": "2",
           "type": "counting",
-          "countingElement": "\ud83c\udf81",
+          "countingElement": "🎁",
           "result": 20
         }
       ]
@@ -23,15 +21,13 @@
     {
       "items": [
         {
-          "id": "3",
           "type": "counting",
-          "countingElement": "\ud83c\udf38",
+          "countingElement": "🌸",
           "result": 19
         },
         {
-          "id": "4",
           "type": "counting",
-          "countingElement": "\ud83c\udf39",
+          "countingElement": "🌹",
           "result": 18
         }
       ]
@@ -39,15 +35,13 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "counting",
-          "countingElement": "\ud83c\udf44",
+          "countingElement": "🍄",
           "result": 16
         },
         {
-          "id": "6",
           "type": "counting",
-          "countingElement": "\ud83c\udf32",
+          "countingElement": "🌲",
           "result": 17
         }
       ]
@@ -55,15 +49,13 @@
     {
       "items": [
         {
-          "id": "7",
           "type": "counting",
-          "countingElement": "\ud83c\udf3b",
+          "countingElement": "🌻",
           "result": 14
         },
         {
-          "id": "8",
           "type": "counting",
-          "countingElement": "\ud83c\udf3d",
+          "countingElement": "🌽",
           "result": 13
         }
       ]
@@ -71,7 +63,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "missingNumbers",
           "start": 15,
           "length": 5,
@@ -85,15 +76,13 @@
     {
       "items": [
         {
-          "id": "10",
           "type": "counting",
-          "countingElement": "\ud83c\udf4d",
+          "countingElement": "🍍",
           "result": 12
         },
         {
-          "id": "11",
           "type": "counting",
-          "countingElement": "\ud83c\udf53",
+          "countingElement": "🍓",
           "result": 11
         }
       ]

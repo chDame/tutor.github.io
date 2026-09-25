@@ -1,6 +1,6 @@
 {
   "id": "addOneTo10-practice2",
-  "title": "Add One to 10 \u2014 Practice 2",
+  "title": "Add One to 10 — Practice 2",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
@@ -13,20 +13,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 1,
-          "id": "2"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 1,
-          "id": "3"
+          "y": 1
         }
       ]
     },
@@ -39,20 +36,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "4"
+          ]
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 1,
-          "id": "5"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 1,
-          "id": "6"
+          "y": 1
         }
       ]
     },
@@ -65,20 +59,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "7"
+          ]
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 1,
-          "id": "8"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 1,
-          "id": "9"
+          "y": 1
         }
       ]
     },
@@ -87,8 +78,7 @@
         {
           "type": "problem",
           "question": "If Paul has 3 marbles today, how many will he have after getting 1 more?",
-          "result": 4,
-          "id": "10"
+          "result": 4
         }
       ]
     }

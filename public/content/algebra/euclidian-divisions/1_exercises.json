@@ -1,13 +1,12 @@
 {
   "id": "euclidian-divisions-practice1",
-  "title": "Euclidian Divisions \u2014 Practice 1",
+  "title": "Euclidian Divisions — Practice 1",
   "evaluation": false,
   "difficulty": 3,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "euclidianDivision",
           "x": 72,
           "y": 6,
@@ -15,7 +14,6 @@
           "remainder": 0
         },
         {
-          "id": "2",
           "type": "euclidianDivision",
           "x": 32,
           "y": 7,
@@ -23,7 +21,6 @@
           "remainder": 4
         },
         {
-          "id": "3",
           "type": "euclidianDivision",
           "x": 37,
           "y": 3,
@@ -31,7 +28,6 @@
           "remainder": 1
         },
         {
-          "id": "4",
           "type": "euclidianDivision",
           "x": 43,
           "y": 5,
@@ -43,7 +39,6 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "euclidianDivision",
           "x": 32,
           "y": 3,
@@ -51,7 +46,6 @@
           "remainder": 2
         },
         {
-          "id": "6",
           "type": "euclidianDivision",
           "x": 110,
           "y": 9,
@@ -59,7 +53,6 @@
           "remainder": 2
         },
         {
-          "id": "7",
           "type": "euclidianDivision",
           "x": 60,
           "y": 6,
@@ -67,7 +60,6 @@
           "remainder": 0
         },
         {
-          "id": "8",
           "type": "euclidianDivision",
           "x": 18,
           "y": 5,
@@ -79,7 +71,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "euclidianDivision",
           "x": 41,
           "y": 4,
@@ -87,7 +78,6 @@
           "remainder": 1
         },
         {
-          "id": "10",
           "type": "euclidianDivision",
           "x": 53,
           "y": 7,
@@ -95,7 +85,6 @@
           "remainder": 4
         },
         {
-          "id": "11",
           "type": "euclidianDivision",
           "x": 48,
           "y": 9,
@@ -103,7 +92,6 @@
           "remainder": 3
         },
         {
-          "id": "12",
           "type": "euclidianDivision",
           "x": 23,
           "y": 6,
@@ -115,7 +103,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "euclidianDivision",
           "x": 28,
           "y": 9,
@@ -123,7 +110,6 @@
           "remainder": 1
         },
         {
-          "id": "14",
           "type": "euclidianDivision",
           "x": 55,
           "y": 6,
@@ -131,7 +117,6 @@
           "remainder": 1
         },
         {
-          "id": "15",
           "type": "euclidianDivision",
           "x": 25,
           "y": 8,
@@ -139,7 +124,6 @@
           "remainder": 1
         },
         {
-          "id": "16",
           "type": "euclidianDivision",
           "x": 17,
           "y": 7,
@@ -151,7 +135,6 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "euclidianDivision",
           "x": 99,
           "y": 9,
@@ -159,7 +142,6 @@
           "remainder": 0
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Josh has 48 marbles to share equally among 8 friends. How many marbles does each friend get?",
           "result": 6

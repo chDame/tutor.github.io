@@ -1,13 +1,12 @@
 {
   "id": "euclidian-divisions-practice3",
-  "title": "Euclidian Divisions \u2014 Practice 3",
+  "title": "Euclidian Divisions — Practice 3",
   "evaluation": false,
   "difficulty": 3,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "euclidianDivision",
           "x": 21,
           "y": 2,
@@ -15,7 +14,6 @@
           "remainder": 1
         },
         {
-          "id": "2",
           "type": "euclidianDivision",
           "x": 23,
           "y": 2,
@@ -23,7 +21,6 @@
           "remainder": 1
         },
         {
-          "id": "3",
           "type": "euclidianDivision",
           "x": 11,
           "y": 2,
@@ -31,7 +28,6 @@
           "remainder": 1
         },
         {
-          "id": "4",
           "type": "euclidianDivision",
           "x": 94,
           "y": 8,
@@ -43,7 +39,6 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "euclidianDivision",
           "x": 58,
           "y": 8,
@@ -51,7 +46,6 @@
           "remainder": 2
         },
         {
-          "id": "6",
           "type": "euclidianDivision",
           "x": 30,
           "y": 4,
@@ -59,7 +53,6 @@
           "remainder": 2
         },
         {
-          "id": "7",
           "type": "euclidianDivision",
           "x": 7,
           "y": 2,
@@ -67,7 +60,6 @@
           "remainder": 1
         },
         {
-          "id": "8",
           "type": "euclidianDivision",
           "x": 103,
           "y": 9,
@@ -79,7 +71,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "euclidianDivision",
           "x": 101,
           "y": 8,
@@ -87,7 +78,6 @@
           "remainder": 5
         },
         {
-          "id": "10",
           "type": "euclidianDivision",
           "x": 28,
           "y": 3,
@@ -95,7 +85,6 @@
           "remainder": 1
         },
         {
-          "id": "11",
           "type": "euclidianDivision",
           "x": 14,
           "y": 2,
@@ -103,7 +92,6 @@
           "remainder": 0
         },
         {
-          "id": "12",
           "type": "euclidianDivision",
           "x": 59,
           "y": 7,
@@ -115,7 +103,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "euclidianDivision",
           "x": 45,
           "y": 9,
@@ -123,7 +110,6 @@
           "remainder": 0
         },
         {
-          "id": "14",
           "type": "euclidianDivision",
           "x": 10,
           "y": 3,
@@ -131,7 +117,6 @@
           "remainder": 1
         },
         {
-          "id": "15",
           "type": "euclidianDivision",
           "x": 64,
           "y": 7,
@@ -139,7 +124,6 @@
           "remainder": 1
         },
         {
-          "id": "16",
           "type": "euclidianDivision",
           "x": 19,
           "y": 3,
@@ -151,7 +135,6 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "euclidianDivision",
           "x": 62,
           "y": 5,
@@ -159,7 +142,6 @@
           "remainder": 2
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Josh has 40 coins to share equally among 5 friends. How many coins does each friend get?",
           "result": 8

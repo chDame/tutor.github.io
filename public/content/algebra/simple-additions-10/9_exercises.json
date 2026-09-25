@@ -1,38 +1,32 @@
 {
   "id": "simple-additions-10-practice9",
-  "title": "Simple Additions (0 to 10) \u2014 Practice 9",
+  "title": "Simple Additions (0 to 10) — Practice 9",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 1,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "1"
+          "type": "missingOperand",
+          "x": 8,
+          "operator": "+",
+          "y": null,
+          "result": 10
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 8,
-          "id": "2"
+          "y": 8
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 8,
-          "id": "3"
+          "y": 8
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 9,
-          "id": "4"
+          "y": 9
         }
       ]
     },
@@ -41,40 +35,34 @@
         {
           "type": "addition",
           "x": 1,
-          "y": 8,
-          "id": "5"
+          "y": 8
         },
         {
           "type": "addition",
           "x": 8,
-          "y": 1,
-          "id": "6"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 7,
-          "id": "7"
+          "y": 7
         },
         {
           "type": "addition",
           "x": 0,
-          "y": 8,
-          "id": "8"
+          "y": 8
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 7,
-          "id": "9"
+          "y": 7
         },
         {
           "type": "missingOperand",
           "x": 1,
           "operator": "+",
           "y": null,
-          "result": 9,
-          "id": "10"
+          "result": 9
         }
       ]
     },
@@ -83,40 +71,34 @@
         {
           "type": "addition",
           "x": 1,
-          "y": 7,
-          "id": "11"
+          "y": 7
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 1,
-          "id": "12"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 6,
-          "id": "13"
+          "y": 6
         },
         {
           "type": "addition",
           "x": 0,
-          "y": 7,
-          "id": "14"
+          "y": 7
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 6,
-          "id": "15"
+          "y": 6
         },
         {
           "type": "missingOperand",
           "x": 1,
           "operator": "+",
           "y": null,
-          "result": 8,
-          "id": "16"
+          "result": 8
         }
       ]
     },
@@ -125,40 +107,34 @@
         {
           "type": "addition",
           "x": 1,
-          "y": 6,
-          "id": "17"
+          "y": 6
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 1,
-          "id": "18"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 5,
-          "id": "19"
+          "y": 5
         },
         {
           "type": "addition",
           "x": 0,
-          "y": 6,
-          "id": "20"
+          "y": 6
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 5,
-          "id": "21"
+          "y": 5
         },
         {
           "type": "missingOperand",
           "x": 1,
           "operator": "+",
           "y": null,
-          "result": 7,
-          "id": "22"
+          "result": 7
         }
       ]
     },
@@ -167,40 +143,34 @@
         {
           "type": "addition",
           "x": 1,
-          "y": 5,
-          "id": "23"
+          "y": 5
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 1,
-          "id": "24"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 4,
-          "id": "25"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 0,
-          "y": 5,
-          "id": "26"
+          "y": 5
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 4,
-          "id": "27"
+          "y": 4
         },
         {
           "type": "missingOperand",
           "x": 1,
           "operator": "+",
           "y": null,
-          "result": 6,
-          "id": "28"
+          "result": 6
         }
       ]
     },
@@ -209,40 +179,34 @@
         {
           "type": "addition",
           "x": 2,
-          "y": 8,
-          "id": "29"
+          "y": 8
         },
         {
           "type": "addition",
           "x": 8,
-          "y": 2,
-          "id": "30"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 7,
-          "id": "31"
+          "y": 7
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 8,
-          "id": "32"
+          "y": 8
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 7,
-          "id": "33"
+          "y": 7
         },
         {
           "type": "missingOperand",
           "x": 2,
           "operator": "+",
           "y": null,
-          "result": 10,
-          "id": "34"
+          "result": 10
         }
       ]
     },
@@ -251,40 +215,34 @@
         {
           "type": "addition",
           "x": 2,
-          "y": 7,
-          "id": "35"
+          "y": 7
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 2,
-          "id": "36"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 6,
-          "id": "37"
+          "y": 6
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 7,
-          "id": "38"
+          "y": 7
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 6,
-          "id": "39"
+          "y": 6
         },
         {
           "type": "missingOperand",
           "x": 2,
           "operator": "+",
           "y": null,
-          "result": 9,
-          "id": "40"
+          "result": 9
         }
       ]
     },
@@ -293,40 +251,34 @@
         {
           "type": "addition",
           "x": 2,
-          "y": 6,
-          "id": "41"
+          "y": 6
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 2,
-          "id": "42"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 5,
-          "id": "43"
+          "y": 5
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 6,
-          "id": "44"
+          "y": 6
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 5,
-          "id": "45"
+          "y": 5
         },
         {
           "type": "missingOperand",
           "x": 2,
           "operator": "+",
           "y": null,
-          "result": 8,
-          "id": "46"
+          "result": 8
         }
       ]
     },
@@ -335,40 +287,34 @@
         {
           "type": "addition",
           "x": 2,
-          "y": 5,
-          "id": "47"
+          "y": 5
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 2,
-          "id": "48"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 4,
-          "id": "49"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 5,
-          "id": "50"
+          "y": 5
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 4,
-          "id": "51"
+          "y": 4
         },
         {
           "type": "missingOperand",
           "x": 2,
           "operator": "+",
           "y": null,
-          "result": 7,
-          "id": "52"
+          "result": 7
         }
       ]
     },
@@ -377,40 +323,34 @@
         {
           "type": "addition",
           "x": 3,
-          "y": 7,
-          "id": "53"
+          "y": 7
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 3,
-          "id": "54"
+          "y": 3
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 6,
-          "id": "55"
+          "y": 6
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 7,
-          "id": "56"
+          "y": 7
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 6,
-          "id": "57"
+          "y": 6
         },
         {
           "type": "missingOperand",
           "x": 3,
           "operator": "+",
           "y": null,
-          "result": 10,
-          "id": "58"
+          "result": 10
         }
       ]
     },
@@ -419,40 +359,34 @@
         {
           "type": "addition",
           "x": 3,
-          "y": 6,
-          "id": "59"
+          "y": 6
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 3,
-          "id": "60"
+          "y": 3
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 5,
-          "id": "61"
+          "y": 5
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 6,
-          "id": "62"
+          "y": 6
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 5,
-          "id": "63"
+          "y": 5
         },
         {
           "type": "missingOperand",
           "x": 3,
           "operator": "+",
           "y": null,
-          "result": 9,
-          "id": "64"
+          "result": 9
         }
       ]
     },
@@ -461,14 +395,12 @@
         {
           "type": "problem",
           "question": "If Ana has 0 stickers and gets 8 more, how many stickers does Ana have now?",
-          "result": 8,
-          "id": "65"
+          "result": 8
         },
         {
           "type": "problem",
           "question": "If Leo has 1 stickers and gets 9 more, how many stickers does Leo have now?",
-          "result": 10,
-          "id": "66"
+          "result": 10
         }
       ]
     }

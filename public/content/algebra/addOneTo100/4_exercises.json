@@ -1,6 +1,6 @@
 {
   "id": "addOneTo100-practice4",
-  "title": "Add One to 100 \u2014 Practice 4",
+  "title": "Add One to 100 — Practice 4",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
@@ -13,28 +13,34 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "addition",
           "x": 68,
-          "y": 1,
-          "id": "2"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 69,
-          "y": 1,
-          "id": "3"
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 70,
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 71,
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 68,
           "operator": "+",
           "y": null,
-          "result": 69,
-          "id": "4"
+          "result": 69
         }
       ]
     },
@@ -47,28 +53,34 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "5"
+          ]
         },
         {
           "type": "addition",
           "x": 74,
-          "y": 1,
-          "id": "6"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 75,
-          "y": 1,
-          "id": "7"
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 76,
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 77,
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 74,
           "operator": "+",
           "y": null,
-          "result": 75,
-          "id": "8"
+          "result": 75
         }
       ]
     },
@@ -81,28 +93,34 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "9"
+          ]
         },
         {
           "type": "addition",
           "x": 82,
-          "y": 1,
-          "id": "10"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 83,
-          "y": 1,
-          "id": "11"
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 84,
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 85,
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 82,
           "operator": "+",
           "y": null,
-          "result": 83,
-          "id": "12"
+          "result": 83
         }
       ]
     }

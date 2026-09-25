@@ -1,13 +1,12 @@
 {
   "id": "euclidian-divisions-practice2",
-  "title": "Euclidian Divisions \u2014 Practice 2",
+  "title": "Euclidian Divisions — Practice 2",
   "evaluation": false,
   "difficulty": 3,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "euclidianDivision",
           "x": 77,
           "y": 7,
@@ -15,7 +14,6 @@
           "remainder": 0
         },
         {
-          "id": "2",
           "type": "euclidianDivision",
           "x": 82,
           "y": 8,
@@ -23,7 +21,6 @@
           "remainder": 2
         },
         {
-          "id": "3",
           "type": "euclidianDivision",
           "x": 19,
           "y": 5,
@@ -31,7 +28,6 @@
           "remainder": 4
         },
         {
-          "id": "4",
           "type": "euclidianDivision",
           "x": 28,
           "y": 4,
@@ -43,7 +39,6 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "euclidianDivision",
           "x": 52,
           "y": 7,
@@ -51,7 +46,6 @@
           "remainder": 3
         },
         {
-          "id": "6",
           "type": "euclidianDivision",
           "x": 33,
           "y": 9,
@@ -59,7 +53,6 @@
           "remainder": 6
         },
         {
-          "id": "7",
           "type": "euclidianDivision",
           "x": 80,
           "y": 9,
@@ -67,7 +60,6 @@
           "remainder": 8
         },
         {
-          "id": "8",
           "type": "euclidianDivision",
           "x": 23,
           "y": 5,
@@ -79,7 +71,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "euclidianDivision",
           "x": 43,
           "y": 6,
@@ -87,7 +78,6 @@
           "remainder": 1
         },
         {
-          "id": "10",
           "type": "euclidianDivision",
           "x": 90,
           "y": 7,
@@ -95,7 +85,6 @@
           "remainder": 6
         },
         {
-          "id": "11",
           "type": "euclidianDivision",
           "x": 71,
           "y": 8,
@@ -103,7 +92,6 @@
           "remainder": 7
         },
         {
-          "id": "12",
           "type": "euclidianDivision",
           "x": 93,
           "y": 9,
@@ -115,7 +103,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "euclidianDivision",
           "x": 42,
           "y": 6,
@@ -123,7 +110,6 @@
           "remainder": 0
         },
         {
-          "id": "14",
           "type": "euclidianDivision",
           "x": 19,
           "y": 2,
@@ -131,7 +117,6 @@
           "remainder": 1
         },
         {
-          "id": "15",
           "type": "euclidianDivision",
           "x": 23,
           "y": 3,
@@ -139,7 +124,6 @@
           "remainder": 2
         },
         {
-          "id": "16",
           "type": "euclidianDivision",
           "x": 38,
           "y": 6,
@@ -151,7 +135,6 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "euclidianDivision",
           "x": 69,
           "y": 7,
@@ -159,7 +142,6 @@
           "remainder": 6
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Maria has 32 balloons to share equally among 8 friends. How many balloons does each friend get?",
           "result": 4

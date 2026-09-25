@@ -7,7 +7,6 @@
     {
       "items": [
         {
-          "id": "1",
           "type": "columnSubtraction",
           "operands": [
             368,
@@ -15,7 +14,6 @@
           ]
         },
         {
-          "id": "2",
           "type": "columnSubtraction",
           "operands": [
             450,
@@ -23,7 +21,6 @@
           ]
         },
         {
-          "id": "3",
           "type": "columnSubtraction",
           "operands": [
             509,
@@ -31,7 +28,6 @@
           ]
         },
         {
-          "id": "4",
           "type": "columnSubtraction",
           "operands": [
             486,
@@ -43,7 +39,6 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "columnSubtraction",
           "operands": [
             397,
@@ -51,7 +46,6 @@
           ]
         },
         {
-          "id": "6",
           "type": "columnSubtraction",
           "operands": [
             719,
@@ -59,7 +53,6 @@
           ]
         },
         {
-          "id": "7",
           "type": "columnSubtraction",
           "operands": [
             689,
@@ -67,7 +60,6 @@
           ]
         },
         {
-          "id": "8",
           "type": "columnSubtraction",
           "operands": [
             971,
@@ -79,7 +71,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "columnSubtraction",
           "operands": [
             756,
@@ -87,7 +78,6 @@
           ]
         },
         {
-          "id": "10",
           "type": "columnSubtraction",
           "operands": [
             938,
@@ -95,7 +85,6 @@
           ]
         },
         {
-          "id": "11",
           "type": "columnSubtraction",
           "operands": [
             803,
@@ -103,7 +92,6 @@
           ]
         },
         {
-          "id": "12",
           "type": "columnSubtraction",
           "operands": [
             658,
@@ -115,7 +103,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "columnSubtraction",
           "operands": [
             427,
@@ -123,7 +110,6 @@
           ]
         },
         {
-          "id": "14",
           "type": "columnSubtraction",
           "operands": [
             257,
@@ -131,7 +117,6 @@
           ]
         },
         {
-          "id": "15",
           "type": "columnSubtraction",
           "operands": [
             403,
@@ -139,7 +124,6 @@
           ]
         },
         {
-          "id": "16",
           "type": "columnSubtraction",
           "operands": [
             324,
@@ -151,7 +135,6 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "columnSubtraction",
           "operands": [
             700,
@@ -159,7 +142,6 @@
           ]
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Emma was having 45 marbles but gave 9 to Sophie and 13 to Maria. How many marbles does Emma still have?",
           "result": 23

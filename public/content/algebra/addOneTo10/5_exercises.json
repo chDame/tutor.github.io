@@ -1,6 +1,6 @@
 {
   "id": "addOneTo10-practice5",
-  "title": "Add One to 10 \u2014 Practice 5",
+  "title": "Add One to 10 — Practice 5",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
@@ -13,20 +13,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1b"
+          ]
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 1,
-          "id": "2b"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 1,
-          "id": "3b"
+          "y": 1
         }
       ]
     },
@@ -39,28 +36,24 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1c"
+          ]
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 1,
-          "id": "2c"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 1,
-          "id": "3c"
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 4,
           "operator": "+",
           "y": null,
-          "result": 5,
-          "id": "4"
+          "result": 5
         }
       ]
     },
@@ -73,28 +66,24 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 1,
-          "id": "2"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 1,
-          "id": "3"
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 5,
           "operator": "+",
           "y": null,
-          "result": 6,
-          "id": "4"
+          "result": 6
         }
       ]
     },
@@ -107,28 +96,24 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "5"
+          ]
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 1,
-          "id": "6"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 1,
-          "id": "7"
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 6,
           "operator": "+",
           "y": null,
-          "result": 7,
-          "id": "8"
+          "result": 7
         }
       ]
     },
@@ -141,28 +126,24 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "9"
+          ]
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 1,
-          "id": "10"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 8,
-          "y": 1,
-          "id": "11"
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 7,
           "operator": "+",
           "y": null,
-          "result": 8,
-          "id": "12"
+          "result": 8
         }
       ]
     },
@@ -171,8 +152,7 @@
         {
           "type": "problem",
           "question": "If Dylan is 7 years old today, how old will he be at his next birthday?",
-          "result": 8,
-          "id": "13"
+          "result": 8
         }
       ]
     }

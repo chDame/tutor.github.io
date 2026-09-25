@@ -37,14 +37,12 @@ function validateMissingNumbers(item, file) {
   }
 }
 
+// Item ids are no longer authored — the app assigns them sequentially at
+// load time (see ExerciseScreen), so there's nothing to check for duplicates
+// here anymore.
 function validateExerciseDoc(doc, file) {
-  const itemIds = new Set()
   doc.pages.forEach((page) => {
     page.items.forEach((item) => {
-      if (itemIds.has(item.id)) {
-        throw new Error(`${file}: duplicate item id "${item.id}"`)
-      }
-      itemIds.add(item.id)
       if (item.type === 'missingNumbers') {
         validateMissingNumbers(item, file)
       }

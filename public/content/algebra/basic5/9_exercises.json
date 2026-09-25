@@ -1,21 +1,19 @@
 {
   "id": "basic5-practice9",
-  "title": "Numbers from 1 to 5 \u2014 Practice 9",
+  "title": "Numbers from 1 to 5 — Practice 9",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "counting",
-          "countingElement": "\ud83c\udf4d",
+          "countingElement": "🍍",
           "result": 5
         },
         {
-          "id": "2",
           "type": "counting",
-          "countingElement": "\ud83c\udf53",
+          "countingElement": "🍓",
           "result": 2
         }
       ]
@@ -23,15 +21,13 @@
     {
       "items": [
         {
-          "id": "3",
           "type": "counting",
-          "countingElement": "\ud83c\udf38",
+          "countingElement": "🌸",
           "result": 4
         },
         {
-          "id": "4",
           "type": "counting",
-          "countingElement": "\ud83c\udf39",
+          "countingElement": "🌹",
           "result": 1
         }
       ]
@@ -39,15 +35,13 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "counting",
-          "countingElement": "\ud83c\udf4e",
+          "countingElement": "🍎",
           "result": 3
         },
         {
-          "id": "6",
           "type": "counting",
-          "countingElement": "\ud83c\udf81",
+          "countingElement": "🎁",
           "result": 5
         }
       ]
@@ -55,15 +49,13 @@
     {
       "items": [
         {
-          "id": "7",
           "type": "counting",
-          "countingElement": "\ud83c\udf44",
+          "countingElement": "🍄",
           "result": 2
         },
         {
-          "id": "8",
           "type": "counting",
-          "countingElement": "\ud83c\udf32",
+          "countingElement": "🌲",
           "result": 4
         }
       ]
@@ -71,15 +63,13 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "problem",
           "question": "If Dora is 4 years old today, how old will she be at her next birthday?",
           "result": 5
         },
         {
-          "id": "10",
           "type": "counting",
-          "countingElement": "\ud83c\udf3d",
+          "countingElement": "🌽",
           "result": 3
         }
       ]
@@ -87,15 +77,13 @@
     {
       "items": [
         {
-          "id": "11",
           "type": "counting",
-          "countingElement": "\ud83c\udfce",
+          "countingElement": "🏎",
           "result": 5
         },
         {
-          "id": "12",
           "type": "counting",
-          "countingElement": "\ud83d\ude95",
+          "countingElement": "🚕",
           "result": 4
         }
       ]
@@ -103,15 +91,13 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "counting",
-          "countingElement": "\ud83c\udf55",
+          "countingElement": "🍕",
           "result": 2
         },
         {
-          "id": "14",
           "type": "counting",
-          "countingElement": "\ud83c\udf57",
+          "countingElement": "🍗",
           "result": 1
         }
       ]

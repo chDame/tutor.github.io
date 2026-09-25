@@ -1,6 +1,6 @@
 {
   "id": "simple-additions-20-practice1",
-  "title": "Simple Additions (0 to 20) \u2014 Practice 1",
+  "title": "Simple Additions (0 to 20) — Practice 1",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
@@ -13,26 +13,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 2,
-          "id": "2"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 2,
-          "id": "3"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 3,
-          "id": "4"
+          "y": 3
         }
       ]
     },
@@ -45,26 +41,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "5"
+          ]
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 2,
-          "id": "6"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 2,
-          "id": "7"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 3,
-          "id": "8"
+          "y": 3
         }
       ]
     },
@@ -77,26 +69,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "9"
+          ]
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 2,
-          "id": "10"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 8,
-          "y": 2,
-          "id": "11"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 3,
-          "id": "12"
+          "y": 3
         }
       ]
     },
@@ -109,26 +97,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "13"
+          ]
         },
         {
           "type": "addition",
           "x": 9,
-          "y": 2,
-          "id": "14"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 10,
-          "y": 2,
-          "id": "15"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 9,
-          "y": 3,
-          "id": "16"
+          "y": 3
         }
       ]
     },
@@ -141,26 +125,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "17"
+          ]
         },
         {
           "type": "addition",
           "x": 11,
-          "y": 2,
-          "id": "18"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 12,
-          "y": 2,
-          "id": "19"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 11,
-          "y": 3,
-          "id": "20"
+          "y": 3
         }
       ]
     },
@@ -173,26 +153,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "21"
+          ]
         },
         {
           "type": "addition",
           "x": 13,
-          "y": 2,
-          "id": "22"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 14,
-          "y": 2,
-          "id": "23"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 13,
-          "y": 3,
-          "id": "24"
+          "y": 3
         }
       ]
     },
@@ -205,26 +181,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "25"
+          ]
         },
         {
           "type": "addition",
           "x": 15,
-          "y": 2,
-          "id": "26"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 16,
-          "y": 2,
-          "id": "27"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 15,
-          "y": 3,
-          "id": "28"
+          "y": 3
         }
       ]
     },
@@ -237,26 +209,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "29"
+          ]
         },
         {
           "type": "addition",
           "x": 17,
-          "y": 2,
-          "id": "30"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 18,
-          "y": 2,
-          "id": "31"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 17,
-          "y": 3,
-          "id": "32"
+          "y": 3
         }
       ]
     },
@@ -269,26 +237,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "33"
+          ]
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 2,
-          "id": "34"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 2,
-          "id": "35"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 3,
-          "id": "36"
+          "y": 3
         }
       ]
     },
@@ -301,26 +265,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "37"
+          ]
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 2,
-          "id": "38"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 2,
-          "id": "39"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 3,
-          "id": "40"
+          "y": 3
         }
       ]
     },
@@ -333,26 +293,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "41"
+          ]
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 2,
-          "id": "42"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 2,
-          "id": "43"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 3,
-          "id": "44"
+          "y": 3
         }
       ]
     },
@@ -365,26 +321,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "45"
+          ]
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 2,
-          "id": "46"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 8,
-          "y": 2,
-          "id": "47"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 3,
-          "id": "48"
+          "y": 3
         }
       ]
     },
@@ -397,26 +349,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "49"
+          ]
         },
         {
           "type": "addition",
           "x": 9,
-          "y": 2,
-          "id": "50"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 10,
-          "y": 2,
-          "id": "51"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 9,
-          "y": 3,
-          "id": "52"
+          "y": 3
         }
       ]
     },
@@ -429,26 +377,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "53"
+          ]
         },
         {
           "type": "addition",
           "x": 11,
-          "y": 2,
-          "id": "54"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 12,
-          "y": 2,
-          "id": "55"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 11,
-          "y": 3,
-          "id": "56"
+          "y": 3
         }
       ]
     },
@@ -461,26 +405,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "57"
+          ]
         },
         {
           "type": "addition",
           "x": 13,
-          "y": 2,
-          "id": "58"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 14,
-          "y": 2,
-          "id": "59"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 13,
-          "y": 3,
-          "id": "60"
+          "y": 3
         }
       ]
     },
@@ -493,26 +433,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "61"
+          ]
         },
         {
           "type": "addition",
           "x": 15,
-          "y": 2,
-          "id": "62"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 16,
-          "y": 2,
-          "id": "63"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 15,
-          "y": 3,
-          "id": "64"
+          "y": 3
         }
       ]
     },
@@ -525,26 +461,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "65"
+          ]
         },
         {
           "type": "addition",
           "x": 17,
-          "y": 2,
-          "id": "66"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 18,
-          "y": 2,
-          "id": "67"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 17,
-          "y": 3,
-          "id": "68"
+          "y": 3
         }
       ]
     },
@@ -557,26 +489,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "69"
+          ]
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 2,
-          "id": "70"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 2,
-          "id": "71"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 3,
-          "id": "72"
+          "y": 3
         }
       ]
     },
@@ -589,26 +517,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "73"
+          ]
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 2,
-          "id": "74"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 2,
-          "id": "75"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 3,
-          "id": "76"
+          "y": 3
         }
       ]
     },
@@ -621,26 +545,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "77"
+          ]
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 2,
-          "id": "78"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 2,
-          "id": "79"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 3,
-          "id": "80"
+          "y": 3
         }
       ]
     },
@@ -653,26 +573,22 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "81"
+          ]
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 2,
-          "id": "82"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 8,
-          "y": 2,
-          "id": "83"
+          "y": 2
         },
         {
           "type": "addition",
           "x": 7,
-          "y": 3,
-          "id": "84"
+          "y": 3
         }
       ]
     },
@@ -681,14 +597,12 @@
         {
           "type": "problem",
           "question": "If Ana has 4 stickers and gets 2 more, how many stickers does Ana have now?",
-          "result": 6,
-          "id": "85"
+          "result": 6
         },
         {
           "type": "problem",
           "question": "If Leo has 5 stickers and gets 3 more, how many stickers does Leo have now?",
-          "result": 8,
-          "id": "86"
+          "result": 8
         }
       ]
     }

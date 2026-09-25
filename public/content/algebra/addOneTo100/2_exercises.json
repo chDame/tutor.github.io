@@ -1,6 +1,6 @@
 {
   "id": "addOneTo100-practice2",
-  "title": "Add One to 100 \u2014 Practice 2",
+  "title": "Add One to 100 — Practice 2",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
@@ -13,20 +13,27 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "addition",
           "x": 72,
-          "y": 1,
-          "id": "2"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 73,
-          "y": 1,
-          "id": "3"
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 74,
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 75,
+          "y": 1
         }
       ]
     },
@@ -39,20 +46,27 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "4"
+          ]
         },
         {
           "type": "addition",
           "x": 78,
-          "y": 1,
-          "id": "5"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 79,
-          "y": 1,
-          "id": "6"
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 80,
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 81,
+          "y": 1
         }
       ]
     },
@@ -65,20 +79,27 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "7"
+          ]
         },
         {
           "type": "addition",
           "x": 84,
-          "y": 1,
-          "id": "8"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 85,
-          "y": 1,
-          "id": "9"
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 86,
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 87,
+          "y": 1
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "id": "addOneTo50-practice1",
-  "title": "Add One to 50 \u2014 Practice 1",
+  "title": "Add One to 50 — Practice 1",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
@@ -9,24 +9,31 @@
         {
           "type": "missingNumbers",
           "start": 21,
-          "length": 3,
+          "length": 5,
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "addition",
           "x": 21,
-          "y": 1,
-          "id": "2"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 22,
-          "y": 1,
-          "id": "3"
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 23,
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 24,
+          "y": 1
         }
       ]
     },
@@ -35,24 +42,32 @@
         {
           "type": "missingNumbers",
           "start": 25,
-          "length": 3,
+          "length": 5,
           "missingIndices": [
             1,
-            2
-          ],
-          "id": "4"
+            2,
+            4
+          ]
         },
         {
           "type": "addition",
           "x": 25,
-          "y": 1,
-          "id": "5"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 26,
-          "y": 1,
-          "id": "6"
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 27,
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 28,
+          "y": 1
         }
       ]
     },
@@ -61,24 +76,32 @@
         {
           "type": "missingNumbers",
           "start": 29,
-          "length": 3,
+          "length": 5,
           "missingIndices": [
             1,
-            2
-          ],
-          "id": "7"
+            2,
+            4
+          ]
         },
         {
           "type": "addition",
           "x": 29,
-          "y": 1,
-          "id": "8"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 30,
-          "y": 1,
-          "id": "9"
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 31,
+          "y": 1
+        },
+        {
+          "type": "addition",
+          "x": 32,
+          "y": 1
         }
       ]
     }

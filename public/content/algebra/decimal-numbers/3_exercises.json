@@ -7,25 +7,21 @@
     {
       "items": [
         {
-          "id": "1",
           "type": "decimalSubtraction",
           "x": 23.6,
           "y": 10.5
         },
         {
-          "id": "2",
           "type": "decimalSubtraction",
           "x": 50.5,
           "y": 32.9
         },
         {
-          "id": "3",
           "type": "decimalSubtraction",
           "x": 60.1,
           "y": 1.4
         },
         {
-          "id": "4",
           "type": "decimalSubtraction",
           "x": 13.1,
           "y": 3.9
@@ -35,25 +31,21 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "decimalAddition",
           "x": 22.7,
           "y": 27.2
         },
         {
-          "id": "6",
           "type": "decimalAddition",
           "x": 79.9,
           "y": 13.7
         },
         {
-          "id": "7",
           "type": "decimalSubtraction",
           "x": 64.8,
           "y": 39.8
         },
         {
-          "id": "8",
           "type": "decimalAddition",
           "x": 55.7,
           "y": 43.8
@@ -63,25 +55,21 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "decimalSubtraction",
           "x": 63.9,
           "y": 34.3
         },
         {
-          "id": "10",
           "type": "decimalAddition",
           "x": 80.5,
           "y": 49.9
         },
         {
-          "id": "11",
           "type": "decimalAddition",
           "x": 4.1,
           "y": 18
         },
         {
-          "id": "12",
           "type": "decimalAddition",
           "x": 2,
           "y": 16.3
@@ -91,25 +79,21 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "decimalSubtraction",
           "x": 21.3,
           "y": 16.1
         },
         {
-          "id": "14",
           "type": "decimalSubtraction",
           "x": 66.9,
           "y": 26
         },
         {
-          "id": "15",
           "type": "decimalAddition",
           "x": 27.2,
           "y": 10.1
         },
         {
-          "id": "16",
           "type": "decimalSubtraction",
           "x": 37.6,
           "y": 34.6
@@ -119,13 +103,11 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "decimalAddition",
           "x": 33,
           "y": 43.4
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Paul has $66.3 and spends $19.3. How much money does Paul have now?",
           "result": 47

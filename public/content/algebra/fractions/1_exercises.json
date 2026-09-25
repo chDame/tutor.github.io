@@ -1,13 +1,12 @@
 {
   "id": "fractions-practice1",
-  "title": "Fractions \u2014 Practice 1",
+  "title": "Fractions — Practice 1",
   "evaluation": false,
   "difficulty": 5,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "fractionAddition",
           "x": {
             "num": 6,
@@ -23,7 +22,6 @@
           }
         },
         {
-          "id": "2",
           "type": "fractionSubtraction",
           "x": {
             "num": 4,
@@ -39,7 +37,6 @@
           }
         },
         {
-          "id": "3",
           "type": "fractionAddition",
           "x": {
             "num": 3,
@@ -55,7 +52,6 @@
           }
         },
         {
-          "id": "4",
           "type": "fractionSubtraction",
           "x": {
             "num": 4,
@@ -75,7 +71,6 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "fractionAddition",
           "x": {
             "num": 2,
@@ -91,7 +86,6 @@
           }
         },
         {
-          "id": "6",
           "type": "fractionSubtraction",
           "x": {
             "num": 5,
@@ -107,7 +101,6 @@
           }
         },
         {
-          "id": "7",
           "type": "fractionSubtraction",
           "x": {
             "num": 5,
@@ -123,7 +116,6 @@
           }
         },
         {
-          "id": "8",
           "type": "fractionAddition",
           "x": {
             "num": 3,
@@ -143,7 +135,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "fractionSubtraction",
           "x": {
             "num": 3,
@@ -159,7 +150,6 @@
           }
         },
         {
-          "id": "10",
           "type": "fractionAddition",
           "x": {
             "num": 1,
@@ -175,7 +165,6 @@
           }
         },
         {
-          "id": "11",
           "type": "fractionAddition",
           "x": {
             "num": 2,
@@ -191,7 +180,6 @@
           }
         },
         {
-          "id": "12",
           "type": "fractionSubtraction",
           "x": {
             "num": 6,
@@ -211,7 +199,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "fractionSubtraction",
           "x": {
             "num": 8,
@@ -227,7 +214,6 @@
           }
         },
         {
-          "id": "14",
           "type": "fractionAddition",
           "x": {
             "num": 4,
@@ -243,7 +229,6 @@
           }
         },
         {
-          "id": "15",
           "type": "fractionSubtraction",
           "x": {
             "num": 2,
@@ -259,7 +244,6 @@
           }
         },
         {
-          "id": "16",
           "type": "fractionSubtraction",
           "x": {
             "num": 8,
@@ -279,7 +263,6 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "fractionAddition",
           "x": {
             "num": 2,
@@ -295,7 +278,6 @@
           }
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "A pizza is cut into 9 equal slices. Maria eats 2 slices and Ana eats 6 slices. How many slices are left?",
           "result": 1

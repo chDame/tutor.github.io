@@ -1,6 +1,6 @@
 {
   "id": "addOneTo20-practice7",
-  "title": "Add One to 20 \u2014 Practice 7",
+  "title": "Add One to 20 — Practice 7",
   "evaluation": false,
   "difficulty": 2,
   "pages": [
@@ -13,28 +13,24 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1b"
+          ]
         },
         {
           "type": "addition",
           "x": 12,
-          "y": 1,
-          "id": "2b"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 13,
-          "y": 1,
-          "id": "3b"
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 12,
           "operator": "+",
           "y": null,
-          "result": 13,
-          "id": "4b"
+          "result": 13
         }
       ]
     },
@@ -47,28 +43,24 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1d"
+          ]
         },
         {
           "type": "addition",
           "x": 13,
-          "y": 1,
-          "id": "2d"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 14,
-          "y": 1,
-          "id": "3d"
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 13,
           "operator": "+",
           "y": null,
-          "result": 14,
-          "id": "4d"
+          "result": 14
         }
       ]
     },
@@ -81,28 +73,24 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1c"
+          ]
         },
         {
           "type": "addition",
           "x": 14,
-          "y": 1,
-          "id": "2c"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 15,
-          "y": 1,
-          "id": "3c"
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 14,
           "operator": "+",
           "y": null,
-          "result": 15,
-          "id": "4c"
+          "result": 15
         }
       ]
     },
@@ -115,28 +103,24 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "addition",
           "x": 15,
-          "y": 1,
-          "id": "2"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 16,
-          "y": 1,
-          "id": "3"
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 15,
           "operator": "+",
           "y": null,
-          "result": 16,
-          "id": "4"
+          "result": 16
         }
       ]
     },
@@ -149,28 +133,24 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "5"
+          ]
         },
         {
           "type": "addition",
           "x": 16,
-          "y": 1,
-          "id": "6"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 17,
-          "y": 1,
-          "id": "7"
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 16,
           "operator": "+",
           "y": null,
-          "result": 17,
-          "id": "8"
+          "result": 17
         }
       ]
     },
@@ -183,28 +163,24 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "9"
+          ]
         },
         {
           "type": "addition",
           "x": 17,
-          "y": 1,
-          "id": "10"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 18,
-          "y": 1,
-          "id": "11"
+          "y": 1
         },
         {
           "type": "missingOperand",
           "x": 17,
           "operator": "+",
           "y": null,
-          "result": 18,
-          "id": "12"
+          "result": 18
         }
       ]
     }

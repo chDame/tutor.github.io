@@ -39,7 +39,8 @@ const reduceFraction = (num, den) => {
   return { num: num / d, den: den / d }
 }
 
-const item = (type, fields) => ({ id: randomUUID(), type, ...fields })
+// Item ids are no longer authored — the app assigns them at load time.
+const item = (type, fields) => ({ type, ...fields })
 
 // --- per-level item generators -----------------------------------------------
 const GENERATORS = {

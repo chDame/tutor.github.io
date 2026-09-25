@@ -1,6 +1,6 @@
 {
   "id": "addOneTo20-practice1",
-  "title": "Add One to 20 \u2014 Practice 1",
+  "title": "Add One to 20 — Practice 1",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
@@ -13,20 +13,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "addition",
           "x": 9,
-          "y": 1,
-          "id": "2"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 10,
-          "y": 1,
-          "id": "3"
+          "y": 1
         }
       ]
     },
@@ -39,20 +36,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "4"
+          ]
         },
         {
           "type": "addition",
           "x": 10,
-          "y": 1,
-          "id": "5"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 11,
-          "y": 1,
-          "id": "6"
+          "y": 1
         }
       ]
     },
@@ -65,20 +59,17 @@
           "missingIndices": [
             1,
             2
-          ],
-          "id": "7"
+          ]
         },
         {
           "type": "addition",
           "x": 11,
-          "y": 1,
-          "id": "8"
+          "y": 1
         },
         {
           "type": "addition",
           "x": 12,
-          "y": 1,
-          "id": "9"
+          "y": 1
         }
       ]
     }

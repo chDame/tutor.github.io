@@ -7,7 +7,6 @@
     {
       "items": [
         {
-          "id": "1",
           "type": "columnAddition",
           "operands": [
             560,
@@ -15,7 +14,6 @@
           ]
         },
         {
-          "id": "2",
           "type": "columnAddition",
           "operands": [
             559,
@@ -23,7 +21,6 @@
           ]
         },
         {
-          "id": "3",
           "type": "columnAddition",
           "operands": [
             840,
@@ -31,7 +28,6 @@
           ]
         },
         {
-          "id": "4",
           "type": "columnAddition",
           "operands": [
             991,
@@ -43,7 +39,6 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "columnAddition",
           "operands": [
             845,
@@ -51,7 +46,6 @@
           ]
         },
         {
-          "id": "6",
           "type": "columnAddition",
           "operands": [
             327,
@@ -59,7 +53,6 @@
           ]
         },
         {
-          "id": "7",
           "type": "columnAddition",
           "operands": [
             868,
@@ -67,7 +60,6 @@
           ]
         },
         {
-          "id": "8",
           "type": "columnAddition",
           "operands": [
             873,
@@ -79,7 +71,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "columnAddition",
           "operands": [
             697,
@@ -87,7 +78,6 @@
           ]
         },
         {
-          "id": "10",
           "type": "columnAddition",
           "operands": [
             720,
@@ -95,7 +85,6 @@
           ]
         },
         {
-          "id": "11",
           "type": "columnAddition",
           "operands": [
             631,
@@ -103,7 +92,6 @@
           ]
         },
         {
-          "id": "12",
           "type": "columnAddition",
           "operands": [
             680,
@@ -115,7 +103,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "columnAddition",
           "operands": [
             603,
@@ -123,7 +110,6 @@
           ]
         },
         {
-          "id": "14",
           "type": "columnAddition",
           "operands": [
             726,
@@ -131,7 +117,6 @@
           ]
         },
         {
-          "id": "15",
           "type": "columnAddition",
           "operands": [
             664,
@@ -139,7 +124,6 @@
           ]
         },
         {
-          "id": "16",
           "type": "columnAddition",
           "operands": [
             189,
@@ -151,7 +135,6 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "columnAddition",
           "operands": [
             143,
@@ -159,7 +142,6 @@
           ]
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Maria had 35 books. Ana gave Maria 7 more books. How many books does Maria have now?",
           "result": 42

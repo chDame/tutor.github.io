@@ -7,7 +7,6 @@
     {
       "items": [
         {
-          "id": "1",
           "type": "columnMultiplication",
           "operands": [
             59,
@@ -15,7 +14,6 @@
           ]
         },
         {
-          "id": "2",
           "type": "columnMultiplication",
           "operands": [
             65,
@@ -23,7 +21,6 @@
           ]
         },
         {
-          "id": "3",
           "type": "columnMultiplication",
           "operands": [
             50,
@@ -31,7 +28,6 @@
           ]
         },
         {
-          "id": "4",
           "type": "columnMultiplication",
           "operands": [
             33,
@@ -43,7 +39,6 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "columnMultiplication",
           "operands": [
             81,
@@ -51,7 +46,6 @@
           ]
         },
         {
-          "id": "6",
           "type": "columnMultiplication",
           "operands": [
             39,
@@ -59,7 +53,6 @@
           ]
         },
         {
-          "id": "7",
           "type": "columnMultiplication",
           "operands": [
             30,
@@ -67,7 +60,6 @@
           ]
         },
         {
-          "id": "8",
           "type": "columnMultiplication",
           "operands": [
             87,
@@ -79,7 +71,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "columnMultiplication",
           "operands": [
             61,
@@ -87,7 +78,6 @@
           ]
         },
         {
-          "id": "10",
           "type": "columnMultiplication",
           "operands": [
             17,
@@ -95,7 +85,6 @@
           ]
         },
         {
-          "id": "11",
           "type": "columnMultiplication",
           "operands": [
             85,
@@ -103,7 +92,6 @@
           ]
         },
         {
-          "id": "12",
           "type": "columnMultiplication",
           "operands": [
             75,
@@ -115,7 +103,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "columnMultiplication",
           "operands": [
             60,
@@ -123,7 +110,6 @@
           ]
         },
         {
-          "id": "14",
           "type": "columnMultiplication",
           "operands": [
             84,
@@ -131,7 +117,6 @@
           ]
         },
         {
-          "id": "15",
           "type": "columnMultiplication",
           "operands": [
             47,
@@ -139,7 +124,6 @@
           ]
         },
         {
-          "id": "16",
           "type": "columnMultiplication",
           "operands": [
             88,
@@ -151,7 +135,6 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "columnMultiplication",
           "operands": [
             42,
@@ -159,7 +142,6 @@
           ]
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Noah has 6 boxes with 3 candies in each box. How many candies does Noah have in total?",
           "result": 18

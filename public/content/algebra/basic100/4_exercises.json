@@ -1,25 +1,23 @@
 {
   "id": "basic100-practice4",
-  "title": "Numbers from 0 to 100 \u2014 Practice 4",
+  "title": "Numbers from 0 to 100 — Practice 4",
   "evaluation": false,
   "difficulty": 2,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "discoverNumber",
           "from": 0,
           "to": 100,
           "displayElements": false,
-          "countingElement": "\ud83c\udf4e"
+          "countingElement": "🍎"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "2",
           "type": "missingNumbers",
           "start": 94,
           "length": 6,
@@ -29,7 +27,6 @@
           ]
         },
         {
-          "id": "3",
           "type": "missingNumbers",
           "start": 82,
           "length": 5,
@@ -43,7 +40,6 @@
     {
       "items": [
         {
-          "id": "4",
           "type": "missingNumbers",
           "start": 86,
           "length": 4,
@@ -52,7 +48,6 @@
           ]
         },
         {
-          "id": "5",
           "type": "missingNumbers",
           "start": 90,
           "length": 5,
@@ -66,7 +61,6 @@
     {
       "items": [
         {
-          "id": "6",
           "type": "missingNumbers",
           "start": 96,
           "length": 5,
@@ -76,7 +70,6 @@
           ]
         },
         {
-          "id": "7",
           "type": "missingNumbers",
           "start": 50,
           "length": 4,
@@ -89,7 +82,6 @@
     {
       "items": [
         {
-          "id": "8",
           "type": "missingNumbers",
           "start": 54,
           "length": 6,
@@ -99,7 +91,6 @@
           ]
         },
         {
-          "id": "9",
           "type": "missingNumbers",
           "start": 58,
           "length": 6,
@@ -112,7 +103,6 @@
     {
       "items": [
         {
-          "id": "10",
           "type": "missingNumbers",
           "start": 24,
           "length": 6,
@@ -121,7 +111,6 @@
           ]
         },
         {
-          "id": "11",
           "type": "missingNumbers",
           "start": 62,
           "length": 6,
@@ -134,19 +123,17 @@
     {
       "items": [
         {
-          "id": "12",
           "type": "discoverNumber",
           "from": 0,
           "to": 100,
           "displayElements": true,
-          "countingElement": "\ud83d\ude95"
+          "countingElement": "🚕"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "13",
           "type": "missingNumbers",
           "start": 66,
           "length": 5,
@@ -160,7 +147,6 @@
     {
       "items": [
         {
-          "id": "14",
           "type": "missingNumbers",
           "start": 70,
           "length": 4,
@@ -170,7 +156,6 @@
           ]
         },
         {
-          "id": "15",
           "type": "missingNumbers",
           "start": 24,
           "length": 5,

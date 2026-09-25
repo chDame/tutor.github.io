@@ -1,21 +1,19 @@
 {
   "id": "basic10-evaluation",
-  "title": "Numbers from 1 to 10 \u2014 Evaluation",
+  "title": "Numbers from 1 to 10 — Evaluation",
   "evaluation": true,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "counting",
-          "countingElement": "\ud83c\udf4e",
+          "countingElement": "🍎",
           "result": 5
         },
         {
-          "id": "2",
           "type": "counting",
-          "countingElement": "\ud83c\udf81",
+          "countingElement": "🎁",
           "result": 10
         }
       ]
@@ -23,15 +21,13 @@
     {
       "items": [
         {
-          "id": "3",
           "type": "counting",
-          "countingElement": "\ud83c\udf38",
+          "countingElement": "🌸",
           "result": 9
         },
         {
-          "id": "4",
           "type": "counting",
-          "countingElement": "\ud83c\udf39",
+          "countingElement": "🌹",
           "result": 8
         }
       ]
@@ -39,15 +35,13 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "counting",
-          "countingElement": "\ud83c\udf44",
+          "countingElement": "🍄",
           "result": 6
         },
         {
-          "id": "6",
           "type": "counting",
-          "countingElement": "\ud83c\udf32",
+          "countingElement": "🌲",
           "result": 7
         }
       ]
@@ -55,15 +49,13 @@
     {
       "items": [
         {
-          "id": "7",
           "type": "counting",
-          "countingElement": "\ud83c\udf3b",
+          "countingElement": "🌻",
           "result": 4
         },
         {
-          "id": "8",
           "type": "counting",
-          "countingElement": "\ud83c\udf3d",
+          "countingElement": "🌽",
           "result": 3
         }
       ]
@@ -71,15 +63,13 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "counting",
-          "countingElement": "\ud83c\udf4d",
+          "countingElement": "🍍",
           "result": 2
         },
         {
-          "id": "10",
           "type": "counting",
-          "countingElement": "\ud83c\udf53",
+          "countingElement": "🍓",
           "result": 1
         }
       ]
@@ -87,7 +77,6 @@
     {
       "items": [
         {
-          "id": "11",
           "type": "problem",
           "question": "If Elvis had 9 guitars and buys 1 new one, how many guitars will he have in total?",
           "result": 10

@@ -1,31 +1,28 @@
 {
   "id": "basic10-practice8",
-  "title": "Numbers from 1 to 10 \u2014 Practice 8",
+  "title": "Numbers from 1 to 10 — Practice 8",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "discoverNumber",
           "from": 1,
           "to": 10,
           "displayElements": true,
-          "countingElement": "\ud83c\udf4e"
+          "countingElement": "🍎"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "2",
           "type": "counting",
-          "countingElement": "\ud83c\udf38",
+          "countingElement": "🌸",
           "result": 5
         },
         {
-          "id": "3",
           "type": "problem",
           "question": "If Tony has had 2 pieces of pizza and eats a new one, how many pieces of pizza will he have in total?",
           "result": 3
@@ -35,15 +32,13 @@
     {
       "items": [
         {
-          "id": "4",
           "type": "counting",
-          "countingElement": "\ud83c\udf44",
+          "countingElement": "🍄",
           "result": 7
         },
         {
-          "id": "5",
           "type": "counting",
-          "countingElement": "\ud83c\udf32",
+          "countingElement": "🌲",
           "result": 8
         }
       ]
@@ -51,15 +46,13 @@
     {
       "items": [
         {
-          "id": "6",
           "type": "counting",
-          "countingElement": "\ud83c\udf3b",
+          "countingElement": "🌻",
           "result": 9
         },
         {
-          "id": "7",
           "type": "counting",
-          "countingElement": "\ud83c\udf3d",
+          "countingElement": "🌽",
           "result": 10
         }
       ]
@@ -67,15 +60,13 @@
     {
       "items": [
         {
-          "id": "8",
           "type": "counting",
-          "countingElement": "\ud83c\udf4d",
+          "countingElement": "🍍",
           "result": 3
         },
         {
-          "id": "9",
           "type": "counting",
-          "countingElement": "\ud83c\udf53",
+          "countingElement": "🍓",
           "result": 2
         }
       ]
@@ -83,13 +74,11 @@
     {
       "items": [
         {
-          "id": "10",
           "type": "counting",
-          "countingElement": "\ud83c\udfce",
+          "countingElement": "🏎",
           "result": 4
         },
         {
-          "id": "11",
           "type": "problem",
           "question": "If Tony has had 5 pieces of pizza and eats a new one, how many pieces of pizza will he have in total?",
           "result": 6
@@ -99,15 +88,13 @@
     {
       "items": [
         {
-          "id": "12",
           "type": "counting",
-          "countingElement": "\ud83c\udf55",
+          "countingElement": "🍕",
           "result": 9
         },
         {
-          "id": "13",
           "type": "counting",
-          "countingElement": "\ud83c\udf57",
+          "countingElement": "🍗",
           "result": 10
         }
       ]

@@ -7,7 +7,6 @@
     {
       "items": [
         {
-          "id": "1",
           "type": "columnMultiplication",
           "operands": [
             64,
@@ -15,7 +14,6 @@
           ]
         },
         {
-          "id": "2",
           "type": "columnMultiplication",
           "operands": [
             20,
@@ -23,7 +21,6 @@
           ]
         },
         {
-          "id": "3",
           "type": "columnMultiplication",
           "operands": [
             22,
@@ -31,7 +28,6 @@
           ]
         },
         {
-          "id": "4",
           "type": "columnMultiplication",
           "operands": [
             50,
@@ -43,7 +39,6 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "columnMultiplication",
           "operands": [
             28,
@@ -51,7 +46,6 @@
           ]
         },
         {
-          "id": "6",
           "type": "columnMultiplication",
           "operands": [
             98,
@@ -59,7 +53,6 @@
           ]
         },
         {
-          "id": "7",
           "type": "columnMultiplication",
           "operands": [
             11,
@@ -67,7 +60,6 @@
           ]
         },
         {
-          "id": "8",
           "type": "columnMultiplication",
           "operands": [
             11,
@@ -79,7 +71,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "columnMultiplication",
           "operands": [
             93,
@@ -87,7 +78,6 @@
           ]
         },
         {
-          "id": "10",
           "type": "columnMultiplication",
           "operands": [
             31,
@@ -95,7 +85,6 @@
           ]
         },
         {
-          "id": "11",
           "type": "columnMultiplication",
           "operands": [
             30,
@@ -103,7 +92,6 @@
           ]
         },
         {
-          "id": "12",
           "type": "columnMultiplication",
           "operands": [
             93,
@@ -115,7 +103,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "columnMultiplication",
           "operands": [
             54,
@@ -123,7 +110,6 @@
           ]
         },
         {
-          "id": "14",
           "type": "columnMultiplication",
           "operands": [
             32,
@@ -131,7 +117,6 @@
           ]
         },
         {
-          "id": "15",
           "type": "columnMultiplication",
           "operands": [
             42,
@@ -139,7 +124,6 @@
           ]
         },
         {
-          "id": "16",
           "type": "columnMultiplication",
           "operands": [
             97,
@@ -151,7 +135,6 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "columnMultiplication",
           "operands": [
             44,
@@ -159,7 +142,6 @@
           ]
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Liam has 7 boxes with 10 stickers in each box. How many stickers does Liam have in total?",
           "result": 70

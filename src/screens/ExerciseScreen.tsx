@@ -55,6 +55,16 @@ export default function ExerciseScreen() {
         return res.json()
       })
       .then((data: ExerciseDoc) => {
+        // Content authors don't write item ids — they're only used as React
+        // keys and to key the in-session answers map, never persisted, so
+        // assigning them fresh here (sequential, doc-wide) avoids the whole
+        // class of duplicate/missing-id authoring bugs.
+        let counter = 0
+        for (const page of data.pages) {
+          for (const item of page.items) {
+            item.id = String(counter++)
+          }
+        }
         setDoc(data)
         startRef.current = Date.now()
       })

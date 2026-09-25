@@ -1,6 +1,6 @@
 {
   "id": "simple-subtractions-practice1",
-  "title": "Simple Subtractions \u2014 Practice 1",
+  "title": "Simple Subtractions — Practice 1",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
@@ -14,32 +14,27 @@
             0,
             1,
             2
-          ],
-          "id": "1"
+          ]
         },
         {
           "type": "subtraction",
           "x": 15,
-          "y": 3,
-          "id": "2"
+          "y": 3
         },
         {
           "type": "subtraction",
           "x": 16,
-          "y": 2,
-          "id": "3"
+          "y": 2
         },
         {
           "type": "subtraction",
           "x": 15,
-          "y": 4,
-          "id": "4"
+          "y": 4
         },
         {
           "type": "subtraction",
           "x": 15,
-          "y": 5,
-          "id": "5"
+          "y": 5
         }
       ]
     },
@@ -53,32 +48,27 @@
             0,
             1,
             2
-          ],
-          "id": "6"
+          ]
         },
         {
           "type": "subtraction",
           "x": 17,
-          "y": 4,
-          "id": "7"
+          "y": 4
         },
         {
           "type": "subtraction",
           "x": 18,
-          "y": 3,
-          "id": "8"
+          "y": 3
         },
         {
           "type": "subtraction",
           "x": 17,
-          "y": 5,
-          "id": "9"
+          "y": 5
         },
         {
           "type": "subtraction",
           "x": 17,
-          "y": 6,
-          "id": "10"
+          "y": 6
         }
       ]
     },
@@ -92,32 +82,27 @@
             0,
             1,
             2
-          ],
-          "id": "11"
+          ]
         },
         {
           "type": "subtraction",
           "x": 19,
-          "y": 5,
-          "id": "12"
+          "y": 5
         },
         {
           "type": "subtraction",
           "x": 20,
-          "y": 4,
-          "id": "13"
+          "y": 4
         },
         {
           "type": "subtraction",
           "x": 19,
-          "y": 6,
-          "id": "14"
+          "y": 6
         },
         {
           "type": "subtraction",
           "x": 19,
-          "y": 7,
-          "id": "15"
+          "y": 7
         }
       ]
     },
@@ -131,32 +116,27 @@
             0,
             1,
             2
-          ],
-          "id": "16"
+          ]
         },
         {
           "type": "subtraction",
           "x": 21,
-          "y": 6,
-          "id": "17"
+          "y": 6
         },
         {
           "type": "subtraction",
           "x": 22,
-          "y": 5,
-          "id": "18"
+          "y": 5
         },
         {
           "type": "subtraction",
           "x": 21,
-          "y": 7,
-          "id": "19"
+          "y": 7
         },
         {
           "type": "subtraction",
           "x": 21,
-          "y": 8,
-          "id": "20"
+          "y": 8
         }
       ]
     },
@@ -170,32 +150,27 @@
             0,
             1,
             2
-          ],
-          "id": "21"
+          ]
         },
         {
           "type": "subtraction",
           "x": 23,
-          "y": 7,
-          "id": "22"
+          "y": 7
         },
         {
           "type": "subtraction",
           "x": 24,
-          "y": 6,
-          "id": "23"
+          "y": 6
         },
         {
           "type": "subtraction",
           "x": 23,
-          "y": 8,
-          "id": "24"
+          "y": 8
         },
         {
           "type": "subtraction",
           "x": 23,
-          "y": 9,
-          "id": "25"
+          "y": 9
         }
       ]
     }

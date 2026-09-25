@@ -1,33 +1,30 @@
 {
   "id": "basic10-practice6",
-  "title": "Numbers from 1 to 10 \u2014 Practice 6",
+  "title": "Numbers from 1 to 10 — Practice 6",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "discoverNumber",
           "from": 1,
           "to": 10,
           "displayElements": true,
-          "countingElement": "\ud83c\udf4e"
+          "countingElement": "🍎"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "2",
           "type": "counting",
-          "countingElement": "\ud83c\udf38",
+          "countingElement": "🌸",
           "result": 5
         },
         {
-          "id": "3",
           "type": "counting",
-          "countingElement": "\ud83c\udf39",
+          "countingElement": "🌹",
           "result": 6
         }
       ]
@@ -35,15 +32,13 @@
     {
       "items": [
         {
-          "id": "4",
           "type": "counting",
-          "countingElement": "\ud83c\udf44",
+          "countingElement": "🍄",
           "result": 7
         },
         {
-          "id": "5",
           "type": "counting",
-          "countingElement": "\ud83c\udf32",
+          "countingElement": "🌲",
           "result": 8
         }
       ]
@@ -51,15 +46,13 @@
     {
       "items": [
         {
-          "id": "6",
           "type": "counting",
-          "countingElement": "\ud83c\udf3b",
+          "countingElement": "🌻",
           "result": 9
         },
         {
-          "id": "7",
           "type": "counting",
-          "countingElement": "\ud83c\udf3d",
+          "countingElement": "🌽",
           "result": 10
         }
       ]
@@ -67,25 +60,22 @@
     {
       "items": [
         {
-          "id": "8",
           "type": "discoverNumber",
           "from": 1,
           "to": 10,
           "displayElements": true,
-          "countingElement": "\ud83c\udf53"
+          "countingElement": "🍓"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "9",
           "type": "counting",
-          "countingElement": "\ud83c\udfce",
+          "countingElement": "🏎",
           "result": 10
         },
         {
-          "id": "10",
           "type": "problem",
           "question": "If Enzo has 8 toys and his dad offers him 1 more, how many toys will he have in total?",
           "result": 9
@@ -95,15 +85,13 @@
     {
       "items": [
         {
-          "id": "11",
           "type": "counting",
-          "countingElement": "\ud83c\udf55",
+          "countingElement": "🍕",
           "result": 8
         },
         {
-          "id": "12",
           "type": "counting",
-          "countingElement": "\ud83c\udf57",
+          "countingElement": "🍗",
           "result": 7
         }
       ]

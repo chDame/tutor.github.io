@@ -1,6 +1,6 @@
 {
   "id": "basic5-practice1",
-  "title": "Numbers from 1 to 5 \u2014 Practice 1",
+  "title": "Numbers from 1 to 5 — Practice 1",
   "evaluation": false,
   "difficulty": 0,
   "character": {
@@ -11,7 +11,6 @@
     {
       "items": [
         {
-          "id": "0",
           "type": "explanation",
           "html": "<p>Welcome to the Numbers from 1 to 5 practice!<br/><br/> You're entering the world of small numbers and they will soon be your best friends! In this module, you'll need to read and count. If you need help, ask an adult to show you.<br /><br /> Have fun!</p>"
         }
@@ -20,27 +19,24 @@
     {
       "items": [
         {
-          "id": "1",
           "type": "discoverNumber",
           "from": 1,
           "to": 3,
           "displayElements": true,
-          "countingElement": "\ud83c\udf4e"
+          "countingElement": "🍎"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "2",
           "type": "counting",
-          "countingElement": "\ud83c\udf38",
+          "countingElement": "🌸",
           "result": 1
         },
         {
-          "id": "3",
           "type": "counting",
-          "countingElement": "\ud83c\udf39",
+          "countingElement": "🌹",
           "result": 2
         }
       ]
@@ -48,15 +44,13 @@
     {
       "items": [
         {
-          "id": "4",
           "type": "counting",
-          "countingElement": "\ud83c\udf44",
+          "countingElement": "🍄",
           "result": 2
         },
         {
-          "id": "5",
           "type": "counting",
-          "countingElement": "\ud83c\udf32",
+          "countingElement": "🌲",
           "result": 3
         }
       ]
@@ -64,15 +58,13 @@
     {
       "items": [
         {
-          "id": "6",
           "type": "counting",
-          "countingElement": "\ud83c\udf3b",
+          "countingElement": "🌻",
           "result": 2
         },
         {
-          "id": "7",
           "type": "counting",
-          "countingElement": "\ud83c\udf3d",
+          "countingElement": "🌽",
           "result": 3
         }
       ]
@@ -80,27 +72,24 @@
     {
       "items": [
         {
-          "id": "8",
           "type": "discoverNumber",
           "from": 1,
           "to": 3,
           "displayElements": true,
-          "countingElement": "\ud83c\udf4d"
+          "countingElement": "🍍"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "9",
           "type": "counting",
-          "countingElement": "\ud83c\udfce",
+          "countingElement": "🏎",
           "result": 3
         },
         {
-          "id": "10",
           "type": "counting",
-          "countingElement": "\ud83d\ude95",
+          "countingElement": "🚕",
           "result": 2
         }
       ]

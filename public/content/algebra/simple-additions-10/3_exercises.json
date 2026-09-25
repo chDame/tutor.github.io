@@ -1,358 +1,270 @@
 {
   "id": "simple-additions-10-practice3",
-  "title": "Simple Additions (0 to 10) \u2014 Practice 3",
+  "title": "Simple Additions (0 to 10) — Practice 3",
   "evaluation": false,
   "difficulty": 1,
   "pages": [
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 3,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "1"
-        },
-        {
           "type": "addition",
           "x": 3,
-          "y": 4,
-          "id": "2"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 4,
-          "id": "3"
+          "y": 3
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 4
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 5,
-          "id": "4"
+          "y": 5
         }
       ]
     },
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 5,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "5"
+          "type": "addition",
+          "x": 5,
+          "y": 4
         },
         {
           "type": "addition",
-          "x": 5,
-          "y": 4,
-          "id": "6"
+          "x": 4,
+          "y": 5
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 4,
-          "id": "7"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 5,
-          "id": "8"
+          "y": 5
         }
       ]
     },
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 1,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "9"
+          "type": "addition",
+          "x": 1,
+          "y": 4
         },
         {
           "type": "addition",
-          "x": 1,
-          "y": 4,
-          "id": "10"
+          "x": 4,
+          "y": 1
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 4,
-          "id": "11"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 5,
-          "id": "12"
+          "y": 5
         }
       ]
     },
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 3,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "13"
+          "type": "addition",
+          "x": 4,
+          "y": 3
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 4,
-          "id": "14"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 4,
-          "id": "15"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 5,
-          "id": "16"
+          "y": 5
         }
       ]
     },
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 5,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "17"
+          "type": "addition",
+          "x": 5,
+          "y": 4
         },
         {
           "type": "addition",
-          "x": 5,
-          "y": 4,
-          "id": "18"
+          "x": 4,
+          "y": 5
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 4,
-          "id": "19"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 5,
-          "id": "20"
+          "y": 5
         }
       ]
     },
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 1,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "21"
+          "type": "addition",
+          "x": 1,
+          "y": 4
         },
         {
           "type": "addition",
-          "x": 1,
-          "y": 4,
-          "id": "22"
+          "x": 4,
+          "y": 1
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 4,
-          "id": "23"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 5,
-          "id": "24"
+          "y": 5
         }
       ]
     },
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 3,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "25"
-        },
-        {
           "type": "addition",
           "x": 3,
-          "y": 4,
-          "id": "26"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 4,
-          "id": "27"
+          "y": 3
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 4
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 5,
-          "id": "28"
+          "y": 5
         }
       ]
     },
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 5,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "29"
+          "type": "addition",
+          "x": 5,
+          "y": 4
         },
         {
           "type": "addition",
-          "x": 5,
-          "y": 4,
-          "id": "30"
+          "x": 4,
+          "y": 5
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 4,
-          "id": "31"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 5,
-          "id": "32"
+          "y": 5
         }
       ]
     },
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 1,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "33"
+          "type": "addition",
+          "x": 1,
+          "y": 4
         },
         {
           "type": "addition",
-          "x": 1,
-          "y": 4,
-          "id": "34"
+          "x": 4,
+          "y": 1
         },
         {
           "type": "addition",
           "x": 2,
-          "y": 4,
-          "id": "35"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 1,
-          "y": 5,
-          "id": "36"
+          "y": 5
         }
       ]
     },
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 3,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "37"
-        },
-        {
           "type": "addition",
           "x": 3,
-          "y": 4,
-          "id": "38"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 4,
-          "y": 4,
-          "id": "39"
+          "y": 3
+        },
+        {
+          "type": "addition",
+          "x": 4,
+          "y": 4
         },
         {
           "type": "addition",
           "x": 3,
-          "y": 5,
-          "id": "40"
+          "y": 5
         }
       ]
     },
     {
       "items": [
         {
-          "type": "missingNumbers",
-          "start": 5,
-          "length": 3,
-          "missingIndices": [
-            1,
-            2
-          ],
-          "id": "41"
+          "type": "addition",
+          "x": 5,
+          "y": 4
         },
         {
           "type": "addition",
-          "x": 5,
-          "y": 4,
-          "id": "42"
+          "x": 4,
+          "y": 5
         },
         {
           "type": "addition",
           "x": 6,
-          "y": 4,
-          "id": "43"
+          "y": 4
         },
         {
           "type": "addition",
           "x": 5,
-          "y": 5,
-          "id": "44"
+          "y": 5
         }
       ]
     },
@@ -361,14 +273,12 @@
         {
           "type": "problem",
           "question": "If Ana has 2 stickers and gets 4 more, how many stickers does Ana have now?",
-          "result": 6,
-          "id": "45"
+          "result": 6
         },
         {
           "type": "problem",
-          "question": "If Leo has 3 stickers and gets 5 more, how many stickers does Leo have now?",
-          "result": 8,
-          "id": "46"
+          "question": "If Leo has 3 pens and gets 5 more, how many pens does Leo have now?",
+          "result": 8
         }
       ]
     }

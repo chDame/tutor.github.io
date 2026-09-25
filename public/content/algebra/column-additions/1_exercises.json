@@ -7,7 +7,6 @@
     {
       "items": [
         {
-          "id": "1",
           "type": "columnAddition",
           "operands": [
             638,
@@ -15,7 +14,6 @@
           ]
         },
         {
-          "id": "2",
           "type": "columnAddition",
           "operands": [
             617,
@@ -23,7 +21,6 @@
           ]
         },
         {
-          "id": "3",
           "type": "columnAddition",
           "operands": [
             346,
@@ -31,7 +28,6 @@
           ]
         },
         {
-          "id": "4",
           "type": "columnAddition",
           "operands": [
             484,
@@ -43,7 +39,6 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "columnAddition",
           "operands": [
             402,
@@ -51,7 +46,6 @@
           ]
         },
         {
-          "id": "6",
           "type": "columnAddition",
           "operands": [
             323,
@@ -59,7 +53,6 @@
           ]
         },
         {
-          "id": "7",
           "type": "columnAddition",
           "operands": [
             572,
@@ -67,7 +60,6 @@
           ]
         },
         {
-          "id": "8",
           "type": "columnAddition",
           "operands": [
             771,
@@ -79,7 +71,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "columnAddition",
           "operands": [
             315,
@@ -87,7 +78,6 @@
           ]
         },
         {
-          "id": "10",
           "type": "columnAddition",
           "operands": [
             511,
@@ -95,7 +85,6 @@
           ]
         },
         {
-          "id": "11",
           "type": "columnAddition",
           "operands": [
             897,
@@ -103,7 +92,6 @@
           ]
         },
         {
-          "id": "12",
           "type": "columnAddition",
           "operands": [
             825,
@@ -115,7 +103,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "columnAddition",
           "operands": [
             147,
@@ -123,7 +110,6 @@
           ]
         },
         {
-          "id": "14",
           "type": "columnAddition",
           "operands": [
             360,
@@ -131,7 +117,6 @@
           ]
         },
         {
-          "id": "15",
           "type": "columnAddition",
           "operands": [
             201,
@@ -139,7 +124,6 @@
           ]
         },
         {
-          "id": "16",
           "type": "columnAddition",
           "operands": [
             697,
@@ -151,7 +135,6 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "columnAddition",
           "operands": [
             967,
@@ -159,7 +142,6 @@
           ]
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Noah had 18 apples. Josh gave Noah 19 more apples. How many apples does Noah have now?",
           "result": 37

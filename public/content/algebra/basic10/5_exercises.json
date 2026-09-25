@@ -1,33 +1,30 @@
 {
   "id": "basic10-practice5",
-  "title": "Numbers from 1 to 10 \u2014 Practice 5",
+  "title": "Numbers from 1 to 10 — Practice 5",
   "evaluation": false,
   "difficulty": 2,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
           "type": "discoverNumber",
           "from": 1,
           "to": 9,
           "displayElements": true,
-          "countingElement": "\ud83d\ude95"
+          "countingElement": "🚕"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "2",
           "type": "counting",
-          "countingElement": "\ud83c\udf38",
+          "countingElement": "🌸",
           "result": 3
         },
         {
-          "id": "3",
           "type": "counting",
-          "countingElement": "\ud83c\udf39",
+          "countingElement": "🌹",
           "result": 4
         }
       ]
@@ -35,15 +32,13 @@
     {
       "items": [
         {
-          "id": "4",
           "type": "counting",
-          "countingElement": "\ud83c\udf4e",
+          "countingElement": "🍎",
           "result": 5
         },
         {
-          "id": "5",
           "type": "counting",
-          "countingElement": "\ud83c\udf81",
+          "countingElement": "🎁",
           "result": 6
         }
       ]
@@ -51,15 +46,13 @@
     {
       "items": [
         {
-          "id": "6",
           "type": "counting",
-          "countingElement": "\ud83c\udf44",
+          "countingElement": "🍄",
           "result": 7
         },
         {
-          "id": "7",
           "type": "counting",
-          "countingElement": "\ud83c\udf32",
+          "countingElement": "🌲",
           "result": 8
         }
       ]
@@ -67,13 +60,11 @@
     {
       "items": [
         {
-          "id": "8",
           "type": "counting",
-          "countingElement": "\ud83c\udf3b",
+          "countingElement": "🌻",
           "result": 9
         },
         {
-          "id": "9",
           "type": "problem",
           "question": "If Dylan is 7 years old today, how old will he be at his next birthday?",
           "result": 8
@@ -83,27 +74,24 @@
     {
       "items": [
         {
-          "id": "10",
           "type": "discoverNumber",
           "from": 1,
           "to": 9,
           "displayElements": true,
-          "countingElement": "\ud83c\udf32"
+          "countingElement": "🌲"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "11",
           "type": "counting",
-          "countingElement": "\ud83c\udf55",
+          "countingElement": "🍕",
           "result": 7
         },
         {
-          "id": "12",
           "type": "counting",
-          "countingElement": "\ud83c\udf57",
+          "countingElement": "🍗",
           "result": 8
         }
       ]
@@ -111,15 +99,13 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "counting",
-          "countingElement": "\ud83c\udf55",
+          "countingElement": "🍕",
           "result": 9
         },
         {
-          "id": "14",
           "type": "counting",
-          "countingElement": "\ud83c\udf57",
+          "countingElement": "🍗",
           "result": 5
         }
       ]

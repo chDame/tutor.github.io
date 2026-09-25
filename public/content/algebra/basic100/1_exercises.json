@@ -1,25 +1,31 @@
 {
   "id": "basic100-practice1",
-  "title": "Numbers from 0 to 100 \u2014 Practice 1",
+  "title": "Numbers from 0 to 100 — Practice 1",
   "evaluation": false,
   "difficulty": 0,
   "pages": [
     {
       "items": [
         {
-          "id": "1",
-          "type": "discoverNumber",
-          "from": 0,
-          "to": 100,
-          "displayElements": false,
-          "countingElement": "\ud83c\udf4e"
+          "type": "explanation",
+          "html": "<p>Welcome to the Numbers from 0 to 100 practice!<br /><br/>In this exercise, you will explore numbers up to 100! It may seem challenging at first, but I'd like you to pay attention that numbers always follow the same simple logic you've seen while counting to 50.<br /><br/>Have a good look at the next page that should already look familiar and note how the numbers repeat themselves.</p>"
         }
       ]
     },
     {
       "items": [
         {
-          "id": "2",
+          "type": "discoverNumber",
+          "from": 0,
+          "to": 100,
+          "displayElements": false,
+          "countingElement": "🍎"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "type": "missingNumbers",
           "start": 50,
           "length": 6,
@@ -28,7 +34,6 @@
           ]
         },
         {
-          "id": "3",
           "type": "missingNumbers",
           "start": 54,
           "length": 5,
@@ -42,7 +47,6 @@
     {
       "items": [
         {
-          "id": "4",
           "type": "missingNumbers",
           "start": 58,
           "length": 6,
@@ -52,7 +56,6 @@
           ]
         },
         {
-          "id": "5",
           "type": "missingNumbers",
           "start": 20,
           "length": 6,
@@ -66,7 +69,6 @@
     {
       "items": [
         {
-          "id": "6",
           "type": "missingNumbers",
           "start": 62,
           "length": 6,
@@ -75,7 +77,6 @@
           ]
         },
         {
-          "id": "7",
           "type": "missingNumbers",
           "start": 66,
           "length": 6,
@@ -88,7 +89,6 @@
     {
       "items": [
         {
-          "id": "8",
           "type": "missingNumbers",
           "start": 70,
           "length": 5,
@@ -97,7 +97,6 @@
           ]
         },
         {
-          "id": "9",
           "type": "missingNumbers",
           "start": 24,
           "length": 6,
@@ -111,7 +110,6 @@
     {
       "items": [
         {
-          "id": "10",
           "type": "missingNumbers",
           "start": 74,
           "length": 4,
@@ -120,7 +118,6 @@
           ]
         },
         {
-          "id": "11",
           "type": "missingNumbers",
           "start": 78,
           "length": 4,
@@ -134,7 +131,6 @@
     {
       "items": [
         {
-          "id": "12",
           "type": "missingNumbers",
           "start": 82,
           "length": 5,
@@ -148,7 +144,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "missingNumbers",
           "start": 28,
           "length": 4,
@@ -158,7 +153,6 @@
           ]
         },
         {
-          "id": "14",
           "type": "missingNumbers",
           "start": 86,
           "length": 5,

@@ -7,7 +7,6 @@
     {
       "items": [
         {
-          "id": "1",
           "type": "columnSubtraction",
           "operands": [
             737,
@@ -15,7 +14,6 @@
           ]
         },
         {
-          "id": "2",
           "type": "columnSubtraction",
           "operands": [
             799,
@@ -23,7 +21,6 @@
           ]
         },
         {
-          "id": "3",
           "type": "columnSubtraction",
           "operands": [
             533,
@@ -31,7 +28,6 @@
           ]
         },
         {
-          "id": "4",
           "type": "columnSubtraction",
           "operands": [
             260,
@@ -43,7 +39,6 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "columnSubtraction",
           "operands": [
             849,
@@ -51,7 +46,6 @@
           ]
         },
         {
-          "id": "6",
           "type": "columnSubtraction",
           "operands": [
             456,
@@ -59,7 +53,6 @@
           ]
         },
         {
-          "id": "7",
           "type": "columnSubtraction",
           "operands": [
             658,
@@ -67,7 +60,6 @@
           ]
         },
         {
-          "id": "8",
           "type": "columnSubtraction",
           "operands": [
             775,
@@ -79,7 +71,6 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "columnSubtraction",
           "operands": [
             771,
@@ -87,7 +78,6 @@
           ]
         },
         {
-          "id": "10",
           "type": "columnSubtraction",
           "operands": [
             875,
@@ -95,7 +85,6 @@
           ]
         },
         {
-          "id": "11",
           "type": "columnSubtraction",
           "operands": [
             903,
@@ -103,7 +92,6 @@
           ]
         },
         {
-          "id": "12",
           "type": "columnSubtraction",
           "operands": [
             817,
@@ -115,7 +103,6 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "columnSubtraction",
           "operands": [
             965,
@@ -123,7 +110,6 @@
           ]
         },
         {
-          "id": "14",
           "type": "columnSubtraction",
           "operands": [
             707,
@@ -131,7 +117,6 @@
           ]
         },
         {
-          "id": "15",
           "type": "columnSubtraction",
           "operands": [
             338,
@@ -139,7 +124,6 @@
           ]
         },
         {
-          "id": "16",
           "type": "columnSubtraction",
           "operands": [
             762,
@@ -151,7 +135,6 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "columnSubtraction",
           "operands": [
             422,
@@ -159,7 +142,6 @@
           ]
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Sophie was having 47 coins but gave 6 to Emma and 7 to Liam. How many coins does Sophie still have?",
           "result": 34

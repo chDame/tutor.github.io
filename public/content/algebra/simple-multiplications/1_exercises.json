@@ -7,25 +7,21 @@
     {
       "items": [
         {
-          "id": "1",
           "type": "multiplication",
           "x": 7,
           "y": 2
         },
         {
-          "id": "2",
           "type": "multiplication",
           "x": 6,
           "y": 2
         },
         {
-          "id": "3",
           "type": "multiplication",
           "x": 1,
           "y": 8
         },
         {
-          "id": "4",
           "type": "multiplication",
           "x": 3,
           "y": 6
@@ -35,25 +31,21 @@
     {
       "items": [
         {
-          "id": "5",
           "type": "multiplication",
           "x": 3,
           "y": 7
         },
         {
-          "id": "6",
           "type": "multiplication",
           "x": 8,
           "y": 4
         },
         {
-          "id": "7",
           "type": "multiplication",
           "x": 3,
           "y": 2
         },
         {
-          "id": "8",
           "type": "multiplication",
           "x": 7,
           "y": 8
@@ -63,25 +55,21 @@
     {
       "items": [
         {
-          "id": "9",
           "type": "multiplication",
           "x": 3,
           "y": 5
         },
         {
-          "id": "10",
           "type": "multiplication",
           "x": 7,
           "y": 7
         },
         {
-          "id": "11",
           "type": "multiplication",
           "x": 6,
           "y": 7
         },
         {
-          "id": "12",
           "type": "multiplication",
           "x": 6,
           "y": 5
@@ -91,25 +79,21 @@
     {
       "items": [
         {
-          "id": "13",
           "type": "multiplication",
           "x": 1,
           "y": 1
         },
         {
-          "id": "14",
           "type": "multiplication",
           "x": 9,
           "y": 4
         },
         {
-          "id": "15",
           "type": "multiplication",
           "x": 5,
           "y": 7
         },
         {
-          "id": "16",
           "type": "multiplication",
           "x": 7,
           "y": 1
@@ -119,13 +103,11 @@
     {
       "items": [
         {
-          "id": "17",
           "type": "multiplication",
           "x": 3,
           "y": 9
         },
         {
-          "id": "18",
           "type": "problem",
           "question": "Paul has 4 boxes with 3 balloons in each box. How many balloons does Paul have in total?",
           "result": 12
