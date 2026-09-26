@@ -1,7 +1,7 @@
 import type { ExerciseItem } from '../../types'
 import type { ItemProps } from './common'
 
-type Explanation = Extract<ExerciseItem, { type: 'explanation' }>
+type FirstLetterDisco = Extract<ExerciseItem, { type: 'firstLetterDiscovery' }>
 
 
   function speakText(text: string, lang: string) {
@@ -20,14 +20,13 @@ type Explanation = Extract<ExerciseItem, { type: 'explanation' }>
   }
 
 /** Display-only: teacher-authored HTML content, not a question. */
-export default function ExplanationItem({ item }: ItemProps<Explanation>) {
+export default function FirstLetterDiscovery({ item }: ItemProps<FirstLetterDisco>) {
   return (
   
       <div className="item-box explanation">
-        {item.tts && (
-          <button onClick={() => speakText(item.tts.text, item.tts.lang)} className="btn tts-button">🔊</button>
-        )}
-      <div dangerouslySetInnerHTML={{ __html: item.html }} />
+        <button onClick={() => speakText(item.word, item.lang)} className="btn tts-button">🔊</button>
+
+        <p><span className='illustrateLetterImage'>{item.emoji}</span><span className='illustrateLetterWord'><strong>{item.word[0]}</strong>{item.word.slice(1)}</span></p>
       </div>
   )
 }

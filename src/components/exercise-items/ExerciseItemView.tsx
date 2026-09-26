@@ -13,6 +13,7 @@ import DiscoverNumberItem from './DiscoverNumberItem'
 import MissingOperandItem from './MissingOperandItem'
 import ExplanationItem from './ExplanationItem'
 import FirstLetterItem from './FirstLetterItem'
+import FirstLetterDiscovery from './FirstLetterDiscovery'
 
 interface Props {
   item: ExerciseItem
@@ -32,6 +33,8 @@ export default function ExerciseItemView({ item, answer, onChange }: Props) {
       return <MissingOperandItem item={item} answer={answer} onChange={onChange} />
     case 'explanation':
       return <ExplanationItem item={item} answer={answer} onChange={onChange} />
+    case 'firstLetterDiscovery':
+      return <FirstLetterDiscovery item={item} answer={answer} onChange={onChange} />
     case 'addition':
     case 'subtraction':
     case 'multiplication':

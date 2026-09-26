@@ -909,7 +909,7 @@
           "id": "simple-additions-20-practice4",
           "title": "Simple Additions (0 to 20) — Practice 4",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 2,
           "character": null
         },
         {
@@ -917,7 +917,7 @@
           "id": "simple-additions-20-practice5",
           "title": "Simple Additions (0 to 20) — Practice 5",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 3,
           "character": null
         },
         {
@@ -925,7 +925,7 @@
           "id": "simple-additions-20-practice6",
           "title": "Simple Additions (0 to 20) — Practice 6",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 4,
           "character": null
         },
         {
@@ -933,7 +933,7 @@
           "id": "simple-additions-20-practice7",
           "title": "Simple Additions (0 to 20) — Practice 7",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 4,
           "character": null
         },
         {
@@ -941,7 +941,7 @@
           "id": "simple-additions-20-practice8",
           "title": "Simple Additions (0 to 20) — Practice 8",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 5,
           "character": null
         },
         {
@@ -949,7 +949,7 @@
           "id": "simple-additions-20-practice9",
           "title": "Simple Additions (0 to 20) — Practice 9",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 5,
           "character": null
         },
         {
@@ -957,7 +957,7 @@
           "id": "simple-additions-20-evaluation",
           "title": "Simple Additions (0 to 20) — Checkpoint",
           "evaluation": true,
-          "difficulty": 2,
+          "difficulty": 5,
           "character": null
         }
       ]
@@ -995,7 +995,7 @@
           "id": "simple-additions-50-practice4",
           "title": "Simple Additions (0 to 50) — Practice 4",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 2,
           "character": null
         },
         {
@@ -1003,7 +1003,7 @@
           "id": "simple-additions-50-practice5",
           "title": "Simple Additions (0 to 50) — Practice 5",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 4,
           "character": null
         },
         {
@@ -1011,7 +1011,7 @@
           "id": "simple-additions-50-practice6",
           "title": "Simple Additions (0 to 50) — Practice 6",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 4,
           "character": null
         },
         {
@@ -1019,7 +1019,7 @@
           "id": "simple-additions-50-practice7",
           "title": "Simple Additions (0 to 50) — Practice 7",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 5,
           "character": null
         },
         {
@@ -1035,7 +1035,7 @@
           "id": "simple-additions-50-practice9",
           "title": "Simple Additions (0 to 50) — Practice 9",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 5,
           "character": null
         },
         {
@@ -1043,7 +1043,7 @@
           "id": "simple-additions-50-evaluation",
           "title": "Simple Additions (0 to 50) — Checkpoint",
           "evaluation": true,
-          "difficulty": 2,
+          "difficulty": 5,
           "character": null
         }
       ]
@@ -1081,7 +1081,7 @@
           "id": "simple-additions-100-practice4",
           "title": "Simple Additions (0 to 100) — Practice 4",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 2,
           "character": null
         },
         {
@@ -1089,7 +1089,7 @@
           "id": "simple-additions-100-practice5",
           "title": "Simple Additions (0 to 100) — Practice 5",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 4,
           "character": null
         },
         {
@@ -1097,7 +1097,7 @@
           "id": "simple-additions-100-practice6",
           "title": "Simple Additions (0 to 100) — Practice 6",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 4,
           "character": null
         },
         {
@@ -1105,7 +1105,7 @@
           "id": "simple-additions-100-practice7",
           "title": "Simple Additions (0 to 100) — Practice 7",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 5,
           "character": null
         },
         {
@@ -1121,7 +1121,7 @@
           "id": "simple-additions-100-practice9",
           "title": "Simple Additions (0 to 100) — Practice 9",
           "evaluation": false,
-          "difficulty": 1,
+          "difficulty": 5,
           "character": null
         },
         {
@@ -1129,45 +1129,226 @@
           "id": "simple-additions-100-evaluation",
           "title": "Simple Additions (0 to 100) — Checkpoint",
           "evaluation": true,
-          "difficulty": 2,
+          "difficulty": 5,
           "character": null
         }
       ]
     },
     {
-      "slug": "simple-subtractions",
-      "title": "Simple Subtractions",
+      "slug": "simple-subtractions-20",
+      "title": "Simple Subtractions (0 to 20)",
       "exercises": [
         {
-          "file": "simple-subtractions/1_exercises.json",
-          "id": "simple-subtractions-practice1",
-          "title": "Simple Subtractions — Practice 1",
+          "file": "simple-subtractions-20/1_exercises.json",
+          "id": "simple-subtractions-20-practice1",
+          "title": "Simple Subtractions (0 to 20) — Practice 1",
           "evaluation": false,
           "difficulty": 1,
           "character": null
         },
         {
-          "file": "simple-subtractions/2_exercises.json",
-          "id": "simple-subtractions-practice2",
-          "title": "Simple Subtractions — Practice 2",
+          "file": "simple-subtractions-20/2_exercises.json",
+          "id": "simple-subtractions-20-practice2",
+          "title": "Simple Subtractions (0 to 20) — Practice 2",
           "evaluation": false,
           "difficulty": 1,
           "character": null
         },
         {
-          "file": "simple-subtractions/3_exercises.json",
-          "id": "simple-subtractions-practice3",
-          "title": "Simple Subtractions — Practice 3",
+          "file": "simple-subtractions-20/3_exercises.json",
+          "id": "simple-subtractions-20-practice3",
+          "title": "Simple Subtractions (0 to 20) — Practice 3",
           "evaluation": false,
           "difficulty": 1,
           "character": null
         },
         {
-          "file": "simple-subtractions/4_exercises.json",
-          "id": "simple-subtractions-evaluation",
-          "title": "Simple Subtractions — Checkpoint",
-          "evaluation": true,
+          "file": "simple-subtractions-20/4_exercises.json",
+          "id": "simple-subtractions-20-practice4",
+          "title": "Simple Subtractions (0 to 20) — Practice 4",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-20/5_exercises.json",
+          "id": "simple-subtractions-20-practice5",
+          "title": "Simple Subtractions (0 to 20) — Practice 5",
+          "evaluation": false,
           "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-20/6_exercises.json",
+          "id": "simple-subtractions-20-practice6",
+          "title": "Simple Subtractions (0 to 20) — Practice 6",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-20/7_exercises.json",
+          "id": "simple-subtractions-20-practice7",
+          "title": "Simple Subtractions (0 to 20) — Practice 7",
+          "evaluation": false,
+          "difficulty": 3,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-20/8_exercises.json",
+          "id": "simple-subtractions-20-practice8",
+          "title": "Simple Subtractions (0 to 20) — Practice 8",
+          "evaluation": false,
+          "difficulty": 4,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-20/9_exercises.json",
+          "id": "simple-subtractions-20-practice9",
+          "title": "Simple Subtractions (0 to 20) — Practice 9",
+          "evaluation": false,
+          "difficulty": 4,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-20/10_exercises.json",
+          "id": "simple-subtractions-20-practice10",
+          "title": "Simple Subtractions (0 to 20) — Practice 10",
+          "evaluation": false,
+          "difficulty": 5,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-20/11_exercises.json",
+          "id": "simple-subtractions-20-practice11",
+          "title": "Simple Subtractions (0 to 20) — Practice 11",
+          "evaluation": false,
+          "difficulty": 5,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-20/12_exercises.json",
+          "id": "simple-subtractions-20-practice12",
+          "title": "Simple Subtractions (0 to 20) — Practice 12",
+          "evaluation": false,
+          "difficulty": 4,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-20/13_exercises.json",
+          "id": "simple-subtractions-20-checkpoint",
+          "title": "Simple Subtractions (0 to 20) — Checkpoint",
+          "evaluation": true,
+          "difficulty": 5,
+          "character": null
+        }
+      ]
+    },
+    {
+      "slug": "simple-subtractions-100",
+      "title": "Simple Subtractions (0 to 100)",
+      "exercises": [
+        {
+          "file": "simple-subtractions-100/1_exercises.json",
+          "id": "simple-subtractions-100-practice1",
+          "title": "Simple Subtractions (0 to 100) — Practice 1",
+          "evaluation": false,
+          "difficulty": 4,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/2_exercises.json",
+          "id": "simple-subtractions-100-practice2",
+          "title": "Simple Subtractions (0 to 100) — Practice 2",
+          "evaluation": false,
+          "difficulty": 1,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/3_exercises.json",
+          "id": "simple-subtractions-100-practice3",
+          "title": "Simple Subtractions (0 to 100) — Practice 3",
+          "evaluation": false,
+          "difficulty": 4,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/4_exercises.json",
+          "id": "simple-subtractions-100-practice4",
+          "title": "Simple Subtractions (0 to 100) — Practice 4",
+          "evaluation": false,
+          "difficulty": 4,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/5_exercises.json",
+          "title": "Simple Subtractions (0 to 20) — Practice 5",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/6_exercises.json",
+          "id": "simple-subtractions-100-practice6",
+          "title": "Simple Subtractions (0 to 100) — Practice 6",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/7_exercises.json",
+          "id": "simple-subtractions-100-practice7",
+          "title": "Simple Subtractions (0 to 100) — Practice 7",
+          "evaluation": false,
+          "difficulty": 3,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/8_exercises.json",
+          "id": "simple-subtractions-100-practice8",
+          "title": "Simple Subtractions (0 to 100) — Practice 8",
+          "evaluation": false,
+          "difficulty": 4,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/9_exercises.json",
+          "id": "simple-subtractions-100-practice9",
+          "title": "Simple Subtractions (0 to 100) — Practice 9",
+          "evaluation": false,
+          "difficulty": 5,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/10_exercises.json",
+          "id": "simple-subtractions-100-practice10",
+          "title": "Simple Subtractions (0 to 100) — Practice 10",
+          "evaluation": false,
+          "difficulty": 5,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/11_exercises.json",
+          "id": "simple-subtractions-100-practice11",
+          "title": "Simple Subtractions (0 to 100) — Practice 11",
+          "evaluation": false,
+          "difficulty": 5,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/12_exercises.json",
+          "id": "simple-subtractions-100-practice12",
+          "title": "Simple Subtractions (0 to 100) — Practice 12",
+          "evaluation": false,
+          "difficulty": 4,
+          "character": null
+        },
+        {
+          "file": "simple-subtractions-100/13_exercises.json",
+          "id": "simple-subtractions-100-checkpoint",
+          "title": "Simple Subtractions (0 to 100) — Checkpoint",
+          "evaluation": true,
+          "difficulty": 5,
           "character": null
         }
       ]

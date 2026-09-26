@@ -8,103 +8,135 @@
       "items": [
         {
           "type": "explanation",
-          "html": "<p>Découvrons 8 consonnes : <strong>B, C, D, F, G, L, M, N</strong>.</p>"
+          "html": "<p>Découvrons 8 consonnes : <span class='illustrateLetterWord'><strong>B, C, D, F, G, L, M, N</strong>.</p>"
         }
       ]
     },
     {
       "items": [
         {
-          "type": "explanation",
-          "html": "<p><strong>B</strong>ateau  <span style=\"font-size:64px\">⛵</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Bateau",
+          "lang": "fr-FR",
+          "emoji": "⛵"
         },
         {
-          "type": "explanation",
-          "html": "<p><strong>B</strong>allon  <span style=\"font-size:64px\">🎈</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Ballon",
+          "lang": "fr-FR",
+          "emoji": "🎈"
         }
       ]
     },
     {
       "items": [
         {
-          "type": "explanation",
-          "html": "<p><strong>C</strong>actus  <span style=\"font-size:64px\">🌵</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Cactus",
+          "lang": "fr-FR",
+          "emoji": "🌵"
         },
         {
-          "type": "explanation",
-          "html": "<p><strong>C</strong>ookie  <span style=\"font-size:64px\">🍪</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Cookie",
+          "lang": "fr-FR",
+          "emoji": "🍪"
         }
       ]
     },
     {
       "items": [
         {
-          "type": "explanation",
-          "html": "<p><strong>D</strong>ragon  <span style=\"font-size:64px\">🐉</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Dragon",
+          "lang": "fr-FR",
+          "emoji": "🐉"
         },
         {
-          "type": "explanation",
-          "html": "<p><strong>D</strong>auphin  <span style=\"font-size:64px\">🐬</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Dauphin",
+          "lang": "fr-FR",
+          "emoji": "🐬"
         }
       ]
     },
     {
       "items": [
         {
-          "type": "explanation",
-          "html": "<p><strong>F</strong>lamant  <span style=\"font-size:64px\">🦩</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Flamant",
+          "lang": "fr-FR",
+          "emoji": "🦩"
         },
         {
-          "type": "explanation",
-          "html": "<p><strong>F</strong>euille  <span style=\"font-size:64px\">🍃</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Feuille",
+          "lang": "fr-FR",
+          "emoji": "🍃"
         }
       ]
     },
     {
       "items": [
         {
-          "type": "explanation",
-          "html": "<p><strong>G</strong>orille  <span style=\"font-size:64px\">🦍</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Gorille",
+          "lang": "fr-FR",
+          "emoji": "🦍"
         },
         {
-          "type": "explanation",
-          "html": "<p><strong>G</strong>renouille  <span style=\"font-size:64px\">🐸</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Grenouille",
+          "lang": "fr-FR",
+          "emoji": "🐸"
         }
       ]
     },
     {
       "items": [
         {
-          "type": "explanation",
-          "html": "<p><strong>L</strong>ion  <span style=\"font-size:64px\">🦁</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Lion",
+          "lang": "fr-FR",
+          "emoji": "🦁"
         },
         {
-          "type": "explanation",
-          "html": "<p><strong>L</strong>ampe  <span style=\"font-size:64px\">💡</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Lampe",
+          "lang": "fr-FR",
+          "emoji": "💡"
         }
       ]
     },
     {
       "items": [
         {
-          "type": "explanation",
-          "html": "<p><strong>M</strong>outon  <span style=\"font-size:64px\">🐑</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Mouton",
+          "lang": "fr-FR",
+          "emoji": "🐑"
         },
         {
-          "type": "explanation",
-          "html": "<p><strong>M</strong>aison  <span style=\"font-size:64px\">🏠</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Maison",
+          "lang": "fr-FR",
+          "emoji": "🏠"
         }
       ]
     },
     {
       "items": [
         {
-          "type": "explanation",
-          "html": "<p><strong>N</strong>eige  <span style=\"font-size:64px\">❄️</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Neige",
+          "lang": "fr-FR",
+          "emoji": "❄️"
         },
         {
-          "type": "explanation",
-          "html": "<p><strong>N</strong>uage  <span style=\"font-size:64px\">☁️</span></p>"
+          "type": "firstLetterDiscovery",
+          "word": "Nuage",
+          "lang": "fr-FR",
+          "emoji": "☁️"
         }
       ]
     }

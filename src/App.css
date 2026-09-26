@@ -67,7 +67,14 @@
   padding: 4px 8px;
   font-size: 14px;
 }
-
+.btn.tts-button {
+  font-size: 24px;
+    /* margin-left: calc(50% - 36px); */
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    text-shadow: 0 0 1px black, 0 0 3px black;
+}
 /* --- login --- */
 .login-card {
   background: var(--surface);
@@ -387,6 +394,7 @@
   display: block;
   text-align: left;
   line-height: 1.5;
+  position:relative;
 }
 .item-box.explanation :first-child {
   margin-top: 0;
@@ -768,4 +776,13 @@ img.character.character-left {
 .sequence-blank input:focus {
   outline: none;
   border-color: var(--accent);
+  }
+  .illustrateLetterImage {
+    display: inline-block;
+    font-size: 64px;
+    margin-right: 8px;
+  }
+.illustrateLetterWord {
+  display: inline-block;
+  font-size: 32px;
 }
