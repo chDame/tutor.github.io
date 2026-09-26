@@ -786,3 +786,11 @@ img.character.character-left {
   display: inline-block;
   font-size: 32px;
 }
+.illustrateLetterExplanation {
+  margin-top: 4px;
+      border: 1px solid #3366cc;
+    border-radius: 8px;
+    padding: 5px;
+    color: #3366cc;
+    background: #bdf;
+}

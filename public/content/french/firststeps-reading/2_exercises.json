@@ -8,7 +8,7 @@
       "items": [
         {
           "type": "explanation",
-          "html": "<p>Découvrons 8 consonnes : <span class='illustrateLetterWord'><strong>B, C, D, F, G, L, M, N</strong>.</p>"
+          "html": "<p>Découvrons 8 consonnes : <span class='illustrateLetterWord'><strong>B, C, D, F, G, H, L, M, N</strong>.</p>"
         }
       ]
     },
@@ -89,6 +89,23 @@
           "word": "Grenouille",
           "lang": "fr-FR",
           "emoji": "🐸"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Hache",
+          "lang": "fr-FR",
+          "emoji": "🪓",
+          "explanation": "En francais, la lettre H se prononce parfois comme une aspiration et parfois ne se prononce pas du tout: le H muet."
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Hibou",
+          "lang": "fr-FR",
+          "emoji": "🦉"
         }
       ]
     },

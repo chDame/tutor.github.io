@@ -8,7 +8,23 @@
       "items": [
         {
           "type": "explanation",
-          "html": "<p>Encore des consonnes à connaître : <strong>S, T, V, Z, J, K, Q, W, X, H</strong>.</p><p><strong>W</strong> : <span style=\"font-size:64px\">🚃</span> wagon</p><p><strong>X</strong> : <span style=\"font-size:64px\">🎼</span> xylophone</p><p>Avec les voyelles, elles vont former plein de mots ! 🎉</p>"
+          "html": "<p>Encore des consonnes à connaître : <strong>P, Q, R, S, T, V, W, X, Z</strong>.</p><p><strong>W</strong> : <span style=\"font-size:64px\">🚃</span> wagon</p><p><strong>X</strong> : <span style=\"font-size:64px\">🎼</span> xylophone</p><p>Avec les voyelles, elles vont former plein de mots ! 🎉</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Poule",
+          "lang": "fr-FR",
+          "emoji": "🐓"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Pomme",
+          "lang": "fr-FR",
+          "emoji": "🍎"
         }
       ]
     }

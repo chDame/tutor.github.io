@@ -27,6 +27,7 @@ export default function FirstLetterDiscovery({ item }: ItemProps<FirstLetterDisc
         <button onClick={() => speakText(item.word, item.lang)} className="btn tts-button">🔊</button>
 
         <p><span className='illustrateLetterImage'>{item.emoji}</span><span className='illustrateLetterWord'><strong>{item.word[0]}</strong>{item.word.slice(1)}</span></p>
+        {item.explanation && <p className='illustrateLetterExplanation'>{item.explanation}</p>}
       </div>
   )
 }
