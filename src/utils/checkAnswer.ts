@@ -120,6 +120,7 @@ export function isAnswerComplete(item: ExerciseItem, answer: AnswerInput): boole
       return orderedMissingIndices(item).every((_, i) => toNumber(answer.values?.[i]) != null)
     case 'discoverNumber':
     case 'explanation':
+    case 'firstLetterDiscovery':
       return true // display-only, nothing for the student to answer
     case 'firstLetter':
       return normalizeText(answer.value).length > 0
@@ -151,6 +152,7 @@ export function checkAnswer(item: ExerciseItem, answer: AnswerInput): boolean {
       return orderedMissingIndices(item).every((idx, i) => toNumber(answer.values?.[i]) === item.start + idx)
     case 'discoverNumber':
     case 'explanation':
+    case 'firstLetterDiscovery':
       return true // display-only, always counts as correct
     case 'missingOperand': {
       const value = toNumber(answer.value)
