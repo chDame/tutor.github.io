@@ -363,6 +363,7 @@
   }
 }
 .item-box {
+  position:relative;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -394,7 +395,6 @@
   display: block;
   text-align: left;
   line-height: 1.5;
-  position:relative;
 }
 .item-box.explanation :first-child {
   margin-top: 0;

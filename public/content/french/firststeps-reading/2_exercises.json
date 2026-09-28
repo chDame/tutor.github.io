@@ -8,7 +8,7 @@
       "items": [
         {
           "type": "explanation",
-          "html": "<p>Découvrons 8 consonnes : <span class='illustrateLetterWord'><strong>B, C, D, F, G, H, L, M, N</strong>.</p>"
+          "html": "<p>Découvrons 8 consonnes : <span class='illustrateLetterWord'><strong>B, C, D, F, G, H, J, K, L, M</strong>.</p>"
         }
       ]
     },
@@ -30,6 +30,10 @@
     },
     {
       "items": [
+        {
+          "type": "explanation",
+          "html":"<p>La lettre C se prononce differemment selon la lettre qui la suit. Pour l'instant, nous voyons sa forme simple.</p>"
+        },
         {
           "type": "firstLetterDiscovery",
           "word": "Cactus",
@@ -70,14 +74,18 @@
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Feuille",
+          "word": "Fusée",
           "lang": "fr-FR",
-          "emoji": "🍃"
+          "emoji": "🚀"
         }
       ]
     },
     {
       "items": [
+        {
+          "type": "explanation",
+          "html":"<p>La lettre G se prononce differemment selon la lettre qui la suit. Pour l'instant, nous voyons sa forme simple.</p>"
+        },
         {
           "type": "firstLetterDiscovery",
           "word": "Gorille",
@@ -113,6 +121,38 @@
       "items": [
         {
           "type": "firstLetterDiscovery",
+          "word": "Joie",
+          "lang": "fr-FR",
+          "emoji": "😂"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Jaguar",
+          "lang": "fr-FR",
+          "emoji": "🐆"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Kiwi",
+          "lang": "fr-FR",
+          "emoji": "🥝"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Kangourou",
+          "lang": "fr-FR",
+          "emoji": "🦘"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
           "word": "Lion",
           "lang": "fr-FR",
           "emoji": "🦁"
@@ -138,22 +178,6 @@
           "word": "Maison",
           "lang": "fr-FR",
           "emoji": "🏠"
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "type": "firstLetterDiscovery",
-          "word": "Neige",
-          "lang": "fr-FR",
-          "emoji": "❄️"
-        },
-        {
-          "type": "firstLetterDiscovery",
-          "word": "Nuage",
-          "lang": "fr-FR",
-          "emoji": "☁️"
         }
       ]
     }

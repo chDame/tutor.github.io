@@ -107,7 +107,7 @@ const toNumber = (s: string | undefined): number | null => {
   return Number.isNaN(n) ? null : n
 }
 
-const normalizeText = (s: string | undefined): string => (s ?? '').trim().toLocaleLowerCase()
+const normalizeText = (s: string | undefined): string => {const x=(s ?? '').trim().toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, ''); console.log(x); return x}
 
 export function isAnswerComplete(item: ExerciseItem, answer: AnswerInput): boolean {
   switch (item.type) {

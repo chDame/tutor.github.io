@@ -6,8 +6,70 @@
   "pages": [
     {
       "items": [
-        { "type": "firstLetter", "emoji": "⛵", "wordSuffix": "ateau", "result": "b" },
-        { "type": "firstLetter", "emoji": "🎈", "wordSuffix": "allon", "result": "b" }
+        { "type": "firstLetter", "emoji": "🎓", "wordSuffix": "niforme", "result": "u", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🏭", "wordSuffix": "sine", "result": "u", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🚲", "wordSuffix": "élo", "result": "v", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🌋", "wordSuffix": "olcan", "result": "v", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🚃", "wordSuffix": "agon", "result": "w", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "image": "/images/xylo.png", "wordSuffix": "ylophone", "result": "x", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "👀", "wordSuffix": "eux", "result": "y", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🪀", "wordSuffix": "oyo", "result": "y", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        {"type":"explanation","html":"<p>Parfois, on peut aussi combiner des lettres pour faire des nouveaux sons. Par exemple les voyelles O et le U font le son \"OU\".</p>"},
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ours",
+          "lang": "fr-FR",
+          "emoji": "🐻",
+          "highlight":2
+        },
+        { "type": "firstLetter", "emoji": "👷‍♂️", "wordSuffix": "vrier", "result": "ou", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        {"type":"explanation","html":"<p>Les voyelles O et le I font le son \"OI\".</p>"},
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Oiseau",
+          "lang": "fr-FR",
+          "emoji": "🐦‍⬛",
+          "highlight":2
+        },
+        { "type": "firstLetter", "emoji": "🪿", "wordSuffix": "e", "result": "oi", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        {"type":"explanation","html":"<p>On peut aussi combiner les consonnes comme par exemple le C et le H pour faire le son \"CH\".</p>"},
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Chat",
+          "lang": "fr-FR",
+          "emoji": "🐈‍⬛",
+          "highlight":2
+        },
+        { "type": "firstLetter", "emoji": "🐎", "wordSuffix": "eval", "result": "ch", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🍄", "wordSuffix": "ampignon", "result": "ch", "lang": "fr-FR" }
       ]
     }
   ]

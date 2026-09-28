@@ -21,12 +21,15 @@ type FirstLetterDisco = Extract<ExerciseItem, { type: 'firstLetterDiscovery' }>
 
 /** Display-only: teacher-authored HTML content, not a question. */
 export default function FirstLetterDiscovery({ item }: ItemProps<FirstLetterDisco>) {
+  const highlight = item.highlight ? item.highlight : 1;
+  const prefix = item.word.slice(0, highlight);
+  const suffix = item.word.slice(highlight); 
   return (
   
       <div className="item-box explanation">
         <button onClick={() => speakText(item.word, item.lang)} className="btn tts-button">🔊</button>
 
-        <p><span className='illustrateLetterImage'>{item.emoji}</span><span className='illustrateLetterWord'><strong>{item.word[0]}</strong>{item.word.slice(1)}</span></p>
+        <p><span className='illustrateLetterImage'>{item.emoji ? item.emoji : <img src={import.meta.env.BASE_URL+item.image} style={{ height: '64px' }} />}</span><span className='illustrateLetterWord'><strong>{prefix}</strong>{suffix}</span></p>
         {item.explanation && <p className='illustrateLetterExplanation'>{item.explanation}</p>}
       </div>
   )

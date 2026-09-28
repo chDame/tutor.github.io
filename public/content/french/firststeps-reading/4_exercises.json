@@ -6,8 +6,62 @@
   "pages": [
     {
       "items": [
-        { "type": "firstLetter", "emoji": "🛩️", "wordSuffix": "vion", "result": "a" },
-        { "type": "firstLetter", "emoji": "🌳", "wordSuffix": "rbre", "result": "a" }
+        { "type": "firstLetter", "emoji": "🛩️", "wordSuffix": "vion", "result": "a", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🌳", "wordSuffix": "rbre", "result": "a", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🍼", "wordSuffix": "iberon", "result": "b", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🥦", "wordSuffix": "roccoli", "result": "b", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🎁", "wordSuffix": "adeau", "result": "c", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🥄", "wordSuffix": "uillère", "result": "c", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🍩", "wordSuffix": "onut", "result": "d", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🧨", "wordSuffix": "ynamite", "result": "d", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "⭐", "wordSuffix": "toile", "result": "é", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🐘", "wordSuffix": "léphant", "result": "é", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🧚‍♀️", "wordSuffix": "ée", "result": "f", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "👻", "wordSuffix": "antôme", "result": "f", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🍦", "wordSuffix": "lace", "result": "g", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🦒", "wordSuffix": "irafe", "result": "g", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🚁", "wordSuffix": "élicoptère", "result": "h", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🦔", "wordSuffix": "érisson", "result": "h", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🏝️", "wordSuffix": "le", "result": "î", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "☝️", "wordSuffix": "ndex", "result": "i", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🤹‍♂️", "wordSuffix": "ongleur", "result": "j", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🦵", "wordSuffix": "ambe", "result": "j", "lang": "fr-FR" }
       ]
     }
   ]
