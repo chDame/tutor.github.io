@@ -110,10 +110,7 @@
           "title": "Numbers from 1 to 10 — Practice 1",
           "evaluation": false,
           "difficulty": 0,
-          "character": {
-            "image": "characters/quiEstCe.png",
-            "position": "right"
-          },
+          "character": null,
           "beatTheClock": null
         },
         {
@@ -140,7 +137,10 @@
           "title": "Numbers from 1 to 10 — Practice 4",
           "evaluation": false,
           "difficulty": 2,
-          "character": null,
+          "character": {
+            "image": "characters/quiEstCe.png",
+            "position": "right"
+          },
           "beatTheClock": null
         },
         {
@@ -209,10 +209,7 @@
           "title": "Numbers from 11 to 20 — Practice 1",
           "evaluation": false,
           "difficulty": 0,
-          "character": {
-            "image": "characters/quiEstCe.png",
-            "position": "right"
-          },
+          "character": null,
           "beatTheClock": null
         },
         {
@@ -257,7 +254,10 @@
           "title": "Numbers from 11 to 20 — Practice 6",
           "evaluation": false,
           "difficulty": 0,
-          "character": null,
+          "character": {
+            "image": "characters/numbersPile.png",
+            "position": "left"
+          },
           "beatTheClock": null
         },
         {
@@ -1070,7 +1070,39 @@
           "evaluation": false,
           "difficulty": 4,
           "character": null,
-          "beatTheClock": null
+          "beatTheClock": {
+            "times": [
+              50,
+              110,
+              150
+            ],
+            "problems": [
+              {
+                "type": "addition",
+                "xRange": [
+                  1,
+                  20
+                ],
+                "yRange": [
+                  1,
+                  10
+                ],
+                "count": 5
+              },
+              {
+                "type": "missingOperand",
+                "xRange": [
+                  1,
+                  20
+                ],
+                "yRange": [
+                  1,
+                  10
+                ],
+                "count": 5
+              }
+            ]
+          }
         },
         {
           "file": "simple-additions-20/7_exercises.json",
@@ -1166,7 +1198,39 @@
           "evaluation": false,
           "difficulty": 4,
           "character": null,
-          "beatTheClock": null
+          "beatTheClock": {
+            "times": [
+              40,
+              90,
+              130
+            ],
+            "problems": [
+              {
+                "type": "addition",
+                "xRange": [
+                  1,
+                  50
+                ],
+                "yRange": [
+                  1,
+                  10
+                ],
+                "count": 5
+              },
+              {
+                "type": "missingOperand",
+                "xRange": [
+                  1,
+                  50
+                ],
+                "yRange": [
+                  1,
+                  10
+                ],
+                "count": 5
+              }
+            ]
+          }
         },
         {
           "file": "simple-additions-50/7_exercises.json",
@@ -1262,7 +1326,39 @@
           "evaluation": false,
           "difficulty": 4,
           "character": null,
-          "beatTheClock": null
+          "beatTheClock": {
+            "times": [
+              30,
+              60,
+              100
+            ],
+            "problems": [
+              {
+                "type": "addition",
+                "xRange": [
+                  1,
+                  99
+                ],
+                "yRange": [
+                  1,
+                  10
+                ],
+                "count": 5
+              },
+              {
+                "type": "missingOperand",
+                "xRange": [
+                  1,
+                  99
+                ],
+                "yRange": [
+                  1,
+                  10
+                ],
+                "count": 5
+              }
+            ]
+          }
         },
         {
           "file": "simple-additions-100/7_exercises.json",

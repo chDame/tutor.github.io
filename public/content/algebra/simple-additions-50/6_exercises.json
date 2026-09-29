@@ -3,6 +3,23 @@
   "title": "Simple Additions (0 to 50) — Practice 6",
   "evaluation": false,
   "difficulty": 4,
+  "beatTheClock": {
+    "times":[40,90,130],
+    "problems":[
+      {
+        "type":"addition",
+       "xRange": [1,50],
+       "yRange": [1,10],
+       "count": 5
+      },
+      {
+        "type":"missingOperand",
+        "xRange": [1,50],
+        "yRange": [1,10],
+        "count": 5
+      }
+    ]
+  },
   "pages": [
     {
       "items": [

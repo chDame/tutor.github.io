@@ -488,6 +488,9 @@
   gap: 8px;
   padding-left: 12px;
 }
+.missingOperand .item-inputs {
+  padding-left: 0px;
+}
 .item-inputs input {
   width: 72px;
   text-align: center;
