@@ -9,9 +9,10 @@ const X_POSITIONS = [150, 80, 220] // center, left, right — cycled per node
 interface Props {
   exercises: ExerciseState[]
   onSelect: (ex: ExerciseState) => void
+  onSelectBeatTheClock: (ex: ExerciseState) => void
 }
 
-export default function PathTrack({ exercises, onSelect }: Props) {
+export default function PathTrack({ exercises, onSelect, onSelectBeatTheClock }: Props) {
   const points = exercises.map((_, i) => ({
     x: X_POSITIONS[i % 3],
     y: i * ROW_HEIGHT + NODE_SIZE / 2,
@@ -62,6 +63,7 @@ export default function PathTrack({ exercises, onSelect }: Props) {
               )}
               
               <span className="node-number">{ex.indexInLevel + 1}</span>
+
             {ex.character && (
               <img
                 src={`${import.meta.env.BASE_URL}${ex.character.image}`}
@@ -77,6 +79,19 @@ export default function PathTrack({ exercises, onSelect }: Props) {
               {bonus && <span className="bonus-badge">{bonus}</span>}
             </span>
              :<> </>}
+                           {ex.unlocked && ex.beatTheClock && (
+                <span
+                  className="chrono"
+                  role="button"
+                  title="Beat the Clock"
+                  onClick={(e) => {
+                    e.stopPropagation()
+                    onSelectBeatTheClock(ex)
+                  }}
+                >
+                  ⏱️
+                </span>
+              )}
           </div>
         )
       })}

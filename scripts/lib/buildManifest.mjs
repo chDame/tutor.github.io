@@ -65,6 +65,7 @@ export function buildManifestForTopic(template, contentRoot) {
         evaluation: doc.evaluation,
         difficulty: doc.difficulty,
         character: doc.character ?? null,
+        beatTheClock: doc.beatTheClock ?? null,
       }
     })
     manifest.levels.push({ slug, title, exercises })

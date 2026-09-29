@@ -35,17 +35,33 @@ export interface ExercisePage {
 
 export type Difficulty = 0 | 1 | 2 | 3 | 4 | 5
 
+/** One randomly-generated batch within a Beat the Clock round. */
+export interface BeatTheClockProblemSpec {
+  type: ExerciseItemType
+  xRange: [number, number]
+  yRange: [number, number]
+  count: number
+}
+
+/** Times are seconds; the round is scored purely on elapsed time. */
+export interface BeatTheClockConfig {
+  times: [gold: number, silver: number, bronze: number]
+  problems: BeatTheClockProblemSpec[]
+}
+
 /** One node in the progression path: a "series of exercises" JSON document. */
 export interface ExerciseDoc {
   id: string
   title: string
   evaluation: boolean
   difficulty: Difficulty
+  beatTheClock?: BeatTheClockConfig
   pages: ExercisePage[]
 }
 
 export interface ManifestExerciseEntry {
   character: { image: string; position: 'left' | 'right' } | null;
+  beatTheClock: BeatTheClockConfig | null
   file: string
   id: string
   title: string

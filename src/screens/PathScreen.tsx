@@ -72,6 +72,10 @@ export default function PathScreen() {
                 const fileName = ex.file.split('/').pop()!
                 navigate(`/exercise/${topic}/${ex.levelSlug}/${fileName}`)
               }}
+              onSelectBeatTheClock={(ex) => {
+                const fileName = ex.file.split('/').pop()!
+                navigate(`/beat-the-clock/${topic}/${ex.levelSlug}/${fileName}`)
+              }}
             />
           </div>
         ))}

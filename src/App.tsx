@@ -5,6 +5,7 @@ import LoginScreen from './screens/LoginScreen'
 import TopicsScreen from './screens/TopicsScreen'
 import PathScreen from './screens/PathScreen'
 import ExerciseScreen from './screens/ExerciseScreen'
+import BeatTheClockScreen from './screens/BeatTheClockScreen'
 import './App.css'
 
 function TopBar() {
@@ -70,6 +71,14 @@ function AppRoutes() {
             element={
               <RequireAuth>
                 <ExerciseScreen />
+              </RequireAuth>
+            }
+          />
+          <Route
+            path="/beat-the-clock/:topic/:levelSlug/:fileName"
+            element={
+              <RequireAuth>
+                <BeatTheClockScreen />
               </RequireAuth>
             }
           />
