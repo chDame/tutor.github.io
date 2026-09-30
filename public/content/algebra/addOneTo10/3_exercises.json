@@ -3,6 +3,10 @@
   "title": "Add One to 10 — Practice 3",
   "evaluation": false,
   "difficulty": 0,
+  "character": {
+    "image": "characters/buildingNumbersWall.png",
+    "position": "left"
+  },
   "pages": [
     {
       "items": [

@@ -3,6 +3,10 @@
   "title": "Add One to 20 — Practice 4",
   "evaluation": false,
   "difficulty": 1,
+  "character": {
+    "image": "characters/crossingRiver.png",
+    "position": "right"
+  },
   "pages": [
     {
       "items": [

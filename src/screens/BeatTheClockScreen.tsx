@@ -29,6 +29,7 @@ export default function BeatTheClockScreen() {
   const [resolvedMistakes, setResolvedMistakes] = useState<Set<string>>(new Set())
   const [retryFeedback, setRetryFeedback] = useState<Record<string, 'correct' | 'incorrect'>>({})
   const startRef = useRef<number>(Date.now())
+  const pageGridRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     setConfig(null)
@@ -84,6 +85,11 @@ export default function BeatTheClockScreen() {
       </div>
     )
   }
+  useEffect(() => {
+    if (result) return
+    pageGridRef.current?.querySelector<HTMLInputElement>('input, textarea')?.focus()
+  }, [items, result, pageIndex])
+
   if (!config || items.length === 0) return <p>Loading…</p>
 
   function updateAnswer(itemId: string, patch: AnswerInput) {
@@ -177,7 +183,7 @@ export default function BeatTheClockScreen() {
         </span>
       </div>
       <h2>⏱️ Beat the Clock</h2>
-      <div className="page-grid">
+      <div className="page-grid" ref={pageGridRef}>
         <ExerciseItemView item={item} answer={answers[item.id] ?? {}} onChange={(patch) => updateAnswer(item.id, patch)} />
       </div>
       <div className="exercise-footer">

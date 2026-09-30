@@ -69,6 +69,7 @@ export default function PathTrack({ exercises, onSelect, onSelectBeatTheClock }:
                 src={`${import.meta.env.BASE_URL}${ex.character.image}`}
                 alt="character"
                 className={`character character-${ex.character.position}`}
+                style={ex.character.style ? ex.character.style :{}}
               />
             )}
             </button>

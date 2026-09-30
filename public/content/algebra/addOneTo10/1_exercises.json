@@ -90,9 +90,5 @@
         }
       ]
     }
-  ],
-  "character": {
-    "image": "characters/girlCreatingANumbersTower.png",
-    "position": "right"
-  }
+  ]
 }

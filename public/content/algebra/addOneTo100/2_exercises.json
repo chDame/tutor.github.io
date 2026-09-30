@@ -3,6 +3,12 @@
   "title": "Add One to 100 — Practice 2",
   "evaluation": false,
   "difficulty": 0,
+  "character": {
+    "image": "characters/100Parachute.png",
+    "position": "right",
+    "style": {"height": "180px", 
+    "top": "-20px"}
+  },
   "pages": [
     {
       "items": [

@@ -19,6 +19,7 @@ export function flattenManifest(manifest: TopicManifest): FlatExercise[] {
   const flat: FlatExercise[] = []
   manifest.levels.forEach((level, levelIndex) => {
     level.exercises.forEach((exercise, indexInLevel) => {
+      if (exercise.character) console.log(exercise.character)
       flat.push({
         ...exercise,
         levelSlug: level.slug,

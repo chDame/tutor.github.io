@@ -23,6 +23,7 @@ export default function ExerciseScreen() {
   const [resolvedMistakes, setResolvedMistakes] = useState<Set<string>>(new Set())
   const [retryFeedback, setRetryFeedback] = useState<Record<string, 'correct' | 'incorrect'>>({})
   const startRef = useRef<number>(Date.now())
+  const pageGridRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     setDoc(null)
@@ -74,6 +75,11 @@ export default function ExerciseScreen() {
   }, [topic, levelSlug, fileName, username])
 
   const allItems = useMemo(() => doc?.pages.flatMap((p) => p.items) ?? [], [doc])
+
+  useEffect(() => {
+    if (!doc || result) return
+    pageGridRef.current?.querySelector<HTMLInputElement>('input, textarea')?.focus()
+  }, [doc, result, pageIndex])
 
   if (error) {
     return (
@@ -186,7 +192,7 @@ export default function ExerciseScreen() {
         </span>
       </div>
       <h2>{doc.title}</h2>
-      <div className="page-grid">
+      <div className="page-grid" ref={pageGridRef}>
         {page.items.map((item) => (
           <ExerciseItemView
             key={item.id}

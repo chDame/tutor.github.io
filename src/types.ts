@@ -60,7 +60,7 @@ export interface ExerciseDoc {
 }
 
 export interface ManifestExerciseEntry {
-  character: { image: string; position: 'left' | 'right' } | null;
+  character: { image: string; position: 'left' | 'right'; style: any | null; } | null;
   beatTheClock: BeatTheClockConfig | null
   file: string
   id: string

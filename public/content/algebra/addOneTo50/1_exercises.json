@@ -3,6 +3,10 @@
   "title": "Add One to 50 — Practice 1",
   "evaluation": false,
   "difficulty": 0,
+  "character": {
+    "image": "characters/jongleChiffres.png",
+    "position": "right"
+  },
   "pages": [
     {
       "items": [
@@ -105,9 +109,5 @@
         }
       ]
     }
-  ],
-  "character": {
-    "image": "characters/girlCreatingANumbersTower.png",
-    "position": "right"
-  }
+  ]
 }
