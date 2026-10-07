@@ -3,6 +3,10 @@
   "title": "Add One to 50 — Evaluation",
   "evaluation": true,
   "difficulty": 1,
+  "character": {
+    "image": "characters/luckyNumbers.png",
+    "position": "right"
+  },
   "pages": [
     {
       "items": [

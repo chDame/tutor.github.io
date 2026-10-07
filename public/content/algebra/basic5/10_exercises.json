@@ -3,6 +3,10 @@
   "title": "Numbers from 1 to 5 — Evaluation",
   "evaluation": true,
   "difficulty": 1,
+  "character": {
+    "image": "characters/numberFruits.png",
+    "position": "right"
+  },
   "pages": [
     {
       "items": [

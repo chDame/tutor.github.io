@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState, type KeyboardEvent } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import type { BeatTheClockConfig, ExerciseItem, TopicManifest } from '../types'
 import { checkAnswer, isAnswerComplete, type AnswerInput } from '../utils/checkAnswer'
@@ -75,6 +75,18 @@ export default function BeatTheClockScreen() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [config])
 
+  useEffect(() => {
+    if (result) return
+    const container = pageGridRef.current
+    if (!container) return
+    const firstInput = container.querySelector<HTMLInputElement>('input, textarea')
+    if (firstInput) {
+      firstInput.focus()
+    } else {
+      container.focus()
+    }
+  }, [items, result, pageIndex])
+
   if (error) {
     return (
       <div>
@@ -85,11 +97,6 @@ export default function BeatTheClockScreen() {
       </div>
     )
   }
-  useEffect(() => {
-    if (result) return
-    pageGridRef.current?.querySelector<HTMLInputElement>('input, textarea')?.focus()
-  }, [items, result, pageIndex])
-
   if (!config || items.length === 0) return <p>Loading…</p>
 
   function updateAnswer(itemId: string, patch: AnswerInput) {
@@ -172,6 +179,28 @@ export default function BeatTheClockScreen() {
   const isLastPage = pageIndex === items.length - 1
   const pageComplete = isAnswerComplete(item, answers[item.id] ?? {})
 
+  function handlePageKeyDown(e: KeyboardEvent<HTMLDivElement>) {
+    if (e.key !== 'Enter') return
+    const inputs = Array.from(pageGridRef.current?.querySelectorAll<HTMLInputElement>('input, textarea') ?? [])
+    if (inputs.length === 0) {
+      if (pageComplete) {
+        e.preventDefault()
+        handleNext()
+      }
+      return
+    }
+    const target = e.target as HTMLElement
+    if (target.tagName !== 'INPUT' && target.tagName !== 'TEXTAREA') return
+    e.preventDefault()
+    const idx = inputs.indexOf(target as HTMLInputElement)
+    if (idx === -1) return
+    if (idx < inputs.length - 1) {
+      inputs[idx + 1].focus()
+    } else if (pageComplete) {
+      handleNext()
+    }
+  }
+
   return (
     <div>
       <div className="exercise-header">
@@ -183,7 +212,7 @@ export default function BeatTheClockScreen() {
         </span>
       </div>
       <h2>⏱️ Beat the Clock</h2>
-      <div className="page-grid" ref={pageGridRef}>
+      <div className="page-grid" ref={pageGridRef} tabIndex={-1} onKeyDown={handlePageKeyDown}>
         <ExerciseItemView item={item} answer={answers[item.id] ?? {}} onChange={(patch) => updateAnswer(item.id, patch)} />
       </div>
       <div className="exercise-footer">

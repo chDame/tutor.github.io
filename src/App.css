@@ -371,6 +371,9 @@
   grid-template-columns: 1fr 1fr;
   gap: 12px;
 }
+.page-grid:focus {
+  outline: none;
+}
 @media (max-width: 360px) {
   .page-grid {
     grid-template-columns: 1fr;
@@ -397,6 +400,26 @@
 .item-box.explanation {
   grid-column: 1 / -1;
   align-items: flex-start;
+}
+@media screen and (max-width: 750px) {
+ .item-box.discover-number {
+    zoom:0.65;
+  }
+}
+@media screen and (max-width: 500px) {
+ .item-box.discover-number {
+    zoom:0.6;
+  }
+}
+@media screen and (max-width: 440px) {
+ .item-box.discover-number {
+    zoom:0.55;
+  }
+}
+@media screen and (max-width: 400px) {
+ .item-box.discover-number {
+    zoom:0.5;
+  }
 }
 .first-letter-prompt {
   display: flex;

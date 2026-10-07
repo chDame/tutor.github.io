@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState, type KeyboardEvent } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import type { ExerciseDoc, Score, TopicManifest } from '../types'
 import { checkAnswer, isAnswerComplete, type AnswerInput } from '../utils/checkAnswer'
@@ -78,7 +78,14 @@ export default function ExerciseScreen() {
 
   useEffect(() => {
     if (!doc || result) return
-    pageGridRef.current?.querySelector<HTMLInputElement>('input, textarea')?.focus()
+    const container = pageGridRef.current
+    if (!container) return
+    const firstInput = container.querySelector<HTMLInputElement>('input, textarea')
+    if (firstInput) {
+      firstInput.focus()
+    } else {
+      container.focus()
+    }
   }, [doc, result, pageIndex])
 
   if (error) {
@@ -178,6 +185,26 @@ export default function ExerciseScreen() {
     }
   }
 
+  function handlePageKeyDown(e: KeyboardEvent<HTMLDivElement>) {
+    if (e.key !== 'Enter') return
+    const inputs = Array.from(pageGridRef.current?.querySelectorAll<HTMLInputElement>('input, textarea') ?? [])
+    if (inputs.length === 0) {
+      e.preventDefault()
+      handleNext()
+      return
+    }
+    const target = e.target as HTMLElement
+    if (target.tagName !== 'INPUT' && target.tagName !== 'TEXTAREA') return
+    e.preventDefault()
+    const idx = inputs.indexOf(target as HTMLInputElement)
+    if (idx === -1) return
+    if (idx < inputs.length - 1) {
+      inputs[idx + 1].focus()
+    } else {
+      handleNext()
+    }
+  }
+
   return (
     <div>
       <div className="exercise-header">
@@ -192,7 +219,7 @@ export default function ExerciseScreen() {
         </span>
       </div>
       <h2>{doc.title}</h2>
-      <div className="page-grid" ref={pageGridRef}>
+      <div className="page-grid" ref={pageGridRef} tabIndex={-1} onKeyDown={handlePageKeyDown}>
         {page.items.map((item) => (
           <ExerciseItemView
             key={item.id}
