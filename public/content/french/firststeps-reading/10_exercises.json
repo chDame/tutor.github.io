@@ -24,14 +24,14 @@
     },
     {
       "items": [
-        { "type": "firstLetter", "emoji": "🦒", "wordSuffix": "irafe", "result": "g" },
-        { "type": "firstLetter", "emoji": "🏨", "wordSuffix": "ôtel", "result": "h" }
+        { "type": "firstLetter", "emoji": "🍦", "wordSuffix": "lace", "result": "g" },
+        { "type": "firstLetter", "emoji": "🍔", "wordSuffix": "amburger", "result": "h" }
       ]
     },
     {
       "items": [
         { "type": "firstLetter", "emoji": "🏝️", "wordSuffix": "le", "result": "i" },
-        { "type": "firstLetter", "emoji": "🧥", "wordSuffix": "este", "result": "j" }
+        { "type": "firstLetter", "emoji": "🤹‍♂️", "wordSuffix": "ongleur", "result": "j" }
       ]
     },
     {
@@ -48,13 +48,14 @@
     },
     {
       "items": [
-        { "type": "firstLetter", "emoji": "🐻", "wordSuffix": "urs", "result": "o" },
+        { "type": "firstLetter", "emoji": "🍊", "wordSuffix": "range", "result": "o" },
+        { "type": "firstLetter", "emoji": "🐻", "wordSuffix": "rs", "result": "ou" },
         { "type": "firstLetter", "emoji": "🍞", "wordSuffix": "ain", "result": "p" }
       ]
     },
     {
       "items": [
-        { "type": "firstLetter", "emoji": "👑", "wordSuffix": "ueen", "result": "q" },
+        { "type": "firstLetter", "emoji": "4", "wordSuffix": "uatre", "result": "q" },
         { "type": "firstLetter", "emoji": "🤖", "wordSuffix": "obot", "result": "r" }
       ]
     },
@@ -73,12 +74,12 @@
     {
       "items": [
         { "type": "firstLetter", "emoji": "🚃", "wordSuffix": "agon", "result": "w" },
-        { "type": "firstLetter", "emoji": "🎼", "wordSuffix": "ylophone", "result": "x" }
+        { "type": "firstLetter", "image": "/images/xylo.png", "wordSuffix": "ylophone", "result": "x" }
       ]
     },
     {
       "items": [
-        { "type": "firstLetter", "emoji": "🛥️", "wordSuffix": "acht", "result": "y" },
+        { "type": "firstLetter", "emoji": "🪀", "wordSuffix": "oyo", "result": "y" },
         { "type": "firstLetter", "emoji": "🦓", "wordSuffix": "èbre", "result": "z" }
       ]
     }

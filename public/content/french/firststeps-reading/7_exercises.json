@@ -6,8 +6,42 @@
   "pages": [
     {
       "items": [
-        { "type": "firstLetter", "emoji": "🔑", "wordSuffix": "lef", "result": "c" },
-        { "type": "firstLetter", "emoji": "🍪", "wordSuffix": "ookie", "result": "c" }
+        { "type": "firstLetter", "emoji": "🚲", "wordSuffix": "élo", "result": "v", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🍪", "wordSuffix": "ookie", "result": "c", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🐇", "wordSuffix": "apin", "result": "l", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🍎", "wordSuffix": "omme", "result": "p", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🪓", "wordSuffix": "ache", "result": "h", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🦊", "wordSuffix": "enard", "result": "r", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "✈️", "wordSuffix": "vion", "result": "a", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🥝", "wordSuffix": "iwi", "result": "k", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🌳", "wordSuffix": "rbre", "result": "a", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🦔", "wordSuffix": "érisson", "result": "h", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🐻", "wordSuffix": "rson", "result": "ou", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🌋", "wordSuffix": "olcan", "result": "v", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "❓", "wordSuffix": "uestion", "result": "q", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🥷", "wordSuffix": "inja", "result": "n", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🐦‍⬛", "wordSuffix": "seau", "result": "oi", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🫒", "wordSuffix": "live", "result": "o", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🦋", "wordSuffix": "apillon", "result": "p", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🐛", "wordSuffix": "enille", "result": "ch", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🥇", "wordSuffix": "édaille", "result": "m", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🦘", "wordSuffix": "angourou", "result": "k", "lang": "fr-FR" }
       ]
     }
   ]
