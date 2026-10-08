@@ -25,7 +25,7 @@ export type ExerciseItem =
   | { id: string; type: 'missingOperand'; x: number | null; operator: '+' | '-' | '×' | '÷' | '%'; y: number | null; result: number }
   | { id: string; type: 'explanation'; html: string, tts: { text: string; lang: string } }
   | { id: string; type: 'firstLetter'; emoji: string; image:string; wordSuffix: string; result: string, lang: string }
-  | { id: string; type: 'firstLetterDiscovery'; word: string, highlight?:number, lang: string, emoji: string, image: string, explanation?: string }
+  | { id: string; type: 'firstLetterDiscovery'; word: string, highlight?:number, speaks: string,lang: string, emoji: string, image: string, explanation?: string }
 
 export type ExerciseItemType = ExerciseItem['type']
 

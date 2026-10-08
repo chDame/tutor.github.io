@@ -1,0 +1,210 @@
+{
+  "id": "firststeps2-reading-practice1",
+  "title": "Groupons les lettres — Exercice 1",
+  "evaluation": false,
+  "difficulty": 0,
+  "character": {
+    "image": "characters/lettersExplorators.png",
+    "position": "right"
+  },
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>🚀 Tu as fait connaissance avec les lettres de l'alphabet et avec les sons qu'elles produisent !</p><p> Nous allons maintenant découvrir comment ses lettres se lisent lorsqu'on les regroupe.</p><p>C’est parti ! 🚀📖</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Découvrons ce qu'il se passe lorsque nous ajoutons des voyelles aux consonnes. Nous allons les placer avant et après.</p>"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ba",
+          "speaks": "bas",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Bateau",
+          "lang": "fr-FR",
+          "highlight":2,
+          "emoji": "⛵"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ab",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Abricot",
+          "lang": "fr-FR",
+          "highlight":2,
+          "emoji": "🍑"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "La",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Lapin",
+          "lang": "fr-FR",
+          "highlight":2,
+          "emoji": "🐇"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Al",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Alligator",
+          "lang": "fr-FR",
+          "highlight":2,
+          "emoji": "🐊"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Go",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Gomme",
+          "lang": "fr-FR",
+          "highlight":2,
+          "emoji": "🩹"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Og",
+          "speaks": "ogue",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ogre",
+          "lang": "fr-FR",
+          "highlight":2,
+          "emoji": "👹"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ta",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Tableau",
+          "lang": "fr-FR",
+          "highlight":2,
+          "emoji": "🖼️"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "At",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Atome",
+          "lang": "fr-FR",
+          "highlight":2,
+          "emoji": "⚛️"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Parfois nous pouvons aussi avoir deux consonnes suivies d'une voyelle.</p>"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Fro",
+          "lang": "fr-FR",
+          "highlight":3
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Fromage",
+          "lang": "fr-FR",
+          "highlight":3,
+          "emoji": "🧀"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Cra",
+          "lang": "fr-FR",
+          "highlight":3
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Cravate",
+          "lang": "fr-FR",
+          "highlight":3,
+          "emoji": "👔"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Cla",
+          "lang": "fr-FR",
+          "highlight":3
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Clavier",
+          "lang": "fr-FR",
+          "highlight":3,
+          "emoji": "⌨️"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Plu",
+          "lang": "fr-FR",
+          "highlight":3
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Plume",
+          "lang": "fr-FR",
+          "highlight":3,
+          "emoji": "🪶"
+        }
+      ]
+    }
+  ]
+}

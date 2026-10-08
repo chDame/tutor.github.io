@@ -1,0 +1,191 @@
+{
+  "id": "firststeps2-reading-practice2",
+  "title": "Groupons les lettres — Exercice 2",
+  "evaluation": false,
+  "difficulty": 0,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Nous avons vu quelques exemples illustrés de regroupement de lettres dans la leçon précédente. Essayons maintenant d'autres combinaisons!</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Bu",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Be",
+          "speaks": "Beuh",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Bi",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Bo",
+          "speaks": "Beaux",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ma",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Mo",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Nu",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ni",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Pa",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Pu",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Je",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Jo",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Tu",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Te",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Vo",
+          "speaks": "veaux",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Vi",
+          "speaks": "vie",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Lu",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "La",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Du",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Do",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Co",
+          "speaks": "Cos",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ca",
+          "speaks": "Cas",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Fi",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Fe",
+          "speaks": "Feux",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    }
+  ]
+}

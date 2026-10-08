@@ -1,0 +1,200 @@
+{
+  "id": "firststeps2-reading-practice3",
+  "title": "Groupons les lettres — Exercice 3",
+  "evaluation": false,
+  "difficulty": 0,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ub",
+          "speaks": "ube",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ab",
+          "speaks": " Ab ",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ib",
+          "speaks": "Ibe",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ob",
+          "speaks": "Obe",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Am",
+          "speaks": "âme",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Om",
+          "speaks": "homme",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Un",
+          "speaks": "une",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "In",
+          "speaks": "inn",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ap",
+          "speaks": "happe",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Up",
+          "speaks": "huppe",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ej",
+          "speaks": "euje",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Oj",
+          "speaks": "oge",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ut",
+          "speaks": "hute",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Et",
+          "speaks": "Etes",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ov",
+          "speaks": "Ove",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Iv",
+          "speaks": "Yves",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ul",
+          "speaks": "Ule",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Al",
+          "speaks": "halles",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ud",
+          "speaks": "ude",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Od",
+          "speaks": "ode",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Oc",
+          "speaks": "Oque",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ac",
+          "speaks": "Aque",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "If",
+          "speaks": "Ifs",
+          "lang": "fr-FR",
+          "highlight":2
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Ef",
+          "speaks": "effe",
+          "lang": "fr-FR",
+          "highlight":2
+        }
+      ]
+    }
+  ]
+}

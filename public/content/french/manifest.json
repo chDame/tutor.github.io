@@ -12,7 +12,7 @@
           "evaluation": false,
           "difficulty": 0,
           "character": {
-            "image": "characters/puzzledChickenNumbers.png",
+            "image": "characters/dancingLetters.png",
             "position": "left"
           },
           "beatTheClock": null
@@ -95,6 +95,42 @@
           "title": "Premiers pas en lecture — Évaluation",
           "evaluation": true,
           "difficulty": 2,
+          "character": null,
+          "beatTheClock": null
+        }
+      ]
+    },
+    {
+      "slug": "firststeps2-reading",
+      "title": "Et si on groupait les lettres ?",
+      "exercises": [
+        {
+          "file": "firststeps2-reading/1_exercises.json",
+          "id": "firststeps2-reading-practice1",
+          "title": "Groupons les lettres — Exercice 1",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": {
+            "image": "characters/lettersExplorators.png",
+            "position": "right"
+          },
+          "beatTheClock": null
+        },
+        {
+          "file": "firststeps2-reading/2_exercises.json",
+          "id": "firststeps2-reading-practice2",
+          "title": "Groupons les lettres — Exercice 2",
+          "evaluation": false,
+          "difficulty": 0,
+          "character": null,
+          "beatTheClock": null
+        },
+        {
+          "file": "firststeps2-reading/3_exercises.json",
+          "id": "firststeps2-reading-practice3",
+          "title": "Groupons les lettres — Exercice 3",
+          "evaluation": false,
+          "difficulty": 0,
           "character": null,
           "beatTheClock": null
         }
