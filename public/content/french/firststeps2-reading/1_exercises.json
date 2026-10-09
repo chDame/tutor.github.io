@@ -27,26 +27,38 @@
           "word": "Ba",
           "speaks": "bas",
           "lang": "fr-FR",
-          "highlight":2
+          "highlight": [
+            0,
+            1
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Bateau",
           "lang": "fr-FR",
-          "highlight":2,
+          "highlight": [
+            0,
+            1
+          ],
           "emoji": "⛵"
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Ab",
           "lang": "fr-FR",
-          "highlight":2
+          "highlight": [
+            0,
+            1
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Abricot",
           "lang": "fr-FR",
-          "highlight":2,
+          "highlight": [
+            0,
+            1
+          ],
           "emoji": "🍑"
         }
       ]
@@ -57,26 +69,38 @@
           "type": "firstLetterDiscovery",
           "word": "La",
           "lang": "fr-FR",
-          "highlight":2
+          "highlight": [
+            0,
+            1
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Lapin",
           "lang": "fr-FR",
-          "highlight":2,
+          "highlight": [
+            0,
+            1
+          ],
           "emoji": "🐇"
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Al",
           "lang": "fr-FR",
-          "highlight":2
+          "highlight": [
+            0,
+            1
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Alligator",
           "lang": "fr-FR",
-          "highlight":2,
+          "highlight": [
+            0,
+            1
+          ],
           "emoji": "🐊"
         }
       ]
@@ -87,27 +111,39 @@
           "type": "firstLetterDiscovery",
           "word": "Go",
           "lang": "fr-FR",
-          "highlight":2
+          "highlight": [
+            0,
+            1
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Gomme",
           "lang": "fr-FR",
-          "highlight":2,
-          "emoji": "🩹"
+          "highlight": [
+            0,
+            1
+          ],
+          "image": "/images/gomme.png"
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Og",
           "speaks": "ogue",
           "lang": "fr-FR",
-          "highlight":2
+          "highlight": [
+            0,
+            1
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Ogre",
           "lang": "fr-FR",
-          "highlight":2,
+          "highlight": [
+            0,
+            1
+          ],
           "emoji": "👹"
         }
       ]
@@ -118,26 +154,38 @@
           "type": "firstLetterDiscovery",
           "word": "Ta",
           "lang": "fr-FR",
-          "highlight":2
+          "highlight": [
+            0,
+            1
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Tableau",
           "lang": "fr-FR",
-          "highlight":2,
+          "highlight": [
+            0,
+            1
+          ],
           "emoji": "🖼️"
         },
         {
           "type": "firstLetterDiscovery",
           "word": "At",
           "lang": "fr-FR",
-          "highlight":2
+          "highlight": [
+            0,
+            1
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Atome",
           "lang": "fr-FR",
-          "highlight":2,
+          "highlight": [
+            0,
+            1
+          ],
           "emoji": "⚛️"
         }
       ]
@@ -152,26 +200,42 @@
           "type": "firstLetterDiscovery",
           "word": "Fro",
           "lang": "fr-FR",
-          "highlight":3
+          "highlight": [
+            0,
+            1,
+            2
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Fromage",
           "lang": "fr-FR",
-          "highlight":3,
+          "highlight": [
+            0,
+            1,
+            2
+          ],
           "emoji": "🧀"
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Cra",
           "lang": "fr-FR",
-          "highlight":3
+          "highlight": [
+            0,
+            1,
+            2
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Cravate",
           "lang": "fr-FR",
-          "highlight":3,
+          "highlight": [
+            0,
+            1,
+            2
+          ],
           "emoji": "👔"
         }
       ]
@@ -182,26 +246,42 @@
           "type": "firstLetterDiscovery",
           "word": "Cla",
           "lang": "fr-FR",
-          "highlight":3
+          "highlight": [
+            0,
+            1,
+            2
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Clavier",
           "lang": "fr-FR",
-          "highlight":3,
+          "highlight": [
+            0,
+            1,
+            2
+          ],
           "emoji": "⌨️"
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Plu",
           "lang": "fr-FR",
-          "highlight":3
+          "highlight": [
+            0,
+            1,
+            2
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Plume",
           "lang": "fr-FR",
-          "highlight":3,
+          "highlight": [
+            0,
+            1,
+            2
+          ],
           "emoji": "🪶"
         }
       ]

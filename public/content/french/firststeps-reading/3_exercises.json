@@ -18,13 +18,19 @@
           "type": "firstLetterDiscovery",
           "word": "Neige",
           "lang": "fr-FR",
-          "emoji": "❄️"
+          "emoji": "❄️",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Nuage",
           "lang": "fr-FR",
-          "emoji": "☁️"
+          "emoji": "☁️",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -34,13 +40,19 @@
           "type": "firstLetterDiscovery",
           "word": "Poule",
           "lang": "fr-FR",
-          "emoji": "🐓"
+          "emoji": "🐓",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Pomme",
           "lang": "fr-FR",
-          "emoji": "🍎"
+          "emoji": "🍎",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -50,13 +62,19 @@
           "type": "firstLetterDiscovery",
           "word": "Question",
           "lang": "fr-FR",
-          "emoji": "❓"
+          "emoji": "❓",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Quilles",
           "lang": "fr-FR",
-          "emoji": "🎳"
+          "emoji": "🎳",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -66,13 +84,19 @@
           "type": "firstLetterDiscovery",
           "word": "Renard",
           "lang": "fr-FR",
-          "emoji": "🦊"
+          "emoji": "🦊",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Rose",
           "lang": "fr-FR",
-          "emoji": "🌹"
+          "emoji": "🌹",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -82,13 +106,19 @@
           "type": "firstLetterDiscovery",
           "word": "Soleil",
           "lang": "fr-FR",
-          "emoji": "☀️"
+          "emoji": "☀️",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Serpent",
           "lang": "fr-FR",
-          "emoji": "🐍"
+          "emoji": "🐍",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -98,13 +128,19 @@
           "type": "firstLetterDiscovery",
           "word": "Tigre",
           "lang": "fr-FR",
-          "emoji": "🐯"
+          "emoji": "🐯",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Tortue",
           "lang": "fr-FR",
-          "emoji": "🐢"
+          "emoji": "🐢",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -114,13 +150,19 @@
           "type": "firstLetterDiscovery",
           "word": "Voiture",
           "lang": "fr-FR",
-          "emoji": "🚗"
+          "emoji": "🚗",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Violon",
           "lang": "fr-FR",
-          "emoji": "🎻"
+          "emoji": "🎻",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -134,7 +176,10 @@
           "type": "firstLetterDiscovery",
           "word": "Wagon",
           "lang": "fr-FR",
-          "emoji": "🚃"
+          "emoji": "🚃",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -148,7 +193,10 @@
           "type": "firstLetterDiscovery",
           "word": "Xylophone",
           "lang": "fr-FR",
-          "image": "/images/xylo.png"
+          "image": "/images/xylo.png",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -158,13 +206,19 @@
           "type": "firstLetterDiscovery",
           "word": "Zèbre",
           "lang": "fr-FR",
-          "emoji": "🦓"
+          "emoji": "🦓",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Zéro",
           "lang": "fr-FR",
-          "emoji": "0"
+          "emoji": "0",
+          "highlight": [
+            0
+          ]
         }
       ]
     }

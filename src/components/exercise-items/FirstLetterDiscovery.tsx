@@ -1,8 +1,23 @@
+import type { ReactNode } from 'react'
 import type { ExerciseItem } from '../../types'
 import type { ItemProps } from './common'
 
 type FirstLetterDisco = Extract<ExerciseItem, { type: 'firstLetterDiscovery' }>
 
+function renderHighlightedWord(word: string, highlight: number[] | null | undefined): ReactNode[] {
+  const highlighted = new Set(highlight ?? [])
+  const parts: ReactNode[] = []
+  let i = 0
+  while (i < word.length) {
+    const isHighlighted = highlighted.has(i)
+    let j = i
+    while (j < word.length && highlighted.has(j) === isHighlighted) j++
+    const chunk = word.slice(i, j)
+    parts.push(isHighlighted ? <strong key={i}>{chunk}</strong> : chunk)
+    i = j
+  }
+  return parts
+}
 
   function speakText(text: string, lang: string) {
     // Check if text is provided
@@ -22,15 +37,13 @@ type FirstLetterDisco = Extract<ExerciseItem, { type: 'firstLetterDiscovery' }>
 
 /** Display-only: teacher-authored HTML content, not a question. */
 export default function FirstLetterDiscovery({ item }: ItemProps<FirstLetterDisco>) {
-  const highlight = item.highlight ? item.highlight : 1;
-  const prefix = item.word.slice(0, highlight);
-  const suffix = item.word.slice(highlight); 
+  const wordParts = renderHighlightedWord(item.word, item.highlight);
   return (
-  
+
       <div className="item-box explanation">
         <button onClick={() => speakText(item.speaks ? item.speaks : item.word, item.lang)} className="btn tts-button">🔊</button>
 
-        <p><span className='illustrateLetterImage'>{item.emoji ? item.emoji : item.image ? <img src={import.meta.env.BASE_URL+item.image} style={{ height: '64px' }} /> : <></>}</span><span className='illustrateLetterWord'><strong>{prefix}</strong>{suffix}</span></p>
+        <p><span className='illustrateLetterImage'>{item.emoji ? item.emoji : item.image ? <img src={import.meta.env.BASE_URL+item.image} style={{ height: '64px' }} /> : <></>}</span><span className='illustrateLetterWord'>{wordParts}</span></p>
         {item.explanation && <p className='illustrateLetterExplanation'>{item.explanation}</p>}
       </div>
   )

@@ -18,13 +18,19 @@
           "type": "firstLetterDiscovery",
           "word": "Bateau",
           "lang": "fr-FR",
-          "emoji": "⛵"
+          "emoji": "⛵",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Ballon",
           "lang": "fr-FR",
-          "emoji": "🎈"
+          "emoji": "🎈",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -32,19 +38,25 @@
       "items": [
         {
           "type": "explanation",
-          "html":"<p>La lettre C se prononce differemment selon la lettre qui la suit. Pour l'instant, nous voyons sa forme simple.</p>"
+          "html": "<p>La lettre C se prononce differemment selon la lettre qui la suit. Pour l'instant, nous voyons sa forme simple.</p>"
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Cactus",
           "lang": "fr-FR",
-          "emoji": "🌵"
+          "emoji": "🌵",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Cookie",
           "lang": "fr-FR",
-          "emoji": "🍪"
+          "emoji": "🍪",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -54,13 +66,19 @@
           "type": "firstLetterDiscovery",
           "word": "Dragon",
           "lang": "fr-FR",
-          "emoji": "🐉"
+          "emoji": "🐉",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Dauphin",
           "lang": "fr-FR",
-          "emoji": "🐬"
+          "emoji": "🐬",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -70,13 +88,19 @@
           "type": "firstLetterDiscovery",
           "word": "Flamant",
           "lang": "fr-FR",
-          "emoji": "🦩"
+          "emoji": "🦩",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Fusée",
           "lang": "fr-FR",
-          "emoji": "🚀"
+          "emoji": "🚀",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -84,19 +108,25 @@
       "items": [
         {
           "type": "explanation",
-          "html":"<p>La lettre G se prononce differemment selon la lettre qui la suit. Pour l'instant, nous voyons sa forme simple.</p>"
+          "html": "<p>La lettre G se prononce differemment selon la lettre qui la suit. Pour l'instant, nous voyons sa forme simple.</p>"
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Gorille",
           "lang": "fr-FR",
-          "emoji": "🦍"
+          "emoji": "🦍",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Grenouille",
           "lang": "fr-FR",
-          "emoji": "🐸"
+          "emoji": "🐸",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -107,13 +137,19 @@
           "word": "Hache",
           "lang": "fr-FR",
           "emoji": "🪓",
-          "explanation": "En francais, la lettre H se prononce parfois comme une aspiration et parfois ne se prononce pas du tout: le H muet."
+          "explanation": "En francais, la lettre H se prononce parfois comme une aspiration et parfois ne se prononce pas du tout: le H muet.",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Hibou",
           "lang": "fr-FR",
-          "emoji": "🦉"
+          "emoji": "🦉",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -123,13 +159,19 @@
           "type": "firstLetterDiscovery",
           "word": "Joie",
           "lang": "fr-FR",
-          "emoji": "😂"
+          "emoji": "😂",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Jaguar",
           "lang": "fr-FR",
-          "emoji": "🐆"
+          "emoji": "🐆",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -139,13 +181,19 @@
           "type": "firstLetterDiscovery",
           "word": "Kiwi",
           "lang": "fr-FR",
-          "emoji": "🥝"
+          "emoji": "🥝",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Kangourou",
           "lang": "fr-FR",
-          "emoji": "🦘"
+          "emoji": "🦘",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -155,13 +203,19 @@
           "type": "firstLetterDiscovery",
           "word": "Lion",
           "lang": "fr-FR",
-          "emoji": "🦁"
+          "emoji": "🦁",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Lampe",
           "lang": "fr-FR",
-          "emoji": "💡"
+          "emoji": "💡",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -171,13 +225,19 @@
           "type": "firstLetterDiscovery",
           "word": "Mouton",
           "lang": "fr-FR",
-          "emoji": "🐑"
+          "emoji": "🐑",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Maison",
           "lang": "fr-FR",
-          "emoji": "🏠"
+          "emoji": "🏠",
+          "highlight": [
+            0
+          ]
         }
       ]
     }

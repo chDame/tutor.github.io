@@ -1,0 +1,306 @@
+{
+  "id": "firststeps2-reading-practice7",
+  "title": "Groupons les lettres — Exercice 7",
+  "evaluation": false,
+  "difficulty": 3,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>La lettre E est surement la plus fréquente et la plus changeante en français. Elle peut porter de jolis chapeaux qu'on appelle les accents. Elle peut changer en fonction des lettres qui la suivent. Et elle peut même rester muette.</p><p>Dans les pages qui suivent nous allons observer comment elle se comporte.</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Le premier chapeau sur la lettre E est l'accent aigu : é. On le trouve dans des mots comme \"été\" ou \"école\".</p>"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "été",
+          "emoji": "☀️",
+          "lang": "fr-FR",
+          "highlight": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "école",
+          "emoji": "🏫",
+          "lang": "fr-FR",
+          "highlight": [
+            0
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "éléphant",
+          "emoji": "🐘",
+          "lang": "fr-FR",
+          "highlight": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "vélo",
+          "emoji": "🚲",
+          "lang": "fr-FR",
+          "highlight": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Le second chapeau sur la lettre E est l'accent grave : è. On le trouve dans des mots comme \"très\" ou \"père\".</p>"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "père",
+          "lang": "fr-FR",
+          "highlight": [
+            1
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "règle",
+          "emoji": "📏",
+          "lang": "fr-FR",
+          "highlight": [
+            1
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "trèfle",
+          "emoji": "🍀",
+          "lang": "fr-FR",
+          "highlight": [
+            2
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "pièce",
+          "emoji": "🪙",
+          "lang": "fr-FR",
+          "highlight": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Le troisième chapeau sur la lettre E est l'accent circonflexe : ê. On le trouve dans des mots comme \"forêt\" ou \"être\".</p>"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "être",
+          "lang": "fr-FR",
+          "highlight": [
+            0
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "fête",
+          "emoji": "🎉",
+          "lang": "fr-FR",
+          "highlight": [
+            1
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Rêver",
+          "lang": "fr-FR",
+          "highlight": [
+            1
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Pêcher",
+          "emoji": "🎣",
+          "lang": "fr-FR",
+          "highlight": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Parfois la lettre E, même sans chapeau, va se comporter comme si elle avait un accent aigu en fonction des consonnes qui la suivent.</p>"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Et",
+          "lang": "fr-FR",
+          "highlight": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Pied",
+          "emoji": "🦶",
+          "lang": "fr-FR",
+          "highlight": [
+            2,
+            3
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Devant le R à la fin des verbes du premier groupe comme manger ou des mots comme boulanger",
+          "speaks": "premier",
+          "lang": "fr-FR",
+          "highlight": [
+            60,
+            61,
+            88,
+            89
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "jouer",
+          "emoji": "",
+          "lang": "fr-FR",
+          "highlight": [
+            3,
+            4
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Devant le Z à la fin de conjugaisons ou des mots comme nez",
+          "speaks": "nez",
+          "emoji": "👃",
+          "lang": "fr-FR",
+          "highlight": [
+            56,57
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "venez!",
+          "lang": "fr-FR",
+          "highlight": [
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Parfois, même sans chapeau, la lettre E se prononce comme si elle avait un accent grave devant certaines consonnes ou groupe de consonnes.</p>"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Belle",
+          "emoji": "👸",
+          "lang": "fr-FR",
+          "highlight": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Terre",
+          "emoji": "🌍",
+          "lang": "fr-FR",
+          "highlight": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Perle",
+          "lang": "fr-FR",
+          "highlight": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Exemple",
+          "lang": "fr-FR",
+          "highlight": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Parfois la lettre E ne se pronconce pas. On dit qu'elle est muette. On la trouve souvent en fin de mots ou après d'autres voyelles.</p>"
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Balle",
+          "emoji": "🎾",
+          "lang": "fr-FR",
+          "highlight": [
+            4
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Chose",
+          "lang": "fr-FR",
+          "highlight": [
+            4
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Table",
+          "lang": "fr-FR",
+          "highlight": [
+            4
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Remerciement",
+          "lang": "fr-FR",
+          "highlight": [
+            6,
+            7
+          ]
+        }
+      ]
+    }
+  ]
+}

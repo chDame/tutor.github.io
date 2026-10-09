@@ -133,6 +133,42 @@
           "difficulty": 0,
           "character": null,
           "beatTheClock": null
+        },
+        {
+          "file": "firststeps2-reading/4_exercises.json",
+          "id": "firststeps2-reading-practice4",
+          "title": "Groupons les lettres — Exercice 4",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null,
+          "beatTheClock": null
+        },
+        {
+          "file": "firststeps2-reading/5_exercises.json",
+          "id": "firststeps2-reading-practice5",
+          "title": "Groupons les lettres — Exercice 5",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null,
+          "beatTheClock": null
+        },
+        {
+          "file": "firststeps2-reading/6_exercises.json",
+          "id": "firststeps2-reading-practice6",
+          "title": "Groupons les lettres — Exercice 6",
+          "evaluation": false,
+          "difficulty": 2,
+          "character": null,
+          "beatTheClock": null
+        },
+        {
+          "file": "firststeps2-reading/7_exercises.json",
+          "id": "firststeps2-reading-practice7",
+          "title": "Groupons les lettres — Exercice 7",
+          "evaluation": false,
+          "difficulty": 3,
+          "character": null,
+          "beatTheClock": null
         }
       ]
     }

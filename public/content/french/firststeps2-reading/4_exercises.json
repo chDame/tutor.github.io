@@ -1,0 +1,62 @@
+{
+  "id": "firststeps2-reading-practice4",
+  "title": "Groupons les lettres — Exercice 4",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🥝", "wordSuffix": "wi", "result": "ki", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🐨", "wordSuffix": "ala", "result": "ko", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🐇", "wordSuffix": "pin", "result": "la", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "📙", "wordSuffix": "vre", "result": "li", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🏍️", "wordSuffix": "to", "result": "mo", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🥇", "wordSuffix": "daille", "result": "me", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🏊‍♂️", "wordSuffix": "ger", "result": "na", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🥷", "wordSuffix": "nja", "result": "ni", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🦴", "wordSuffix": "", "result": "os", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🫒", "wordSuffix": "ive", "result": "ol", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🍉", "wordSuffix": "stèque", "result": "pa", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🦋", "wordSuffix": "pillon", "result": "pa", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🦊", "wordSuffix": "nard", "result": "re", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🤖", "wordSuffix": "bot", "result": "ro", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🐍", "wordSuffix": "rpent", "result": "se", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🎄", "wordSuffix": "pin", "result": "sa", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🍀", "wordSuffix": "fle", "result": "trè", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🛴", "wordSuffix": "ttinette", "result": "tro", "lang": "fr-FR" }
+      ]
+    }
+  ]
+}

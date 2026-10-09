@@ -1,0 +1,62 @@
+  {
+    "id": "firststeps2-reading-practice5",
+  "title": "Groupons les lettres — Exercice 5",
+  "evaluation": false,
+  "difficulty": 2,
+  "pages": [
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🛩️", "wordSuffix": "ion", "result": "av", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🌳", "wordSuffix": "bre", "result": "ar", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🍼", "wordSuffix": "beron", "result": "bi", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🥦", "wordSuffix": "ccoli", "result": "bro", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🥕", "wordSuffix": "rote", "result": "ca", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🕊️", "wordSuffix": "lombe", "result": "co", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🍩", "wordSuffix": "nut", "result": "do", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🎲", "wordSuffix": "", "result": "dé", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "⭐", "wordSuffix": "oile", "result": "ét", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🐘", "wordSuffix": "éphant", "result": "él", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🧚‍♀️", "wordSuffix": "e", "result": "fé", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🚀", "wordSuffix": "sée", "result": "fu", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🍦", "wordSuffix": "ce", "result": "gla", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🎂", "wordSuffix": "teau", "result": "gâ", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🏝️", "wordSuffix": "e", "result": "îl", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "🇮🇹", "wordSuffix": "alie", "result": "it", "lang": "fr-FR" }
+      ]
+    },
+    {
+      "items": [
+        { "type": "firstLetter", "emoji": "🥋", "wordSuffix": "do", "result": "ju", "lang": "fr-FR" },
+        { "type": "firstLetter", "emoji": "👩‍🌾", "wordSuffix": "rdinier", "result": "ja", "lang": "fr-FR" }
+      ]
+    }
+  ]
+}

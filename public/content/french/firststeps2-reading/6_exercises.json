@@ -1,15 +1,26 @@
 {
-  "id": "firststeps2-reading-practice3",
-  "title": "Groupons les lettres — Exercice 3",
+  "id": "firststeps2-reading-practice6",
+  "title": "Groupons les lettres — Exercice 6",
   "evaluation": false,
-  "difficulty": 0,
+  "difficulty": 2,
   "pages": [
     {
       "items": [
         {
+          "type": "explanation",
+          "html": "<p>En français, certaines lettres se regroupent pour former des sons spécifiques. Essayons maintenant de les identifier!</p>"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Les lettres A+N et A+M font le son \"an\" comme dans la phrase: \"j'ai 5 <strong>ans</strong>\"!</p>"
+        },
+        {
           "type": "firstLetterDiscovery",
-          "word": "Ub",
-          "speaks": "ube",
+          "word": "An",
           "lang": "fr-FR",
           "highlight": [
             0,
@@ -18,8 +29,8 @@
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Ab",
-          "speaks": " Ab ",
+          "word": "Ambulance",
+          "emoji": "🚑",
           "lang": "fr-FR",
           "highlight": [
             0,
@@ -28,18 +39,17 @@
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Ib",
-          "speaks": "Ibe",
+          "word": "Manger",
           "lang": "fr-FR",
           "highlight": [
-            0,
-            1
+            1,
+            2
           ]
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Ob",
-          "speaks": "Obe",
+          "word": "Ampoule",
+          "emoji": "💡",
           "lang": "fr-FR",
           "highlight": [
             0,
@@ -51,9 +61,12 @@
     {
       "items": [
         {
+          "type": "explanation",
+          "html": "<p>Les lettres E+N et E+M font le son \"en\" comme dans la phrase: \"Il est parti <strong>en</strong> chantant\"!</p>"
+        },
+        {
           "type": "firstLetterDiscovery",
-          "word": "Am",
-          "speaks": "âme",
+          "word": "Entree",
           "lang": "fr-FR",
           "highlight": [
             0,
@@ -62,18 +75,43 @@
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Om",
-          "speaks": "homme",
+          "word": "Emballé",
           "lang": "fr-FR",
           "highlight": [
             0,
             1
           ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Encore",
+          "lang": "fr-FR",
+          "highlight": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Embêter",
+          "lang": "fr-FR",
+          "highlight": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "explanation",
+          "html": "<p>Les lettres U+N et U+M font le son \"un\" comme dans la phrase: \"J'ai <strong>un</strong> chat\"! Mais parfois um donne le son \"OME\". Pas d'inquiétude, vous les connaitrez bientôt.</p>"
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Un",
-          "speaks": "une",
+          "emoji": "1️⃣",
           "lang": "fr-FR",
           "highlight": [
             0,
@@ -82,12 +120,29 @@
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "In",
-          "speaks": "inn",
+          "word": "Lundi",
           "lang": "fr-FR",
           "highlight": [
-            0,
-            1
+            1,
+            2
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Parfum",
+          "lang": "fr-FR",
+          "highlight": [
+            4,
+            5
+          ]
+        },
+        {
+          "type": "firstLetterDiscovery",
+          "word": "Humble",
+          "lang": "fr-FR",
+          "highlight": [
+            1,
+            2
           ]
         }
       ]
@@ -95,43 +150,47 @@
     {
       "items": [
         {
+          "type": "explanation",
+          "html": "<p>Les lettres O+N et O+M font le son \"on\" comme dans la phrase: \"Ce plat est trop <strong>bon</strong>\"!</p>"
+        },
+        {
           "type": "firstLetterDiscovery",
-          "word": "Ap",
-          "speaks": "happe",
+          "word": "Rond",
+          "emoji": "🔵",
           "lang": "fr-FR",
           "highlight": [
-            0,
-            1
+            1,
+            2
           ]
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Up",
-          "speaks": "huppe",
+          "word": "Bombe",
+          "emoji": "💣",
           "lang": "fr-FR",
           "highlight": [
-            0,
-            1
+            1,
+            2
           ]
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Ej",
-          "speaks": "euje",
+          "word": "Monde",
+          "emoji": "🌍",
           "lang": "fr-FR",
           "highlight": [
-            0,
-            1
+            1,
+            2
           ]
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Oj",
-          "speaks": "oge",
+          "word": "Tombe",
+          "emoji": "⚰️",
           "lang": "fr-FR",
           "highlight": [
-            0,
-            1
+            1,
+            2
           ]
         }
       ]
@@ -139,127 +198,41 @@
     {
       "items": [
         {
+          "type": "explanation",
+          "html": "<p>Les lettres I+N et I+M font le son \"in\" comme dans le mot: \"vin\"!</p>"
+        },
+        {
           "type": "firstLetterDiscovery",
-          "word": "Ut",
-          "speaks": "hute",
+          "word": "Timbre",
           "lang": "fr-FR",
           "highlight": [
-            0,
-            1
+            1,
+            2
           ]
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Et",
-          "speaks": "Etes",
+          "word": "Patin",
+          "emoji": "⛸️",
           "lang": "fr-FR",
           "highlight": [
-            0,
-            1
+            3,
+            4
           ]
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Ov",
-          "speaks": "Ove",
+          "word": "Poussin",
+          "emoji": "🐥",
           "lang": "fr-FR",
           "highlight": [
-            0,
-            1
+            5,
+            6
           ]
         },
         {
           "type": "firstLetterDiscovery",
-          "word": "Iv",
-          "speaks": "Yves",
-          "lang": "fr-FR",
-          "highlight": [
-            0,
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "type": "firstLetterDiscovery",
-          "word": "Ul",
-          "speaks": "Ule",
-          "lang": "fr-FR",
-          "highlight": [
-            0,
-            1
-          ]
-        },
-        {
-          "type": "firstLetterDiscovery",
-          "word": "Al",
-          "speaks": "halles",
-          "lang": "fr-FR",
-          "highlight": [
-            0,
-            1
-          ]
-        },
-        {
-          "type": "firstLetterDiscovery",
-          "word": "Ud",
-          "speaks": "ude",
-          "lang": "fr-FR",
-          "highlight": [
-            0,
-            1
-          ]
-        },
-        {
-          "type": "firstLetterDiscovery",
-          "word": "Od",
-          "speaks": "ode",
-          "lang": "fr-FR",
-          "highlight": [
-            0,
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "items": [
-        {
-          "type": "firstLetterDiscovery",
-          "word": "Oc",
-          "speaks": "Oque",
-          "lang": "fr-FR",
-          "highlight": [
-            0,
-            1
-          ]
-        },
-        {
-          "type": "firstLetterDiscovery",
-          "word": "Ac",
-          "speaks": "Aque",
-          "lang": "fr-FR",
-          "highlight": [
-            0,
-            1
-          ]
-        },
-        {
-          "type": "firstLetterDiscovery",
-          "word": "If",
-          "speaks": "Ifs",
-          "lang": "fr-FR",
-          "highlight": [
-            0,
-            1
-          ]
-        },
-        {
-          "type": "firstLetterDiscovery",
-          "word": "Ef",
-          "speaks": "effe",
+          "word": "Impossible",
           "lang": "fr-FR",
           "highlight": [
             0,

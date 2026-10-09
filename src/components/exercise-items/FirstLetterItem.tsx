@@ -9,9 +9,9 @@ type FirstLetter = Extract<ExerciseItem, { type: 'firstLetter' }>
 
     // Create a new SpeechSynthesisUtterance instance
     const utterance = new SpeechSynthesisUtterance(text);
-
+    utterance.lang = lang;
     // Optional: Customize properties
-    utterance.rate = 1.0; // Speed (0.1 to 10)
+    utterance.rate = 0.7; // Speed (0.1 to 10)
     utterance.pitch = 1.0; // Pitch (0 to 2)
 
     // Pass the utterance to the global speech synthesis controller

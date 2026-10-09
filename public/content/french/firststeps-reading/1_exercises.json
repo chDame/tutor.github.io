@@ -30,13 +30,19 @@
           "type": "firstLetterDiscovery",
           "word": "Avion",
           "lang": "fr-FR",
-          "emoji": "✈️"
+          "emoji": "✈️",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Arbre",
           "lang": "fr-FR",
-          "emoji": "🌳"
+          "emoji": "🌳",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -46,13 +52,19 @@
           "type": "firstLetterDiscovery",
           "word": "Escargot",
           "lang": "fr-FR",
-          "emoji": "🐌"
+          "emoji": "🐌",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Escalade",
           "lang": "fr-FR",
-          "emoji": "🧗"
+          "emoji": "🧗",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -62,13 +74,19 @@
           "type": "firstLetterDiscovery",
           "word": "Ile",
           "lang": "fr-FR",
-          "emoji": "🏝️"
+          "emoji": "🏝️",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Iguane",
           "lang": "fr-FR",
-          "emoji": "🦎"
+          "emoji": "🦎",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -78,13 +96,19 @@
           "type": "firstLetterDiscovery",
           "word": "Orange",
           "lang": "fr-FR",
-          "emoji": "🍊"
+          "emoji": "🍊",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Olive",
           "lang": "fr-FR",
-          "emoji": "🫒"
+          "emoji": "🫒",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -94,13 +118,19 @@
           "type": "firstLetterDiscovery",
           "word": "Uniforme",
           "lang": "fr-FR",
-          "emoji": "🎓"
+          "emoji": "🎓",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Usine",
           "lang": "fr-FR",
-          "emoji": "🏭"
+          "emoji": "🏭",
+          "highlight": [
+            0
+          ]
         }
       ]
     },
@@ -110,13 +140,19 @@
           "type": "firstLetterDiscovery",
           "word": "Yoyo",
           "lang": "fr-FR",
-          "emoji": "🪀"
+          "emoji": "🪀",
+          "highlight": [
+            0
+          ]
         },
         {
           "type": "firstLetterDiscovery",
           "word": "Yacht",
           "lang": "fr-FR",
-          "emoji": "🛥️"
+          "emoji": "🛥️",
+          "highlight": [
+            0
+          ]
         }
       ]
     }
